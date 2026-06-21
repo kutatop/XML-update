@@ -7,6 +7,7 @@
 
 import re
 import sys
+import time
 import urllib.request
 
 SOURCE_URL = "https://knigovan.com/price/exportPrice.xml"
@@ -26,20 +27,48 @@ EXCLUDED_CATEGORIES = {
 }
 
 
-def fetch_source(url: str) -> str:
-    req = urllib.request.Request(
-        url,
-        headers={
-            "User-Agent": (
-                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                "AppleWebKit/537.36 (KHTML, like Gecko) "
-                "Chrome/124.0.0.0 Safari/537.36"
-            ),
-            "Accept": "text/xml,application/xml,*/*",
-        },
-    )
-    with urllib.request.urlopen(req, timeout=60) as resp:
-        return resp.read().decode("utf-8")
+def fetch_source(url: str, attempts: int = 4, delay_seconds: int = 8) -> str:
+    headers = {
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/124.0.0.0 Safari/537.36"
+        ),
+        "Accept": (
+            "text/html,application/xhtml+xml,application/xml;q=0.9,"
+            "image/avif,image/webp,*/*;q=0.8"
+        ),
+        "Accept-Language": "uk-UA,uk;q=0.9,ru;q=0.8,en-US;q=0.7,en;q=0.6",
+        "Accept-Encoding": "identity",  # без gzip, чтобы не усложнять декодирование
+        "Connection": "keep-alive",
+        "Upgrade-Insecure-Requests": "1",
+        "Sec-Fetch-Dest": "document",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Site": "none",
+        "Sec-Fetch-User": "?1",
+        "Cache-Control": "no-cache",
+        "Referer": "https://knigovan.com/",
+    }
+
+    last_content = ""
+    for attempt in range(1, attempts + 1):
+        req = urllib.request.Request(url, headers=headers)
+        with urllib.request.urlopen(req, timeout=60) as resp:
+            last_content = resp.read().decode("utf-8", errors="replace")
+
+        # Признак JS-заглушки антибот-защиты
+        if "One moment, please" in last_content or len(last_content) < 1_000_000:
+            print(
+                f"Попытка {attempt}/{attempts}: получена заглушка/маленький ответ "
+                f"({len(last_content)} байт). Жду {delay_seconds} сек. и пробую снова..."
+            )
+            if attempt < attempts:
+                time.sleep(delay_seconds)
+                continue
+        else:
+            return last_content
+
+    return last_content
 
 
 def parse_categories(content: str):
