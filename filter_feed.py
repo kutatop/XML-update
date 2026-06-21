@@ -3,6 +3,8 @@
 Скачивает исходный YML/XML-фид, исключает офферы, относящиеся
 (прямо или через вложенные категории) к категориям из EXCLUDED_CATEGORIES,
 и сохраняет результат в output/filtered_feed.xml.
+У оставшихся офферов со скидкой (тег <oldprice>) цена заменяется на полную
+(значение из oldprice), а сам тег oldprice удаляется.
 """
 
 import re
@@ -63,27 +65,42 @@ def build_is_excluded(parent_of: dict, excluded_roots: set):
     return is_excluded
 
 
-def filter_offers(content: str, is_excluded) -> tuple[str, int, int]:
+def filter_offers(content: str, is_excluded) -> tuple[str, int, int, int]:
     """Удаляет из content блоки <offer>...</offer>, чья categoryId исключена.
-    Возвращает (новый_content, оставлено, удалено).
+    У оставшихся офферов, если есть тег <oldprice>, заменяет <price> на
+    значение из <oldprice> (т.е. убирает скидку, возвращая полную цену)
+    и удаляет сам тег <oldprice>.
+    Возвращает (новый_content, оставлено, удалено_по_категории, скидок_убрано).
     """
     offer_pattern = re.compile(r"<offer\b.*?</offer>", re.DOTALL)
+    price_pattern = re.compile(r"<price>\d+(?:\.\d+)?</price>")
+    oldprice_pattern = re.compile(r"<oldprice>(\d+(?:\.\d+)?)</oldprice>")
 
     kept = 0
-    removed = 0
+    removed_category = 0
+    discounts_removed = 0
 
     def repl(match: re.Match) -> str:
-        nonlocal kept, removed
+        nonlocal kept, removed_category, discounts_removed
         block = match.group(0)
+
         cat_match = re.search(r"<categoryId>(\d+)</categoryId>", block)
         if cat_match and is_excluded(cat_match.group(1)):
-            removed += 1
+            removed_category += 1
             return ""
+
+        old_match = oldprice_pattern.search(block)
+        if old_match:
+            old_value = old_match.group(1)
+            block = price_pattern.sub(f"<price>{old_value}</price>", block, count=1)
+            block = oldprice_pattern.sub("", block, count=1)
+            discounts_removed += 1
+
         kept += 1
         return block
 
     new_content = offer_pattern.sub(repl, content)
-    return new_content, kept, removed
+    return new_content, kept, removed_category, discounts_removed
 
 
 def main():
@@ -96,9 +113,10 @@ def main():
 
     is_excluded = build_is_excluded(parent_of, EXCLUDED_CATEGORIES)
 
-    new_content, kept, removed = filter_offers(content, is_excluded)
+    new_content, kept, removed_category, discounts_removed = filter_offers(content, is_excluded)
     print(f"Оставлено офферов: {kept}")
-    print(f"Удалено офферов: {removed}")
+    print(f"Удалено по категории: {removed_category}")
+    print(f"Скидок убрано (price <- oldprice): {discounts_removed}")
 
     import os
     os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
