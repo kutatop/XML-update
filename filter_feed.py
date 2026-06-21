@@ -3,8 +3,6 @@
 Скачивает исходный YML/XML-фид, исключает офферы, относящиеся
 (прямо или через вложенные категории) к категориям из EXCLUDED_CATEGORIES,
 и сохраняет результат в output/filtered_feed.xml.
-У оставшихся офферов со скидкой (тег <oldprice>) цена заменяется на полную
-(значение из oldprice), а сам тег oldprice удаляется.
 """
 
 import re
@@ -29,7 +27,17 @@ EXCLUDED_CATEGORIES = {
 
 
 def fetch_source(url: str) -> str:
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    req = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent": (
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/124.0.0.0 Safari/537.36"
+            ),
+            "Accept": "text/xml,application/xml,*/*",
+        },
+    )
     with urllib.request.urlopen(req, timeout=60) as resp:
         return resp.read().decode("utf-8")
 
@@ -107,6 +115,11 @@ def main():
     print(f"Скачиваю фид: {SOURCE_URL}")
     content = fetch_source(SOURCE_URL)
     print(f"Скачано {len(content)} байт")
+
+    if len(content) < 1_000_000:
+        print("ВНИМАНИЕ: файл подозрительно маленький, возможно это не фид, а страница ошибки.")
+        print("Первые 1000 символов ответа:")
+        print(content[:1000])
 
     parent_of = parse_categories(content)
     print(f"Найдено категорий: {len(parent_of)}")
