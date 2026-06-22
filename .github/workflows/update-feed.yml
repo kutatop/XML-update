@@ -2,8 +2,8 @@ name: Update filtered feed
 
 on:
   schedule:
-    # Каждые 4 часа (00:00, 04:00, 08:00, 12:00, 16:00, 20:00 UTC)
-    - cron: "0 */4 * * *"
+    # Дважды в день: в 06:00 и 15:00 UTC (09:00 и 18:00 по Киеву летом)
+    - cron: "0 6,15 * * *"
   workflow_dispatch: {}
 
 permissions:
