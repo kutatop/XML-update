@@ -2,7 +2,8 @@
 """
 Скачивает исходный YML/XML-фид, исключает офферы, относящиеся
 (прямо или через вложенные категории) к категориям из EXCLUDED_CATEGORIES,
-и сохраняет результат в output/filtered_feed.xml.
+а также товары с quantity_in_stock=0 (нет в наличии).
+У оставшихся офферов убирает скидки: price <- oldprice, тег oldprice удаляется.
 """
 
 import re
@@ -13,7 +14,6 @@ import urllib.request
 SOURCE_URL = "https://knigovan.com/price/exportPrice.xml"
 OUTPUT_PATH = "output/filtered_feed.xml"
 
-# ID категорий, которые нужно ИСКЛЮЧИТЬ (вместе со всеми их подкатегориями)
 EXCLUDED_CATEGORIES = {
     "36", "34", "143", "144", "145", "122", "123", "124", "125", "126",
     "127", "128", "130", "131", "134", "132", "133", "103", "104", "105",
@@ -24,6 +24,8 @@ EXCLUDED_CATEGORIES = {
     "160", "161", "163", "162", "153", "155", "156", "154", "157", "169",
     "164", "165", "166", "167", "173", "174", "175", "176", "177", "178",
     "146", "148", "151", "147", "149", "150", "170", "172", "171",
+    # Підручники (Початкова школа НУШ 1-4 клас + Середня та старша школа НУШ 5-11 клас)
+    "17", "62",
 }
 
 
@@ -39,7 +41,7 @@ def fetch_source(url: str, attempts: int = 4, delay_seconds: int = 8) -> str:
             "image/avif,image/webp,*/*;q=0.8"
         ),
         "Accept-Language": "uk-UA,uk;q=0.9,ru;q=0.8,en-US;q=0.7,en;q=0.6",
-        "Accept-Encoding": "identity",  # без gzip, чтобы не усложнять декодирование
+        "Accept-Encoding": "identity",
         "Connection": "keep-alive",
         "Upgrade-Insecure-Requests": "1",
         "Sec-Fetch-Dest": "document",
@@ -56,8 +58,7 @@ def fetch_source(url: str, attempts: int = 4, delay_seconds: int = 8) -> str:
         with urllib.request.urlopen(req, timeout=60) as resp:
             last_content = resp.read().decode("utf-8", errors="replace")
 
-        # Признак JS-заглушки антибот-защиты
-        if "One moment, please" in last_content or len(last_content) < 1_000_000:
+        if "One moment, please" in last_content or "Хвилинку" in last_content or len(last_content) < 1_000_000:
             print(
                 f"Попытка {attempt}/{attempts}: получена заглушка/маленький ответ "
                 f"({len(last_content)} байт). Жду {delay_seconds} сек. и пробую снова..."
@@ -72,7 +73,6 @@ def fetch_source(url: str, attempts: int = 4, delay_seconds: int = 8) -> str:
 
 
 def parse_categories(content: str):
-    """Возвращает dict: cid -> parentId (или None)."""
     pattern = re.compile(r'<category id="(\d+)"\s*(?:parentId="(\d+)")?\s*>')
     parent_of = {}
     for m in pattern.finditer(content):
@@ -102,12 +102,12 @@ def build_is_excluded(parent_of: dict, excluded_roots: set):
     return is_excluded
 
 
-def filter_offers(content: str, is_excluded) -> tuple[str, int, int, int]:
-    """Удаляет из content блоки <offer>...</offer>, чья categoryId исключена.
+def filter_offers(content: str, is_excluded) -> tuple[str, int, int, int, int]:
+    """Удаляет из content блоки <offer>...</offer>, чья categoryId исключена,
+    а также офферы с quantity_in_stock=0 (нет в наличии).
     У оставшихся офферов, если есть тег <oldprice>, заменяет <price> на
-    значение из <oldprice> (т.е. убирает скидку, возвращая полную цену)
-    и удаляет сам тег <oldprice>.
-    Возвращает (новый_content, оставлено, удалено_по_категории, скидок_убрано).
+    значение из <oldprice> (убирает скидку) и удаляет сам тег <oldprice>.
+    Возвращает (новый_content, оставлено, удалено_по_категории, удалено_нет_в_наличии, скидок_убрано).
     """
     offer_pattern = re.compile(r"<offer\b.*?</offer>", re.DOTALL)
     price_pattern = re.compile(r"<price>\d+(?:\.\d+)?</price>")
@@ -115,17 +115,26 @@ def filter_offers(content: str, is_excluded) -> tuple[str, int, int, int]:
 
     kept = 0
     removed_category = 0
+    removed_no_stock = 0
     discounts_removed = 0
 
     def repl(match: re.Match) -> str:
-        nonlocal kept, removed_category, discounts_removed
+        nonlocal kept, removed_category, removed_no_stock, discounts_removed
         block = match.group(0)
 
+        # 1. Исключаем по категории
         cat_match = re.search(r"<categoryId>(\d+)</categoryId>", block)
         if cat_match and is_excluded(cat_match.group(1)):
             removed_category += 1
             return ""
 
+        # 2. Исключаем товары с нулевым остатком
+        qty_match = re.search(r"<quantity_in_stock>(\d+)</quantity_in_stock>", block)
+        if qty_match and int(qty_match.group(1)) == 0:
+            removed_no_stock += 1
+            return ""
+
+        # 3. Убираем скидку: заменяем price на oldprice и удаляем oldprice
         old_match = oldprice_pattern.search(block)
         if old_match:
             old_value = old_match.group(1)
@@ -137,7 +146,7 @@ def filter_offers(content: str, is_excluded) -> tuple[str, int, int, int]:
         return block
 
     new_content = offer_pattern.sub(repl, content)
-    return new_content, kept, removed_category, discounts_removed
+    return new_content, kept, removed_category, removed_no_stock, discounts_removed
 
 
 def main():
@@ -155,9 +164,10 @@ def main():
 
     is_excluded = build_is_excluded(parent_of, EXCLUDED_CATEGORIES)
 
-    new_content, kept, removed_category, discounts_removed = filter_offers(content, is_excluded)
+    new_content, kept, removed_category, removed_no_stock, discounts_removed = filter_offers(content, is_excluded)
     print(f"Оставлено офферов: {kept}")
     print(f"Удалено по категории: {removed_category}")
+    print(f"Удалено (нет в наличии, quantity=0): {removed_no_stock}")
     print(f"Скидок убрано (price <- oldprice): {discounts_removed}")
 
     import os
