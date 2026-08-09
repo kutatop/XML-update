@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-08-08 12:00">
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-08-09 00:00">
 <shop>
 <url>https://knigovan.com/</url>
 <name>Книгован</name>
@@ -6467,27 +6467,7 @@
 <param name="Тип паперу">офсет, кольорова</param>
 <param name="Тип обкладинки">м&apos;яка</param>
 <param name="ISBN">9789669394736</param></offer>
-<offer id="24566" available="true" in_stock="true" selling_type="r" >
-<name>Я читаю і розумію тексти. Навчання через гру</name>
-<vendorCode>9789669394712</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/1-klas-1/ya-chytaiu-i-rozumiiu-teksty-navchannia-cherez-hru/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>38</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/24566/ya_chitayu_i_rozumiyu_teksti_navchannya_cherez_gru.jpg</picture>
-<vendor>Торсінг</vendor>
-<description>
-<![CDATA[Кожна книга цієї серії допоможе Вашій дитині бути успішним першокласником або першокласницею. Він навчиться правильно розуміти слова і пропозиції, складати тексти і свідомо їх читати. Також книги допоможуть з легкістю і швидко вчити вірші, розвивати пам'ять, логічне мислення, увагу - все ті вміння і якості, в подальшому допоможуть дитині вчитися з радістю і стати компетентною людиною. Книга "Нова школа. Я читаю і розумію тексти. Навчання через гру" кращий подарунок першокласнику.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Коченгiна М.В</param>
-<param name="Мова">українська</param>
-<param name="Вік">1 клас</param>
-<param name="Тип">Книга</param>
-<param name="Серія">Нова школа</param>
-<param name="Кількість сторінок">16</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789669394712</param></offer>
+
 <offer id="24567" available="true" in_stock="true" selling_type="r" >
 <name>Я читаю і розумію слова. Навчання через гру</name>
 <vendorCode>9789669394705</vendorCode>
@@ -7875,7 +7855,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[В посібнику " НУШ. Альбом-посібник Маленький трудівничок. Трудове навчання 1 клас " запропоновано творчі завдання з трудового навчання (дизайну і технологій), розроблені відповідно до Типових освітніх програм МОН України (О.  Савченко та Р. Шияна) для 1 класу, спрямовані на розвиток універсальних творчих якостей  і  сенсорних здібностей учнів.         Для учнів першого класу, учителів початкових класів,  батьків.]]></description>
-<quantity_in_stock>87</quantity_in_stock>
+<quantity_in_stock>62</quantity_in_stock>
 <param name="Автор">Роговська Л.</param>
 <param name="Мова">українська</param>
 <param name="Вік">1 клас</param>
@@ -7897,7 +7877,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[В посібнику " НУШ. Альбом-посібник Маленький художник. Образотворче мистецтво 1 клас (до підручника Масол) " запропоновано творчі завдання з образотворчого мистецтва, розроблені відповідно до Типових освітніх програм МОН України до пiдручника Т. Масол за програмами О. Савченко и Р. Шияна для 1 класу, спрямовані на розвиток універсальних творчих якостей  і  сенсорних здібностей учнів.         Для учнів першого класу, учителів початкових класів,  батьків.]]></description>
-<quantity_in_stock>89</quantity_in_stock>
+<quantity_in_stock>64</quantity_in_stock>
 <param name="Автор">Чернявська Т., Демчак С.</param>
 <param name="Мова">українська</param>
 <param name="Вік">1 клас</param>
@@ -8353,10 +8333,10 @@
 <offer id="24805" available="true" in_stock="true" selling_type="r" >
 <name>НУШ. ABC START Абетка для початківців: Зошит-прописи для 1 класу</name>
 <vendorCode>9786176090731</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/1-klas-1/nush-abc-start-abetka-dlia-pochatkivtsiv-zoshyt-propysy-dlia-1-klasu/</url>
+<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/nush-abc-start-abetka-dlia-pochatkivtsiv-zoshyt-propysy-dlia-1-klasu/</url>
 <currencyId>UAH</currencyId>
 <categoryId>8</categoryId>
-<price>190</price>
+<price>220</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24805/nush_abc_start_abetka_dlya_pochatkivtsiv_zoshit_propisi_dlya_1_klasu.jpg</picture>
 <vendor>Лібра Терра</vendor>
 <description>
@@ -10583,6 +10563,7 @@
 <param name="ISBN">9789660732629</param>
 <param name="Формат, розмір">В5 (180*250 мм)</param>
 <param name="Видавництво">Підручники і посібники</param></offer>
+
 <offer id="25050" available="true" in_stock="true" selling_type="r" >
 <name>My dictionary. Словничок молодшого школяра з англійської мови</name>
 <vendorCode>9789669395580</vendorCode>
@@ -10614,12 +10595,12 @@
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-anhliiska-mova-libra-terra-robochyi-zoshyt-dlia-4-klasu-workbook-4-karpiuk/</url>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
-<price>199</price>
+<price>225</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25056/nush_angliyska_mova_libra_terra_robochiy_zoshit_dlya_4_klasu_workbook_4_karpyuk.jpg</picture>
 <vendor>Лібра Терра</vendor>
 <description>
 <![CDATA[Робочий зошит для 4 класу "Activity Book" (з аудіосупроводом та мультимедійною інтерактивною програмою) автор Карпюк О. Програма Нової української школи.        Зошит "НУШ. Робочий зошит для 4 класу: Activity Book (Карпюк)" до підручника "English with Smiling Sam 4" є компонентом навчально-методичного комплекту з англійської мови для 4 класу Нової української школи, створеного на основі авторської концепції позитивної мотивації та креативного іншомовного навчання молодших школярів, основу якої лежить діяльнісний підхід і комунікативно ігрова методика.        Посильні для четверокласника завдання, які у посібнику структурно і змістовно інтегрованими з підручником і націлюють краще засвоєння його матеріалу. Цікаві вправи, ігрові завдання робочого зошита сприятимуть підвищенню мотивації учня до вивчення англійської мови, збагатять її навчальний досвід та урізноманітнять навчальний інструментарій для роботи з англійською мовою у 4 класі.        Робочий зошит містить звукову програму, яка є у вільному доступі на сайті видавництва, та код доступу до інтерактивної мультимедійної програми, за допомогою якої Ви зможете завантажити програму на комп'ютер або інший пристрій.        Аудіо-додаток містить озвучені матеріали, призначені для практики сприйняття на слух.        Мультимедійна інтерактивна програма пропонує відеопрезентації мовного матеріалу підручника, анімовані пісні, римування та історії, "живі" літери та інтерактивні ігрові вправи.        Зошит-збірник контрольних робіт для 4 класу "Test  Book" (безкоштовний додаток до робочого зошита) дає учню пройти завдання додатково, пропонує практику та  допомагає засвоєнню матеріалу відповідно до відповідного матеріалу підручника.]]></description>
-<quantity_in_stock>91</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Карпюк О.</param>
 <param name="Мова">англійська</param>
 <param name="Вік">4 клас</param>
@@ -12630,7 +12611,7 @@
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/2-klas-1/nush-ekspres-perevirka-matematyka-2-klas-vidryvni-kartky-do-pidruchnyka-his/</url>
 <currencyId>UAH</currencyId>
 <categoryId>9</categoryId>
-<price>65</price>
+<price>70</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25372/nush_ekspres_perevirka_matematika_2_klas_vidrivni_kartki_do_pidruchnika_gis.jpg</picture>
 <vendor>Ранок</vendor>
 <description>
@@ -13187,7 +13168,7 @@
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/2-klas-1/nush-anhliiska-mova-libra-terra-robochyi-zoshyt-activity-book-2-klas-karpiuk/</url>
 <currencyId>UAH</currencyId>
 <categoryId>9</categoryId>
-<price>195</price>
+<price>225</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25463/nush_angliyska_mova_libra_terra_robochiy_zoshit_activity_book_2_klas_karpyuk.jpg</picture>
 <vendor>Лібра Терра</vendor>
 <description>
@@ -19259,7 +19240,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Матеріали зошита дібрані за програмою Нової української школи. Виконуючи завдання дитина відпрацьовуватиме знання, здобуті у школі, а також надолужуватиме ті навички, які вона з певної причини не встигла опанувати.   Зошит стане у пригоді для занять у школі, як додатковий тренажер на уроках та в позаурочний час.     У зошиті більше 90 різноманітних завдань, які супроводжують ілюстрації. Зошит великого зручного формату (А4).    Крім того зошит корисний для самостійних занять удома, та допоможе батькам організувати цікаве дозвілля для дитини з користю для її інтелектуального розвитку.      Також у серії: «Математика 1 клас», «Математика 3 клас», «Українська мова 1 клас», «Українська мова 2 клас», «Українська мова 3 клас».]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Автор">Юрченко Н.Ф.</param>
 <param name="Предмет">Математика</param>
 <param name="Мова">українська</param>
@@ -24705,7 +24686,7 @@
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-dydakta-robochyi-zoshyt-ranok-ukrainska-mova-ta-chytannia-4-klas-chast-2-do-pidruchnyka-savchenko/</url>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
-<price>85</price>
+<price>90</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26728/nush_didakta_robochiy_zoshit_ranok_ukra_nska_mova_ta_chitannya_4_klas_chast_2_do_pidruchnika_savchenko.jpg</picture>
 <vendor>Ранок</vendor>
 <description>
@@ -28386,7 +28367,7 @@
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/3-klas-1/nush-robochyi-zoshyt-ranok-finansova-hramotnist-3-klas/</url>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
-<price>75</price>
+<price>80</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27045/nush_robochiy_zoshit_ranok_finansova_gramotnist_3_klas.jpg</picture>
 <vendor>Ранок</vendor>
 <description>
@@ -31892,12 +31873,12 @@
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/3-klas-1/nush-anhliiska-mova-libra-terra-robochyi-zoshyt-dlia-3-klasu-workbook-3-karpiuk/</url>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
-<price>199</price>
+<price>225</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27387/nush_angliyska_mova_libra_terra_robochiy_zoshit_dlya_3_klasu_workbook_3_karpyuk.jpg</picture>
 <vendor>Лібра Терра</vendor>
 <description>
 <![CDATA[Робочий зошит для 3 класу "Activity Book" (з аудіосупроводом та мультимедійною інтерактивною програмою) автор Карпюк О. Програма Нової української школи.        Зошит "НУШ. Робочий зошит для 3 класу: Activity Book (Карпюк)" до підручника "English with Smiling Sam 3" є компонентом навчально-методичного комплекту з англійської мови для 3 класу Нової української школи, створеного на основі авторської концепції позитивної мотивації та креативного іншомовного навчання молодших школярів, основу якої лежить діяльнісний підхід і комунікативно ігрова методика.        Посильні для третьокласника завдання, які у посібнику структурно і змістовно інтегрованими з підручником і націлюють краще засвоєння його матеріалу. Цікаві вправи, ігрові завдання робочого зошита сприятимуть підвищенню мотивації учня до вивчення англійської мови, збагатять її навчальний досвід та урізноманітнять навчальний інструментарій для роботи з англійською мовою у 3 класі.        Робочий зошит містить звукову програму, яка є у вільному доступі на сайті видавництва, та код доступу до інтерактивної мультимедійної програми, за допомогою якої Ви зможете завантажити програму на комп'ютер або інший пристрій.        Аудіо-додаток містить озвучені матеріали, призначені для практики сприйняття на слух.        Мультимедійна інтерактивна програма пропонує відеопрезентації мовного матеріалу підручника, анімовані пісні, римування та історії, "живі" літери та інтерактивні ігрові вправи.        Зошит-збірник контрольних робіт для 3 класу "Test  Book" (безкоштовний додаток до робочого зошита) дає учню пройти завдання додатково, пропонує практику та  допомагає засвоєнню матеріалу відповідно до відповідного матеріалу підручника.]]></description>
-<quantity_in_stock>83</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Карпюк О.</param>
 <param name="Мова">англійська</param>
 <param name="Вік">3 клас</param>
@@ -35789,7 +35770,7 @@
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/5-klas-1/nush-robochyi-zoshyt-libra-terra-anhliiska-mova-5-klas-karpiuk/</url>
 <currencyId>UAH</currencyId>
 <categoryId>47</categoryId>
-<price>195</price>
+<price>225</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27711/nush_robochiy_zoshit_libra_terra_angliyska_mova_5_klas_karpyuk.jpg</picture>
 <vendor>Лібра Терра</vendor>
 <description>
@@ -36247,12 +36228,12 @@
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/5-klas-1/nush-zbirnyk-testiv-libra-terra-anhliiska-mova-5-klas-karpiuk/</url>
 <currencyId>UAH</currencyId>
 <categoryId>47</categoryId>
-<price>105</price>
+<price>115</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27743/nush_zbirnik_testiv_libra_terra_angliyska_mova_5_klas_karpyuk.jpg</picture>
 <vendor>Лібра Терра</vendor>
 <description>
 <![CDATA[Збірник тестів для 5 класу НУШ 2022 (Карпюк О., Карпюк К.)   Навчальний посібник пропонує завдання для проведення поточного та підсумкового (семестрового) контролю. Завдання зорієнтовані на зміст і структуру НМК "English 5. Kids Online" авторів О.Карпюк, К.Карпюк. Використовуючи запропоновані завдання, учитель зможе здійснювати вимірювання досягнень учнів у формі тестування. У збірнику представлено 8 діагностичних робіт для поточного контролю з метою встановлення рівнів опанування навчального матеріалу в обсязі кожного розділу НМК. У посібник включено також 2 діагностичні роботи із завданнями для підсумкового контролю наприкінці кожного семестру. Кожна підсумковва робота розрахована на 2 навчальні години (відповідно частини А і В тесту).]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">О.Карпюк, К.Карпюк</param>
 <param name="Мова">українська, англійська</param>
 <param name="Вік">5 класс</param>
@@ -36270,7 +36251,7 @@
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/5-klas-1/nush-robochyi-zoshyt-z-hramatyky-zbirnyk-testiv-libra-terra-anhliiska-mova-5-klas-karpiuk/</url>
 <currencyId>UAH</currencyId>
 <categoryId>47</categoryId>
-<price>180</price>
+<price>220</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27744/nush_robochiy_zoshit_z_gramatiki_zbirnik_testiv_libra_terra_angliyska_mova_5_klas_karpyuk.jpg</picture>
 <vendor>Лібра Терра</vendor>
 <description>
@@ -36287,6 +36268,9 @@
 <param name="Тип обкладинки">м&apos;яка</param>
 <param name="ISBN">978-617-609-125-7</param>
 <param name="Видавництво">Лiбра Терра</param></offer>
+
+
+
 <offer id="27751" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Зошит -практикум Оріон Здоров&apos;я, Безпека та Добробут 5 клас Зоя Хитра</name>
 <vendorCode>978-966-991-211-4</vendorCode>
@@ -43072,7 +43056,7 @@
 <vendor>Лінгвіст</vendor>
 <description>
 <![CDATA[Full Blast Plus for Ukraine НУШ 6 Workbook НУШ  Робочий зошит до підручника Full Blast Plus for Ukraine відповідає модельній програмі “Іноземна мова. 5-9 класи” для закладів загальної середньої освіти. Призначений для вивчення англійської мови в 6-му класі, розроблений згідно з Державним стандартом загальної середньої освіти Нової Української Школи та відповідно до Модельної навчальної програми для закладів загальної середньої освіти. Підручник для учнів 6-х класів, рівень – A2. Розрахований на 3 години англійської мови на тиждень, за потреби кількість годин можна розширити. Підручник містить вісім тем, що відповідають програмі НУШ для 5-х класів:  That’s me Travelling Adventure Places Modern world Healthy life Teen life Fame  Наприкінці кожної з теми ви зустрінете сторінки Song або Culture page, що спрямовані на закріплення вивченого матеріалу та на проєктну роботу. Підручник має ґрунтовну комунікативну й діяльнісну спрямованість та розвиває основні наскрізні уміння і компетентності через залучення учнів до всіх видів мовленнєвої діяльності та відповідає віковим особливостям та інтересам учнів середньої школи. Автори підручника приділили особливу увагу формуванню в учнів умінь впевнено спілкуватися в реальних життєвих ситуаціях та правильно виражати свої думки. Досягнути цього вдається з допомогою різних діалогів та текстів, що наповнені тими словами та виразами англійської мови, яку часто використовують носії мови. Підручник містить цікаві та актуальні для підлітків теми і персоналізовані інтерактивні завдання. Яскравим прикладом таких завдань є завдання для розвитку говоріння та письма, уроки CLIL. Окрім цього, підручник спрямований на розвиток соціокультурної компетентності учня, що прослідковується в культурологічних уроках, які надають цікаву та змістовну інформацію як про українські, так і про європейські міста. Також для курсу розроблено інтерактивний додаток від видавництва Лінгвіст, де діти знайдуть картки Quizlet для вивчення лексики та ігри на платформі Wordwall для закріплення вивченого.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>76</quantity_in_stock>
 <param name="Автор">Мітчелл Г.К.; Марілені Малкоґіанні</param>
 <param name="Мова">українська, англійська</param>
 <param name="Вік">6 клас</param>
@@ -44920,7 +44904,7 @@
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/nush-robochyi-zoshyt-libra-terra-anhliiska-mova-6-klas-karpiuk-z-audiosuprovodom-ta-interaktyvnoiu-prohramoiu/</url>
 <currencyId>UAH</currencyId>
 <categoryId>48</categoryId>
-<price>195</price>
+<price>225</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28555/nush_robochiy_zoshit_libra_terra_angliyska_mova_6_klas_karpyuk_z_audiosuprovodom_ta_interaktivnoyu_programoyu.jpg</picture>
 <vendor>Лібра Терра</vendor>
 <description>
@@ -51274,10 +51258,10 @@
 <offer id="28992" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Робочий зошит з граматики + збірник тестів Лібра Терра Англійська мова для поточного та семестрового контролю у 6 класі К. Карпюк з аудіо</name>
 <vendorCode>9786176091318</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/nush-robochyi-zoshyt-z-hramatyky-zbirnyk-testiv-libra-terra-anhliiska-mova-dlia-potochnoho-ta-semestrovoho-kontroliu-u-6-klasi-k-karpiuk-z-audio/</url>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/nush-robochyi-zoshyt-z-hramatyky-zbirnyk-testiv-libra-terra-anhliiska-mova-dlia-potochnoho-ta-semestrovoho-kontroliu-u-6-klasi-k-karpiuk-z-audio/</url>
 <currencyId>UAH</currencyId>
 <categoryId>48</categoryId>
-<price>180</price>
+<price>220</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28992/nush_robochiy_zoshit_z_gramatiki_zbirnik_testiv_libra_terra_angliyska_mova_dlya_potochnogo_ta_semestrovogo_kontrolyu_u_6_klasi_k_karpyuk_z_audio.jpg</picture>
 <vendor>Лібра Терра</vendor>
 <description>
@@ -51302,12 +51286,12 @@
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/nush-zbirnyk-testiv-libra-terra-anhliiska-mova-dlia-potochnoho-ta-semestrovoho-kontroliu-u-6-klasi-k-karpiuk-z-audiosuprovodom/</url>
 <currencyId>UAH</currencyId>
 <categoryId>48</categoryId>
-<price>105</price>
+<price>115</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28994/nush_zbirnik_testiv_libra_terra_angliyska_mova_dlya_potochnogo_ta_semestrovogo_kontrolyu_u_6_klasi_k_karpyuk_z_audiosuprovodom.jpg</picture>
 <vendor>Лібра Терра</vendor>
 <description>
 <![CDATA[Збірник тестів для поточного та семестрового контролю з англійської мови у 6 класі НУШ автора К. Карпюк (з аудіосупроводом).  Посібник пропонує завдання для проведення поточного та підсумкового (семестрового) контролю. Завдання зорієнтовані на зміст і структуру НМК "English 6. Kids Online" авторів О.Карпюк, К.Карпюк. Використовуючи запропоновані завдання, учитель зможе здійснювати вимірювання досягнень учнів у формі тестування. У збірнику представлено 8 діагностичних робіт для поточного контролю з метою встановлення рівнів опанування навчального матеріалу в обсязі кожного розділу НМК. У посібник включено також 2 діагностичні роботи із завданнями для підсумкового контролю наприкінці кожного семестру. Кожна підсумковва робота розрахована на 2 навчальні години (відповідно частини А і В тесту). Тестовий збірник містить аудіосупровід, який є у вільному доступі на сайті видавництва Отримати збірник тестів для поточного і семестрового контролю БЕЗКОШТОВНО Ви можете, придбавши зошит з граматики.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">К. Карпюк</param>
 <param name="Мова">українська, англійська</param>
 <param name="Вік">6 класс</param>
@@ -70338,7 +70322,7 @@
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/nush-pidruchnyk-libra-terra-english-7-kids-online-anhliiska-mova-7-klas-karpiuk-z-audiosuprovodom/</url>
 <currencyId>UAH</currencyId>
 <categoryId>49</categoryId>
-<price>510</price>
+<price>550</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30499/nush_pidruchnik_libra_terra_english_7_kids_online_angliyska_mova_7_klas_karpyuk_z_audiosuprovodom.jpg</picture>
 <vendor>Лібра Терра</vendor>
 <description>
@@ -70359,10 +70343,10 @@
 <offer id="30500" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Робочий зошит Лібра Терра Англійська мова 7 клас English 7. Kids Online Карпюк з аудіосупроводом</name>
 <vendorCode>9786176091431</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/nush-robochyi-zoshyt-libra-terra-anhliiska-mova-7-klas-english-7-kids-online-karpiuk-z-audiosuprovodom/</url>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/nush-robochyi-zoshyt-libra-terra-anhliiska-mova-7-klas-english-7-kids-online-karpiuk-z-audiosuprovodom/</url>
 <currencyId>UAH</currencyId>
 <categoryId>49</categoryId>
-<price>195</price>
+<price>225</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30500/nush_robochiy_zoshit_libra_terra_angliyska_mova_7_klas_english_7_kids_online_karpyuk_z_audiosuprovodom.jpg</picture>
 <vendor>Лібра Терра</vendor>
 <description>
@@ -71845,7 +71829,7 @@
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/nush-zoshyt-z-hramatyky-libra-terra-anhliiska-mova-7-klas-english-7-kids-online-karpiuk-zbirnyk-testiv-z-audio/</url>
 <currencyId>UAH</currencyId>
 <categoryId>49</categoryId>
-<price>180</price>
+<price>220</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30597/nush_zoshit_z_gramatiki_libra_terra_angliyska_mova_7_klas_english_7_kids_online_karpyuk_zbirnik_testiv_z_audio.jpg</picture>
 <vendor>Лібра Терра</vendor>
 <description>
@@ -71869,7 +71853,7 @@
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/nush-zbirnyk-testiv-libra-terra-anhliiska-mova-7-klas-english-7-kids-online-karpiuk/</url>
 <currencyId>UAH</currencyId>
 <categoryId>49</categoryId>
-<price>105</price>
+<price>115</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30598/nush_zbirnik_testiv_libra_terra_angliyska_mova_7_klas_english_7_kids_online_karpyuk.jpg</picture>
 <vendor>Лібра Терра</vendor>
 <description>
@@ -73583,7 +73567,7 @@
 <offer id="30814" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Зошит для самостійних та підсумкових робіт Оріон Всесвітня історія 7 клас Дрібниця (до підручника Щупака)</name>
 <vendorCode>9789669913555</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/nush-zoshyt-dlia-samostiinykh-ta-pidsumkovykh-robit-orion-vsesvitnia-istoriia-7-klas-dribnytsia-do-pidruchnyka-shchupaka/</url>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/nush-zoshyt-dlia-samostiinykh-ta-pidsumkovykh-robit-orion-vsesvitnia-istoriia-7-klas-dribnytsia-do-pidruchnyka-shchupaka/</url>
 <currencyId>UAH</currencyId>
 <categoryId>49</categoryId>
 <price>100</price>
@@ -75159,10 +75143,143 @@
 <param name="ISBN">9789669912336, 9789669912343</param>
 <param name="Формат, розмір">200х260 мм</param>
 <param name="Видавництво">Оріон</param></offer>
-
-
-
-
+<offer id="31047" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Комплект Атлас + Контурні карти Оріон Географія: Україна і світове господарство 9 клас Руденко, 2026 рік</name>
+<vendorCode>9789669915443, 9789669915450</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/9-klas-2/nush-komplekt-atlas-konturni-karty-orion-heohrafiia-ukraina-i-svitove-hospodarstvo-9-klas-savchuk/</url>
+<currencyId>UAH</currencyId>
+<categoryId>51</categoryId>
+<price>200</price>
+<picture>https://knigovan.com/image/catalog/products/31047/nush-komplekt-atlas-konturn-karti-or-on-geograf-ya-ukra-na-sv-tove-gospodarstvo-9-klas-savchuk-1.jpg</picture>
+<vendor>Оріон</vendor>
+<description>
+<![CDATA[Комплект Географія: Україна і світове господарство 9 клас. Атлас + Контурні карти (НУШ) Комплект розрахований на учнів 9 класу Нової української школи та охоплює основні теми шкільного курсу географії: населення України та світу, національне й світове господарство, а також географічні регіони та країни.  1. Атлас допомагає наочно працювати з географічною інформацією та досліджувати особливості розміщення населення, господарства, країн і регіонів. За тематичними картами учні можуть порівнювати території, аналізувати відмінності їхнього розвитку та простежувати взаємозв’язки між природними, демографічними й економічними процесами.  2. Контурні карти призначені для практичного опрацювання навчального матеріалу. З їхньою допомогою учні наносять географічні об’єкти, позначають території та кордони, працюють з умовними знаками, створюють легенди карт і закріплюють знання, отримані під час роботи з підручником та атласом. Кількість карт і їхня тематика дозволяють виконати всі практичні роботи, рекомендовані діючою навчальною програмою. Поєднання атласу та контурних карт допомагає розвивати просторове мислення, формує навички роботи з картографічними матеріалами, вчить читати й аналізувати карти, а також зіставляти статистичні та картографічні дані. Комплект стане зручним доповненням до уроків географії, практичних робіт і домашніх завдань, а також допоможе учням підготуватися до перевірки знань.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Руденко І. С.</param>
+<param name="Предмет">Географія</param>
+<param name="Мова">українська</param>
+<param name="Вік">9 клас</param>
+<param name="Тип">Атлас+Контурні карти</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет, кольорова, двоколірна</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9789669915443, 9789669915450</param>
+<param name="Видавництво">Оріон</param></offer>
+<offer id="31048" available="true" in_stock="true" selling_type="r" >
+<name>Комплект Атлас + Контурні карти Оріон Географія: Регіони та країни 10 клас Савчук</name>
+<vendorCode>9786177712663, 9786177712670</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/10-klas-2/komplekt-atlas-konturni-karty-orion-heohrafiia-rehiony-ta-krainy-10-klas-savchuk/</url>
+<currencyId>UAH</currencyId>
+<categoryId>52</categoryId>
+<price>170</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31048/komplekt_atlas_konturni_karti_orion_geografiya_regioni_ta_kra_ni_10_klas_savchuk.jpg</picture>
+<vendor>Оріон</vendor>
+<description>
+<![CDATA[Комплект Географія: Регіони та країни 10 клас. Атлас + Контурні карти  1. Атлас відповідає чинній навчальній програмі з географії для 10 класу. Він має єдину систему показників, асоціативних значків та структуру легенд спільно з географічним навчальним атласом для 9 класу, тому учні легко зможуть розпізнати й застосувати вже знайомий алгоритм читання карт. Тематичні карти атласу створені за сучасною офіційною статистикою зарубіжних країн і міжнародних організацій. Кожна країна, згідно з програмою представлена  4 картами: «Адміністративно-територіальний устрій», «Системи розселення», «Економіка», «Зовнішні економічні та культурні зв’язки країни з країнами світу». Економіка країн світу показана за секторальною моделлю: первинний, вторинний, третинний сектори. На всіх картах економіку подано за КВЕДом і секторами економіки. Сім карт показують місце України у світі: дипломатичні зв’язки України, інтеграцію України з ЄС, міждержавну міграцію, українську діаспору, міжнародний організований туризм в Україні, зовнішню торгівлю товарами й послугами України.  За вимогами навчальної програми вперше в Україні подано:     межі мегалополісів відповідно до сучасних уявлень геоурбаністики; розміщення найбільших ВЕС, СЕС, геоТЕС у світі; QR-code провідних підприємств країн (визначених програмою); карти «Системи розселення» кожної країни;  карту «Кремнієва долина»; карту «Україна. Дипломатичні зв’язки»; карту «Економічна інтеграція України в Європейський Союз» та карта «Україна. Діяльні єврорегіони»; карту «Міжнародний туризм України» тощо.    Атлас дає змогу виконувати практичні та проєктні роботи, заплановані шкільною програмою, та готуватися до складання ЗНО. Надаємо декілька сторінок з атласу, щоб ви могли ознайомитися з його особливостями та структурою.  2. Контурні карти, створені на географічних основах однойменного атласу, містять додаткові карти, за якими необхідно виконувати практичні роботи згідно з чинною навчальною програмою. Контурні карти пропонують завдання різного ступеня складності за темами практичних робіт і самостійних досліджень, обумовлені навчальною програмою з географії для 10 класу.]]></description>
+<quantity_in_stock>30</quantity_in_stock>
+<param name="Автор">Савчук І.Г.</param>
+<param name="Мова">українська</param>
+<param name="Вік">10 клас</param>
+<param name="Тип">Атлас+Контурні карти</param>
+<param name="Кількість сторінок">56+24</param>
+<param name="Рік видання">2021, 2019</param>
+<param name="Тип паперу">кольорова/одноколірна</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786177712663, 9786177712670</param>
+<param name="Формат, розмір">220х290 мм.</param>
+<param name="Видавництво">Оріон</param></offer>
+<offer id="31049" available="true" in_stock="true" selling_type="r" >
+<name>Комплект Атлас + Контурні карти Оріон Географія: Географічний простір Землі 11 клас Савчук</name>
+<vendorCode>9786177712878, 9786177712847</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/11-klas-2/komplekt-atlas-konturni-karty-orion-heohrafiia-heohrafichnyi-prostir-zemli-11-klas-savchuk/</url>
+<currencyId>UAH</currencyId>
+<categoryId>53</categoryId>
+<price>170</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31049/komplekt_atlas_konturni_karti_orion_geografiya_geografichniy_prostir_zemli_11_klas_savchuk.jpg</picture>
+<vendor>Оріон</vendor>
+<description>
+<![CDATA[Комплект Географія: Географічний простір Землі 11 клас. Атлас + Контурні карти  1. Атлас створено за офіційною статистикою та матеріалами зарубіжних наукових видань. У структурі атласу є розділи «Топографія та картографія», «Оболонки Землі», «Суспільна географія світу» та «Географія України». На картах послідовно розкривається взаємозв’язок між природними, економічними, політичними, суспільними процесами та їхнім впливом на людство (глобальний рівень), а також  прояви цих явищ в Україні (регіональний рівень).  Для атласу відповідно до навчальної програми розроблені оригінальні авторські карти:       «Забезпеченість країн світу мінерально-сировинними ресурсами»;  «Світ. Деградація ґрунтів»;  «Прогнозовані зміни агрокліматичних умов у ХХІ ст.;  «Демографічна ситуація у світі»;  «Світ. Сучасна геополітична ситуація» та інші.    Атлас є ідеальним навчальним картографічним посібником для підготовки до ЗНО, бо містить основну ущільнену інформацію з усіх шкільних курсів географії 6–10 класів, сумісний з будь-якими підручниками з географії для 11 класу. Надаємо декілька сторінок з атласу, щоб ви могли ознайомитися з його особливостями та структурою.  2. Контурні карти, створені на географічних основах однойменного атласу, пропонують завдання різного ступеня складності за темами практичних робіт і самостійних досліджень, обумовлені навчальною програмою з географії для 11 класу.]]></description>
+<quantity_in_stock>30</quantity_in_stock>
+<param name="Автор">Савчук І.Г.</param>
+<param name="Мова">українська</param>
+<param name="Вік">11 клас</param>
+<param name="Тип">Атлас+Контурні карти</param>
+<param name="Кількість сторінок">48+4+12</param>
+<param name="Рік видання">2021, 2019</param>
+<param name="Тип паперу">кольорова/одноколірна</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786177712878, 9786177712847</param>
+<param name="Формат, розмір">220х290 мм.</param>
+<param name="Видавництво">Оріон</param></offer>
+<offer id="31050" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Комплект Атлас + Контурні карти Оріон Всесвітня історія. Історія України 9 клас Інтегрований курс Щупак, 2026 рік</name>
+<vendorCode>9789669915429, 9789669915436</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/9-klas-2/nush-komplekt-atlas-konturni-karty-orion-vsesvitnia-istoriia-istoriia-ukrainy-9-klas-intehrovanyi-kurs-shchupak/</url>
+<currencyId>UAH</currencyId>
+<categoryId>51</categoryId>
+<price>150</price>
+<picture>https://knigovan.com/image/catalog/products/31050/nush-komplekt-atlas-konturn-karti-or-on-vsesv-tnya-stor-ya-stor-ya-ukra-ni-9-klas-ntegrovaniy-kurs-shchupak-1.jpg</picture>
+<vendor>Оріон</vendor>
+<description>
+<![CDATA[Комплект Всесвітня історія. Історія України (інтегрований курс) 9 клас. Атлас + Контурні карти (НУШ)  Упорядник – Ігор Щупак, кандидат історичних наук, заслужений працівник освіти України, член Українсько-німецької історичної комісії, член Українсько-польської комісії експертів підручників історії та географії, автор підручників.  1. Атлас продовжує серію картографічних навчальних посібників інтегрованого курсу з історії УОВЦ «Оріон», упорядкованих Ігорем Щупаком. Атлас є новим для навчального процесу посібником, якого досі не було в Україні.   Усі карти атласу виконані з дотриманням необхідних змістовних і технічних вимог, тематично поєднані між собою та взаємно узгоджені. Карти прості для сприйняття, умовні знаки переважно асоціативні. Послідовність карт в атласі, поєднання тем всесвітньої історії та історії України цілком відповідають «Таблиці для синхронізації курсів історії України та всесвітньої історії». Картографічний посібник укладений з дотриманням вимог Держаного стандарту базової та повної загальної освіти та чинної навчальної програми з історії 5–9 класів закладів загальної середньо освіти.  2. Контурні карти містять завдання різного ступеня складності. Кількість карт, їхні теми та масштаби дають змогу виконати всі практичні та творчі роботи обох навчальних курсів з історії.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Щупак І.Я</param>
+<param name="Предмет">Всесвітня історія, Історія України</param>
+<param name="Мова">українська</param>
+<param name="Вік">9 клас</param>
+<param name="Тип">Атлас+Контурні карти</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">кольорова/одноколірна</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9789669915429, 9789669915436</param>
+<param name="Видавництво">Оріон</param></offer>
+<offer id="31051" available="true" in_stock="true" selling_type="r" >
+<name>Комплект Атлас + Контурні карти Оріон Всесвітня історія. Історія України 10 клас Інтегрований курс Щупак</name>
+<vendorCode>9786177712755, 9786177712762</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/komplekt-atlas-konturni-karty-orion-vsesvitnia-istoriia-istoriia-ukrainy-10-klas-intehrovanyi-kurs-shchupak/</url>
+<currencyId>UAH</currencyId>
+<categoryId>52</categoryId>
+<price>150</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31051/komplekt_atlas_konturni_karti_orion_vsesvitnya_istoriya_istoriya_ukra_ni_10_klas_integrovaniy_kurs_shchupak.jpg</picture>
+<vendor>Оріон</vendor>
+<description>
+<![CDATA[Комплект Всесвітня історія. Історія України (інтегрований курс) 10 клас. Атлас + Контурні карти  Упорядник — Ігор Щупак, кандидат історичних наук, заслужений працівник освіти України, член Українсько-німецької історичної комісії, член Українсько-польської комісії експертів підручників історії та географії, автор підручників.  1. Атлас створено за оновленими навчальними програмами, побудованих на компетентнісній основі, для закладів загальної середньої освіти: «Історія України. 10―11 класи. Рівень стандарту» та «Всесвітня історія 10―11 класи. Рівень  стандарту/Академічний рівень». Він продовжує серію картографічних навчальних посібників інтегрованого курсу з історії УОВЦ «Оріон». Атлас вирізняється  новим поглядами на відомі теми. Містить карти, яких немає в інших навчальних атласах. Шість оригінальних за своїм змістом і способами зображення тематичних карт присвячені  розгортанню української революції та боротьби за відновлення державності. На двох картах показані  події в Україні часів Директорії січня–червня 1919 р. та червня–грудня 2019 р. Традиційним для навчальних атласів за темою, але  оригінальним за змістом і способами картографічного зображення є розділ  «Утвердження комуністичного тоталітарного режиму в Україні». Найбільший розділ атласу «Друга світова війна» містить 10 карт, об’єднаних однаковими умовними позначеннями, спільним кольоровим оформленням. Шість карт цього розділу присвячено подіям Другої світової війни на території України. Цікавою, але простою для сприйняття є карта «Наслідки Другої світової війни. Територіальні зміни в Європі». Надаємо декілька сторінок з атласу, щоб ви могли ознайомитися з його особливостями та структурою.  2. Контурні карти містять завдання різного ступеня складності. Кількість карт, їхні теми та масштаби дають змогу виконати всі практичні та творчі роботи обох навчальних курсів з історії.]]></description>
+<quantity_in_stock>20</quantity_in_stock>
+<param name="Автор">Щупак І.Я</param>
+<param name="Мова">українська</param>
+<param name="Вік">10 клас</param>
+<param name="Тип">Атлас+Контурні карти</param>
+<param name="Кількість сторінок">32+16</param>
+<param name="Рік видання">2019</param>
+<param name="Тип паперу">кольорова/одноколірна</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786177712755, 9786177712762</param>
+<param name="Формат, розмір">220х290 мм.</param>
+<param name="Видавництво">Оріон</param></offer>
+<offer id="31052" available="true" in_stock="true" selling_type="r" >
+<name>Комплект Атлас + Контурні карти Оріон Всесвітня історія. Історія України 11 клас Інтегрований курс Щупак</name>
+<vendorCode>9789669910288, 9789669910295</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/11-klas-2/komplekt-atlas-konturni-karty-orion-vsesvitnia-istoriia-istoriia-ukrainy-11-klas-intehrovanyi-kurs-shchupak/</url>
+<currencyId>UAH</currencyId>
+<categoryId>53</categoryId>
+<price>150</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31052/komplekt_atlas_konturni_karti_orion_vsesvitnya_istoriya_istoriya_ukra_ni_11_klas_integrovaniy_kurs_shchupak.jpg</picture>
+<vendor>Оріон</vendor>
+<description>
+<![CDATA[Комплект Всесвітня історія. Історія України (інтегрований курс) 11 клас. Атлас + Контурні карти  Упорядник — Ігор Щупак, кандидат історичних наук, заслужений працівник освіти України, член Українсько-німецької історичної комісії, член Українсько-польської комісії експертів підручників історії та географії, автор підручників.  1. Структура та зміст атласу упорядковані відповідно до «Таблиці для синхронізації курсів історії України та всесвітньої історії». Розділ «Облаштування повоєнного світу» містить карти, вельми важливі для розуміння сучасної історії: «Територіальні зміни в Європі за підсумками Другої світової війни» та план Берліна із зазначенням секторів окупації. Завершує розділ карта з найбільшим в атласі масштабі «Світ. У 1945–1953 рр.» із врізаними картами «План Маршалла» та копією оригінальної карти видання 1945 року «Зони окупації Німеччини та Австрії». Оригінальними є карти розділу  «Україна в повоєнний період». Чотири карти висвітлюють теми адміністративних змін в Україні, зокрема в Західній Україні, стан промисловості у 1945–1953 роках і карту СРСР з інформацією про народи, що зазнали політичних репресій, шляхи їхньої депортації, табори ГУТАБу тощо. П’ятнадцять карт розділу «Становлення України як незалежної держави» розкривають головні події країни від проголошення незалежності до останніх президентських виборів 2019 року. Окремі карти присвячені помаранчевій революції, революції гідності та російсько-українській війні. Новою за змістом є карта «Релігійне життя», де показані події у християнському світі після отримання Томасу про автокефалію. Сім карт, об’єднаних однаковими умовними позначеннями, спільним кольоровим оформленням містять інформацію про президентські вибори в Україні. Шість карт цього розділу присвячено подіям війни на території України. Надаємо декілька сторінок з атласу, щоб ви могли ознайомитися з його особливостями та структурою. Упорядник — Ігор Щупак, кандидат історичних наук, заслужений працівник освіти України, член Українсько-німецької історичної комісії, член Українсько-польської комісії експертів підручників історії та географії, автор підручників. Контурні карти побудовані відповідно до цивілізаційного підходу у вивченні історії. Головною перевагою цього видання є те, що кожна карта і завдання до неї — це дидактичний комплекс, який допоможе учням сформувати основні предметні компетенції (просторові, логічні та аксіологічні) та скласти цілісне уявлення про суспільний, економічний та політичний розвиток людської цивілізації.  2. Контурні карти за географічними основами цілком відповідають однойменному Атласу з історії 11 класу, доповнені творчими завданнями. Кожна карта містить від 3 до 10 завдань різної складності.]]></description>
+<quantity_in_stock>30</quantity_in_stock>
+<param name="Автор">Щупак І.Я</param>
+<param name="Мова">українська</param>
+<param name="Вік">11 клас</param>
+<param name="Тип">Атлас+Контурні карти</param>
+<param name="Кількість сторінок">32+16</param>
+<param name="Рік видання">2020</param>
+<param name="Тип паперу">кольорова/одноколірна</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9789669910288, 9789669910295</param>
+<param name="Формат, розмір">220х290 мм.</param>
+<param name="Видавництво">Оріон</param></offer>
 
 
 <offer id="31055" available="true" in_stock="true" selling_type="r" >
@@ -80093,7 +80210,7 @@
 <param name="Формат, розмір">220x280 мм</param>
 <param name="Видавництво">Картографія</param></offer>
 <offer id="31529" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Атлас + Контурні карти Україна у світі: природа, населення 8 клас Картографія (2025 рік)</name>
+<name>НУШ Атлас + Контурні карти Географія: Україна у світі: природа, населення 8 клас Картографія (2025 рік)</name>
 <vendorCode>9789669467188, 9786176703401</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/8-klas-2/nush-atlas-konturni-karty-ukraina-u-sviti-pryroda-naselennia-8-klas-kartohrafiia-2025-rik/</url>
 <currencyId>UAH</currencyId>
@@ -80102,7 +80219,7 @@
 <picture>https://knigovan.com/image/catalog/unixml/54/31529/nush_atlas_konturni_karti_ukra_na_u_sviti_priroda_naselennya_8_klas_kartografiya_2025_rik.jpg</picture>
 <vendor>Картографія</vendor>
 <description>
-<![CDATA[Атлас + Контурні карти «Україна у світі: природа, населення». 8 клас (НУШ) Державне науково-виробниче підприємство "Картографія".  Комплект містить атлас і контурні карти для 8 класу.  Атлас ілюструє курс географії 8 класу «Україна у світі: природа, населення» та спрямований на формування науково-географічної картини України як частини світової спільноти держав на основі комплексного її вивчення. Атлас покликаний допомогти учневі сформувати знання про природу та населення країни, свого регіону, виховати повагу до українського народу, його культури, відчути себе справжнім патріотом своєї держави.  Атлас «Україна у світі: природа, населення» ілюструє головні теми курсу:     Географічна карта та робота з нею. Географічний простір України. Природні умови і ресурси України. Населення України та світу.    Інформація подана в формі, адаптованій відповідно до вікових особливостей учнів. Пояснення та змістовні тексти покликані атласу доповнити розповідь вчителя та підручник, роблять навчання цікавим та доступним. Враховано всі зміни, що відбуваються кожного року в нових освітніх програмах з географії закладів загальної середньої освіти України, а також виклики часу, що диктує сучасне життя. В останньому виданні зміст атласу зазнав змін. Нове відображення отримала тема «Топографічна карта». Новинкою атласу також є дві карти, які стосуються актуальної демографічної ситуації України – «Біженці з України» та «Україна. Внутрішньо переміщені особи». Атлас схвалений МОН України до використання у загальноосвітніх навчальних закладах.]]></description>
+<![CDATA[Атлас + Контурні карти Географія. «Україна у світі: природа, населення». 8 клас (НУШ) Державне науково-виробниче підприємство "Картографія".  Комплект містить атлас і контурні карти для 8 класу.  Атлас ілюструє курс географії 8 класу «Україна у світі: природа, населення» та спрямований на формування науково-географічної картини України як частини світової спільноти держав на основі комплексного її вивчення. Атлас покликаний допомогти учневі сформувати знання про природу та населення країни, свого регіону, виховати повагу до українського народу, його культури, відчути себе справжнім патріотом своєї держави.  Атлас «Україна у світі: природа, населення» ілюструє головні теми курсу:     Географічна карта та робота з нею. Географічний простір України. Природні умови і ресурси України. Населення України та світу.    Інформація подана в формі, адаптованій відповідно до вікових особливостей учнів. Пояснення та змістовні тексти покликані атласу доповнити розповідь вчителя та підручник, роблять навчання цікавим та доступним. Враховано всі зміни, що відбуваються кожного року в нових освітніх програмах з географії закладів загальної середньої освіти України, а також виклики часу, що диктує сучасне життя. В останньому виданні зміст атласу зазнав змін. Нове відображення отримала тема «Топографічна карта». Новинкою атласу також є дві карти, які стосуються актуальної демографічної ситуації України – «Біженці з України» та «Україна. Внутрішньо переміщені особи». Атлас схвалений МОН України до використання у загальноосвітніх навчальних закладах.]]></description>
 <quantity_in_stock>100</quantity_in_stock>
 <param name="Мова">українська</param>
 <param name="Вік">8 класс</param>
@@ -84866,7 +84983,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[КОМПЛЕКТ: Я досліджую світ: робочий зошит для 1 класу. У 2-х частинах (до підручника І. Жаркової та ін.) Робочий зошит із друкованою основою укладено відповідно до Типової освітньої програми колективу авторів під керівництвом Савченко О. Я. та підручника І. Жаркової та ін. інтегрованого курсу «Я досліджую світ. 1 клас. Частина 1». Зошит містить завдання для формування предметних компетентностей першокласників, на відтворення та закріплення знань, творчі завдання і практичні роботи.    Для учнів 1 класу закладів загальної середньої освіти, учителів початкової школи, батьків.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>75</quantity_in_stock>
 <param name="Автор">Жаркова І., Мечник Л.</param>
 <param name="Предмет">Я досліджую світ</param>
 <param name="Мова">українська</param>
@@ -84966,7 +85083,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[Англійська кольорова абетка. Зошит з письма для 1 класу (до чинних підручників НУШ). Напівдруковані літери Зошит укладено відповідно до чинних програм МОН України та підручників з англійської мови для 1 класу Нової української школи. Посібник розроблено з використанням напівдрукованих літер, що допоможе учням опанувати графіку англійської мови.    Для першокласників і вчителів англійської мови.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>75</quantity_in_stock>
 <param name="Автор">Косован О., Вітушинська Н.</param>
 <param name="Мова">українська, англійська</param>
 <param name="Вік">1 клас</param>
@@ -86522,12 +86639,12 @@
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/1-klas-1/nush-2-robochyi-zoshyt-libra-terra-english-with-smiling-sam-1-anhliiska-mova-1-klas-karpiuk-z-audiosuprovodom-ta-multymediinoiu-prohramoiu-2025-rik/</url>
 <currencyId>UAH</currencyId>
 <categoryId>8</categoryId>
-<price>195</price>
+<price>225</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31876/nush_2_robochiy_zoshit_libra_terra_english_with_smiling_sam_1_angliyska_mova_1_klas_karpyuk_z_audiosuprovodom_ta_multimediynoyu_programoyu_2025_rik.jpg</picture>
 <vendor>Лібра Терра</vendor>
 <description>
 <![CDATA[Зошит для 1 класу НУШ "English with Smiling Sam 1" (з аудіосупроводом та мультимедійною інтерактивною програмою) 2025 рік Робочий зошит до підручника ‘English with Smiling Sam 1’ є компонентом навчально-методичного комплекту з англійської мови для 1 класу Нової української школи, створеного на основі авторської концепції позитивної мотивації та креативного іншомовного навчання молодших школярів, що спирається на діяльнісний підхід та комунікативно-ігрову методику. Посильні для першачків завдання, що містяться в посібнику, є структурно і змістовно інтегрованими з підручником та націлюють на краще засвоєння його матеріалу. Цікаві вправи, ігрові завдання робочого зошита сприятимуть підвищенню мотивації шестирічок до вивчення англійської мови,  збагатять їхній навчальний досвід та урізноманітнять навчальний інструментарій для роботи з англійською мовою у 1 класі. Робочий зошит містить аудіосупровід, який є у вільному доступі на сайті видавництва, та код доступу до інтерактивної мультимедійної програми, за допомогою якого Ви зможете її завантажити на свій комп’ютер або інший пристрій.]]></description>
-<quantity_in_stock>98</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Карпюк О.</param>
 <param name="Мова">українська, англійська</param>
 <param name="Вік">1 клас</param>
@@ -86977,7 +87094,7 @@
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/nush-robochyi-zoshyt-libra-terra-english-8-kids-online-anhliiska-mova-8-klas-karpiuk-z-audio-ta-interaktyvnoiu-prohramoiu-2025-rik/</url>
 <currencyId>UAH</currencyId>
 <categoryId>50</categoryId>
-<price>199</price>
+<price>225</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31903/nush_robochiy_zoshit_libra_terra_english_8_kids_online_angliyska_mova_8_klas_karpyuk_z_audio_ta_interaktivnoyu_programoyu_2025_rik.jpg</picture>
 <vendor>Лібра Терра</vendor>
 <description>
@@ -87001,7 +87118,7 @@
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/nush-zoshyt-z-hramatyky-zbirnyk-testiv-libra-terra-anhliiska-mova-8-klas-english-8-kids-online-karpiuk-z-audio-2025-rik/</url>
 <currencyId>UAH</currencyId>
 <categoryId>50</categoryId>
-<price>185</price>
+<price>220</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31904/nush_zoshit_z_gramatiki_zbirnik_testiv_libra_terra_angliyska_mova_8_klas_english_8_kids_online_karpyuk_z_audio_2025_rik.jpg</picture>
 <vendor>Лібра Терра</vendor>
 <description>
@@ -87025,7 +87142,7 @@
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/nush-zbirnyk-testiv-libra-terra-anhliiska-mova-8-klas-english-8-kids-online-karpiuk-2025-rik/</url>
 <currencyId>UAH</currencyId>
 <categoryId>50</categoryId>
-<price>105</price>
+<price>115</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31905/nush_zbirnik_testiv_libra_terra_angliyska_mova_8_klas_english_8_kids_online_karpyuk_2025_rik.jpg</picture>
 <vendor>Лібра Терра</vendor>
 <description>
@@ -90214,7 +90331,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[КОМПЛЕКТ у 2-х частинах НУШ. Математика 1 клас. Робочий зошит (до підручника Скворцової) Зошит "НУШ. Математика 1 клас. Робочий зошит: частина 1 (до підручника Скворцової)" призначений для індивідуальної, самостійної та колективної роботи учнів на уроках за підручником С. О. Скворцової, О. В. Онопрієнко «Математика. 1 клас». Зошит відповідає Типовій навчальній програмі МОН України (за редакціею О. Я. Савченко) та підручнику «Математика. 1 клас» (автори С. О. Скворцова, О. В. Онопрієнко). Завдання подані за тематичним принципом, спрямовані на інтегрування навчального матеріалу. Поряд із графічними вправами і завданнями на розвиток обчислюваних навичок дібрано завдання розвивального та логічного характеру. До задач запропоновано малюнки, опорні схеми.     Для учнів 1 класу, вчителів, батьків.]]></description>
-<quantity_in_stock>98</quantity_in_stock>
+<quantity_in_stock>73</quantity_in_stock>
 <param name="Автор">Цибульська С.</param>
 <param name="Предмет">Математика</param>
 <param name="Мова">українська</param>
@@ -94878,12 +94995,12 @@
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/zno-nmt-libra-terra-typovi-testovi-zavdannia-z-anhliiskoi-movy-z-audiosuprovodom-o-tymchak/</url>
 <currencyId>UAH</currencyId>
 <categoryId>72</categoryId>
-<price>280</price>
+<price>300</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32460/zno_nmt_libra_terra_tipovi_testovi_zavdannya_z_angliysko_movi_z_audiosuprovodom_o_timchak.jpg</picture>
 <vendor>Лібра Терра</vendor>
 <description>
 <![CDATA[ЗНО/НМТ Типові тестові завдання з англійської мови (з аудіосупроводом) О.Тімчак.    У навчальному посібнику представлені матеріали, які допоможуть випускникам загальноосвітніх установ підготуватись до нової програми зовнішнього незалежного оцінювання з англійської мови. Усі тести складаються з чотирьох частин: «Розуміння мови на слух (аудіювання)», «Читання», «Використання мови» та «Лист». У посібнику представлено 15 варіантів завдань у форматі ЗНО рівня B1+ (B1, B2), а також тексти завдань для аудіювання та відповіді на всі тестові завдання.    Посібник може використовуватися в процесі навчання англійської мови в школі або самостійної підготовки.]]></description>
-<quantity_in_stock>1000</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Автор">О. Тимчак</param>
 <param name="Мова">англійська</param>
 <param name="Вік">9-11 класи</param>
@@ -94902,12 +95019,12 @@
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/zno-nmt-libra-terra-english-test-trainer-level-a2-trenazher-dlia-pidhotovky-do-testiv-z-anhliiskoi-movy-audio-m-iurkovych/</url>
 <currencyId>UAH</currencyId>
 <categoryId>72</categoryId>
-<price>260</price>
+<price>320</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32461/zno_nmt_libra_terra_english_test_trainer_level_a2_trenazher_dlya_pidgotovki_do_testiv_z_angliysko_movi_audio_m_yurkovich.jpg</picture>
 <vendor>Лібра Терра</vendor>
 <description>
 <![CDATA[ЗНО/НМТ  ENGLISH TEST TRAINER-level A2. Тренажер для підготовки до тестів з англійської мови + аудіо  М.Юркович.       З метою ретельної та систематичної підготовки до іспиту ЗНО створено нове сучасне кольорове видання, яке забезпечить учнів основної школи тренувальними завданнями на рівні А2 згідно з Загальноєвропейськими рекомендаціями з мовної освіти. Дане видання пропонує збалансований підхід до розвитку учнів умінь читання, письма, спілкування та аудіювання. Структурований та різнотипний характер завдань допоможуть також протестувати учнівське аудіо- та візуальне сприйняття матеріалу та його розуміння англійською мовою учнями на рівні А2. У цьому посібнику міститься програма з правильними відповідями та друкованими текстами завдань для аудіювання. Це видання супроводжується аудіо-додатком із записами відповідних матеріалів, озвучених носіями мови, яку можна завантажити на сайті видавництва.]]></description>
-<quantity_in_stock>1000</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Автор">М. Юркович</param>
 <param name="Мова">англійська</param>
 <param name="Вік">9-11 класи</param>
@@ -94926,12 +95043,12 @@
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/zno-nmt-libra-terra-english-test-trainer-level-b1-trenazher-dlia-pidhotovky-do-testiv-z-anhliiskoi-movy-audio-m-iurkovych/</url>
 <currencyId>UAH</currencyId>
 <categoryId>72</categoryId>
-<price>290</price>
+<price>320</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32462/zno_nmt_libra_terra_english_test_trainer_level_b1_trenazher_dlya_pidgotovki_do_testiv_z_angliysko_movi_audio_m_yurkovich.jpg</picture>
 <vendor>Лібра Терра</vendor>
 <description>
 <![CDATA[ЗНО/НМТ  ENGLISH TEST TRAINER-level B1. Тренажер для підготовки до тестів з англійської мови + аудіо  М.Юркович.       З метою ретельної та систематичної підготовки до іспиту ЗНО створено нове сучасне кольорове видання, яке забезпечить учнів основної школи тренувальними завданнями на рівні B1 згідно з Загальноєвропейськими рекомендаціями з мовної освіти. Дане видання пропонує збалансований підхід до розвитку учнів умінь читання, письма, спілкування та аудіювання. Структурований та різнотипний характер завдань допоможуть також протестувати учнівське аудіо- та візуальне сприйняття матеріалу та його розуміння англійською мовою учнями на рівні B1. У цьому посібнику міститься програма з правильними відповідями та друкованими текстами завдань для аудіювання. Це видання супроводжується аудіо-додатком із записами відповідних матеріалів, озвучених носіями мови, яку можна завантажити на сайті видавництва.]]></description>
-<quantity_in_stock>1000</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Автор">М. Юркович</param>
 <param name="Мова">англійська</param>
 <param name="Вік">9-11 класи</param>
@@ -94950,12 +95067,12 @@
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/zno-nmt-libra-terra-listening-and-reading-skills-companion-posibnyk-dlia-praktyky-audiiuvannia-ta-zorovoho-spryimannia-tekstiv-anhliiskoiu-movoiu-z-audiosuprovodom-m-iurkovych/</url>
 <currencyId>UAH</currencyId>
 <categoryId>71</categoryId>
-<price>290</price>
+<price>340</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32463/zno_nmt_libra_terra_listening_and_reading_skills_companion_posibnik_dlya_praktiki_audiyuvannya_ta_zorovogo_spriymannya_tekstiv_angliyskoyu_movoyu_z_audiosuprovodom_m_yurkovich.jpg</picture>
 <vendor>Лібра Терра</vendor>
 <description>
 <![CDATA[ЗНО/НМТ Listening and Reading Skills Companion Посібник для практики аудіювання та зорового сприймання текстів англійською мовою з аудіосупроводом М.Юркович.     Розрахований на 50-60 годин роботи, цей посібник може успішно доповнити основний підручник в 10-11 класах.  Навчальний матеріал придатний для використання на уроці під керівництвом вчителя або вдома в рамках самопідготовки. Видання містить поради щодо роботи з матеріалом, аудіосупровід, який можна завантажити онлайн, а також ключі для самоконтролю виконання завдань.    За допомогою посібника старшокласники зможуть: - розширити практику сприймання англійської мови на слух та уміння зорового сприймання текстів; - підготуватись до найпоширеніших завдань ЗНО з цих видів мовленнєвої діяльності; - збагатити словниковий запас; - розвивати навички та уміння критичного мислення;   - активізувати здобуті знання та уміння у запропонованій проектній діяльності.]]></description>
-<quantity_in_stock>1000</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Автор">М. Юркович</param>
 <param name="Мова">англійська</param>
 <param name="Вік">9-11 класи</param>
@@ -94974,12 +95091,12 @@
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/zno-nmt-libra-terra-get-ready-for-your-english-exam-level-b2-zbirnyk-testiv-dlia-starshoklasnykiv-ta-abituriientiv-audiododatok-m-iurkovych/</url>
 <currencyId>UAH</currencyId>
 <categoryId>72</categoryId>
-<price>310</price>
+<price>330</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32464/zno_nmt_libra_terra_get_ready_for_your_english_exam_level_b2_zbirnik_testiv_dlya_starshoklasnikiv_ta_abituri_ntiv_audiododatok_m_yurkovich.jpg</picture>
 <vendor>Лібра Терра</vendor>
 <description>
 <![CDATA[ЗНО/НМТ  Get Ready for Your English Exam! -Level B2. Збірник тестів для старшокласників та абітурієнтів + аудіододаток М.Юркович.       У цьому посібнику ти знайдеш чимало корисних порад щодо стратегій як упоратися з різними типами тестових завдань. Не важливо до яких випробувань ти готуєшся: до  ЗНО, НМТ чи олімпіади з англійської, з міжнародного іспиту IELTS чи кембріджського FCE. Важливо опанувати певними "секретами" і логікою долання труднощів, захованих у той чи інший тип завдання. Посібник озброїть тебе раціональними підходами до майбутніх випробувань та допоможе закріпити теорію практикою.]]></description>
-<quantity_in_stock>1000</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Автор">М. Юркович</param>
 <param name="Мова">англійська</param>
 <param name="Вік">9-11 класи</param>
@@ -94998,12 +95115,12 @@
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/zno-nmt-libra-terra-practise-your-grammar-hramatychnyi-praktykum-robochyi-zoshyt-z-hramatyky-dlia-starshykh-klasiv-a-levchuk-o-karpiuk/</url>
 <currencyId>UAH</currencyId>
 <categoryId>71</categoryId>
-<price>290</price>
+<price>310</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32465/zno_nmt_libra_terra_practise_your_grammar_gramatichniy_praktikum_robochiy_zoshit_z_gramatiki_dlya_starshih_klasiv_a_levchuk_o_karpyuk.jpg</picture>
 <vendor>Лібра Терра</vendor>
 <description>
 <![CDATA[ЗНО/НМТ PRACTISE YOUR GRAMMAR. Граматичний практикум. Робочий зошит з граматики для старших класів  А.Левчук, О,Карпюк.       Навчальне видання представляє собою робочий зошит з вправами, створеними для учнів старших класів з метою підготовки до іспитів або тестування з англійської мови за курс середньої школи. Даний посібник рекомендується використовувати як додатковий на уроках або під час самостійної роботи учнів.   Робота з книгою сприятиме кращому усвідомленню і розумінню суті граматичного явища, його правильному використанню у практиці мовлення. Посібник містить ключі до усіх вправ і завдань.]]></description>
-<quantity_in_stock>1000</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Автор">А. Левчук, О.Карпюк</param>
 <param name="Мова">англійська</param>
 <param name="Вік">9-11 класи</param>
@@ -95022,12 +95139,12 @@
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/zno-nmt-libra-terra-study-writing-pysmova-tvorcha-diialnist-i-komunikatsiia-navchalnyi-posibnyk-dlia-starshykh-klasiv-z-anhliiskoi-movy-m-iurkovych/</url>
 <currencyId>UAH</currencyId>
 <categoryId>71</categoryId>
-<price>290</price>
+<price>310</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32466/zno_nmt_libra_terra_study_writing_pismova_tvorcha_diyalnist_i_komunikatsiya_navchalniy_posibnik_dlya_starshih_klasiv_z_angliysko_movi_m_yurkovich.jpg</picture>
 <vendor>Лібра Терра</vendor>
 <description>
 <![CDATA[ЗНО/НМТ STUDY WRITING. Письмова творча діяльність і комунікація. Навчальний посібник для старших класів з англійської мови М.Юркович.       Посібник створено, в першу чергу, для учнів спеціалізованих шкіл з поглибленим вивченням англійської мови і може використовуватися як курс за вибором. Його мета — надати практичну допомогу в оволодінні старшокласниками навичками й уміннями дистанційної комунікації за допомогою електронної пошти, листування у діловому стилі, особистого письмового спілкування та написання письмових творчих робіт. Чітка структура видання, послідовний виклад матеріалу, що знайомить з вимогами написання різних документів, есе, листів тощо, підкріплений практичними завданнями й зразками, наявність критеріїв для оцінювання і самооцінювання сприятиме кращому усвідомленню і систематизації різних видів письмової діяльності.]]></description>
-<quantity_in_stock>1000</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Автор">М. Юркович</param>
 <param name="Мова">англійська</param>
 <param name="Вік">9-11 класи</param>
@@ -95611,78 +95728,9 @@
 <param name="Тип обкладинки">м&apos;яка</param>
 <param name="ISBN">9786178002701</param>
 <param name="Видавництво">Лінгвіст</param></offer>
-<offer id="32543" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Книга для вчителя Лібра Терра Англійська мова 5 клас до НМК English 5. Kids Online Карпюк</name>
-<vendorCode>9786176091387</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/rozrobky-urokiv/5-klas/nush-knyha-dlia-vchytelia-libra-terra-anhliiska-mova-5-klas-do-nmk-english-5-kids-online-karpiuk/</url>
-<currencyId>UAH</currencyId>
-<categoryId>39</categoryId>
-<price>520</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/32543/nush_kniga_dlya_vchitelya_libra_terra_angliyska_mova_5_klas_do_nmk_english_5_kids_online_karpyuk.jpg</picture>
-<vendor>Лібра Терра</vendor>
-<description>
-<![CDATA[Книга для вчителя з поурочними розробками для 5 класу до НМК "English 5. Kids Online" Книга для вчителя містить методичні рекомендації щодо використання матеріалів навчально-методичного комплекту English 5. Kids Online. Перша частина книги знайомить з усіма компонентами НМК, структурою та змістом курсу, а також з особливостями учнів та специфікою їхнього іншомовного навчання у 5-му класі НУШ. Вчителям стануть також у нагоді методичні рекомендації  та слушні поради щодо організації навчального процесу з англійської мови у 5 класі. У другій частині книги наведено планування роботи з матеріалом НМК на навчальний рік та запропоновано детальні поурочні розробки, котрі допоможуть зорієнтуватись в завданнях кожного уроку, підготувати необхідне обладнання, зосередитись на очікуваних результатах та запропонують сценарій уроку з детальним описом процедур по організації іншомовного навчання п'ятикласників на уроці.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">О.Карпюк, К.Карпюк</param>
-<param name="Мова">українська, англійська</param>
-<param name="Вік">5 класс</param>
-<param name="Тип">Книга для вчителя</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">288</param>
-<param name="Рік видання">2024</param>
-<param name="Тип паперу">офсет, чорно-біла</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-617-609-138-7</param>
-<param name="Формат, розмір">170x260 мм</param>
-<param name="Видавництво">Лiбра Терра</param></offer>
-<offer id="32544" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Книга для вчителя Лібра Терра Англійська мова 6 клас до НМК English 6. Kids Online Тимчак</name>
-<vendorCode>9786176091479</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/rozrobky-urokiv/nush-knyha-dlia-vchytelia-libra-terra-anhliiska-mova-6-klas-do-nmk-english-6-kids-online-tymchak/</url>
-<currencyId>UAH</currencyId>
-<categoryId>40</categoryId>
-<price>520</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/32544/nush_kniga_dlya_vchitelya_libra_terra_angliyska_mova_6_klas_do_nmk_english_6_kids_online_timchak.jpg</picture>
-<vendor>Лібра Терра</vendor>
-<description>
-<![CDATA[Книга для вчителя з поурочними розробками для 6 класу до НМК "English 6. Kids Online" Книга для вчителя до навчально-методичного комплекту “Kids Online 6” містить методичні рекомендації та поурочні розробки для використання в навчальному процесі з англійської мови у 6 класі закладів загальної середньої освіти Нової української школи. Перша частина оглядова й призначена ознайомити з усіма компонентами НМК, структурними й методологічними особливостями навчальних засобів. У другій частині запропоновано планування роботи з матеріалами НМК на навчальний рік та детальні поурочні розробки. Вони допоможуть зорієнтуватись у завданнях кожного уроку, підготувати обладнання, передбачити та зосередитись на досягненні очікуваних результатів. Кожний урок містить покроковий сценарій та корисні рубрики, серед яких трапляються такі:    Teaching Tips — підказки для вчителя практичного спрямування. Extra Idea — ідеї для організації додаткових активностей на конкретному уроці. Extra Practice — додаткова практика для конкретного уроку. Keep in Mind — матеріал методичного характеру, який слід узяти до уваги сучасному вчителеві. Culture Note — культурологічні відомості, які є актуальними для конкретного уроку і з якими вчителю варто ознайомити своїх учнів. Background Info — географічні та історичні фактологічні дані стосовно місць, мов, країн тощо.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Оьга Тимчак</param>
-<param name="Мова">українська, англійська</param>
-<param name="Вік">6 класс</param>
-<param name="Тип">Книга для вчителя</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">268</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">офсет, чорно-біла</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-617-609-147-9</param>
-<param name="Формат, розмір">84х108 1/16</param>
-<param name="Видавництво">Лiбра Терра</param></offer>
-<offer id="32545" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Книга для вчителя Лібра Терра Англійська мова 7 клас до НМК English 7. Kids Online О. Карпюк, О. Тимчак</name>
-<vendorCode>9786176091509</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/rozrobky-urokiv/nush-knyha-dlia-vchytelia-libra-terra-anhliiska-mova-7-klas-do-nmk-english-7-kids-online-o-karpiuk-o-tymchak/</url>
-<currencyId>UAH</currencyId>
-<categoryId>41</categoryId>
-<price>520</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/32545/nush_kniga_dlya_vchitelya_libra_terra_angliyska_mova_7_klas_do_nmk_english_7_kids_online_o_karpyuk_o_timchak.jpg</picture>
-<vendor>Лібра Терра</vendor>
-<description>
-<![CDATA[Книга для вчителя з поурочними розробками для 7 класу до НМК "English 7. Kids Online" Книга для вчителя до навчально-методичного комплекту “Kids Online 7” містить методичні рекомендації та поурочні розробки для використання в навчальному процесі з англійської мови у 7 класі закладів загальної середньої освіти Нової української школи. Перша частина оглядова й призначена ознайомити з усіма компонентами НМК, структурними й методологічними особливостями навчальних засобів. У другій частині запропоновано планування роботи з матеріалами НМК на навчальний рік та детальні поурочні розробки. Вони допоможуть зорієнтуватись у завданнях кожного уроку, підготувати обладнання, передбачити та зосередитись на досягненні очікуваних результатів. Кожний урок містить покроковий сценарій та корисні рубрики, серед яких трапляються такі:    Teaching Tips — підказки для вчителя практичного спрямування. Extra Idea — ідеї для організації додаткових активностей на уроці. Keep in Mind — матеріал методичного характеру, який слід узяти до уваги сучасному вчителеві. Culture Note — культурологічні відомості, які є актуальними для конкретного уроку і з якими вчителю варто ознайомити своїх учнів. Background Info — географічні та історичні фактологічні дані стосовно місць, мов, країн тощо.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">О.Тимчак, О.Карпюк.</param>
-<param name="Мова">українська, англійська</param>
-<param name="Вік">7 класс</param>
-<param name="Тип">Книга для вчителя</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">258</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">офсет, чорно-біла</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-617-609-150-9</param>
-<param name="Формат, розмір">84х108 1/16</param>
-<param name="Видавництво">Лiбра Терра</param></offer>
+
+
+
 <offer id="32546" available="true" in_stock="true" selling_type="r" >
 <name>Книга Джимсик у пошуках професії Пiдручники i посiбники Ольга Птаха</name>
 <vendorCode>9789660745230</vendorCode>
@@ -99237,7 +99285,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[Українська мова: робочий зошит. 9 клас (за програмою: Н. Голуб, О. Горошкіної; О. Заболотного та ін.)  Зошит розроблено відповідно до модельних навчальних програм «Українська мова. 7–9 класи» для закладів загальної середньої освіти (авт. Голуб Н. Б., Горошкіна О. М.; авт. Заболотний О. В., Заболотний В. В., Лавринчук В. П., Плівачук К. В., Попова Т. Д.). У ньому вміщено різнотипні завдання на прикладах поетичних і прозових текстів.    Для учнів/учениць 9 класу, учителів української мови.]]></description>
-<quantity_in_stock>99</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Панчук Г., Приведа О.</param>
 <param name="Мова">українська</param>
 <param name="Вік">9 клас</param>
@@ -100131,12 +100179,12 @@
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/9-klas-1/nush-otsiniuvannia-osnova-usi-diahnostuvalni-roboty-zarubizhna-literatura-9-klas-za-prohramoiu-nikolenko-2026-rik/</url>
 <currencyId>UAH</currencyId>
 <categoryId>51</categoryId>
-<price>150</price>
+<price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/33032/nush_otsinyuvannya_osnova_usi_diagnostuvalni_roboti_zarubizhna_literatura_9_klas_za_programoyu_nikolenko_2026_rik.jpg</picture>
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Зарубіжна література. Усі діагностувальні роботи. 9 клас (за програмою Ніколенко О. М. та ін.)  У виданні подано систему різнорівневих завдань, призначених для оцінювання навчальних досягнень учнів 9-го класу із зарубіжної літератури відповідно до Державного стандарту базової середньої освіти та модельної навчальної програми «Зарубіжна література. 5–9 класи» для закладів загальної середньої освіти (у редакції 2023 року) (автори: Ніколенко О. М. та ін.).  Посібник містить диференційовані та творчі завдання, бліцопитування для актуалізації знань і швид кої перевірки розуміння навчального матеріалу, діагностувальні й комбіновані діагностувальні роботи (тестування, різнорівневі практичні завдання), а також комплексні підсумкові роботи з усіх тем курсу зарубіжної літератури 9-го класу Усі роботи подано на окремих аркушах (за варіантами); наприкінці діа гностувальних робіт передбачено місце для самооцінювання здобувачів освіти та коментаря вчителя. Відповіді до завдань подано в додатку (за QR-кодом).]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Автор">М. В. Коновалова Г. Є. Фефілова</param>
 <param name="Предмет">Зарубіжна література</param>
 <param name="Мова">українська</param>
@@ -100156,12 +100204,12 @@
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/9-klas-1/nush-otsiniuvannia-osnova-usi-diahnostuvalni-roboty-ukrainska-literatura-9-klas-za-prohramoiu-zabolotnoho-2026-rik/</url>
 <currencyId>UAH</currencyId>
 <categoryId>51</categoryId>
-<price>150</price>
+<price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/33033/nush_otsinyuvannya_osnova_usi_diagnostuvalni_roboti_ukra_nska_literatura_9_klas_za_programoyu_zabolotnogo_2026_rik.jpg</picture>
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Українська література. Усі діагностувальні роботи. 9 клас (за програмою Заболотного О. В. та ін.)  Пропонований зошит-посібник має на меті допомогти вчителям-філологам, які з 2026—2027 навчаль ного року впроваджуватимуть модель НУШ у 9-му класі. У виданні наведено систему різнорівневих завдань, призначених для оцінювання навчальних досяг нень учнів 9-го класу з української літератури відповідно до Державного стандарту базової загальної середньої освіти та модельної навчальної програми «Українська література. 7–9 класи» для закладів за гальної середньої освіти (автори: Заболотний О. В., Слоньовська О. В., Ярмульська І. В.).  Посібник містить диференційовані, творчі завдання, діагностувальні, комбіновані діагностувальні роботи (тестування, різнорівневі практичні завдання) та комплексні підсумкові роботи для учнів 9-го класу з усіх тем курсу української літератури. Усі роботи розміщено на окремих аркушах (за варіантами), наприкінці діагностувальних робіт відведено місце для самооцінювання здобувачів освіти та коментаря вчителя.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Автор">Куцінко Ольга Германівна</param>
 <param name="Предмет">Українська література</param>
 <param name="Мова">українська</param>
@@ -100180,12 +100228,12 @@
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/9-klas-1/nush-otsiniuvannia-osnova-usi-diahnostuvalni-roboty-ukrainska-mova-9-klas-konovalova-fefilova-2026-rik/</url>
 <currencyId>UAH</currencyId>
 <categoryId>51</categoryId>
-<price>150</price>
+<price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/33034/nush_otsinyuvannya_osnova_usi_diagnostuvalni_roboti_ukra_nska_mova_9_klas_konovalova_fefilova_2026_rik.jpg</picture>
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Українська мова. Усі діагностувальні роботи. 9 клас Посібник містить систему різнорівневих завдань для оцінювання навчальних досягнень учнів 9-го класу з усіх тем курсу української мови відповідно до Державного стандарту базової загальної середньої освіти та основних модельних навчальних програм: «Українська мова. 7–9 класи» для закладів загальної середньої освіти (автори Голуб Н. Б., Горошкіна О. М.) та «Українська мова. 7–9 класи» для закладів загальної середньої освіти (автори: Заболотний О. В., Заболотний В. В., Лавринчук В. П., Плівачук К. В., Попова Т. Д.), рекомендованих Міністерством освіти і науки України (наказ Міністерства освіти і науки України від 12.07.2021 № 795), та рекомендацій щодо оцінювання результатів навчання (наказ Міністерства освіти і науки України від 2.08.2024 № 1093).  Завдання дібрано для бліцоцінювання, поточних, комбінованих, підсумкових діагностувальних робіт та оцінювання різних видів мовленнєвої діяльності. Роботи розміщено на окремих аркушах зручного формату (за варіантами), наприкінці яких відведено місце для самооцінювання та коментаря вчителя щодо оцінювання за рівнями навчальних досягнень і групами результатів навчання. Відповіді до завдань подано в додатку (за QR-кодом). Для вчителів української мови, учнів 9-х класів Нової української школи.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Автор">Коновалова М. В., Фефілова Г. Є.</param>
 <param name="Предмет">Українська мова</param>
 <param name="Мова">українська</param>
@@ -100205,12 +100253,12 @@
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/9-klas-1/nush-otsiniuvannia-osnova-usi-diahnostuvalni-roboty-ukrainska-literatura-9-klas-za-prohramoiu-yatsenko-2026-rik/</url>
 <currencyId>UAH</currencyId>
 <categoryId>51</categoryId>
-<price>150</price>
+<price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/33035/nush_otsinyuvannya_osnova_usi_diagnostuvalni_roboti_ukra_nska_literatura_9_klas_za_programoyu_yatsenko_2026_rik.jpg</picture>
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Українська література. Усі діагностувальні роботи. 9 клас (за програмою Яценко та ін.) Посібник містить диференційовані, творчі завдання, діагностувальні роботи для учнів 9-го класу до модельної навчальної програми «Українська література. 7–9 класи» для закладів загальної середньої освіти (у редакції 2023 року) (автори: Т. О. Яценко, В. І. Пахаренко, О. А. Слижук, І. А. Тригуб).  Завдання дібрано для всіх видів оцінювання, зокрема: бліцопитування (теоретичний матеріал і матеріали на знання тексту); поточні діагностувальні роботи; комбіновані діагностувальні роботи (тестування, різнорівневі практичні завдання). Роботи розміщено на окремих аркушах (за варіантами), наприкінці яких відведено місце для самооцінювання здобувачів освіти й коментаря вчителя. До всіх завдань визначено групи результатів, відповідно до концепції НУШ. Для вчителів української літератури, учнів 9-х класів Нової української школи]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Автор">Куцінко Ольга Германівна</param>
 <param name="Предмет">Українська література</param>
 <param name="Мова">українська</param>
@@ -100230,12 +100278,12 @@
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/9-klas-1/nush-otsiniuvannia-osnova-usi-diahnostuvalni-roboty-alhebra-heometriia-9-klas-starova-o-o-2026-rik/</url>
 <currencyId>UAH</currencyId>
 <categoryId>51</categoryId>
-<price>150</price>
+<price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/33036/nush_otsinyuvannya_osnova_usi_diagnostuvalni_roboti_algebra_geometriya_9_klas_starova_o_o_2026_rik.jpg</picture>
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Алгебра. Геометрія. Усі діагностувальні роботи. 9 клас. Посібник містить систему завдань, призначених для оцінювання навчальних досягнень учнів 9-го класу з усіх тем курсу відповідно до вимог нового Державного стандарту базової загальної середньої освіти, Типової освітньої програми для 5–9-х класів закладів загальної середньої освіти (наказ МОН від 19.02.2021 № 235), змісту всіх чинних модельних навчальних програм «Алгебра. 7–9 класи», «Геометрія. 7–9 класи», «Математика. 7–9 класи» (автори: Біляніна О. Я та ін.; Бурда М. І. та ін.; Генденштейн Л. Е. та ін.; Істер О. С.; Мерзляк А. Г. та ін.; Панченко С. Ю.) для закладів загальної середньої освіти, рекомендованих Міністерством освіти і науки України (наказ МОН від 12.07.2021 № 795), та рекомендацій щодо оцінювання результатів навчання (наказ Міністерства освіти і науки України від 2.08.2024 № 1093). Пропоновані завдання дібрано для всіх видів оцінювання з математики (алгебри й геометрії), зокрема: бліцоцінювання, поточних комбінованих, тестових, підсумкових діагностувальних робіт. Усі роботи розміщені на окремих аркушах зручного формату (за варіантами), наприкінці яких відведено місце для самооцінювання здобувачів освіти та коментаря вчителя щодо оцінювання за рівнями навчальних досягнень і групами результатів навчання. Відповіді до завдань подано в Додатку за QR-кодом.    Для вчителів математики (алгебри й геометрії), учнів 9-х класів Нової української школи.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Автор">Старова О.О.</param>
 <param name="Предмет">Геометрія</param>
 <param name="Мова">українська</param>
@@ -101613,7 +101661,7 @@
 <vendor>Ранок</vendor>
 <description>
 <![CDATA[Підприємництво і фінансова грамотність. 9 клас. Робочий зошит (до підручника Пластуна, Панченка)  Робочий зошит є частиною навчально-методичного комплекту «Підприємництво і фінансова грамотність. 9 клас», створеного на основі підручника Олексія Пластуна, Сергія Панченка. Зошит містить завдання й задачі, що допоможуть відпрацювати практичні навички, набуті під час опанування навчального матеріалу, ребуси, кросворди і комікси для мотивації навчальної діяльності та ефективного повторення, шаблони практичних робіт із покроковим описом виконання для набуття практичного досвіду в ситуаціях, наближених до реального життя.  Призначено для учнів і учениць 9 класу закладів загальної середньої освіти, учителів і вчительок підприємництва і фінансової грамотності.]]></description>
-<quantity_in_stock>15</quantity_in_stock>
+<quantity_in_stock>20</quantity_in_stock>
 <param name="Автор">Пластун О. Л., Панченко С. Ю.</param>
 <param name="Предмет">Підприємництво і фінансова грамотність</param>
 <param name="Мова">українська</param>
@@ -101905,7 +101953,7 @@
 <vendor>Ранок</vendor>
 <description>
 <![CDATA[Здоров’я, безпека та добробут. Робочий зошит для 9 класу ЗЗСО  Цей робочий зошит укладено відповідно до параграфів підручника й доповнює його, надаючи можливість застосувати на практиці отримані знання. Тут є різноманітні компетентнісні завдання, творчі задачки й навіть невеликі експерименти! Зошит стане надійним супутником під час роботи на уроці та при виконанні домашніх завдань, допоможе учням і ученицям пізнати світ і перетворить навчання на захопливу подорож!]]></description>
-<quantity_in_stock>15</quantity_in_stock>
+<quantity_in_stock>20</quantity_in_stock>
 <param name="Автор">Шиян О. Дяків В. Седоченко А. Тагліна О.</param>
 <param name="Предмет">Основи здоров&apos;я</param>
 <param name="Мова">українська</param>
@@ -102827,7 +102875,7 @@
 <vendor>Ранок</vendor>
 <description>
 <![CDATA[НУШ Біологія. Робочий зошит для 9 класу ЗЗСО до підручника Ольги Тагліної та ін. 2026 рік  Цей робочий зошит укладено відповідно до параграфів підручника й доповнює його, надаючи можливість застосувати на практиці отримані знання. Тут є різноманітні компетентнісні завдання, творчі задачки й навіть невеликі експерименти! Зошит стане надійним супутником під час роботи на уроці та при виконанні домашніх завдань, допоможе учням і ученицям пізнати біологію та перетворить навчання на захопливу подорож!]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>20</quantity_in_stock>
 <param name="Автор">Тагліна О.В. Самойлов А.М. Довгаль Л.В.</param>
 <param name="Предмет">Біологія</param>
 <param name="Мова">українська</param>
@@ -102939,8 +102987,56 @@
 <param name="ISBN">9786170044433</param>
 <param name="Формат, розмір">А-5</param>
 <param name="Видавництво">Основа</param></offer>
-
-
+<offer id="33204" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Оцінювання Основа Усі діагностувальні роботи Географія 9 клас Подрушняк, Даушкіна 2026 рік</name>
+<vendorCode>9786170044969</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/9-klas-1/nush-otsiniuvannia-osnova-usi-diahnostuvalni-roboty-heohrafiia-9-klas-podrushniak-daushkina-2026-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>51</categoryId>
+<price>170</price>
+<picture>https://knigovan.com/image/catalog/products/33204/nush-ots-nyuvannya-osnova-us-d-agnostuvaln-roboti-geograf-ya-9-klas-podrushnyak-daushk-na-2026-r-k-1.jpg</picture>
+<vendor>Основа</vendor>
+<description>
+<![CDATA[Географія. Усі діагностувальні роботи. 9 клас (Подрушняк, Даушкіна)  Усі діагностувальні роботи з усіх тем курсу «Географія. 9 клас» в одному посібнику! Посібник підготовлено відповідно до вимог нового Державного стандарту базової загальної середньої освіти, Типової освітньої програми для 5–9-х класів закладів загальної середньої освіти, змісту всіх чинних модельних навчальних програм курсу «Географія» для 9-го класу для закладів загальної середньої освіти України (автори: Кобернік С. Г., Коваленко Р. Р. та ін.; Запотоцький С. П., Карпюк Г. І. та ін.).  У чому переваги посібника:   завдяки виконаним роботам можна швидко й якісно діагностувати та оцінити досягнення кожної дитини з усіх тем курсу за групами результатів навчання; завдання сформульовано таким чином, щоб додатково ознайомити дитину з новою цікавою інформацією; усі роботи розміщено на окремих аркушах зручного формату (за варіантами).  Купуйте посібник, що допоможе зекономити час на підготовку до уроків!]]></description>
+<quantity_in_stock>3</quantity_in_stock>
+<param name="Автор">Подрушняк Л.І. Даушкіна А.В.</param>
+<param name="Предмет">Географія</param>
+<param name="Мова">українська</param>
+<param name="Вік">9 клас</param>
+<param name="Тип">Зошит для оцінювання учнів</param>
+<param name="Серія">Оцінювання</param>
+<param name="Кількість сторінок">80</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет, чорно-біла</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786170044969</param>
+<param name="Формат, розмір">200х260 мм</param>
+<param name="Видавництво">Основа</param></offer>
+<offer id="33205" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Оцінювання Основа Усі діагностувальні роботи Хімія 9 клас Русанова 2026 рік</name>
+<vendorCode>9786170044945</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/9-klas-1/nush-otsiniuvannia-osnova-usi-diahnostuvalni-roboty-khimiia-9-klas-rusanova-2026-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>51</categoryId>
+<price>170</price>
+<picture>https://knigovan.com/image/catalog/products/33205/nush-ots-nyuvannya-osnova-us-d-agnostuvaln-roboti-h-m-ya-9-klas-rusanova-2026-r-k-1.jpg</picture>
+<vendor>Основа</vendor>
+<description>
+<![CDATA[Хімія. Усі діагностувальні роботи. 9 клас (Русанова)  Усі діагностувальні роботи з усіх тем курсу «Хімія. 9 клас» в одному посібнику! Посібник підготовлено відповідно до вимог нового Державного стандарту базової загальної середньої освіти, Типової освітньої програми для 5–9-х класів закладів загальної середньої освіти, змісту всіх чинних модельних навчальних програм курсу «Хімія» для 9-го класу для закладів загальної середньої освіти (автори: 1) Григорович О. В., 2) Лашевська Г. А.), рекомендованих Міністерством освіти і науки України.  У чому переваги посібника:   завдяки роботам можна швидко й якісно діагностувати та оцінити досягнення кожної дитини з усіх тем курсу за групами результатів навчання; усі роботи розміщено на окремих аркушах зручного формату (за варіантами).  Купуйте посібник, що допоможе зекономити час на підготовку до уроків!]]></description>
+<quantity_in_stock>3</quantity_in_stock>
+<param name="Автор">Русанова О.К.</param>
+<param name="Предмет">Хімія</param>
+<param name="Мова">українська</param>
+<param name="Вік">9 клас</param>
+<param name="Тип">Зошит для оцінювання учнів</param>
+<param name="Серія">Оцінювання</param>
+<param name="Кількість сторінок">80</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет, чорно-біла</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786170044945</param>
+<param name="Формат, розмір">200х260 мм</param>
+<param name="Видавництво">Основа</param></offer>
 
 
 
@@ -103600,8 +103696,55 @@
 
 
 
-
-
+<offer id="33275" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Комплект робочих зошитів Ранок Українська мова 1 клас в 2 частинах до підручника Большакової</name>
+<vendorCode>9786170946638, 9786170946645</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/1-klas-1/nush-komplekt-robochykh-zoshytiv-ranok-ukrainska-mova-1-klas-v-2-chastynakh-do-pidruchnyka-bolshakovoi/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>190</price>
+<picture>https://knigovan.com/image/catalog/products/33275/nush-robochiy-zoshit-do-p-druchnika-bolshakovo-chastina-1-ukra-nska-mova-1-klas-12.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[НУШ Комплект в 2 частинах: Робочий зошит Українська мова 1 клас до підручника Большакової Зміст посібника відповідає вимогам Типової освітньої програми, розробленої під керівництвом Р. Б. Шияна, та враховує особливості структури підручника "Українська мова. Буквар" авторів І. О. Большакової, М. С. Пристінської. Видання є складовою навчально-методичного комплекту "Українська мова. 1 клас", який створено на базі підручника. Посібник складається з двої частин. Перша частина містить матеріали для першого семестру навчання: вправи на формування навички письма друкованих букв і елементів рукописних букв; завдання на розвиток критичного мислення; чек-листи для самоперевірки правильності виконання завдань. Матеріал подано в цікавій і доступній формі з урахуванням психологічних особливостей першокласників. Друга частина містить матеріали для другого семестру навчання: вправи на формування навички письма рукописних букв; завдання на розвиток критичного мислення; чек-листи для самоперевірки правильності виконання завдань. Матеріал подано в цікавій і доступній формі з урахуванням психологічних особливостей першокласників. Призначено для учнів 1 класу закладів загальної середньої освіти і вчителів початкових класів.]]></description>
+<quantity_in_stock>40</quantity_in_stock>
+<param name="Автор">Большакова І. Пристінська М.</param>
+<param name="Мова">українська</param>
+<param name="Вік">1 клас</param>
+<param name="Тип">Робочий зошит, комплект</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">64+64</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет, двоколірна</param>
+<param name="Тип обкладинки">мʼяка</param>
+<param name="ISBN">9786170946638, 9786170946645</param>
+<param name="Формат, розмір">201х257 мм</param>
+<param name="Видавництво">Ранок</param></offer>
+<offer id="33276" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Комплект робочих зошитів Ранок Я досліджую світ 1 клас в 2 частинах до підручника Большакової</name>
+<vendorCode>9786170947079, 9786170947086</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/1-klas-1/nush-komplekt-robochykh-zoshytiv-ranok-ia-doslidzhuiu-svit-1-klas-v-2-chastynakh-do-pidruchnyka-bolshakovoi/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>220</price>
+<picture>https://knigovan.com/image/catalog/products/33276/nush-robochiy-zoshit-do-p-druchnika-bolshakovo-chastina-1-ya-dosl-dzhuyu-sv-t-1-klas-1.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[НУШ Комплект в 2 частинах: Робочий зошит Я досліджую світ 1 клас до підручника Большакової Зміст посібника відповідає вимогам Типової освітньої програми, розробленої під керівництвом Р. Б. Шияна, та враховує особливості структури підручника «Я досліджую світ» авторів І. О. Большакової, М. С. Пристінської. Видання є складовою навчально-методичного комплекту «Я досліджую світ. 1 клас», який створено на базі підручника. Посібник складається з двох частин. Зошит містить: інтегровані завдання, спрямовані на розвиток системного, критичного і креативного мислення: таблиці, схеми, діаграми; зразки виконання практичних робіт; опис дослідів. Матеріал подано в цікавій і доступній формі з урахуванням психологічних особливостей першокласників.  Призначено для учнів 1 класу закладів загальної середньої освіти і вчителів початкових класів.]]></description>
+<quantity_in_stock>40</quantity_in_stock>
+<param name="Автор">Большакова І. Пристінська М.</param>
+<param name="Предмет">Я досліджую світ</param>
+<param name="Мова">українська</param>
+<param name="Вік">1 клас</param>
+<param name="Тип">Робочий зошит, комплект</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">64+64</param>
+<param name="Рік видання">2024</param>
+<param name="Тип паперу">офсет, двоколірна</param>
+<param name="Тип обкладинки">мʼяка</param>
+<param name="ISBN">9786170947079, 9786170947086</param>
+<param name="Формат, розмір">201х257 мм</param>
+<param name="Видавництво">Ранок</param></offer>
 
 
 
@@ -103682,7 +103825,7 @@
 <param name="Формат, розмір">220x280 мм</param>
 <param name="Видавництво">Картографія</param></offer>
 <offer id="33288" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Атлас + Контурні карти Україна і світове господарство 9 клас Картографія, 2026 рік</name>
+<name>НУШ Атлас + Контурні карти Географія: Україна і світове господарство 9 клас Картографія, 2026 рік</name>
 <vendorCode>9789669467973, 9789669467980</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/9-klas-2/nush-atlas-konturni-karty-ukraina-i-svitove-hospodarstvo-9-klas-kartohrafiia-2026-rik/</url>
 <currencyId>UAH</currencyId>
@@ -103691,7 +103834,7 @@
 <picture>https://knigovan.com/image/catalog/products/33288/nush-atlas-konturn-karti-ukra-na-u-sv-t-priroda-naselennya-8-klas-kartograf-ya-2025-r-k-1.jpg</picture>
 <vendor>Картографія</vendor>
 <description>
-<![CDATA[Атлас + Контурні карти «Україна і світове господарство». 9 клас (НУШ) Державне науково-виробниче підприємство "Картографія".  Комплект містить атлас і контурні карти для 9 класу.   1. Атлас. Україна і світове господарство 9 клас НУШ  Атлас укладено відповідно до вимог Державного стандарту базової середньої освіти за модельною навчальною програмою «Географія 6-9 кл. Запотоцький С.П. та ін». Атлас включає наступні розділи:  Населення України і світу; Національна і світова економіка; Екологічні проблеми; Регіони і країни.  Серед висвітлених тем атласу:  Розселення, природний рух, етнічний склад населення. Урбанізація, зайнятість населення. Безробіття; Типи економічних систем країн світу, мінерально-сировинні ресурси, ТНК, господарство, зовнішньоекономічна діяльність; Економіка регіонів і країн світу.  Карти атласу укладені з використанням актуальних даних, отриманих з відкритих джерел. Атлас містить велику кількість діаграм, графіків, таблиць, дані з яких дають вичерпну економіко-географічну характеристику України та світу, дозволяють виконувати різноманітні практичні завдання, аналізувати, давати порівняльні характеристики країн та галузей економіки тощо. За інформативністю атлас дорівнює багатьом довідковим джерелам. Водночас, інформація подана в доступній для учнів формі, що не вимагає значних зусиль для сприйняття.  2. Контурні карти. Україна і світове господарство 9 клас НУШ  Комплект контурних карт розроблено на основі атласу «Україна і світове господарство 9 клас НУШ». Контурні карти містять запропоновані завдання, водночас на картах залишається вільне місце, куди можна вписати завдання, які запропонує вчитель.]]></description>
+<![CDATA[Атлас + Контурні карти Географія. «Україна і світове господарство». 9 клас (НУШ) Державне науково-виробниче підприємство "Картографія".  Комплект містить атлас і контурні карти для 9 класу.   1. Атлас. Україна і світове господарство 9 клас НУШ  Атлас укладено відповідно до вимог Державного стандарту базової середньої освіти за модельною навчальною програмою «Географія 6-9 кл. Запотоцький С.П. та ін». Атлас включає наступні розділи:  Населення України і світу; Національна і світова економіка; Екологічні проблеми; Регіони і країни.  Серед висвітлених тем атласу:  Розселення, природний рух, етнічний склад населення. Урбанізація, зайнятість населення. Безробіття; Типи економічних систем країн світу, мінерально-сировинні ресурси, ТНК, господарство, зовнішньоекономічна діяльність; Економіка регіонів і країн світу.  Карти атласу укладені з використанням актуальних даних, отриманих з відкритих джерел. Атлас містить велику кількість діаграм, графіків, таблиць, дані з яких дають вичерпну економіко-географічну характеристику України та світу, дозволяють виконувати різноманітні практичні завдання, аналізувати, давати порівняльні характеристики країн та галузей економіки тощо. За інформативністю атлас дорівнює багатьом довідковим джерелам. Водночас, інформація подана в доступній для учнів формі, що не вимагає значних зусиль для сприйняття.  2. Контурні карти. Україна і світове господарство 9 клас НУШ  Комплект контурних карт розроблено на основі атласу «Україна і світове господарство 9 клас НУШ». Контурні карти містять запропоновані завдання, водночас на картах залишається вільне місце, куди можна вписати завдання, які запропонує вчитель.]]></description>
 <quantity_in_stock>100</quantity_in_stock>
 <param name="Предмет">Географія</param>
 <param name="Мова">українська</param>
@@ -103704,4 +103847,97 @@
 <param name="Тип обкладинки">м&apos;яка</param>
 <param name="ISBN">978-966-946-797-3, 978-966-946-798-0</param>
 <param name="Формат, розмір">220x280 мм</param>
-<param name="Видавництво">Картографія</param></offer></offers></shop></yml_catalog>
+<param name="Видавництво">Картографія</param></offer>
+<offer id="33289" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Атлас Оріон Всесвітня історія. Історія України 9 клас Інтегрований курс Щупак, 2026 рік</name>
+<vendorCode>9789669915429</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/9-klas-2/nush-atlas-orion-vsesvitnia-istoriia-istoriia-ukrainy-9-klas-intehrovanyi-kurs-shchupak-2026-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>51</categoryId>
+<price>100</price>
+<picture>https://knigovan.com/image/catalog/products/33289/nush-atlas-or-on-vsesv-tnya-stor-ya-stor-ya-ukra-ni-8-klas-ntegrovaniy-kurs-shchupak-ya-2025-r-k-1.jpg</picture>
+<vendor>Оріон</vendor>
+<description>
+<![CDATA[Всесвітня історія. Історія України (інтегрований курс) 9 клас. Атлас (НУШ)  Упорядник – Ігор Щупак, кандидат історичних наук, заслужений працівник освіти України, член Українсько-німецької історичної комісії, член Українсько-польської комісії експертів підручників історії та географії, автор підручників. Атлас продовжує серію картографічних навчальних посібників інтегрованого курсу з історії УОВЦ «Оріон», упорядкованих Ігорем Щупаком. Атлас є новим для навчального процесу посібником, якого досі не було в Україні.   Усі карти атласу виконані з дотриманням необхідних змістовних і технічних вимог, тематично поєднані між собою та взаємно узгоджені. Карти прості для сприйняття, умовні знаки переважно асоціативні. Послідовність карт в атласі, поєднання тем всесвітньої історії та історії України цілком відповідають «Таблиці для синхронізації курсів історії України та всесвітньої історії». Картографічний посібник укладений з дотриманням вимог Держаного стандарту базової та повної загальної освіти та чинної навчальної програми з історії 5–9 класів закладів загальної середньо освіти.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Щупак І.Я</param>
+<param name="Предмет">Всесвітня історія, Історія України</param>
+<param name="Мова">українська</param>
+<param name="Вік">9 клас</param>
+<param name="Тип">Атлас</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9789669915429</param>
+<param name="Видавництво">Оріон</param></offer>
+<offer id="33291" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Контурні карти Оріон Всесвітня історія. Історія України 9 клас Інтегрований курс Щупак, 2026 рік</name>
+<vendorCode>9789669915436</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/9-klas-2/nush-konturni-karty-orion-vsesvitnia-istoriia-istoriia-ukrainy-9-klas-intehrovanyi-kurs-shchupak-2026-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>51</categoryId>
+<price>50</price>
+<picture>https://knigovan.com/image/catalog/products/33291/nush-konturn-karti-or-on-vsesv-tnya-stor-ya-stor-ya-ukra-ni-8-klas-ntegrovaniy-kurs-shchupak-ya-2025-r-k-1.jpg</picture>
+<vendor>Оріон</vendor>
+<description>
+<![CDATA[Всесвітня історія. Історія України (інтегрований курс) 9 клас. Контурні карти  Упорядник - Ігор Щупак, кандидат історичних наук, заслужений працівник освіти України, член Українсько-німецької історичної комісії, член Українсько-польської комісії експертів підручників історії та географії, автор підручників. Контурні карти Всесвітня історія Історія України інтегрований курс 9 клас Оріон. Контурні карти містять завдання різного ступеня складності. Кількість карт, їхні теми та масштаби дають змогу виконати всі практичні та творчі роботи обох навчальних курсів з історії.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Щупак І.Я</param>
+<param name="Предмет">Всесвітня історія, Історія України</param>
+<param name="Мова">українська</param>
+<param name="Вік">9 клас</param>
+<param name="Тип">Контурні карти</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет, двоколірна</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9789669915436</param>
+<param name="Видавництво">Оріон</param></offer>
+<offer id="33293" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Атлас Оріон Географія: Україна та світове господарство 9 клас Руденко, 2026 рік</name>
+<vendorCode>9789669915443</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/9-klas-2/nush-atlas-orion-heohrafiia-ukraina-ta-svitove-hospodarstvo-9-klas-rudenko-2026-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>51</categoryId>
+<price>150</price>
+<picture>https://knigovan.com/image/catalog/products/33293/nush-atlas-or-on-geograf-ya-ukra-na-priroda-prirodokoristuvannya-8-klas-rudenko-s-2025-r-k-1.jpeg</picture>
+<vendor>Оріон</vendor>
+<description>
+<![CDATA[Атлас Географія: Україна та світове господарство. 9 клас НУШ Атлас допомагає наочно працювати з географічною інформацією та досліджувати особливості розміщення населення, господарства, країн і регіонів. За тематичними картами учні можуть порівнювати території, аналізувати відмінності їхнього розвитку та простежувати взаємозв’язки між природними, демографічними й економічними процесами.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Руденко І. С.</param>
+<param name="Мова">українська</param>
+<param name="Вік">9 клас</param>
+<param name="Тип">Атлас</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9789669915443</param>
+<param name="Формат, розмір">220х280 мм</param>
+<param name="Видавництво">Оріон</param></offer>
+<offer id="33294" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Контурні карти Оріон Географія: Україна та світове господарство 9 клас Руденко, 2026 рік</name>
+<vendorCode>9789669915450</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/9-klas-2/nush-konturni-karty-orion-heohrafiia-ukraina-ta-svitove-hospodarstvo-9-klas-rudenko-2026-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>51</categoryId>
+<price>50</price>
+<picture>https://knigovan.com/image/catalog/products/33294/nush-konturn-karti-or-on-ukra-na-priroda-prirodokoristuvannya-geograf-ya-8-klas-rudenko-s-2025-r-k-1.jpeg</picture>
+<vendor>Оріон</vendor>
+<description>
+<![CDATA[Географія. Контурні карти Географія: Україна та світове господарство 9 клас НУШ Контурні карти призначені для практичного опрацювання навчального матеріалу. З їхньою допомогою учні наносять географічні об’єкти, позначають території та кордони, працюють з умовними знаками, створюють легенди карт і закріплюють знання, отримані під час роботи з підручником та атласом. Кількість карт і їхня тематика дозволяють виконати всі практичні роботи, рекомендовані діючою навчальною програмою.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Руденко І.С.</param>
+<param name="Предмет">Географія</param>
+<param name="Мова">українська</param>
+<param name="Вік">9 клас</param>
+<param name="Тип">Контурні карти</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет, двоколірна</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9789669915450</param>
+<param name="Формат, розмір">220х280 мм</param>
+<param name="Видавництво">Оріон</param></offer></offers></shop></yml_catalog>
