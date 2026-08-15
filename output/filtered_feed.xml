@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-08-14 00:00">
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-08-15 00:00">
 <shop>
 <url>https://knigovan.com/</url>
 <name>Книгован</name>
@@ -2225,7 +2225,7 @@
 <vendorCode>9789669464859</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/5-klas-2/nush-atlas-z-konturnymy-kartamy-piznaiemo-pryrodu-5-6-klas-kartohrafiia/</url>
 <currencyId>UAH</currencyId>
-<categoryId>47</categoryId>
+<categoryId>56</categoryId>
 <price>150</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24075/nush_atlas_z_konturnimi_kartami_pizna_mo_prirodu_5_6_klas_kartografiya.jpg</picture>
 <vendor>Картографія</vendor>
@@ -2851,42 +2851,19 @@
 
 
 
-<offer id="24174" available="true" in_stock="true" selling_type="r" >
-<name>ЗНО/НМТ 2026 Комплексне видання Пiдручники i посiбники Українська мова (Білецька, Шумка)</name>
-<vendorCode>9786178678050</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/zno-nmt-2026-kompleksne-vydannia-pidruchnyky-i-posibnyky-ukrainska-mova-biletska-shumka/</url>
-<currencyId>UAH</currencyId>
-<categoryId>71</categoryId>
-<price>425</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/24174/zno_nmt_2026_kompleksne_vidannya_pidruchniki_i_posibniki_ukra_nska_mova_biletska_shumka.jpg</picture>
-<vendor>Пiдручники i посiбники</vendor>
-<description>
-<![CDATA[​Українська мова. Комплексна підготовка до ЗНО/НМТ 2026 (Білецька, Шумка) Посібник призначений для підготовки до ЗНО/НМТ з української мови. Він укладений відповідно до чинної програми з української мови для закладів загальної середньої освіти та програми ЗНО з української мови.   Для старшокласників, вступників до вищих навчальних закладів, учителів та всіх, хто цікавиться українською мовою.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Автор">Білецька О., Шумка М.</param>
-<param name="Мова">українська</param>
-<param name="Вік">9-11 класи</param>
-<param name="Тип">Посібник по ЗНО/НМТ</param>
-<param name="Серія">Підготовка до ЗНО</param>
-<param name="Кількість сторінок">416</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">офсет, чорно-біла</param>
-<param name="Тип обкладинки">м&apos;яка, ламінована</param>
-<param name="ISBN">9786178678050</param>
-<param name="Формат, розмір">А4 (210*300 мм)</param>
-<param name="Видавництво">Підручники і посібники</param></offer>
+
 <offer id="24175" available="true" in_stock="true" selling_type="r" >
 <name>ЗНО/НМТ 2026 Комплексне видання Пiдручники i посiбники Українська література Витвицька</name>
-<vendorCode>9789660742956</vendorCode>
+<vendorCode>978966074295</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/zno-nmt-2026-kompleksne-vydannia-pidruchnyky-i-posibnyky-ukrainska-literatura-vytvytska/</url>
 <currencyId>UAH</currencyId>
 <categoryId>71</categoryId>
-<price>425</price>
+<price>365</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24175/zno_nmt_2026_kompleksne_vidannya_pidruchniki_i_posibniki_ukra_nska_literatura_vitvitska.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[Українська література. Комплексна підготовка до ЗНО/НМТ 2026 Посібник містить теоретичний матеріал, тестові завдання різних рівнів складності, лайфхаки до творів та електронний літературний контент за QR-кодами. Зміст матеріалів відповідає вимогам чинної Програми зовнішнього незалежного оцінювання з української літератури.   Для абітурієнтів, учнів 11 класу, учителів української мови та літератури.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Автор">Витвицька С.</param>
 <param name="Мова">українська</param>
 <param name="Вік">11 клас</param>
@@ -2924,30 +2901,7 @@
 <param name="ISBN">9789660745681</param>
 <param name="Формат, розмір">А4 (210*300 мм)</param>
 <param name="Видавництво">Підручники і посібники</param></offer>
-<offer id="24177" available="true" in_stock="true" selling_type="r" >
-<name>ЗНО/НМТ 2026 Комплексне видання Пiдручники i посiбники Фізика (Струж, Мацюк, Остап’юк)</name>
-<vendorCode>9789660737372</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/zno-nmt-2026-kompleksne-vydannia-pidruchnyky-i-posibnyky-fizyka-struzh-matsiuk-ostap-iuk/</url>
-<currencyId>UAH</currencyId>
-<categoryId>71</categoryId>
-<price>365</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/24177/zno_nmt_2026_kompleksne_vidannya_pidruchniki_i_posibniki_fizika_struzh_matsyuk_ostap_yuk.jpg</picture>
-<vendor>Пiдручники i посiбники</vendor>
-<description>
-<![CDATA[Фізика. Комплексна підготовка до ЗНО/НМТ 2026 (Струж Н., Мацюк В., Остап’юк С.) Посібник містить довідковий матеріал, тестові завдання та задачі різних рівнів складності з фізики. Зміст матеріалів відповідає вимогам чинної Програми зовнішнього незалежного оцінювання та чинних навчальних програм з фізики.   Для абітурієнтів, учнів 11 класу, учителів фізики.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Автор">Струж Н., Мацюк В., Остап’юк С.</param>
-<param name="Мова">українська</param>
-<param name="Вік">11 клас</param>
-<param name="Тип">Посібник по ЗНО/НМТ</param>
-<param name="Серія">Підготовка до ЗНО/НМТ</param>
-<param name="Кількість сторінок">496</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">офсет, чорно-біла</param>
-<param name="Тип обкладинки">м&apos;яка, ламінована</param>
-<param name="ISBN">9789660737372</param>
-<param name="Формат, розмір">А4 (210*300 мм)</param>
-<param name="Видавництво">Підручники і посібники</param></offer>
+
 <offer id="24178" available="true" in_stock="true" selling_type="r" >
 <name>ЗНО/НМТ 2026 Комплексне видання Пiдручники i посiбники Німецька мова Грицюк І.</name>
 <vendorCode>9789660737013</vendorCode>
@@ -2999,7 +2953,30 @@
 <param name="Видавництво">Підручники і посібники</param></offer>
 
 
-
+<offer id="24182" available="true" in_stock="true" selling_type="r" >
+<name>Підготовка до ЗНО Пiдручники i посiбники Історія України Таблиці і схеми Земерова Т. (2024 рік)</name>
+<vendorCode>9789660743540</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/pidhotovka-do-zno-pidruchnyky-i-posibnyky-istoriia-ukrainy-tablytsi-i-skhemy-zemerova-t-2024-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>71</categoryId>
+<price>350</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/24182/pidgotovka_do_zno_pidruchniki_i_posibniki_istoriya_ukra_ni_tablitsi_i_shemi_zemerova_t_2024_rik.jpg</picture>
+<vendor>Пiдручники i посiбники</vendor>
+<description>
+<![CDATA[Історія України. Таблиці та схеми Посібник містить навчальний матеріал зі шкільного курсу історії України у вигляді таблиць і схем і повною мірою відповідає чинній навчальній програмі. Видання розраховане на учнів, абітурієнтів і вчителів історії.]]></description>
+<quantity_in_stock>5</quantity_in_stock>
+<param name="Автор">Земерова Т.</param>
+<param name="Мова">українська</param>
+<param name="Вік">старша школа</param>
+<param name="Тип">Посібник по ЗНО/НМТ</param>
+<param name="Серія">Підготовка до ЗНО/НМТ</param>
+<param name="Кількість сторінок">496</param>
+<param name="Рік видання">2024</param>
+<param name="Тип паперу">офсет, чорно-біла</param>
+<param name="Тип обкладинки">м&apos;яка, ламінована</param>
+<param name="ISBN">9789660743540</param>
+<param name="Формат, розмір">В5 (180*250 мм)</param>
+<param name="Видавництво">Підручники і посібники</param></offer>
 <offer id="24183" available="true" in_stock="true" selling_type="r" >
 <name>Довідничок- помічничок Геометричний тренажер 8 клас А5</name>
 <vendorCode>9789660730021</vendorCode>
@@ -4308,54 +4285,8 @@
 
 
 
-<offer id="24331" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Англійські прописи Школа Напівдрукований шрифт Федієнко</name>
-<vendorCode>978-966-429-085-9</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nush-anhliiski-propysy-shkola-napivdrukovanyi-shryft-fediienko/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>50</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/24331/nush_angliyski_propisi_shkola_napivdrukovaniy_shrift_fedi_nko.jpg</picture>
-<vendor>Школа</vendor>
-<description>
-<![CDATA[НУШ Англійські прописи. Напівдрукований шрифт.  Прописи допоможуть маленькому учневі опанувати навички правильного написання друкованих і великих літер англійського алфавіту. Спеціально розроблені шрифти відповідають світовим стандартам, а блакитний колір та оптимальна товщина ліній зменшують навантаження на зір.   Додаткові завдання допоможуть дитині краще запам'ятати графічні образи вивчених літер і зроблять цікавішими заняття. Розташування літер в алфавітному порядку дозволяє використовувати зошит із будь-яким підручником з англійської мови, де літери вивчаються в такій послідовності.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">В. Федієнко</param>
-<param name="Мова">українська, англійська</param>
-<param name="Вік">6+</param>
-<param name="Тип">Прописи</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-966-429-085-9</param>
-<param name="Формат, розмір">А-5</param>
-<param name="Видавництво">Школа</param></offer>
-<offer id="24332" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Англійські прописи Школа Каліграфічний шрифт Федієнко</name>
-<vendorCode>978-966-429-095-8</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nush-anhliiski-propysy-shkola-kalihrafichnyi-shryft-fediienko/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>50</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/24332/nush_angliyski_propisi_shkola_kaligrafichniy_shrift_fedi_nko.jpg</picture>
-<vendor>Школа</vendor>
-<description>
-<![CDATA[НУШ Англійські прописи. Каліграфічний шрифт.  Прописи допоможуть маленькому учневі опанувати навички правильного написання друкованих і великих літер англійського алфавіту. Спеціально розроблені шрифти відповідають світовим стандартам, а блакитний колір та оптимальна товщина ліній зменшують навантаження на зір.  Додаткові завдання допоможуть дитині краще запам'ятати графічні образи вивчених літер і зроблять цікавішими заняття. Розташування літер в алфавітному порядку дозволяє використовувати зошит із будь-яким підручником з англійської мови, де літери вивчаються в такій послідовності.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">В. Федієнко</param>
-<param name="Мова">українська, англійська</param>
-<param name="Вік">6+</param>
-<param name="Тип">Прописи</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-966-429-095-8</param>
-<param name="Формат, розмір">А-5</param>
-<param name="Видавництво">Школа</param></offer>
+
+
 <offer id="24333" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Каліграфічний зошит-шаблон Школа Збільшений розмір графічної сітки Синій</name>
 <vendorCode>9786178106324</vendorCode>
@@ -8051,7 +7982,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[В посібнику " НУШ. Альбом-посібник Маленький трудівничок. Трудове навчання 1 клас " запропоновано творчі завдання з трудового навчання (дизайну і технологій), розроблені відповідно до Типових освітніх програм МОН України (О.  Савченко та Р. Шияна) для 1 класу, спрямовані на розвиток універсальних творчих якостей  і  сенсорних здібностей учнів.         Для учнів першого класу, учителів початкових класів,  батьків.]]></description>
-<quantity_in_stock>61</quantity_in_stock>
+<quantity_in_stock>60</quantity_in_stock>
 <param name="Автор">Роговська Л.</param>
 <param name="Мова">українська</param>
 <param name="Вік">1 клас</param>
@@ -10464,7 +10395,7 @@
 <vendor>Освіта-Центр</vendor>
 <description>
 <![CDATA[Мистецтво 1 клас НУШ. Робочий зошит-альбом до підручника Калiнiченко. Робочий зошит-альбом «Мистецтво. Мої перші творчі кроки» схвалено для використання у закладах загальної середньої освіти комісією дисциплін художньо-естетичного циклу Науково-методичної ради з питань освіти МОНУ (Лист ІМЗО від 02.07.2018 №22.1/12-Г-467).  Зошит містить поурочні розробки, інструкції, шаблони. Зміст завдань налаштований на інтереси і потреби учнів, доцільно встановлює зв’язки з іншими освітніми галузями, відтворює шкільний, природний, народний і державний календарі, місцеві традиції та звичаї. Виконуючи завдання, учні навчаться створювати прості графічні примітиви, зможуть проявити творчіть та фантазію. У зошиті використано репродукції відомих художників та запитання для їх обговорення у форматі фасилітованої дискусії.      Посібник призначений для учнів 1 класу, вчителів початкової школи та небайдужих батьків.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Калініченко О.В., Аристова С.В., Масол Л.М.</param>
 <param name="Мова">українська</param>
 <param name="Вік">1 клас</param>
@@ -14526,29 +14457,7 @@
 
 
 
-<offer id="25574" available="true" in_stock="true" selling_type="r" >
-<name>Англійська мова 10 клас. Робочий зошит до підручника Карпюк (2025 рік)</name>
-<vendorCode>9786170948366</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/10-klas-1/anhliiska-mova-10-klas-robochyi-zoshyt-do-pidruchnyka-karpiuk-2025-rik/</url>
-<currencyId>UAH</currencyId>
-<categoryId>52</categoryId>
-<price>125</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/25574/angliyska_mova_10_klas_robochiy_zoshit_do_pidruchnika_karpyuk_2025_rik.jpg</picture>
-<vendor>Ранок</vendor>
-<description>
-<![CDATA[Робочий зошит, укладений до підручника О. Д. Карп'юк «Англійська мова 10 клас», відповідає чинній програмі з іноземних мов для 10 класу загальноосвітніх навчальних закладів з урахуванням останніх змін. Різноманітні завдання ґрунтуються на комунікативному підході й призначені для більш детального опрацювання учнями навчального матеріалу на уроках і вдома. Виконання інтерактивних вправ, посилання на які пропонуються в зошиті, сприятиме підвищенню інтересу школярів до вивчення англійської мови. У мовному портфоліо для самоконтролю навчальних досягнень втілені новітні світові тенденції мовної освіти.   Для учнів загальноосвітніх шкіл, учителів англійської мови.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Автор">Ходаковська О.О.</param>
-<param name="Мова">українська, англійська</param>
-<param name="Вік">10 клас</param>
-<param name="Тип">Робочий зошит</param>
-<param name="Кількість сторінок">80</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">офсет, чорно-біла</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786170948366</param>
-<param name="Формат, розмір">200x260 мм</param>
-<param name="Видавництво">Ранок</param></offer>
+
 
 
 
@@ -14880,7 +14789,7 @@
 <vendorCode>978-617-7485-82-6</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/nush-atlas-konturni-karty-orion-ya-doslidzhuiu-svit-1-2-klas-hilberh/</url>
 <currencyId>UAH</currencyId>
-<categoryId>14</categoryId>
+<categoryId>13</categoryId>
 <price>80</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25626/nush_atlas_konturni_karti_orion_ya_doslidzhuyu_svit_1_2_klas_gilberg.jpg</picture>
 <vendor>Оріон</vendor>
@@ -20342,7 +20251,6 @@
 <currencyId>UAH</currencyId>
 <categoryId>71</categoryId>
 <price>425</price>
-<picture>https://knigovan.com/image/catalog/products/26255/zno-nmt-2026-kompleksne-vidannya-pidruchniki-i-posibniki-stor-ya-ukra-ni-gor-panchuk-1.jpeg</picture>
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[Історія України. Комплексна підготовка до ЗНО/НМТ 2027 (Ігор Панчук) Пропонований посібник призначено для самостійної підготовки до ЗНО та ДПА з історії України, а також для поурочної роботи. Він укладений відповідно до чинної програми з історії України для закладів загальної середньої освіти та чинної програми ЗНО. У виданні представлено теоретичні відомості, різноманітні словниково-довідкові й інші допоміжні матеріали та тестові завдання з історії України (від найдавніших часів до наших днів) з відповідями, що дають змогу здійснити перевірку знань, умінь і навичок з цього курсу.  Для випускників, абітурієнтів, учнів та вчителів закладів загальної середньої освіти.]]></description>
@@ -22699,7 +22607,7 @@
 <vendorCode>9789662848915</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/virshyky-zahadky-ula-vyrushai-u-podorozh/</url>
 <currencyId>UAH</currencyId>
-<categoryId>139</categoryId>
+<categoryId>138</categoryId>
 <price>45</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26433/virshiki_zagadki_ula_virushay_u_podorozh.jpg</picture>
 <vendor>УЛА</vendor>
@@ -22722,7 +22630,7 @@
 <vendorCode>9789662848922</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/virshyky-zahadky-ula-nahodui-tvarynok/</url>
 <currencyId>UAH</currencyId>
-<categoryId>139</categoryId>
+<categoryId>138</categoryId>
 <price>45</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26434/virshiki_zagadki_ula_nagoduy_tvarinok.jpg</picture>
 <vendor>УЛА</vendor>
@@ -22745,7 +22653,7 @@
 <vendorCode>9789662848939</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/virshyky-zahadky-ula-upiznai-maliuka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>139</categoryId>
+<categoryId>138</categoryId>
 <price>45</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26435/virshiki_zagadki_ula_upiznay_malyuka.jpg</picture>
 <vendor>УЛА</vendor>
@@ -27946,102 +27854,10 @@
 <param name="ISBN">9789669399533</param>
 <param name="Формат, розмір">60*84 1/8</param>
 <param name="Видавництво">Торсiнг</param></offer>
-<offer id="26930" available="true" in_stock="true" selling_type="r" >
-<name>Я читаю самостійно Торсінг Великий шрифт Той хто боявся темряви</name>
-<vendorCode>9789669399861</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/1-klas-1/ya-chytaiu-samostiino-torsinh-velykyi-shryft-toi-khto-boiavsia-temriavy/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>54</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/26930/ya_chitayu_samostiyno_torsing_velikiy_shrift_toy_hto_boyavsya_temryavi.jpg</picture>
-<vendor>Торсінг</vendor>
-<description>
-<![CDATA[Я читаю самостійно Великий шрифт Той хто боявся темряви.  У період опанування дітьми самостійного читання немає нічого кращого за якісну дитячу літературу! Саме такі історії ми пропонуємо у цій книжці. Вона складається з сучасних казок із захопливим сюжетом, який обов'язково сподобається дітям. А щоб маленькі читачі не перенапружували зір, підібрано казкові історії оптимальні за обсягом і надруковано їх великим шрифтом. Ці книжечки допоможуть набути навичок свідомого читання, розширити словниковий запас, розвинути почуттся гумору, і найголовніше - отримати задоволення від читання. Читайте з насолодою!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Майборода О.В.</param>
-<param name="Мова">українська</param>
-<param name="Вік">6+</param>
-<param name="Тип">Книжка для читання</param>
-<param name="Серія">Я читаю самостійно</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">тверда</param>
-<param name="ISBN">9789669399861</param>
-<param name="Формат, розмір">17х23 см</param>
-<param name="Видавництво">Торсiнг</param></offer>
-<offer id="26931" available="true" in_stock="true" selling_type="r" >
-<name>Я читаю самостійно Торсінг Великий шрифт Таємниця розбитого дзеркала</name>
-<vendorCode>9789669399892</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/1-klas-1/ya-chytaiu-samostiino-torsinh-velykyi-shryft-taiemnytsia-rozbytoho-dzerkala/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>54</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/26931/ya_chitayu_samostiyno_torsing_velikiy_shrift_ta_mnitsya_rozbitogo_dzerkala.jpg</picture>
-<vendor>Торсінг</vendor>
-<description>
-<![CDATA[Я читаю самостійно Великий шрифт Таємниця розбитого дзеркала.  У період опанування дітьми самостійного читання немає нічого кращого за якісну дитячу літературу! Саме такі історії ми пропонуємо у цій книжці. Вона складається з сучасних казок із захопливим сюжетом, який обов'язково сподобається дітям. А щоб маленькі читачі не перенапружували зір, підібрано казкові історії оптимальні за обсягом і надруковано їх великим шрифтом. Ці книжечки допоможуть набути навичок свідомого читання, розширити словниковий запас, розвинути почуттся гумору, і найголовніше - отримати задоволення від читання. Читайте з насолодою!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Майборода О.В.</param>
-<param name="Мова">українська</param>
-<param name="Вік">6+</param>
-<param name="Тип">Книжка для читання</param>
-<param name="Серія">Я читаю самостійно</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">тверда</param>
-<param name="ISBN">9789669399892</param>
-<param name="Формат, розмір">17х23 см</param>
-<param name="Видавництво">Торсiнг</param></offer>
-<offer id="26932" available="true" in_stock="true" selling_type="r" >
-<name>Я читаю самостійно Торсінг Великий шрифт Хто вкрав сніг</name>
-<vendorCode>9789669399885</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/1-klas-1/ya-chytaiu-samostiino-torsinh-velykyi-shryft-khto-vkrav-snih/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>54</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/26932/ya_chitayu_samostiyno_torsing_velikiy_shrift_hto_vkrav_snig.jpg</picture>
-<vendor>Торсінг</vendor>
-<description>
-<![CDATA[Я читаю самостійно Великий шрифт Хто вкрав сніг?  У період опанування дітьми самостійного читання немає нічого кращого за якісну дитячу літературу! Саме такі історії ми пропонуємо у цій книжці. Вона складається з сучасних казок із захопливим сюжетом, який обов'язково сподобається дітям. А щоб маленькі читачі не перенапружували зір, підібрано казкові історії оптимальні за обсягом і надруковано їх великим шрифтом. Ці книжечки допоможуть набути навичок свідомого читання, розширити словниковий запас, розвинути почуттся гумору, і найголовніше - отримати задоволення від читання. Читайте з насолодою!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Майборода О.В.</param>
-<param name="Мова">українська</param>
-<param name="Вік">6+</param>
-<param name="Тип">Книжка для читання</param>
-<param name="Серія">Я читаю самостійно</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">тверда</param>
-<param name="ISBN">9789669399885</param>
-<param name="Формат, розмір">17х23 см</param>
-<param name="Видавництво">Торсiнг</param></offer>
-<offer id="26933" available="true" in_stock="true" selling_type="r" >
-<name>Я читаю самостійно Торсінг Великий шрифт Школа крилатих піратів</name>
-<vendorCode>9789669399878</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/1-klas-1/ya-chytaiu-samostiino-torsinh-velykyi-shryft-shkola-krylatykh-pirativ/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>54</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/26933/ya_chitayu_samostiyno_torsing_velikiy_shrift_shkola_krilatih_pirativ.jpg</picture>
-<vendor>Торсінг</vendor>
-<description>
-<![CDATA[Я читаю самостійно Великий шрифт Школа крилатих піратів.  У період опанування дітьми самостійного читання немає нічого кращого за якісну дитячу літературу! Саме такі історії ми пропонуємо у цій книжці. Вона складається з сучасних казок із захопливим сюжетом, який обов'язково сподобається дітям. А щоб маленькі читачі не перенапружували зір, підібрано казкові історії оптимальні за обсягом і надруковано їх великим шрифтом. Ці книжечки допоможуть набути навичок свідомого читання, розширити словниковий запас, розвинути почуттся гумору, і найголовніше - отримати задоволення від читання. Читайте з насолодою!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Майборода О.В.</param>
-<param name="Мова">українська</param>
-<param name="Вік">6+</param>
-<param name="Тип">Книжка для читання</param>
-<param name="Серія">Я читаю самостійно</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">тверда</param>
-<param name="ISBN">9789669399878</param>
-<param name="Формат, розмір">17х23 см</param>
-<param name="Видавництво">Торсiнг</param></offer>
+
+
+
+
 
 
 
@@ -30044,78 +29860,9 @@
 <param name="ISBN">978-966-429-616-5</param>
 <param name="Формат, розмір">210 х 165 х 5 мм</param>
 <param name="Видавництво">Школа</param></offer>
-<offer id="27160" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Англійські прописи Школа Експрес-шаблон Федієнко</name>
-<vendorCode>978-966-429-617-2</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nush-anhliiski-propysy-shkola-ekspres-shablon-fediienko/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>45</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27160/nush_angliyski_propisi_shkola_ekspres_shablon_fedi_nko.jpg</picture>
-<vendor>Школа</vendor>
-<description>
-<![CDATA[НУШ. Англійські прописи. Експрес-шаблон. Завдяки використаному в зошиту унікальному запатентованому графічному шаблону - частої косої лінії - дитина зможе стандартизувати не тільки висоту, а й ширину букв і елементів, привчиться дотримуватися однакового нахилу букв і відстані між словами. А ретельно підібрані завдання на обведення та копіювання допоможуть відпрацювати різні види з'єднань.    Бажаємо успіхів і пам'ятайте, що гарний почерк дитини - це результат кропіткої спільної роботи дитини, педагогів та батьків!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Федієнко В.</param>
-<param name="Мова">українська, англійська</param>
-<param name="Вік">6+</param>
-<param name="Тип">Прописи</param>
-<param name="Серія">Експрес-шаблон</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-966-429-617-2</param>
-<param name="Формат, розмір">210 х 165 х 5 мм</param>
-<param name="Видавництво">Школа</param></offer>
-<offer id="27161" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Англійські прописи Школа Каліграфічний шрифт Експрес-шаблон Федієнко</name>
-<vendorCode>978-966-429-697-4</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nush-anhliiski-propysy-shkola-kalihrafichnyi-shryft-ekspres-shablon-fediienko/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>45</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27161/nush_angliyski_propisi_shkola_kaligrafichniy_shrift_ekspres_shablon_fedi_nko.jpg</picture>
-<vendor>Школа</vendor>
-<description>
-<![CDATA[НУШ. Англійські прописи. Каліграфічний шрифт. Експрес-шаблон. Ідея посібників серії «Експрес-шаблон» – максимум користі при невеликому обсязі.   Наші зошити відрізняються високою якістю методичного наповнення та поліграфічного виконання.  Колір та товщина ліній підібрані таким чином, щоб зменшити навантаження на зір дитини та зробити навчальний процес якомога комфортнішим.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Федієнко В.</param>
-<param name="Мова">українська, англійська</param>
-<param name="Вік">6+</param>
-<param name="Тип">Прописи</param>
-<param name="Серія">Експрес-шаблон</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-966-429-697-4</param>
-<param name="Формат, розмір">210 х 165 х 5 мм</param>
-<param name="Видавництво">Школа</param></offer>
-<offer id="27162" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Англійські прописи Школа Напівдруковані та каліграфічні шрифти Федієнко</name>
-<vendorCode>978-966-429-564-9</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nush-anhliiski-propysy-shkola-napivdrukovani-ta-kalihrafichni-shryfty-fediienko/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>65</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27162/nush_angliyski_propisi_shkola_napivdrukovani_ta_kaligrafichni_shrifti_fedi_nko.jpg</picture>
-<vendor>Школа</vendor>
-<description>
-<![CDATA[НУШ Англійські прописи. Напівдруковані та каліграфічні шрифти.  Прописи, що пропонуються, допоможуть усім охочим оволодіти навичками правильного написання великих і друкованих літер англійського алфавіту. Спеціально розроблені завдання допоможуть краще засвоїти графічні образи літер і зроблять цікавішими заняття.  Посібник адресований всім, хто бажає навчитися писати англійською правильно та із задоволенням.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Федієнко В.</param>
-<param name="Мова">українська, англійська</param>
-<param name="Вік">6+</param>
-<param name="Тип">Прописи</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">56</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-966-429-564-9</param>
-<param name="Формат, розмір">210 х 165 х 4 мм</param>
-<param name="Видавництво">Школа</param></offer>
+
+
+
 <offer id="27163" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Комплект Першокласні каліграфічні прописи До всіх букварів Частина 1 та 2 Школа Федієнко</name>
 <vendorCode>9789664296424, 9789664296431</vendorCode>
@@ -33703,7 +33450,7 @@
 <vendor>Алатон</vendor>
 <description>
 <![CDATA[НУШ Зошит-практикум Я досліджую світ 3 клас Частина 1 (Воронцова Т. Пономаренко В. Хомич О.)  Створено відповідно до Державного стандарту початкової освіти, затвердженого постановою Кабінету Міністрів України від 21.02.2018 No 87.  Може використовуватися у школах, що працюють за чинними типовими освітніми програмами. Він є частиною авторського навчально? методичного комплекту, до якого також входять: підручник, календарне планування за обома типовими освітніми програмами, методичний посібник для вчителя, відеоматеріали для учнів за темою кожного тижня, діагностичні роботи тощо. Схвалено для використання у закладах загальної середньої освіти комісією з педагогіки та методики початкового навчання Науково-методичної ради з питань освіти Міністерства освіти і науки України (Лист ІМЗО від 25.05.2020 No 22.1/12-Г-288).]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Воронцова Т. Пономаренко В. Хомич О.</param>
 <param name="Предмет">Я досліджую світ</param>
 <param name="Мова">українська</param>
@@ -33728,7 +33475,7 @@
 <vendor>Алатон</vendor>
 <description>
 <![CDATA[НУШ Зошит-практикум Я досліджую світ 3 клас Частина 2 (Воронцова Т. Пономаренко В. Хомич О.)  Зошит-практикум є частиною авторського навчально-методичного комплекту, до якого також входять: підручник, календарне планування за обома типовими освітніми програмами, методичний посібник для вчителя, відеоматеріали для учнів за темою кожного тижня, діагностичні роботи тощо. Схвалено для використання у закладах загальної середньої освіти комісією з педагогіки та методики початкового навчання Науково-методичної ради з питань освіти Міністерства освіти і науки України (Лист ІМЗО від 25.05.2020 No 22.1/12-Г-288).]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Воронцова Т. Пономаренко В. Хомич О.</param>
 <param name="Предмет">Я досліджую світ</param>
 <param name="Мова">українська</param>
@@ -34962,56 +34709,8 @@
 <param name="ISBN">978-966-945-299-3</param>
 <param name="Формат, розмір">70х100/16</param>
 <param name="Видавництво">Літера</param></offer>
-<offer id="27581" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Робочий зошит Літера Математика 4 клас Частина 1 до підручника Логачевська</name>
-<vendorCode>978-966-945-292-4</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-robochyi-zoshyt-litera-matematyka-4-klas-chastyna-1-do-pidruchnyka-lohachevska/</url>
-<currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
-<price>90</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27581/nush_robochiy_zoshit_litera_matematika_4_klas_chastina_1_do_pidruchnika_logachevska.jpg</picture>
-<vendor>Літера</vendor>
-<description>
-<![CDATA[НУШ. Робочий зошит з математики. 4 клас. Частина 1 (до підручника Логачевська С.П. та ін.)  Навчальний посібник призначено для закріплення учнями знань, умінь і навичок, отриманих під час вивчення математичних тем у підручнику.  Увесь матеріал згруповано відповідно до розділів підручника.  Унизу сторінки зошита зазначено, яким сторінкам у підручнику вона відповідає.]]></description>
-<quantity_in_stock>30</quantity_in_stock>
-<param name="Автор">Киричук В.О.</param>
-<param name="Предмет">Математика</param>
-<param name="Мова">українська</param>
-<param name="Вік">4 клас</param>
-<param name="Тип">Робочий зошит</param>
-<param name="Серія">Нова українська школа</param>
-<param name="Кількість сторінок">64</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-966-945-292-4</param>
-<param name="Формат, розмір">70х100/16</param>
-<param name="Видавництво">Літера</param></offer>
-<offer id="27582" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Робочий зошит Літера Математика 4 клас Частина 2 до підручника Логачевська</name>
-<vendorCode>978-966-945-306-8</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-robochyi-zoshyt-litera-matematyka-4-klas-chastyna-2-do-pidruchnyka-lohachevska/</url>
-<currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
-<price>90</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27582/nush_robochiy_zoshit_litera_matematika_4_klas_chastina_2_do_pidruchnika_logachevska.jpg</picture>
-<vendor>Літера</vendor>
-<description>
-<![CDATA[НУШ. Робочий зошит з математики. 4 клас. Частина 2 (до підручника Логачевська С.П. та ін.)  Навчальний посібник призначено для закріплення учнями знань, умінь і навичок, отриманих під час вивчення математичних тем у підручнику.  Увесь матеріал згруповано відповідно до розділів підручника.  Унизу сторінки зошита зазначено, яким сторінкам у підручнику вона відповідає.  Зошит містить: різноманітні вправи на закріплення навчального матеріалу підручника завдання для розвитку фінансової грамотності, аналітичного і критичного мислення]]></description>
-<quantity_in_stock>30</quantity_in_stock>
-<param name="Автор">Киричук В.О.</param>
-<param name="Предмет">Математика</param>
-<param name="Мова">українська</param>
-<param name="Вік">4 клас</param>
-<param name="Тип">Робочий зошит</param>
-<param name="Серія">Нова українська школа</param>
-<param name="Кількість сторінок">80</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-966-945-306-8</param>
-<param name="Формат, розмір">70х100/16</param>
-<param name="Видавництво">Літера</param></offer>
+
+
 
 
 <offer id="27585" available="true" in_stock="true" selling_type="r" >
@@ -35188,57 +34887,9 @@
 <param name="ISBN">978-966-945-252-8</param>
 <param name="Формат, розмір">70х100/16</param>
 <param name="Видавництво">Літера</param></offer>
-<offer id="27594" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Дидактичні картки Літера Я досліджую світ природнича галузь 4 клас Іщенко</name>
-<vendorCode>978-966-945-293-1</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-dydaktychni-kartky-litera-ya-doslidzhuiu-svit-pryrodnycha-haluz-4-klas-ishchenko/</url>
-<currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
-<price>50</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27594/nush_didaktichni_kartki_litera_ya_doslidzhuyu_svit_prirodnicha_galuz_4_klas_ishchenko.jpg</picture>
-<vendor>Літера</vendor>
-<description>
-<![CDATA[НУШ. Дидактичні картки "Я досліджую світ" (природнича галузь). 4 клас. Іщенко О. Л.  Посібник призначений для організації спостереження і словесного оцінювання результатів навчання згідно з Державним стандартом початкової освіти з метою підтримки поступу учнів та ухвалення рішення щодо необхідної корекції. Кожна картка має два варіанти, один із яких виконує учень. Другий варіант можна використати, якщо потрібно здійснити коригувальну роботу. Пропоновані «Діагностичні картки» є частиною серії, до якої також входять «Діагностичні картки з математики» та «Діагностичні картки з української мови».]]></description>
-<quantity_in_stock>30</quantity_in_stock>
-<param name="Автор">Іщенко О. Л.</param>
-<param name="Предмет">Я досліджую світ</param>
-<param name="Мова">українська</param>
-<param name="Вік">4 клас</param>
-<param name="Тип">Діагностичні картки</param>
-<param name="Серія">Нова українська школа</param>
-<param name="Кількість сторінок">64</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, чорно-біла</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-966-945-293-1</param>
-<param name="Формат, розмір">90х60/16</param>
-<param name="Видавництво">Літера</param></offer>
 
-<offer id="27596" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Діагностичні картки Літера Українська мова 4 клас Шевчук</name>
-<vendorCode>978-966-945-272-6</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-diahnostychni-kartky-litera-ukrainska-mova-4-klas-shevchuk/</url>
-<currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
-<price>40</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27596/nush_diagnostichni_kartki_litera_ukra_nska_mova_4_klas_shevchuk.jpg</picture>
-<vendor>Літера</vendor>
-<description>
-<![CDATA[НУШ. Діагностичні картки з української мови. 4 клас. Шевчук Л.В.  Посібник містить 16 карток у двох варіантах для проведення формувального оцінювання навчальних досягнень з української мови учнів 4-го класу. Видання відповідає Державному стандарту початкової освіти та типовим навчальним програмам.]]></description>
-<quantity_in_stock>30</quantity_in_stock>
-<param name="Автор">Шевчук Л.В.</param>
-<param name="Предмет">Українська мова</param>
-<param name="Мова">українська</param>
-<param name="Вік">4 клас</param>
-<param name="Тип">Дидактичні картки</param>
-<param name="Серія">Нова українська школа</param>
-<param name="Кількість сторінок">64</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, чорно-біла</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-966-945-272-6</param>
-<param name="Формат, розмір">90х60/16</param>
-<param name="Видавництво">Літера</param></offer>
+
+
 <offer id="27597" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Читаємо в колі друзів Літера Посібник для читання 4 клас Антонова Буглак</name>
 <vendorCode>978-966-945-264-1</vendorCode>
@@ -38908,98 +38559,10 @@
 <param name="ISBN">9786175441367</param>
 <param name="Формат, розмір">21×30,5 см</param>
 <param name="Видавництво">Ула</param></offer>
-<offer id="27919" available="true" in_stock="true" selling_type="r" >
-<name>Каліграфія для відмінника УЛА Чистописання</name>
-<vendorCode>9786175441268</vendorCode>
-<url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafiia-dlia-vidminnyka-ula-chystopysannia/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>44</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27919/kaligrafiya_dlya_vidminnika_ula_chistopisannya.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Каліграфія для відмінника — Чистописання   Цей зошит допоможе дитині закріпити навички письма букв та їхніх поєднань у словах. На кожній сторінці — обов’язковий зразок і пунктирні шаблони для відшліфування навички. Цікаві завдання доведуть каліграфію дитини до позначки «відмінно», а наліпки для самооцінювання урізноманітнять роботу із зошитом.      Видання призначене для дітей старшого дошкільного та молодшого шкільного віку.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Сіліч С. О.</param>
-<param name="Мова">українська</param>
-<param name="Тип">посібник для дітей</param>
-<param name="Серія">Каліграфія для відмінника</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2023</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786175441367</param>
-<param name="Формат, розмір">17×23 см</param>
-<param name="Видавництво">Ула</param></offer>
-<offer id="27920" available="true" in_stock="true" selling_type="r" >
-<name>Каліграфія для відмінника УЛА Прописи для лівші</name>
-<vendorCode>9786175441251</vendorCode>
-<url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafiia-dlia-vidminnyka-ula-propysy-dlia-livshi/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>44</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27920/kaligrafiya_dlya_vidminnika_ula_propisi_dlya_livshi.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Каліграфія для відмінника — Прописи для лівші    Цей зошит розроблено для творчого малюка, що пише лівою. Усі зразки розміщено праворуч, щоб їх було видно під час роботи. Пунктирні шаблони цифр, математичних знаків, фігур, букв і слів подано на кожній сторінці для відшліфування навички письма. Цікаві завдання і приклади допоможуть довести каліграфію дитини до позначки «відмінно», а наліпки для самооцінювання урізноманітнять роботу із зошитом.      Видання призначене для дітей старшого дошкільного та молодшого шкільного віку.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Сіліч С. О.</param>
-<param name="Мова">українська</param>
-<param name="Тип">посібник для дітей</param>
-<param name="Серія">Каліграфія для відмінника</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2023</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786175441251</param>
-<param name="Формат, розмір">17×23 см</param>
-<param name="Видавництво">Ула</param></offer>
-<offer id="27921" available="true" in_stock="true" selling_type="r" >
-<name>Каліграфія для відмінника УЛА Математичні прописи</name>
-<vendorCode>9786175441244</vendorCode>
-<url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafiia-dlia-vidminnyka-ula-matematychni-propysy/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>44</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27921/kaligrafiya_dlya_vidminnika_ula_matematichni_propisi.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Каліграфія для відмінника — Математичні прописи    Цей зошит допоможе дитині закріпити навички письма цифр, математичних знаків, чисел, малювання фігур і візерунків. На кожній сторінці — обов’язковий зразок і пунктирні шаблони для відшліфування навички. Цікаві завдання і приклади допоможуть довести каліграфію дитини до позначки «відмінно», а наліпки для самооцінювання урізноманітнять роботу із зошитом.      Видання призначене для дітей старшого дошкільного та молодшого шкільного віку.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Сіліч С. О.</param>
-<param name="Мова">українська</param>
-<param name="Тип">посібник для дітей</param>
-<param name="Серія">Каліграфія для відмінника</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2023</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786175441244</param>
-<param name="Формат, розмір">17×23 см</param>
-<param name="Видавництво">Ула</param></offer>
-<offer id="27922" available="true" in_stock="true" selling_type="r" >
-<name>Каліграфія для відмінника УЛА Виправлення почерку</name>
-<vendorCode>9786175441237</vendorCode>
-<url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafiia-dlia-vidminnyka-ula-vypravlennia-pocherku/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>44</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27922/kaligrafiya_dlya_vidminnika_ula_vipravlennya_pocherku.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Каліграфія для відмінника — Виправлення почерку    Цей зошит допоможе дитині потренувати дрібну моторику пальців рук, закріпити навички письма літер та їхніх поєднань у словах, потренувати пам’ять й увагу в процесі списування речень і тексту, поданих прописними та друкованими літерами. Цікаві завдання доведуть каліграфію дитини до позначки «відмінно», а наліпки для самооцінювання урізноманітнять роботу із зошитом.      Видання призначене для дітей старшого дошкільного та молодшого шкільного віку.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Сіліч С. О.</param>
-<param name="Мова">українська</param>
-<param name="Тип">посібник для дітей</param>
-<param name="Серія">Каліграфія для відмінника</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2023</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786175441237</param>
-<param name="Формат, розмір">17×23 см</param>
-<param name="Видавництво">Ула</param></offer>
+
+
+
+
 
 
 
@@ -39313,30 +38876,7 @@
 <param name="Формат, розмір">84х108/16</param>
 <param name="Видавництво">Літера</param></offer>
 
-<offer id="27960" available="true" in_stock="true" selling_type="r" >
-<name>ЗНО/НМТ 2026 Комплексна підготовка Пiдручники i посiбники Географія Федоруц</name>
-<vendorCode>9786178678364</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/zno-nmt-2026-kompleksna-pidhotovka-pidruchnyky-i-posibnyky-heohrafiia-fedoruts/</url>
-<currencyId>UAH</currencyId>
-<categoryId>71</categoryId>
-<price>365</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27960/zno_nmt_2026_kompleksna_pidgotovka_pidruchniki_i_posibniki_geografiya_fedoruts.jpg</picture>
-<vendor>Пiдручники i посiбники</vendor>
-<description>
-<![CDATA[Географія. Комплексна підготовка до ЗНО/НМТ 2026 Федоруц Микола  Посібник містить :      Довідкові матеріали за програмою ЗНО. Тестові завдання, географічні задачі. Основні поняття і терміни. Узагальнювальні таблиці та схеми. Відповіді до всіх завдань.  Мета посібника – допомогти учням у підготовці до успішного складання ЗНО/НМТ. Він містить систематизований довідковий матеріал за програмою ЗНО з географії, тестові завдання, географічні задачі, а також узагальнювальні таблиці й схеми. Наприкінці посібника є відповіді.    Для старшокласників, абітурієнтів, учителів географії.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Автор">Федоруц М.</param>
-<param name="Мова">українська</param>
-<param name="Вік">9-11 класи</param>
-<param name="Тип">Посібник по ЗНО/НМТ</param>
-<param name="Серія">Підготовка до ЗНО/НМТ</param>
-<param name="Кількість сторінок">544</param>
-<param name="Рік видання">2026</param>
-<param name="Тип паперу">офсет, чорно-біла</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786178678364</param>
-<param name="Формат, розмір">А4 (210*300 мм)</param>
-<param name="Видавництво">Підручники і посібники</param></offer>
+
 
 
 <offer id="27963" available="true" in_stock="true" selling_type="r" >
@@ -39533,30 +39073,7 @@
 
 
 
-<offer id="27977" available="true" in_stock="true" selling_type="r" >
-<name>ЗНО/НМТ 2026 Тестові завдання Пiдручники i посiбники Математика Національний Мультипредметний Тест Мартинюк</name>
-<vendorCode>9789660742277</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/zno-nmt-2026-testovi-zavdannia-pidruchnyky-i-posibnyky-matematyka-natsionalnyi-multypredmetnyi-test-martyniuk/</url>
-<currencyId>UAH</currencyId>
-<categoryId>72</categoryId>
-<price>105</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27977/zno_nmt_2026_testovi_zavdannya_pidruchniki_i_posibniki_matematika_natsionalniy_multipredmetniy_test_martinyuk.jpg</picture>
-<vendor>Пiдручники i посiбники</vendor>
-<description>
-<![CDATA[Національний Мультипредметний Тест. Математика: Тестові завдання у форматі НМТ 2026 Посібник уміщує 14 орієнтовних варіантів національного мультипредметного тесту (НМТ) з математики. Кожен варіант складається з 22 тестових завдань. Зміст завдань відповідає вимогам Програми зовнішнього незалежного оцінювання, затвердженої МОН України.    Посібник допоможе випускникам і абітурієнтам у підготовці до національного мультипредметного тесту.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Автор">Мартинюк О.</param>
-<param name="Мова">українська</param>
-<param name="Вік">9-11 класи</param>
-<param name="Тип">Посібник по ЗНО/НМТ</param>
-<param name="Серія">Мультипредметний тест (НМТ)</param>
-<param name="Кількість сторінок">96</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">офсет, чорно-біла</param>
-<param name="Тип обкладинки">м&apos;яка, ламінована</param>
-<param name="ISBN">9789660742277</param>
-<param name="Формат, розмір">А4 (210*300 мм)</param>
-<param name="Видавництво">Підручники і посібники</param></offer>
+
 
 
 
@@ -39583,7 +39100,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[Національний Мультипредметний Тест. Українська мова: тестові завдання у форматі НМТ 2026 (Олена Білецька) У посібнику подано 16 орієнтовних варіантів тестових завдань з української мови у форматі національного мультипредметного тесту (НМТ). Кожен варіант складається з 30 тестових завдань. Зміст завдань відповідає вимогам Програми зовнішнього незалежного оцінювання з української мови, затвердженої МОН України. На початку посібника наведено Демонстраційний варіант НМТ з відповідями    Посібник допоможе випускникам і абітурієнтам у підготовці до національного мультипредметного тесту.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Автор">Олена Білецька</param>
 <param name="Мова">українська</param>
 <param name="Вік">9-11 класи</param>
@@ -39627,7 +39144,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[Національний Мультипредметний Тест. Біологія: тестові завдання у форматі НМТ 2026  Посібник уміщує 16 орієнтовних варіантів національного мультипредметного тесту (НМТ) з біології. Кожен варіант складається з 30 тестових завдань. Зміст завдань відповідає вимогам Програми зовнішнього незалежного оцінювання, затвердженої МОН України.   Посібник допоможе випускникам і абітурієнтам у підготовці до національного мультипредметного тесту.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Автор">Барна І., Павліченко А.</param>
 <param name="Мова">українська</param>
 <param name="Вік">10-11 класи</param>
@@ -39651,7 +39168,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[Національний Мультипредметний Тест. Історія України: тестові завдання у форматі НМТ 2026 Посібник уміщує 13 орієнтовних варіантів національного мульти­предметного тесту (НМТ) з Історії України. Кожен варіант складається з 30 тестових завдань. Зміст завдань відповідає вимогам Програми зовнішнього незалежного оцінювання, затвердженої МОН України.   Для випускників закладів загальної середньої освіти, абітурієнтів, а також для вчителів історії.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Автор">Панчук І.</param>
 <param name="Мова">українська</param>
 <param name="Вік">9-11 класи</param>
@@ -39718,7 +39235,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[Національний Мультипредметний Тест. Хімія: тестові завдання у форматі НМТ 2026 (Березан О.) Посібник призначений для підготовки до національного мультипредметного тесту з хімії. Він містить 20 варіантів тестів, складених відповідно до вимог програми ЗНО та чинної програми з хімії для загальноосвітніх шкіл.   Для старшокласників, вступників до вищих навчальних закладів, учителів хімії.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Автор">Березан О.</param>
 <param name="Мова">українська</param>
 <param name="Вік">9-11 класи</param>
@@ -39742,7 +39259,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[Національний Мультипредметний Тест. Фізика: тестові завдання у форматі НМТ 2026 (Струж Н., Чиж О.) Посібник уміщує 13 орієнтовних варіантів національного мультипредметного тесту (НМТ) з фізики. Кожен варіант складається 20 тестових завдань. Зміст завдань відповідає вимогам Програми зовнішнього незалежного оцінювання, затвердженої МОН України.   Посібник допоможе випускникам і абітурієнтам у підготовці до національного мультипредметного тесту.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Автор">Струж Н., Чиж О.</param>
 <param name="Мова">українська</param>
 <param name="Вік">10-11 класи</param>
@@ -40174,7 +39691,29 @@
 <param name="ISBN">9789660741409</param>
 <param name="Формат, розмір">А5 (150*210 мм)</param>
 <param name="Видавництво">Підручники і посібники</param></offer>
-
+<offer id="28096" available="true" in_stock="true" selling_type="r" >
+<name>ЗНО Довідкові матеріали, якими можна користуватися на НМТ з математики Пiдручники i посiбники</name>
+<vendorCode>2255555503409</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/pidhotovka-do-zno-ta-nmt/kompleksnyi-dovidnyk-testy/zno-dovidkovi-materialy-yakymy-mozhna-korystuvatysia-na-nmt-z-matematyky-pidruchnyky-i-posibnyky/</url>
+<currencyId>UAH</currencyId>
+<categoryId>71</categoryId>
+<price>15</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/28096/zno_dovidkovi_materiali_yakimi_mozhna_koristuvatisya_na_nmt_z_matematiki_pidruchniki_i_posibniki.jpg</picture>
+<vendor>Пiдручники i посiбники</vendor>
+<description>
+<![CDATA[Довідкові матеріали, якими можна користуватися на НМТ з математики  Таблиця квадратів від 10 до 49 Модуль числа Квадратне рівняння Степені Логарифми Арифметична прогресія Геометрична прогресія Теорія ймовірностей Комбінаторика Похідна функції Первісна функції та визначений інтеграл Тригонометрія Таблиця значень тригонометричних функцій певних кутів]]></description>
+<quantity_in_stock>1</quantity_in_stock>
+<param name="Автор">Чиж О.</param>
+<param name="Мова">українська</param>
+<param name="Вік">10-11 класи</param>
+<param name="Тип">довідник</param>
+<param name="Серія">Мультипредметний тест (НМТ)</param>
+<param name="Кількість сторінок">4</param>
+<param name="Рік видання">2023</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">2255555503409</param>
+<param name="Формат, розмір">А5 (150*210 мм)</param>
+<param name="Видавництво">Підручники і посібники</param></offer>
 
 <offer id="28098" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Діагностувальні роботи Пiдручники i посiбники Математика 5 клас до підручника Мерзляка</name>
@@ -44247,7 +43786,7 @@
 <vendor>Генеза</vendor>
 <description>
 <![CDATA[Я досліджую світ, 1 клас., Робочий зошит з інтегрованого курсу в 2-х частинах, Частина 1 - Гільберг Т. Г.  Нові зошити є невід’ємною складовою навчально-методичної підтримки оновленого підручника. Містять практико орієнтовані завдання, які допомагають успішно засвоїти програмовий матеріал, формувати компетентності, вміння й навички. Містять необхідні інструктивно-рекомендаційні матеріали для проведення уроків технологічної галузі, яких немає в підручнику. Вдало застосовують прийоми формувального оцінювання. Побудовані так, щоб дитина могла на основі завдань висловлювати та аргументувати власну думку, вчилася пояснювати, відкривала нове, надійно забезпечують усвідомлений навчальний поступ учасників освітнього процесу, зокрема й завдяки завданням із самоперевірки та рефлексії. Саме наші зошити від авторів підручника гарантують педагогам виконання програмових вимог інтегрованого курсу «Я досліджую світ» для 1 класу в повному обсязі. Зміст підручника не дублюється, а доповнюється доцільним матеріалом, надано місце для виконання різноманітних завдань та запису спостережень, замальовок ходу дослідів та формулювання висновків.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Гільберг Т. Тарнавська С. Павич Н.</param>
 <param name="Предмет">Я досліджую світ</param>
 <param name="Мова">українська</param>
@@ -48415,30 +47954,7 @@
 <param name="ISBN">9789660742123</param>
 <param name="Формат, розмір">В5 (180*250 мм)</param>
 <param name="Видавництво">Підручники і посібники</param></offer>
-<offer id="28768" available="true" in_stock="true" selling_type="r" >
-<name>Тренажер для мозку. Малюємо двома руками 5-7 років АССА Нова школа для малят</name>
-<vendorCode>9786177877508</vendorCode>
-<url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-5-rokiv/trenazher-dlia-mozku-maliuiemo-dvoma-rukamy-5-7-rokiv-assa-nova-shkola-dlia-maliat/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>80</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/28768/trenazher_dlya_mozku_malyu_mo_dvoma_rukami_5_7_rokiv_assa_nova_shkola_dlya_malyat.jpg</picture>
-<vendor>АССА</vendor>
-<description>
-<![CDATA[Тренажер для мозку. Малюємо двома руками Серія: Нова школа для малят. (Н.Ф. Риндіна.)  Основна мета посібника «Тренажер для мозку. Малюємо двома руками» — допомогти дитині однаково розвинути ліву і праву півкулі мозку, адже такий розвиток є запорукою гармонійного розвитку і успішного навчання. Найпростіший і веселий спосіб такого розвитку — малювання обома руками одночасно. Одночасна дія обома руками не тільки гармонізує роботу лівої та правої півкуль головного мозку, а й покращує зорово-моторну координацію, тренує пам’ять, увагу, дрібну і крупну моторику, знижує втомлюваність, полегшує навчання читати і писати, розвиває фантазію та уяву.  Чому варто придбати: Завдання в зошиті розміщено в певному порядку, який, по-перше, є реалізацією успішного педагогічного досвіду автора, по-друге, обґрунтований новітніми дослідженнями в галузі нейропсихології.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Риндіна Н.Ф.</param>
-<param name="Мова">українська</param>
-<param name="Вік">5-7 рокiв</param>
-<param name="Тип">тренажер</param>
-<param name="Серія">Нова школа для малят</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2023</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-617-7877-50-8</param>
-<param name="Формат, розмір">205 х 275 мм.</param>
-<param name="Видавництво">АССА</param></offer>
+
 
 
 <offer id="28771" available="true" in_stock="true" selling_type="r" >
@@ -52537,7 +52053,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[​Математика. Тестові завдання у форматі НМТ 2026 (Олеся Мартинюк та ін.) Збірник містить 12 варіантів по 22 тестових завдання, розроблених за специфікацією тесту з математики УДОЯО. Зміст, структура та формат завдань аналогічні тим, що їх пропонують на НМТ. До всіх завдань у посібнику подано розвʼязання.    Для абітурієнтів, учнів 11 класу, учителів математики.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <param name="Автор">Олеся Мартинюк та ін.</param>
 <param name="Мова">українська</param>
 <param name="Вік">11 класи</param>
@@ -53043,7 +52559,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[​Історія України. Тестові завдання у форматі НМТ 2026. Земерова Т. Посібник містить 12 орієнтовних варіантів національного мультипредметного тесту (НМТ) з історії України. Зміст видання відповідає вимогам чинної Програми зовнішнього незалежного оцінювання з історії України, затвердженої МОН України.   Посібник допоможе випускникам та абітурієнтам у підготовці до HMT.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <param name="Автор">Земерова Т.</param>
 <param name="Мова">українська</param>
 <param name="Вік">10-11 класи</param>
@@ -56678,7 +56194,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[Національний Мультипредметний Тест. Українська література: тестові завдання у форматі НМТ 2026 Видання вміщує 15 орієнтовних варіантів тестових завдань з української літератури для підготовки до національного мультипредметного тесту (НМТ). Кожен варіант складається з 24 тестових завдань. Зміст матеріалу відповідає вимогам чинної програми зовнішнього незалежного оцінювання і чинних навчальних програм з української літератури.    Посібник допоможе випускникам та абітурієнтам у підготовці до національного мультипредметного тесту]]></description>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Автор">Витвицька С.</param>
 <param name="Мова">українська</param>
 <param name="Вік">9-11 класи</param>
@@ -58032,7 +57548,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[​Українська мова. Тестові завдання у форматі НМТ 2026 (Білецька О., Шумка М.) Посібник містить тестові завдання в актуальному форматі НМТ. Орієнтовних варіантів тестових завдань з української мови в посібнику всього 12. На початку посібника наведено Демонстраційний варіант НМТ з відповідями. Кожен варіант тесту складається із 30 тестових завдань. Зміст завдань відповідає вимогам Програми зовнішнього незалежного оцінювання з української мови, затвердженої МОН України. Мета видання - якісна та ефективна підготовка до виконання завдань НМТ з української мови.    Посібник призначений для випускників закладів загальної середньої освіти, абітурієнтів, учителів.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <param name="Автор">Білецька О., Шумка М.</param>
 <param name="Мова">українська</param>
 <param name="Вік">11 класи</param>
@@ -60825,7 +60341,7 @@
 <vendorCode>9789669463487</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/atlasy/3-klas-2/nush-atlas-z-konturnymy-kartamy-kartohrafiia-ya-doslidzhuiu-svit-pryroda-3-4-klas/</url>
 <currencyId>UAH</currencyId>
-<categoryId>10</categoryId>
+<categoryId>16</categoryId>
 <price>115</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29639/nush_atlas_z_konturnimi_kartami_kartografiya_ya_doslidzhuyu_svit_priroda_3_4_klas.jpg</picture>
 <vendor>Картографія</vendor>
@@ -61485,7 +61001,7 @@
 <vendorCode>9786177403448</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-virshykiv-opovidan/opovidky-pro-tvaryn-belkar-knyha-opovidannia-veselka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>141</categoryId>
 <price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29683/opovidki_pro_tvarin_belkar_kniga_opovidannya_veselka.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -61554,7 +61070,7 @@
 <vendorCode>9786177403325</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-virshykiv-opovidan/nezvychaini-darunky-belkar-knyha-veselka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>141</categoryId>
 <price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29686/nezvichayni_darunki_belkar_kniga_veselka.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -62198,12 +61714,100 @@
 <param name="ISBN">978-617-7403-23-3</param>
 <param name="Формат, розмір">220х168 мм</param>
 <param name="Видавництво">Белкар-книга</param></offer>
+<offer id="29719" available="true" in_stock="true" selling_type="r" >
+<name>Зустріч з казкою Белкар-книга Казки. Читання по складах. Промінець</name>
+<vendorCode>9786177403264</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/zustrich-z-kazkoiu-belkar-knyha-kazky-chytannia-po-skladakh-prominets/</url>
+<currencyId>UAH</currencyId>
+<categoryId>140</categoryId>
+<price>180</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/29719/zustrich_z_kazkoyu_belkar_kniga_kazki_chitannya_po_skladah_prominets.png</picture>
+<vendor>Белкар-книга</vendor>
+<description>
+<![CDATA[Зустріч з казкою. Казки. Читання по складах. Промінець  Ця збірка казок - для наймолодших читачів, які роблять перші кроки в читанні. Книга призначена для набування дітьми навичок техніки читання текстів по складах. До збірки ввійшли відомі народні та авторські казки. Читаючи їх, малята навчаться відрізняти добро від зла, здійснювати гарні вчинки, бути розумними та ввічливими.  Для дошкільнят і дітей молодшого шкільного віку.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">народні та авторські казки</param>
+<param name="Мова">українська</param>
+<param name="Вік">4-7 років</param>
+<param name="Тип">книга</param>
+<param name="Серія">Промінець</param>
+<param name="Кількість сторінок">48</param>
+<param name="Тип паперу">кольоровий, крейдований</param>
+<param name="Тип обкладинки">тверда</param>
+<param name="ISBN">978-617-7403-26-4</param>
+<param name="Формат, розмір">220х168 мм</param>
+<param name="Видавництво">Белкар-книга</param></offer>
 
+<offer id="29721" available="true" in_stock="true" selling_type="r" >
+<name>Друзі Белкар-книга Оповідання. Читання по складах. Промінець</name>
+<vendorCode>9789661694780</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/druzi-belkar-knyha-opovidannia-chytannia-po-skladakh-prominets/</url>
+<currencyId>UAH</currencyId>
+<categoryId>140</categoryId>
+<price>180</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/29721/druzi_belkar_kniga_opovidannya_chitannya_po_skladah_prominets.png</picture>
+<vendor>Белкар-книга</vendor>
+<description>
+<![CDATA[Друзі. Оповідання. Читання по складах. Промінець  Ця збірка оповідань - для наймолодших читачів, які роблять перші кроки в читанні. Книга призначена для оволодіння дітьми технікою читання текстів по складах. До збірки ввійшли оповідання відомих українських авторів. Читаючи їх, малята навчаться бути ввічливими, добрими, працелюбними, поважати друзів, захищати менших, допомагати старшим, не ображати тварин.  Для дітей дошкільного та молодшого шкільного віку.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">збірка авторів</param>
+<param name="Мова">українська</param>
+<param name="Вік">4-7 років</param>
+<param name="Тип">книга</param>
+<param name="Серія">Промінець</param>
+<param name="Кількість сторінок">48</param>
+<param name="Тип паперу">кольоровий, крейдований</param>
+<param name="Тип обкладинки">тверда</param>
+<param name="ISBN">978-966-1694-78-0</param>
+<param name="Формат, розмір">220х168 мм</param>
+<param name="Видавництво">Белкар-книга</param></offer>
+<offer id="29722" available="true" in_stock="true" selling_type="r" >
+<name>Пан Коцький Белкар-книга Казки. Читання по складах. Промінець</name>
+<vendorCode>9789661694575</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/pan-kotskyi-belkar-knyha-kazky-chytannia-po-skladakh-prominets/</url>
+<currencyId>UAH</currencyId>
+<categoryId>141</categoryId>
+<price>180</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/29722/pan_kotskiy_belkar_kniga_kazki_chitannya_po_skladah_prominets.jpg</picture>
+<vendor>Белкар-книга</vendor>
+<description>
+<![CDATA[Пан Коцький. Казки. Читання по складах. Промінець  Ця збірка казок - для наймолодших читачів, які роблять перші кроки в читанні. Книга призначена для вироблення в дітей навичок техніки читання текстів по складах. До збірки ввійшли відомі українські народні казки. Читаючи їх, малята навчаться відрізняти добро від зла, здійснювати гарні вчинки, бути добрими, справедливими, захищати менших, поважати старших.  Для дітей дошкільного та молодшого шкільного віку.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">народні казки</param>
+<param name="Мова">українська</param>
+<param name="Вік">4-7 років</param>
+<param name="Тип">книга</param>
+<param name="Серія">Промінець</param>
+<param name="Кількість сторінок">48</param>
+<param name="Тип паперу">кольоровий, крейдований</param>
+<param name="Тип обкладинки">тверда</param>
+<param name="ISBN">978-966-1694-57-5</param>
+<param name="Формат, розмір">220х168 мм</param>
+<param name="Видавництво">Белкар-книга</param></offer>
 
-
-
-
-
+<offer id="29724" available="true" in_stock="true" selling_type="r" >
+<name>Подорож у казку Белкар-книга Казки. Читання по складах. Промінець</name>
+<vendorCode>9789668816864</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/podorozh-u-kazku-belkar-knyha-kazky-chytannia-po-skladakh-prominets/</url>
+<currencyId>UAH</currencyId>
+<categoryId>141</categoryId>
+<price>180</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/29724/podorozh_u_kazku_belkar_kniga_kazki_chitannya_po_skladah_prominets.jpg</picture>
+<vendor>Белкар-книга</vendor>
+<description>
+<![CDATA[Подорож у казку. Казки. Читання по складах. Промінець  Ця збірка казок - для наймолодших читачів, які роблять перші кроки в читанні. Книга призначена для вироблення в дітей навичок техніки читання текстів по складах. До збірки ввійшли відомі народні та авторські казки. Читаючи їх, малята навчаться відрізняти добро від зла, здійснювати гарні вчинки - захищати менших, поважати старших.  Для дітей дошкільного та молодшого шкільного віку.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">народні казки</param>
+<param name="Мова">українська</param>
+<param name="Вік">4-7 років</param>
+<param name="Тип">книга</param>
+<param name="Серія">Промінець</param>
+<param name="Кількість сторінок">48</param>
+<param name="Тип паперу">кольоровий, крейдований</param>
+<param name="Тип обкладинки">тверда</param>
+<param name="ISBN">978-966-8816-86-4</param>
+<param name="Формат, розмір">220х168 мм</param>
+<param name="Видавництво">Белкар-книга</param></offer>
 <offer id="29725" available="true" in_stock="true" selling_type="r" >
 <name>Дванадцять місяців Белкар-книга Вірші, казки, оповідання. Промінець</name>
 <vendorCode>9786177403110</vendorCode>
@@ -62279,7 +61883,7 @@
 <vendorCode>9789661694506</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-virshykiv-opovidan/naiharnisha-mama-belkar-knyha-kazky-prominets-sukhomlynskyi/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>141</categoryId>
 <price>180</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29729/naygarnisha_mama_belkar_kniga_kazki_prominets_suhomlinskiy.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -62297,7 +61901,29 @@
 <param name="ISBN">978-966-1694-50-6</param>
 <param name="Формат, розмір">220х168 мм</param>
 <param name="Видавництво">Белкар-книга</param></offer>
-
+<offer id="29730" available="true" in_stock="true" selling_type="r" >
+<name>Мишача рада Белкар-книга Українські народні казки. Читання по складах. Промінець</name>
+<vendorCode>9789661694384</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/myshacha-rada-belkar-knyha-ukrainski-narodni-kazky-chytannia-po-skladakh-prominets/</url>
+<currencyId>UAH</currencyId>
+<categoryId>141</categoryId>
+<price>180</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/29730/mishacha_rada_belkar_kniga_ukra_nski_narodni_kazki_chitannya_po_skladah_prominets.jpg</picture>
+<vendor>Белкар-книга</vendor>
+<description>
+<![CDATA[Мишача рада. Українські народні казки. Читання по складах. Промінець  Ця збірка казок - для наймолодших читачів, які роблять перші кроки в читанні. Книга призначена для вироблення в дітей навичок техніки читання текстів по складах. До збірки ввійшли відомі українські народні казки. Читаючи їх, малята навчаться відрізняти добро від зла, здійснювати гарні вчинки, бути добрими, справедливими, захищати менших, поважати старших.  Для дітей дошкільного та молодшого шкільного віку.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">народні казки</param>
+<param name="Мова">українська</param>
+<param name="Вік">4-8 років</param>
+<param name="Тип">книга</param>
+<param name="Серія">Промінець</param>
+<param name="Кількість сторінок">48</param>
+<param name="Тип паперу">кольоровий, крейдований</param>
+<param name="Тип обкладинки">тверда</param>
+<param name="ISBN">978-966-1694-38-4</param>
+<param name="Формат, розмір">220х168 мм</param>
+<param name="Видавництво">Белкар-книга</param></offer>
 <offer id="29731" available="true" in_stock="true" selling_type="r" >
 <name>Малечі про цікаві речі Белкар-книга Промінець</name>
 <vendorCode>9789668816895</vendorCode>
@@ -62466,7 +62092,7 @@
 <vendorCode>9789668816499</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-virshykiv-opovidan/nezvychaini-pryhody-i-taiemnytsi-belkar-knyha-skarbnychka-shkoliara-kostetskyi/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>141</categoryId>
 <price>240</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29740/nezvichayni_prigodi_i_ta_mnitsi_belkar_kniga_skarbnichka_shkolyara_kostetskiy.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -62489,7 +62115,7 @@
 <vendorCode>9789661694445</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-virshykiv-opovidan/odynytsia-z-obmanom-belkar-knyha-piatirka-z-khvostykom-super-b-z-frykadelkamy-skarbnychka-shkoliara-nestaiko/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>141</categoryId>
 <price>336</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29741/odinitsya_z_obmanom_belkar_kniga_p_yatirka_z_hvostikom_super_b_z_frikadelkami_skarbnichka_shkolyara_nestayko.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -63787,7 +63413,7 @@
 <vendorCode>9789669462695</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/atlasy/1-klas-2/nush-atlas-z-konturnymy-kartamy-kartohrafiia-ya-doslidzhuiu-svit-pryrodoznavstvo-1-2-klas/</url>
 <currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
+<categoryId>14</categoryId>
 <price>115</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29859/nush_atlas_z_konturnimi_kartami_kartografiya_ya_doslidzhuyu_svit_prirodoznavstvo_1_2_klas.jpg</picture>
 <vendor>Картографія</vendor>
@@ -63809,7 +63435,7 @@
 <vendorCode>1210088</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/atlasy/3-klas-2/nush-atlas-z-konturnymy-kartamy-kartohrafiia-ya-doslidzhuiu-svit-suspilstvo-istoriia-kultura-3-4-klas/</url>
 <currencyId>UAH</currencyId>
-<categoryId>10</categoryId>
+<categoryId>16</categoryId>
 <price>201</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29860/nush_atlas_z_konturnimi_kartami_kartografiya_ya_doslidzhuyu_svit_suspilstvo_istoriya_kultura_3_4_klas.jpg</picture>
 <vendor>Картографія</vendor>
@@ -63833,7 +63459,7 @@
 <vendorCode>9789669462879</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/6-klas-1/atlas-ukrainoznavstvo-5-6-klas-kartohrafiia/</url>
 <currencyId>UAH</currencyId>
-<categoryId>47</categoryId>
+<categoryId>56</categoryId>
 <price>148</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29862/atlas_ukra_noznavstvo_5_6_klas_kartografiya.jpg</picture>
 <vendor>Картографія</vendor>
@@ -63855,7 +63481,7 @@
 <vendorCode>9789669463449</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/7-klas-2/atlas-ukrainoznavstvo-7-8-klas-kartohrafiia/</url>
 <currencyId>UAH</currencyId>
-<categoryId>49</categoryId>
+<categoryId>58</categoryId>
 <price>148</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29863/atlas_ukra_noznavstvo_7_8_klas_kartografiya.jpg</picture>
 <vendor>Картографія</vendor>
@@ -63877,7 +63503,7 @@
 <vendorCode>9786176702893</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/atlas-ukrainoznavstvo-9-11-klas-kartohrafiia/</url>
 <currencyId>UAH</currencyId>
-<categoryId>60</categoryId>
+<categoryId>59</categoryId>
 <price>148</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29864/atlas_ukra_noznavstvo_9_11_klas_kartografiya.jpg</picture>
 <vendor>Картографія</vendor>
@@ -74622,98 +74248,10 @@
 
 
 
-<offer id="30990" available="true" in_stock="true" selling_type="r" >
-<name>Каліграфічний тренажер УЛА Розвиваємо навички письма. Прописи. Завдання. Наліпки</name>
-<vendorCode>9786175443750</vendorCode>
-<url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafichnyi-trenazher-ula-rozvyvaiemo-navychky-pysma-propysy-zavdannia-nalipky/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>46</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/30990/kaligrafichniy_trenazher_ula_rozviva_mo_navichki_pisma_propisi_zavdannya_nalipki.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Каліграфічний тренажер — Розвиваємо навички письма  Це видання створене, щоб допомогти дитині розвинути навички письма. У книзі подано пунктиром різні лінії, малюнки, фігури й візерунки, а також підібрано цікаві ігрові завдання з наліпками, що сприятимуть закріпленню вивченого матеріалу. Зошит допоможе покращити якість почерку, потренувати пам’ять та увагу, розвинути уяву та мислення, адже на його сторінках дитина буде одночасно писати обома руками, штрихувати, проходити лабіринти, доповнювати логічні послідовності, шукати відмінності й розфарбовувати.    Видання призначене для дітей старшого дошкільного й молодшого шкільного віку.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Мова">українська</param>
-<param name="Вік">старший дошкільний, молодший шкільний</param>
-<param name="Тип">Посiбник для дітей</param>
-<param name="Серія">Каліграфічний тренажер</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2024</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-617-544-375-0</param>
-<param name="Формат, розмір">165×230 мм</param>
-<param name="Видавництво">Ула</param></offer>
-<offer id="30991" available="true" in_stock="true" selling_type="r" >
-<name>Каліграфічний тренажер УЛА  Вправи для гарного почерку. Прописи. Завдання. Наліпки</name>
-<vendorCode>9786175443743</vendorCode>
-<url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafichnyi-trenazher-ula-vpravy-dlia-harnoho-pocherku-propysy-zavdannia-nalipky/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>46</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/30991/kaligrafichniy_trenazher_ula_vpravi_dlya_garnogo_pocherku_propisi_zavdannya_nalipki.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Каліграфічний тренажер — Вправи для гарного почерку  Це видання створене, щоб допомогти дитині відпрацювати навички гарного письма. У книзі є сторінки в косу лінію, клітинку й лінію, на яких подано пунктиром різні лінії, фігури й візерунки, а також підібрано цікаві ігрові завдання з наліпками, що сприятимуть закріпленню вивченого матеріалу. Зошит допоможе покращити якість почерку, потренувати пам’ять та увагу, розвинути уяву та мислення, адже на його сторінках дитина буде одночасно писати обома руками, домальовувати малюнки, проходити лабіринти, шукати відмінності й розфарбовувати.    Видання призначене для дітей старшого дошкільного й молодшого шкільного віку.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Мова">українська</param>
-<param name="Вік">старший дошкільний, молодший шкільний</param>
-<param name="Тип">Посiбник для дітей</param>
-<param name="Серія">Каліграфічний тренажер</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2024</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-617-544-374-3</param>
-<param name="Формат, розмір">165×230 мм</param>
-<param name="Видавництво">Ула</param></offer>
-<offer id="30992" available="true" in_stock="true" selling_type="r" >
-<name>Каліграфічний тренажер УЛА Пишемо цифри й обчислюємо. Прописи. Завдання. Наліпки</name>
-<vendorCode>9786175443736</vendorCode>
-<url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafichnyi-trenazher-ula-pyshemo-tsyfry-y-obchysliuiemo-propysy-zavdannia-nalipky/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>46</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/30992/kaligrafichniy_trenazher_ula_pishemo_tsifri_y_obchislyu_mo_propisi_zavdannya_nalipki.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Каліграфічний тренажер — Пишемо цифри й обчислюємо  Це видання створене, щоб допомогти дитині навчитися писати цифри, співвідносити їх із певною кількістю та потренуватися обчислювати вирази. У книзі подано пунктиром елементи цифр, цифри й математичні знаки, а також підібрано тематичні ігрові завдання з наліпками, що сприятимуть закріпленню матеріалу. Зошит допоможе розвинути дрібну моторику, уяву та мислення, потренувати пам’ять та увагу, адже на його сторінках дитина буде обчислювати вирази, працювати з нерівностями та складати їх самостійно за малюнками, малювати фігури та розфарбовувати.    Видання призначене для дітей старшого дошкільного й молодшого шкільного віку.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Мова">українська</param>
-<param name="Вік">старший дошкільний, молодший шкільний</param>
-<param name="Тип">Посiбник для дітей</param>
-<param name="Серія">Каліграфічний тренажер</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2024</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-617-544-373-6</param>
-<param name="Формат, розмір">165×230 мм</param>
-<param name="Видавництво">Ула</param></offer>
-<offer id="30993" available="true" in_stock="true" selling_type="r" >
-<name>Каліграфічний тренажер УЛА Пишемо букви й слова. Прописи. Завдання. Наліпки</name>
-<vendorCode>9786175443729</vendorCode>
-<url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafichnyi-trenazher-ula-pyshemo-bukvy-y-slova-propysy-zavdannia-nalipky/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>46</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/30993/kaligrafichniy_trenazher_ula_pishemo_bukvi_y_slova_propisi_zavdannya_nalipki.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Каліграфічний тренажер — Пишемо букви й слова  Це видання створене, щоб допомогти дитині навчитися чи відпрацювати вміння писати друковані літери. У книзі подано пунктиром елементи букв, букви й прості слова по клітинках і лініях, а також підібрано тематичні ігрові завдання з наліпками, що сприятимуть закріпленню вивченого матеріалу. Зошит допоможе розвинути дрібну моторику, уяву й мислення, потренувати пам’ять та увагу, адже на його сторінках дитина буде шукати букви, поєднувати їх у слова, розфарбовувати елементи й наводити малюнки по пунктиру.    Видання призначене для дітей старшого дошкільного й молодшого шкільного віку.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Мова">українська</param>
-<param name="Вік">старший дошкільний, молодший шкільний</param>
-<param name="Тип">Посiбник для дітей</param>
-<param name="Серія">Каліграфічний тренажер</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2024</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-617-544-372-9</param>
-<param name="Формат, розмір">165×230 мм</param>
-<param name="Видавництво">Ула</param></offer>
+
+
+
+
 <offer id="30994" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Літній тренажер УЛА Українська мова. Я йду в 5 клас Царенко, Будянська</name>
 <vendorCode>9786175444146</vendorCode>
@@ -75805,7 +75343,7 @@
 <vendorCode>9786177403493</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-virshykiv-opovidan/opovidky-z-babusynykh-klubochkiv-belkar-knyha-svit-kazky-n-trishch/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>141</categoryId>
 <price>380</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31109/opovidki_z_babusinih_klubochkiv_belkar_kniga_svit_kazki_n_trishch.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -78836,7 +78374,7 @@
 <vendor>Сиция</vendor>
 <description>
 <![CDATA[НУШ. Я досліджую світ 1 клас. Робочий зошит до підручника Бібік КОМПЛЕКТ у 2-х частинах Робочий зошит «Я досліджую світ» для 1 класу розроблено відповідно до підручника для 1 класу закладів загальної середньої освіти «Я досліджую світ» (автори Н. М. Бібік та Г. П. Бондарчук), схвалено для використання комісією з педагогіки та методики початкового навчання Науково-методичної ради з питань освіти МОНУ (лист ІМЗО від 02.08.2018 № 22.1/12-Г-663). Зошит складається з двох частин: частина 1 – І семестр навчання, частина 2 – ІІ семестр навчання. Зошит містить цікаві інтегровані завдання, вправи на дослідження, формування й розвиток в учнів логічного мислення; завдання творчого характеру. Завдання мають ігрові моменти, відображають реальні життєві ситуації та заохочують дітей до пізнання та дослідження. У зошиті є вправи з доповненою реальністю та використанням QR-кодів із зашифрованими посиланнями на веб-сторінки з відео та аудіо.    Видання розраховане на вчителів початкових класів, учнів 1 класу та дбайливих батьків.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Гущина Н. І.</param>
 <param name="Предмет">Я досліджую світ</param>
 <param name="Мова">українська</param>
@@ -79779,7 +79317,7 @@
 <vendor>Лінгвіст</vendor>
 <description>
 <![CDATA[Super Minds (Ukrainian edition) НУШ 1 Workbook Super Minds 1. Workbook - це робочий зошит до підручника рівня Starter (Pre-А1) для 1-го класу від видавництва Cambridge University Press & Assessment. Кольоровий, ілюстрований посібник, матеріал якого повністю співвідноситься з матеріалом підручника Student’s Book. Відповідає Програмі 1-го класу НУШ. Відповідає типовій освітній програмі, розробленій під керівництвом Шияна Р. Б. (1-2 клас).  Теми в посібнику відповідають темам підручника Super Minds Student’s Book.  Робочий зошит може використовуватись разом із додатком Super Phonics Book 1, що містить матеріал для повторення літер англійського алфавіту та співвідноситься з секцією Phonics із Super Minds Student’s Book.  ]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Герберт Пухта, Пітер Льюіс-Джонс, Світлана Дроботенко</param>
 <param name="Мова">українська, англійська</param>
 <param name="Вік">1 клас</param>
@@ -79848,7 +79386,7 @@
 <vendor>Лінгвіст</vendor>
 <description>
 <![CDATA[Prepare for Ukraine НУШ 8 Workbook  Prepare Workbook — це сучасний робочий зошит з англійської мови, створений за модельною програмою НУШ. Він є доповненням до основного підручника і спрямований на розвиток мовленнєвих навичок та комунікативної компетентності школярів.  Основні особливості:     Відповідність програмі НУШ (Іноземна мова 5–9 класи). Комунікативний підхід — інтерактивні вправи для читання, письма, аудіювання й говоріння. 20 тем, згрупованих у 5 блоків, кожен з яких містить: розділ Culture – для розвитку соціокультурної компетентності; Life Skills – формування життєвих навичок 21 століття; Review – для повторення й закріплення матеріалу.     Переваги:     Персоналізовані та інтерактивні завдання. Підтримка розвитку критичного мислення й креативності. Актуальні теми, що відповідають віковим інтересам дітей. Ідеальне поєднання з підручником Prepare Student’s Book.    Цей зошит ідеально підходить для систематичної роботи на уроках і вдома, а також для підготовки до тематичного та підсумкового оцінювання з англійської мови.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>88</quantity_in_stock>
 <param name="Автор">Джеймс Стайрінг, Ніколаз Тімз, Анне Робінсон</param>
 <param name="Мова">англійська</param>
 <param name="Вік">8 клас</param>
@@ -79871,7 +79409,7 @@
 <vendor>Лінгвіст</vendor>
 <description>
 <![CDATA[Prepare for Ukraine НУШ 8 Grammar Збірник вправ з англійської граматики для учнів 8 класу  Prepare Grammar — це універсальний посібник для систематичного вивчення та вдосконалення англійської граматики. Він охоплює всі граматичні теми, передбачені навчальними програмами МОН, і підходить для роботи як у класі, так і вдома.  Може використовуватися:     як додаток до серії підручників Prepare від Cambridge University Press (автентичної або адаптованої для НУШ); з будь-яким іншим підручником, що відповідає шкільній програмі з англійської мови.     Структура посібника:     20 уроків, кожен з яких охоплює 2 граматичні теми. Вправи подано у порядку зростання складності, що допомагає поступово розвивати як рецептивні (розуміння), так і продуктивні (усне/писемне мовлення) навички. Тестові завдання після кожних 4 уроків – для перевірки засвоєного матеріалу. Діагностичний тест – на початку посібника, фінальний тест – наприкінці.     Переваги посібника:     Повне охоплення граматичних тем шкільної програми. Лексична підтримка у вправах – паралельне закріплення вокабуляру. Можливість індивідуальної та групової роботи. Універсальність використання у звичайних та спеціалізованих навчальних закладах. Наприкінці посібника – граматичні таблиці, що стисло й наочно узагальнюють теоретичний матеріал.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Olesia Humeniuk, Victoria Lubych, Emma Heyderman</param>
 <param name="Мова">англійська</param>
 <param name="Вік">8 клас</param>
@@ -79893,7 +79431,7 @@
 <vendor>Лінгвіст</vendor>
 <description>
 <![CDATA[Prepare for Ukraine НУШ 8 Test book  Prepare 8 Test Book – збірник тестів з англійської мови, що дає змогу регулярно проводити контроль навчальних досягнень учнів середньої школи у процесі вивчення англійської мови. Структура кожного тесту дозволяє комплексно перевірити уміння слухати, читати, писати й говорити, а також знання з лексики та граматики. Матеріал збірника відповідає вимогам програм МОН та містить тести до 20 уроків у двох варіантах: стандартний та поглиблений, а також семестрові та річний тести, за допомогою яких кожен викладач зможе легко перевірити результат роботи учнів на проміжних та фінальному етапах навчання. Призначений для загальноосвітніх та спеціалізованих навчальних закладів, мовних курсів, а також для індивідуальних занять з метою здійснення самоконтролю.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Helen Tiliouine</param>
 <param name="Мова">англійська</param>
 <param name="Вік">8 клас</param>
@@ -80233,7 +79771,30 @@
 <param name="Тип обкладинки">м&apos;яка</param>
 <param name="ISBN">978-617-8370-67-1</param>
 <param name="Видавництво">Генеза</param></offer>
-
+<offer id="31542" available="true" in_stock="true" selling_type="r" >
+<name>Хрестоматія для читання. Твори для дітей Основа для дітей 3-6 років</name>
+<vendorCode>9786170043726</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytannia/khrestomatiia-dlia-chytannia-tvory-dlia-ditei-osnova-dlia-ditei-3-6-rokiv/</url>
+<currencyId>UAH</currencyId>
+<categoryId>139</categoryId>
+<price>290</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31542/hrestomatiya_dlya_chitannya_tvori_dlya_ditey_osnova_dlya_ditey_3_6_rokiv.jpg</picture>
+<vendor>Основа</vendor>
+<description>
+<![CDATA[Хрестоматія для читання. Твори для дітей. Хрестоматію для читання дітям створено відповідно до чинних програм. У книжці зібрано найкращі зразки дитячої художньої літератури, які подано з урахуванням можливостей і перспективного розвитку дошкільників. Видання містить цікаві та доступні твори, спрямовані на забезпечення загального мовленнєвого розвитку дошкільників і формування в них інтересу до художньої літератури. Вихователі знайдуть у хрестоматії якісний матеріал для змістовних занять, батьки — для плідного спілкування з дитиною, малюки — корисну й цікаву розвагу.    Для дітей від 3 до 6 років та вихователів закладів дошкільної освіти.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">А. С. Васильцова В. А. Єфіменко</param>
+<param name="Мова">українська</param>
+<param name="Вік">3-6 років</param>
+<param name="Тип">Хрестоматія</param>
+<param name="Серія">ЗДО. Вихователю</param>
+<param name="Кількість сторінок">208</param>
+<param name="Рік видання">2025</param>
+<param name="Тип паперу">офсет, чорно-біла</param>
+<param name="Тип обкладинки">тверда</param>
+<param name="ISBN">9786170043726</param>
+<param name="Формат, розмір">А-5</param>
+<param name="Видавництво">Основа</param></offer>
 <offer id="31543" available="true" in_stock="true" selling_type="r" >
 <name>Моя перша читанка. Крок 2. Основа Кулаченко</name>
 <vendorCode>9786170043481</vendorCode>
@@ -82440,7 +82001,7 @@
 <vendorCode>1210150</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/komplekt-velykyi-trenazher-ula-matematyka-1-4-klasy-zadachi-tablytsia-mnozhennia-i-dilennia-dodavannia-i-vidnimannia-bahatotsyfrovykh-chysel/</url>
 <currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
+<categoryId>11</categoryId>
 <price>240</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31652/komplekt_velikiy_trenazher_ula_matematika_1_4_klasi_zadachi_tablitsya_mnozhennya_i_dilennya_dodavannya_i_vidnimannya_bagatotsifrovih_chisel.jpg</picture>
 <vendor>УЛА</vendor>
@@ -88175,78 +87736,9 @@
 <param name="ISBN">9786170041036</param>
 <param name="Формат, розмір">209х145 мм</param>
 <param name="Видавництво">Основа</param></offer>
-<offer id="32004" available="true" in_stock="true" selling_type="r" >
-<name>Маленькі історії по складах Торсінг Найкращий подарунок (Тетяна Клапчук)</name>
-<vendorCode>9786175244340</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/malenki-istorii-po-skladakh-torsinh-naikrashchyi-podarunok-tetiana-klapchuk/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>41</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/32004/malenki_istori_po_skladah_torsing_naykrashchiy_podarunok_tetyana_klapchuk.jpg</picture>
-<vendor>Торсінг</vendor>
-<description>
-<![CDATA[Маленькі історії по складах. Найкращий подарунок  Книга призначена для формування й вдосконалення навичок читання по складах як важливого компонента мовленнєвого розвитку дітей. Невеликі за обсягом тексти, герої яких потрапляють у цікаві пригоди, спонукатимуть до розвитку пізнавального та читацького інтересу малюків. А виховний зміст історій сприятиме виявленню моральних якостей маленьких читачів.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Клапчук Тетяна</param>
-<param name="Мова">українська</param>
-<param name="Вік">5-7 років</param>
-<param name="Тип">книга для читання</param>
-<param name="Серія">Маленькі історії по складах</param>
-<param name="Кількість сторінок">12</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-617-524-434-0</param>
-<param name="Формат, розмір">225x225 мм</param>
-<param name="Видавництво">Торсiнг</param></offer>
-<offer id="32005" available="true" in_stock="true" selling_type="r" >
-<name>Маленькі історії по складах Торсінг Горішки для друзів (Тетяна Клапчук)</name>
-<vendorCode>9786175244333</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/malenki-istorii-po-skladakh-torsinh-horishky-dlia-druziv-tetiana-klapchuk/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>41</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/32005/malenki_istori_po_skladah_torsing_gorishki_dlya_druziv_tetyana_klapchuk.jpg</picture>
-<vendor>Торсінг</vendor>
-<description>
-<![CDATA[Маленькі історії по складах. Горішки для друзів  Книга призначена для формування й вдосконалення навичок читання по складах як важливого компонента мовленнєвого розвитку дітей. Невеликі за обсягом тексти, герої яких потрапляють у цікаві пригоди, спонукатимуть до розвитку пізнавального та читацького інтересу малюків. А виховний зміст історій сприятиме виявленню моральних якостей маленьких читачів.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Клапчук Тетяна</param>
-<param name="Мова">українська</param>
-<param name="Вік">5-7 років</param>
-<param name="Тип">книга для читання</param>
-<param name="Серія">Маленькі історії по складах</param>
-<param name="Кількість сторінок">12</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-617-524-433-3</param>
-<param name="Формат, розмір">225x225 мм</param>
-<param name="Видавництво">Торсiнг</param></offer>
-<offer id="32006" available="true" in_stock="true" selling_type="r" >
-<name>Маленькі історії по складах Торсінг Гойдалка для друга (Тетяна Клапчук)</name>
-<vendorCode>9786175244357</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/malenki-istorii-po-skladakh-torsinh-hoidalka-dlia-druha-tetiana-klapchuk/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>41</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/32006/malenki_istori_po_skladah_torsing_goydalka_dlya_druga_tetyana_klapchuk.jpg</picture>
-<vendor>Торсінг</vendor>
-<description>
-<![CDATA[Маленькі історії по складах. Гойдалка для друга  Книга призначена для формування й вдосконалення навичок читання по складах як важливого компонента мовленнєвого розвитку дітей. Невеликі за обсягом тексти, герої яких потрапляють у цікаві пригоди, спонукатимуть до розвитку пізнавального та читацького інтересу малюків. А виховний зміст історій сприятиме виявленню моральних якостей маленьких читачів.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Клапчук Тетяна</param>
-<param name="Мова">українська</param>
-<param name="Вік">5-7 років</param>
-<param name="Тип">книга для читання</param>
-<param name="Серія">Маленькі історії по складах</param>
-<param name="Кількість сторінок">12</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-617-524-435-7</param>
-<param name="Формат, розмір">225x225 мм</param>
-<param name="Видавництво">Торсiнг</param></offer>
+
+
+
 
 
 
@@ -89666,12 +89158,12 @@
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/zno-nmt-2026-kompleksna-pidhotovka-pidruchnyky-i-posibnyky-anhliiska-mova-kaminska-turchyn/</url>
 <currencyId>UAH</currencyId>
 <categoryId>71</categoryId>
-<price>425</price>
+<price>365</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32142/zno_nmt_2026_kompleksna_pidgotovka_pidruchniki_i_posibniki_angliyska_mova_kaminska_turchin.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[Англійська мова. Комплексна підготовка до ЗНО/НМТ 2026 (Надія Камінська, Оксана Турчин)  Мета посібника – допомогти учням у підготовці до успішного складання ЗНО/НМТ з англійської мови. Структурований і систематизований матеріал охоплює всі аспекти іспиту: граматику, лексику, використання мови, читання. Матеріал поданий у зручній формі — тезах, таблицях, схемах і прикладах, що дасть змогу швидко повторити та закріпити вивчене (правила, слова, фразові дієслова, ідіоми, стратегії виконання завдань). Наприкінці посібника наведено відповіді до всіх тренувальних завдань, а також коментарі-пояснення.    Для старшокласників, які готуються до ЗНО/НМТ; учителів, репетиторів, абітурієнтів, які складатимуть ЄВІ, та всіх, хто цікавиться вивченням англійської мови.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Автор">Надія Камінська, Оксана Турчин</param>
 <param name="Мова">українська, англійська</param>
 <param name="Вік">11 класи</param>
@@ -89917,7 +89409,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[КОМПЛЕКТ у 2-х частинах НУШ. Математика 1 клас. Робочий зошит (до підручника Скворцової) Зошит "НУШ. Математика 1 клас. Робочий зошит: частина 1 (до підручника Скворцової)" призначений для індивідуальної, самостійної та колективної роботи учнів на уроках за підручником С. О. Скворцової, О. В. Онопрієнко «Математика. 1 клас». Зошит відповідає Типовій навчальній програмі МОН України (за редакціею О. Я. Савченко) та підручнику «Математика. 1 клас» (автори С. О. Скворцова, О. В. Онопрієнко). Завдання подані за тематичним принципом, спрямовані на інтегрування навчального матеріалу. Поряд із графічними вправами і завданнями на розвиток обчислюваних навичок дібрано завдання розвивального та логічного характеру. До задач запропоновано малюнки, опорні схеми.     Для учнів 1 класу, вчителів, батьків.]]></description>
-<quantity_in_stock>73</quantity_in_stock>
+<quantity_in_stock>72</quantity_in_stock>
 <param name="Автор">Цибульська С.</param>
 <param name="Предмет">Математика</param>
 <param name="Мова">українська</param>
@@ -90604,7 +90096,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[КОМПЛЕКТ у 4 частинах НУШ Українська мова та читання: навчальний посібник. 3 клас Н. Кравцова, А. Савчук  Цікавий, змістовний навчальний посібник «Українська мова та читання. 3 клас» складається з чотирьох частин. Кожна частина вміщує два розділи: українська мова та читання. Навчальний посібник містить творчі диференційовані, мовно-логічні завдання, різноманітні мовні дослідження, завдання на розвиток мовлення та критичного мислення. Дітям сподобаються цікаві казки, оповідання, вірші, вирішення життєвих ситуацій. У посібнику особлива увага приділяється вправам для групової роботи, самооцінювання. У захопливій формі діти матимуть змогу вивчати українську мову. Навчальний посібник створено відповідно до Типової освітньої програми, розробленої під керівництвом О. Я. Савченко.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Кравцова Н.,Савчук А.</param>
 <param name="Мова">українська</param>
 <param name="Вік">3 клас</param>
@@ -98182,7 +97674,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[Комплект: НУШ 3 клас. Математика. Навчальний посібник. У 4 частинах. Листопад Н. П.   Схвалено для використання як частина навчально-методичного комплекту до підручника «Математика. З клас» (авторка Н. П. Листопад), рекомендованого Міністерством освіти і науки України (наказ Міністерства освіти і науки України від 07.01.2025 № 22)]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Листопад Н.П.</param>
 <param name="Мова">українська</param>
 <param name="Вік">3 клас</param>
@@ -100682,7 +100174,7 @@
 <vendor>Лінгвіст</vendor>
 <description>
 <![CDATA[Full Blast Plus for Ukraine НУШ 9 Workbook Шукаєте ідеальний інструмент для самостійної роботи вдома та додаткової практики в класі? Full Blast Plus for Ukraine 9 Workbook – це невід'ємна частина курсу, розроблена для ефективного закріплення та поглиблення знань, отриманих на уроці.    Чітка відповідність підручнику. Структура зошита повністю відповідає модулям підручника, що дозволяє послідовно відпрацьовувати тему та надійно закріплювати матеріал.   Розвиток писемного мовлення. Зошит містить покрокові завдання та зразки, які допомагають учням навчитися створювати власні тексти різних жанрів.   Зручність для самостійної роботи. Логічна структура та зрозумілі завдання дозволяють ефективно працювати самостійно, розвиваючи навички автономного навчання.     Структура та зміст зошита Workbook:     Велика кількість різноманітних вправ для відпрацювання лексики, граматики, читання та письма, що забезпечує автоматизацію навичок.   Розділ Round-up наприкінці кожного модуля, який дозволяє узагальнити ключовий матеріал та підготуватися до контрольних робіт.]]></description>
-<quantity_in_stock>95</quantity_in_stock>
+<quantity_in_stock>96</quantity_in_stock>
 <param name="Автор">Мітчелл Г.К.; Марілені Малкоґіанні</param>
 <param name="Мова">українська, англійська</param>
 <param name="Вік">9 клас</param>
@@ -100705,7 +100197,7 @@
 <vendor>Лінгвіст</vendor>
 <description>
 <![CDATA[Prepare for Ukraine НУШ 9 Workbook Шукаєте зошит, який не просто дублює підручник, а забезпечує системну практику та розвиває навички самостійної роботи? Prepare 9. Ukrainian Edition Workbook – це невід'ємний практичний компонент курсу для 9-х класів, створений для поглибленого закріплення матеріалу.    Фокус на автоматизації навичок. Велика кількість вправ для тренування граматики та лексики, що вивчаються в основному підручнику. Універсальність використання. Ідеально підходить як для задавання домашньої роботи, так і для додаткової практики безпосередньо на уроці.     Структура та зміст зошита Workbook:     Додаткові вправи до кожного тематичного розділу зі Student’s Book. Системна практика ключових мовних навичок: завдання на повторення, закріплення та автоматизацію використання мовних структур. Завдання для розвитку навичок письма, що доповнюють комунікативні активності основного курсу.]]></description>
-<quantity_in_stock>79</quantity_in_stock>
+<quantity_in_stock>58</quantity_in_stock>
 <param name="Автор">Helen Chilton</param>
 <param name="Мова">англійська</param>
 <param name="Вік">9 клас</param>
@@ -103334,7 +102826,7 @@
 <vendor>Картографія</vendor>
 <description>
 <![CDATA[Атлас + Контурні карти Географія. «Україна і світове господарство». 9 клас (НУШ) Державне науково-виробниче підприємство "Картографія".  Комплект містить атлас і контурні карти для 9 класу.   1. Атлас. Україна і світове господарство 9 клас НУШ  Атлас укладено відповідно до вимог Державного стандарту базової середньої освіти за модельною навчальною програмою «Географія 6-9 кл. Запотоцький С.П. та ін». Атлас включає наступні розділи:  Населення України і світу; Національна і світова економіка; Екологічні проблеми; Регіони і країни.  Серед висвітлених тем атласу:  Розселення, природний рух, етнічний склад населення. Урбанізація, зайнятість населення. Безробіття; Типи економічних систем країн світу, мінерально-сировинні ресурси, ТНК, господарство, зовнішньоекономічна діяльність; Економіка регіонів і країн світу.  Карти атласу укладені з використанням актуальних даних, отриманих з відкритих джерел. Атлас містить велику кількість діаграм, графіків, таблиць, дані з яких дають вичерпну економіко-географічну характеристику України та світу, дозволяють виконувати різноманітні практичні завдання, аналізувати, давати порівняльні характеристики країн та галузей економіки тощо. За інформативністю атлас дорівнює багатьом довідковим джерелам. Водночас, інформація подана в доступній для учнів формі, що не вимагає значних зусиль для сприйняття.  2. Контурні карти. Україна і світове господарство 9 клас НУШ  Комплект контурних карт розроблено на основі атласу «Україна і світове господарство 9 клас НУШ». Контурні карти містять запропоновані завдання, водночас на картах залишається вільне місце, куди можна вписати завдання, які запропонує вчитель.]]></description>
-<quantity_in_stock>98</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Предмет">Географія</param>
 <param name="Мова">українська</param>
 <param name="Вік">9 клас</param>
@@ -103489,4 +102981,29 @@
 <param name="Тип обкладинки">м&apos;яка</param>
 <param name="ISBN">978-966-945-608-3</param>
 <param name="Формат, розмір">70х100/16</param>
-<param name="Видавництво">Літера</param></offer></offers></shop></yml_catalog>
+<param name="Видавництво">Літера</param></offer>
+<offer id="33315" available="true" in_stock="true" selling_type="r" >
+<name>ЗНО/НМТ 2026 Комплексне видання Пiдручники i посiбники Історія України, Ігор Панчук</name>
+<vendorCode>978966074335</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/zno-nmt-2026-kompleksne-vydannia-pidruchnyky-i-posibnyky-istoriia-ukrainy-ihor-panchuk-1/</url>
+<currencyId>UAH</currencyId>
+<categoryId>71</categoryId>
+<price>365</price>
+<picture>https://knigovan.com/image/catalog/products/33315/zno-nmt-2026-kompleksne-vidannya-pidruchniki-i-posibniki-stor-ya-ukra-ni-gor-panchuk-1.jpg</picture>
+<vendor>Пiдручники i посiбники</vendor>
+<description>
+<![CDATA[Історія України. Комплексна підготовка до ЗНО/НМТ 2027 (Ігор Панчук) Пропонований посібник призначено для самостійної підготовки до ЗНО та ДПА з історії України, а також для поурочної роботи. Він укладений відповідно до чинної програми з історії України для закладів загальної середньої освіти та чинної програми ЗНО. У виданні представлено теоретичні відомості, різноманітні словниково-довідкові й інші допоміжні матеріали та тестові завдання з історії України (від найдавніших часів до наших днів) з відповідями, що дають змогу здійснити перевірку знань, умінь і навичок з цього курсу.  Для випускників, абітурієнтів, учнів та вчителів закладів загальної середньої освіти.]]></description>
+<quantity_in_stock>2</quantity_in_stock>
+<param name="Автор">Панчук І.</param>
+<param name="Предмет">Історія України</param>
+<param name="Мова">українська</param>
+<param name="Вік">9-11 класи</param>
+<param name="Тип">Посібник по ЗНО/НМТ</param>
+<param name="Серія">Підготовка до ЗНО/НМТ</param>
+<param name="Кількість сторінок">464</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет, чорно-біла</param>
+<param name="Тип обкладинки">м&apos;яка, ламінована</param>
+<param name="ISBN">9789660743359</param>
+<param name="Формат, розмір">А4 (210*300 мм)</param>
+<param name="Видавництво">Підручники і посібники</param></offer></offers></shop></yml_catalog>
