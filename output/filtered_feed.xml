@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-08-26 12:00">
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-08-27 12:00">
 <shop>
 <url>https://knigovan.com/</url>
 <name>Книгован</name>
@@ -6007,7 +6007,26 @@
 
 
 
-
+<offer id="24525" available="true" in_stock="true" selling_type="r" >
+<name>Дитина народилася! (укр)</name>
+<vendorCode>9786170025456</vendorCode>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/dlia-turbotlyvykh-batkiv/dytyna-narodylasia-ukr/</url>
+<currencyId>UAH</currencyId>
+<categoryId>137</categoryId>
+<price>350</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/24525/ditina_narodilasya_ukr.jpg</picture>
+<vendor>Основа</vendor>
+<description>
+<![CDATA[Незабаром у вашому житті з’явиться дитина, а може, ви нещодавно стали молодими батьками. Мине лише рік, і безпорадна крихітка, що плаче, перетвориться на дуже допитливого і спритного малюка. Це рік надзвичайних змін! Як малюк пізнає світ навколо себе і себе у світі? Як допомогти йому опанувати всі навички і знання? Як зрозуміти, що малюк розвивається гармонійно і правильно? Як бути його батьками? Відповіді на ці та інші запитання ви знайдете в книзі «Дитина народилася!». У книзі також подано інформацію про основні етапи розвитку малюка, його потреби в перший рік життя, наведено вправи та ігри. Книга адресована всім молодим мамам і татусям, бабусям і дідусям, яким важливо розуміти об’єктивні закони формування психіки і поведінки немовляти і які хочуть правильно спланувати власну «генеральну лінію» виховання дитини.]]></description>
+<quantity_in_stock>1</quantity_in_stock>
+<param name="Автор">М.Малихіна</param>
+<param name="Мова">українська</param>
+<param name="Тип">посібник</param>
+<param name="Серія">Для турботливих батьків</param>
+<param name="Кількість сторінок">192</param>
+<param name="Тип паперу">офсет</param>
+<param name="Тип обкладинки">м&apos;яка, ламінована</param>
+<param name="ISBN">9786170025456</param></offer>
 
 
 
@@ -6497,7 +6516,7 @@
 <vendorCode>9789660732049</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/polska-mova-tablytsi-ta-skhemy-pochatkovyi-i-serednii-rivni/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>33</categoryId>
 <price>85</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24581/polska_mova_tablitsi_ta_shemi_pochatkoviy_i_seredniy_rivni.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -6678,26 +6697,7 @@
 
 
 
-<offer id="24602" available="true" in_stock="true" selling_type="r" >
-<name>Алгебра. Увесь шкільний курс у 100 темах</name>
-<vendorCode>9786177385669</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/dovidnyky-1/alhebra-uves-shkilnyi-kurs-u-100-temakh/</url>
-<currencyId>UAH</currencyId>
-<categoryId>73</categoryId>
-<price>80</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/24602/algebra_uves_shkilniy_kurs_u_100_temah.jpg</picture>
-<vendor>АССА</vendor>
-<description>
-<![CDATA[Довідник "Алгебра. Увесь шкільний курс у 100 темах!" містить матеріал усього шкільного курсу, відібраний у 100 найбільш важливих тем. Інформація представлена в наочній формі чітко на 1–2 сторінки, що дозволяє швидко знайти і запам’ятати необхідну тему. Посібник надає можливість самостійно систематизувати знання, зосередити увагу на основних поняттях, термінах, визначеннях.    Посібник відповідає чинній програмі МОН України.   Збірник структуровано у чотири основні розділи:   «Алгебра»   «Функція та її властивості. Види функцій»   «Початки математичного аналізу»   «Елементи комбінаторики, статистики та теорії ймовірностей»   Збірка має у своєму складі найбільш важливі теореми, терміни, функції, графіки, пояснення математичних законів і закономірностей. Рекомендований для бліц-підготовки до уроків і контрольних робіт, а також до ДПА і ЗНО.   100 тем це:   -   Найважливіші теми зі шкільного курсу   -   Одна тема за 5 хвилин! Підготовка до ДПА, ЗНО, контрольної або самостійної роботи   -   Одна тема - з одного погляду   -   Тільки найнеобхідніша теорія з прикладами   -   Для учнів, студентів, вчителів, батьків.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Мова">українська</param>
-<param name="Вік">10-16 рокiв</param>
-<param name="Тип">довідник</param>
-<param name="Серія">Нова українська школа</param>
-<param name="Кількість сторінок">128</param>
-<param name="Тип паперу">офсет</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786177385669</param></offer>
+
 
 
 
@@ -7889,7 +7889,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[В посібнику " НУШ. Альбом-посібник Маленький трудівничок. Трудове навчання 1 клас " запропоновано творчі завдання з трудового навчання (дизайну і технологій), розроблені відповідно до Типових освітніх програм МОН України (О.  Савченко та Р. Шияна) для 1 класу, спрямовані на розвиток універсальних творчих якостей  і  сенсорних здібностей учнів.         Для учнів першого класу, учителів початкових класів,  батьків.]]></description>
-<quantity_in_stock>36</quantity_in_stock>
+<quantity_in_stock>19</quantity_in_stock>
 <param name="Автор">Роговська Л.</param>
 <param name="Мова">українська</param>
 <param name="Вік">1 клас</param>
@@ -12689,7 +12689,7 @@
 <vendor>Картографія</vendor>
 <description>
 <![CDATA[Атлас + контурна карта. Географічний простір Землі 11 клас. Державне науково-виробниче підприємство "Картографія". Комплект включає в себе атлас і контурні карти для 11 класу. Атлас містить докладні карти з досліджуваних тем. Карти ілюструють і доповнюють текст будь-якого підручника по курсу. Контурні карти і завдання, що містяться в них, дозволяють поглибити і закріпити знання по досліджуваному курсу. Контрольні завдання дають можливість вчителю перевірити знання учня, а учневі - проявити свої знання і вміння творчо працювати з атласом і підручником. Видання має гриф Міністерства освіти і науки України та відповідає санітарному законодавству України.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>81</quantity_in_stock>
 <param name="Мова">українська</param>
 <param name="Вік">11 клас</param>
 <param name="Тип">Атлас+Контурні карти</param>
@@ -14528,7 +14528,7 @@
 <vendorCode>978-617-7485-82-6</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/nush-atlas-konturni-karty-orion-ya-doslidzhuiu-svit-1-2-klas-hilberh/</url>
 <currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
+<categoryId>14</categoryId>
 <price>80</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25626/nush_atlas_konturni_karti_orion_ya_doslidzhuyu_svit_1_2_klas_gilberg.jpg</picture>
 <vendor>Оріон</vendor>
@@ -16664,30 +16664,7 @@
 <param name="ISBN">978966036115</param>
 <param name="Формат, розмір">А4 (210*300 мм)</param>
 <param name="Видавництво">Підручники і посібники</param></offer>
-<offer id="25938" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Атлас Оріон Географія Україна: природа, природокористування 8 клас Руденко І. С. (2025 рік)</name>
-<vendorCode>9789669913395</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/8-klas-2/nush-atlas-orion-heohrafiia-ukraina-pryroda-pryrodokorystuvannia-8-klas-rudenko-i-s-2025-rik/</url>
-<currencyId>UAH</currencyId>
-<categoryId>50</categoryId>
-<price>150</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/25938/nush_atlas_orion_geografiya_ukra_na_priroda_prirodokoristuvannya_8_klas_rudenko_i_s_2025_rik.jpg</picture>
-<vendor>Оріон</vendor>
-<description>
-<![CDATA[Атлас Україна: природа, природокористування. Географія. 8 клас НУШ НУШ 8 клас. Географія. Атлас Україна: природа, природокористування. Руденко І. С.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Руденко І. С.</param>
-<param name="Мова">українська</param>
-<param name="Вік">8 клас</param>
-<param name="Тип">Атлас</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">44</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789669913395</param>
-<param name="Формат, розмір">220х280 мм</param>
-<param name="Видавництво">Оріон</param></offer>
+
 
 
 
@@ -22001,9 +21978,75 @@
 
 
 
-
-
-
+<offer id="26433" available="true" in_stock="true" selling_type="r" >
+<name>Віршики-загадки УЛА Вирушай у подорож</name>
+<vendorCode>9789662848915</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/virshyky-zahadky-ula-vyrushai-u-podorozh/</url>
+<currencyId>UAH</currencyId>
+<categoryId>139</categoryId>
+<price>45</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/26433/virshiki_zagadki_ula_virushay_u_podorozh.jpg</picture>
+<vendor>УЛА</vendor>
+<description>
+<![CDATA[Віршики-загадки – Вирушай у подорож.   Бажаєте познайомити малюка з машинами та транспортом так, щоб це було цікаво та весело? Тоді книжка «Вирушай у подорож» – неймовірна знахідка! У ній ви знайдете і зрозумілі віршики-загадки, і великі наліпки-відгадки, і яскраві панорамні картинки, які буде цікаво розглядати та досліджувати.  Видання розширить дитячий кругозір, допоможе розвинути дрібну моторику пальців рук, а також образне мислення й уяву.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Мова">українська</param>
+<param name="Вік">3+</param>
+<param name="Тип">Ігри з наліпками</param>
+<param name="Серія">Віршики-загадки</param>
+<param name="Кількість сторінок">8</param>
+<param name="Рік видання">2021</param>
+<param name="Тип паперу">кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9789662848915</param>
+<param name="Формат, розмір">23,5×22 см</param>
+<param name="Видавництво">Ула</param></offer>
+<offer id="26434" available="true" in_stock="true" selling_type="r" >
+<name>Віршики-загадки УЛА Нагодуй тваринок</name>
+<vendorCode>9789662848922</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/virshyky-zahadky-ula-nahodui-tvarynok/</url>
+<currencyId>UAH</currencyId>
+<categoryId>139</categoryId>
+<price>45</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/26434/virshiki_zagadki_ula_nagoduy_tvarinok.jpg</picture>
+<vendor>УЛА</vendor>
+<description>
+<![CDATA[Віршики-загадки – Нагодуй тваринок.   Бажаєте познайомити малюка з тваринами та їхніми улюбленими ласощами так, щоб це було цікаво та весело? Тоді книжка «Нагодуй тваринок» – неймовірна знахідка! У ній ви знайдете і зрозумілі віршики-загадки, і великі наліпки-відгадки, і яскраві панорамні картинки, які буде цікаво розглядати та досліджувати.  Видання розширить дитячий кругозір, допоможе розвинути дрібну моторику пальців рук, а також образне мислення й уяву.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Мова">українська</param>
+<param name="Вік">3+</param>
+<param name="Тип">Ігри з наліпками</param>
+<param name="Серія">Віршики-загадки</param>
+<param name="Кількість сторінок">8</param>
+<param name="Рік видання">2021</param>
+<param name="Тип паперу">кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9789662848922</param>
+<param name="Формат, розмір">23,5×22 см</param>
+<param name="Видавництво">Ула</param></offer>
+<offer id="26435" available="true" in_stock="true" selling_type="r" >
+<name>Віршики-загадки УЛА Упізнай малюка</name>
+<vendorCode>9789662848939</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/virshyky-zahadky-ula-upiznai-maliuka/</url>
+<currencyId>UAH</currencyId>
+<categoryId>139</categoryId>
+<price>45</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/26435/virshiki_zagadki_ula_upiznay_malyuka.jpg</picture>
+<vendor>УЛА</vendor>
+<description>
+<![CDATA[Віршики-загадки – Упізнай малюка.   Бажаєте познайомити малюка з тваринами та їхніми дитинчатами так, щоб це було цікаво та весело? Тоді книжка «Упізнай малюка» – неймовірна знахідка! У ній ви знайдете і зрозумілі віршики-загадки, і великі наліпки-відгадки, і яскраві панорамні картинки, які буде цікаво розглядати та досліджувати. Видання розширить дитячий кругозір, допоможе розвинути дрібну моторику пальців рук, а також образне мислення й уяву.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Мова">українська</param>
+<param name="Вік">3+</param>
+<param name="Тип">Ігри з наліпками</param>
+<param name="Серія">Віршики-загадки</param>
+<param name="Кількість сторінок">8</param>
+<param name="Рік видання">2021</param>
+<param name="Тип паперу">кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9789662848939</param>
+<param name="Формат, розмір">23,5×22 см</param>
+<param name="Видавництво">Ула</param></offer>
 
 
 
@@ -32427,56 +32470,8 @@
 <param name="Видавництво">Алатон</param></offer>
 
 
-<offer id="27514" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Зошит-практикум Я досліджую світ 4 клас Частина 1 Алатон Воронцова Пономаренко</name>
-<vendorCode>978-617-7834-02-0</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-zoshyt-praktykum-ya-doslidzhuiu-svit-4-klas-chastyna-1-alaton-vorontsova-ponomarenko/</url>
-<currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
-<price>85</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27514/nush_zoshit_praktikum_ya_doslidzhuyu_svit_4_klas_chastina_1_alaton_vorontsova_ponomarenko.jpg</picture>
-<vendor>Алатон</vendor>
-<description>
-<![CDATA[НУШ Зошит-практикум Я досліджую світ 4 клас Частина 1 (Воронцова Т., Пономаренко В.)  Зошит є частиною авторського навчально-методичного комплекту, до якого також входять: підручник, календарне планування за обома типовими освітніми програмами, методичний посібник для вчителя з розробками уроків, відеоматеріали для учнів за темою кожного тижня, діагностичні роботи, сайт дистанційної освіти для учнів тощо. Схвалено для використання у загальноосвітніх навчальних закладах]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Автор">Воронцова Т.В., Пономаренко В.С.</param>
-<param name="Предмет">Я досліджую світ</param>
-<param name="Мова">українська</param>
-<param name="Вік">4 клас</param>
-<param name="Тип">Робочий зошит</param>
-<param name="Серія">Нова українська школа</param>
-<param name="Кількість сторінок">64</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-617-7834-02-0</param>
-<param name="Формат, розмір">А-5</param>
-<param name="Видавництво">Алатон</param></offer>
-<offer id="27515" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Зошит-практикум Я досліджую світ 4 клас Частина 2 Алатон Воронцова Пономаренко</name>
-<vendorCode>978-617-7834-03-7</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-zoshyt-praktykum-ya-doslidzhuiu-svit-4-klas-chastyna-2-alaton-vorontsova-ponomarenko/</url>
-<currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
-<price>85</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27515/nush_zoshit_praktikum_ya_doslidzhuyu_svit_4_klas_chastina_2_alaton_vorontsova_ponomarenko.jpg</picture>
-<vendor>Алатон</vendor>
-<description>
-<![CDATA[НУШ Зошит-практикум Я досліджую світ 4 клас Частина 2 (Воронцова Т., Пономаренко В.)  Зошит є частиною авторського навчально-методичного комплекту, до якого також входять: підручник, календарне планування за обома типовими освітніми програмами, методичний посібник для вчителя з розробками уроків, відеоматеріали для учнів за темою кожного тижня, діагностичні роботи, сайт дистанційної освіти для учнів тощо. Схвалено для використання у загальноосвітніх навчальних закладах.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Автор">Воронцова Т.В., Пономаренко В.С.</param>
-<param name="Предмет">Я досліджую світ</param>
-<param name="Мова">українська</param>
-<param name="Вік">4 клас</param>
-<param name="Тип">Робочий зошит</param>
-<param name="Серія">Нова українська школа</param>
-<param name="Кількість сторінок">64</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-617-7834-03-7</param>
-<param name="Формат, розмір">А-5</param>
-<param name="Видавництво">Алатон</param></offer>
+
+
 
 
 <offer id="27518" available="true" in_stock="true" selling_type="r" >
@@ -35222,7 +35217,7 @@
 <offer id="27753" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Атлас інтегрований курс Оріон Вступ історії України та громадянської освіти 5 клас</name>
 <vendorCode>978-966-991-209-1</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/5-klas-2/nush-atlas-intehrovanyi-kurs-orion-vstup-istorii-ukrainy-ta-hromadianskoi-osvity-5-klas/</url>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/nush-atlas-intehrovanyi-kurs-orion-vstup-istorii-ukrainy-ta-hromadianskoi-osvity-5-klas/</url>
 <currencyId>UAH</currencyId>
 <categoryId>47</categoryId>
 <price>100</price>
@@ -35230,7 +35225,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[Вступ історії України та громадянської освіти НУШ 5 клас. Атлас інтегрований курс   Атлас створено відповідно до модельної навчальної програми «Вступ до історії України та громадянської освіти. 5 клас» для закладів загальної середньої освіти (автори: Бурлака О. В., Власова Н. С., Желіба О. В., Майорський В. В., Піскарьова І. О., Щупак І. Я.). У ньому реалізовано вимоги Державного стандарту базової середньої освіти (2020 р.) і втілено ідеї Нової української школи.   Підручник ознайомлює учнів з основами історії як науки про минуле людства. Він також має на меті зацікавити та розвинути інтерес до навчального курсу, сприяти осмисленню школярами подій минулого в контексті його зв’язків із сьогоденням, формуванню обрисів майбутнього. Підручник реалізує засади компетентнісно орієнтованого навчання та формує наскрізні вміння. Навчальні тексти та методичний апарат забезпечують розвиток історико-хронологічного, геопросторового, критичного і системного мислення, творчих здібностей, а також сприяють усвідомленню власних прав і гідності, формуванню поваги до прав і гідності інших людей.]]></description>
-<quantity_in_stock>99</quantity_in_stock>
+<quantity_in_stock>15</quantity_in_stock>
 <param name="Мова">українська</param>
 <param name="Вік">5 клас</param>
 <param name="Тип">Атлас</param>
@@ -36769,7 +36764,7 @@
 <vendor>Торсінг</vendor>
 <description>
 <![CDATA[Початкова школа. Логіка. Веселий тренажер.  Посібник призначений для розвитку мислення, уваги, пам'яті та просторової уяви учнів початкової школи. У книзі містяться 87 практичних завдань, необхідні відомості з логіки, схеми, таблиці та рисунки. До більш складних завдань представлені підказки та відповіді.  Посібник буде корисним для учнів 1-4 класів загальноосвітніх шкіл, їх батьків та вчителів.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Плотника О.М.</param>
 <param name="Мова">українська</param>
 <param name="Вік">1-4 класс</param>
@@ -37432,11 +37427,126 @@
 
 
 
-
-
-
-
-
+<offer id="27936" available="true" in_stock="true" selling_type="r" >
+<name>Пізнаємо Україну УЛА Книжка-активіті для дітей 10+</name>
+<vendorCode>9786175441695</vendorCode>
+<url>https://knigovan.com/dozvillia-ihry/patriotychni-knyzhky/piznaiemo-ukrainu-ula-knyzhka-aktyviti-dlia-ditei-10/</url>
+<currencyId>UAH</currencyId>
+<categoryId>32</categoryId>
+<price>56</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27936/pizna_mo_ukra_nu_ula_knizhka_aktiviti_dlya_ditey_10.jpg</picture>
+<vendor>УЛА</vendor>
+<description>
+<![CDATA[Пізнаємо Україну — Книжка-активіті для дітей 10+  Любов до Батьківщини, як і до родини, з’являється і виховується змалечку. Захоплення красою рідної землі, насолода від милозвучності мови, повага до символів і пам’яток, турбота про ближнього, гордість за українське проростає з усвідомленням себе частинкою країни. Ця книжка допоможе в цьому й відкриє цікаві горизонти пізнання, запропонує незвичні завдання на українську тематику, розраховані на дітей від 10 років, — кросворди, ребуси, шифрограми, судоку, розмальовки, математичний диктант, завдання для розвитку уваги, покращання дикції та тренування пам’яті.     Видання призначене для дітей молодшого шкільного віку.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Сіліч С. О.</param>
+<param name="Мова">українська</param>
+<param name="Вік">10+</param>
+<param name="Тип">для дозвілля</param>
+<param name="Серія">Пізнаємо Україну</param>
+<param name="Кількість сторінок">16</param>
+<param name="Рік видання">2023</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786175441695</param>
+<param name="Формат, розмір">21×30,5 см</param>
+<param name="Видавництво">Ула</param></offer>
+<offer id="27937" available="true" in_stock="true" selling_type="r" >
+<name>Пізнаємо Україну УЛА Книжка-активіті для дітей 9+</name>
+<vendorCode>9786175441688</vendorCode>
+<url>https://knigovan.com/dozvillia-ihry/patriotychni-knyzhky/piznaiemo-ukrainu-ula-knyzhka-aktyviti-dlia-ditei-9/</url>
+<currencyId>UAH</currencyId>
+<categoryId>32</categoryId>
+<price>56</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27937/pizna_mo_ukra_nu_ula_knizhka_aktiviti_dlya_ditey_9.jpg</picture>
+<vendor>УЛА</vendor>
+<description>
+<![CDATA[Пізнаємо Україну — Книжка-активіті для дітей 9+   Любов до Батьківщини, як і до родини, з’являється і виховується змалечку. Захоплення красою рідної землі, насолода від милозвучності мови, повага до символів і пам’яток, турбота про ближнього, гордість за українське проростають з усвідомленням себе частинкою країни. Ця книжка допоможе в цьому й відкриє цікаві горизонти пізнання, запропонує незвичні завдання на українську тематику, розраховані на дітей від 9 років, — кросворди, ребуси, шифрограми, судоку, розмальовки, лабіринт, математичний диктант, завдання для розвитку уваги, покращання дикції та тренування пам’яті.     Видання призначене для дітей молодшого шкільного віку.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Сіліч С. О.</param>
+<param name="Мова">українська</param>
+<param name="Вік">9+</param>
+<param name="Тип">для дозвілля</param>
+<param name="Серія">Пізнаємо Україну</param>
+<param name="Кількість сторінок">16</param>
+<param name="Рік видання">2023</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786175441688</param>
+<param name="Формат, розмір">21×30,5 см</param>
+<param name="Видавництво">Ула</param></offer>
+<offer id="27938" available="true" in_stock="true" selling_type="r" >
+<name>Пізнаємо Україну УЛА Книжка-активіті для дітей 8+</name>
+<vendorCode>9786175441671</vendorCode>
+<url>https://knigovan.com/dozvillia-ihry/patriotychni-knyzhky/piznaiemo-ukrainu-ula-knyzhka-aktyviti-dlia-ditei-8/</url>
+<currencyId>UAH</currencyId>
+<categoryId>32</categoryId>
+<price>56</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27938/pizna_mo_ukra_nu_ula_knizhka_aktiviti_dlya_ditey_8.jpg</picture>
+<vendor>УЛА</vendor>
+<description>
+<![CDATA[Пізнаємо Україну — Книжка-активіті для дітей 8+   Любов до Батьківщини, як і до родини, з’являється і виховується змалечку. Захоплення красою рідної землі, насолода від милозвучності мови, повага до символів і пам’яток, турбота про ближнього, гордість за українське проростають з усвідомленням себе частинкою країни. Ця книжка допоможе в цьому й відкриє цікаві горизонти пізнання, запропонує незвичні завдання на українську тематику, розраховані на дітей від 8 років, — кросворди, ребуси, шифрограми, судоку, розмальовки, лабіринт, математичні диктанти, завдання для розвитку уваги, покращання дикції та тренування пам’яті.    Видання призначене для дітей молодшого шкільного віку.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Сіліч С. О.</param>
+<param name="Мова">українська</param>
+<param name="Вік">8+</param>
+<param name="Тип">для дозвілля</param>
+<param name="Серія">Пізнаємо Україну</param>
+<param name="Кількість сторінок">16</param>
+<param name="Рік видання">2023</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786175441671</param>
+<param name="Формат, розмір">21×30,5 см</param>
+<param name="Видавництво">Ула</param></offer>
+<offer id="27939" available="true" in_stock="true" selling_type="r" >
+<name>Пізнаємо Україну УЛА Книжка-активіті для дітей 7+</name>
+<vendorCode>9786175441664</vendorCode>
+<url>https://knigovan.com/dozvillia-ihry/patriotychni-knyzhky/piznaiemo-ukrainu-ula-knyzhka-aktyviti-dlia-ditei-7/</url>
+<currencyId>UAH</currencyId>
+<categoryId>32</categoryId>
+<price>56</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27939/pizna_mo_ukra_nu_ula_knizhka_aktiviti_dlya_ditey_7.jpg</picture>
+<vendor>УЛА</vendor>
+<description>
+<![CDATA[Пізнаємо Україну — Книжка-активіті для дітей 7+   Любов до Батьківщини, як і до родини, з’являється і виховується змалечку. Захоплення красою рідної землі, насолода від милозвучності мови, повага до символів і пам’яток, турбота про ближнього, гордість за українське проростають з усвідомленням себе частинкою країни. Ця книжка допоможе в цьому й відкриє цікаві горизонти пізнання, запропонує незвичні завдання на українську тематику, розраховані на дітей від 7 років, — кросворди, загадки, ребуси, шифрограми, судоку, розмальовку, лабіринт, завдання для розвитку уваги, покращання дикції та тренування пам’яті.    Видання призначене для дітей молодшого шкільного віку.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Сіліч С. О.</param>
+<param name="Мова">українська</param>
+<param name="Вік">7+</param>
+<param name="Тип">для дозвілля</param>
+<param name="Серія">Пізнаємо Україну</param>
+<param name="Кількість сторінок">16</param>
+<param name="Рік видання">2023</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786175441664</param>
+<param name="Формат, розмір">21×30,5 см</param>
+<param name="Видавництво">Ула</param></offer>
+<offer id="27940" available="true" in_stock="true" selling_type="r" >
+<name>Пізнаємо Україну УЛА Книжка-активіті для дітей 6+</name>
+<vendorCode>9786175441657</vendorCode>
+<url>https://knigovan.com/dozvillia-ihry/patriotychni-knyzhky/piznaiemo-ukrainu-ula-knyzhka-aktyviti-dlia-ditei-6/</url>
+<currencyId>UAH</currencyId>
+<categoryId>32</categoryId>
+<price>56</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27940/pizna_mo_ukra_nu_ula_knizhka_aktiviti_dlya_ditey_6.jpg</picture>
+<vendor>УЛА</vendor>
+<description>
+<![CDATA[Пізнаємо Україну — Книжка-активіті для дітей 6+   Любов до Батьківщини, як і до родини, з’являється і виховується змалечку. Захоплення красою рідної землі, насолода від милозвучності мови, повага до символів і пам’яток, турбота про ближнього, гордість за українське проростають з усвідомленням себе частинкою країни. Ця книжка допоможе в цьому й відкриє цікаві горизонти пізнання, запропонує незвичні завдання на українську тематику, розраховані на дітей від 6 років, — кросворди, загадки, ребуси, шифрограми, судоку, розмальовку, лабіринт, завдання для розвитку уваги, покращання дикції та тренування пам’яті.    Видання призначене для дітей старшого дошкільного й молодшого шкільного віку.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Сіліч С. О.</param>
+<param name="Мова">українська</param>
+<param name="Вік">6+</param>
+<param name="Тип">для дозвілля</param>
+<param name="Серія">Пізнаємо Україну</param>
+<param name="Кількість сторінок">16</param>
+<param name="Рік видання">2023</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786175441657</param>
+<param name="Формат, розмір">21×30,5 см</param>
+<param name="Видавництво">Ула</param></offer>
 
 
 
@@ -43876,28 +43986,7 @@
 <param name="Тип обкладинки">м&apos;яка</param>
 <param name="ISBN">9789669912367</param>
 <param name="Видавництво">Оріон</param></offer>
-<offer id="28606" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Атлас Оріон Географія 6 клас</name>
-<vendorCode>9789669912350</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/6-klas-2/nush-atlas-orion-heohrafiia-6-klas/</url>
-<currencyId>UAH</currencyId>
-<categoryId>48</categoryId>
-<price>150</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/28606/nush_atlas_orion_geografiya_6_klas.jpg</picture>
-<vendor>Оріон</vendor>
-<description>
-<![CDATA[Атлас Географія 6 клас. НУШ  Відповідає всім чинним модельним програмам з географії для 6 класу НУШ.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Тетяна Гільберг</param>
-<param name="Мова">українська</param>
-<param name="Вік">6 клас</param>
-<param name="Тип">Атлас</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Рік видання">2023</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789669912350</param>
-<param name="Видавництво">Оріон</param></offer>
+
 
 
 
@@ -49229,7 +49318,7 @@
 <vendorCode>9786170973269</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/holovolomky-krosvordy-labirynty/ihrovi-labirynty-dlia-posydiuchykh-i-neposydkiv-ranok-koval-n-m/</url>
 <currencyId>UAH</currencyId>
-<categoryId>135</categoryId>
+<categoryId>32</categoryId>
 <price>120</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28958/igrovi_labirinti_dlya_posidyuchih_i_neposidkiv_ranok_koval_n_m.jpg</picture>
 <vendor>Ранок</vendor>
@@ -49258,7 +49347,7 @@
 <vendorCode>9786177995400</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/trenazher-kompleksnyi-z-matematyky-5-9-klas-assa-n-f-ryndina-o-m-tytarenko/</url>
 <currencyId>UAH</currencyId>
-<categoryId>73</categoryId>
+<categoryId>7</categoryId>
 <price>270</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28965/trenazher_kompleksniy_z_matematiki_5_9_klas_assa_n_f_rindina_o_m_titarenko.jpg</picture>
 <vendor>АССА</vendor>
@@ -55620,8 +55709,54 @@
 <param name="ISBN">9786170945754</param>
 <param name="Формат, розмір">250х250 мм.</param>
 <param name="Видавництво">Ранок</param></offer>
-
-
+<offer id="29429" available="true" in_stock="true" selling_type="r" >
+<name>Чарівні історії. У пошуках Нового року Ранок Ран Юліта</name>
+<vendorCode>9786170979889</vendorCode>
+<url>https://knigovan.com/novorichni-sviata/charivni-istorii-u-poshukakh-novoho-roku-ranok-ran-yulita/</url>
+<currencyId>UAH</currencyId>
+<categoryId>137</categoryId>
+<price>175</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/29429/charivni_istori_u_poshukah_novogo_roku_ranok_ran_yulita.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[У пошуках Нового року. Чарівні історії. Ран Юліта  Читайте про неймовiрнi новорiчнi пригоди! Усе в Чарівній країні було готове до святкування Нового року. Та раптом стрілки годинників зупинилися, не дійшовши до півночі. На календарі з’явилася біла пляма. Новий рік у королівство й не думав приходити... І тоді принцеса Кло вирушила на його пошуки. Чи вдасться їй повернути Новий рік? Читайте про пригоди відважної принцеси у цій книжці.]]></description>
+<quantity_in_stock>1</quantity_in_stock>
+<param name="Автор">Ран Юліта</param>
+<param name="Мова">українська</param>
+<param name="Вік">6-10 рокiв</param>
+<param name="Тип">книга</param>
+<param name="Серія">Чарівні історії</param>
+<param name="Кількість сторінок">32</param>
+<param name="Рік видання">2022</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">тверда</param>
+<param name="ISBN">9786170979889</param>
+<param name="Формат, розмір">165х230 мм</param>
+<param name="Видавництво">Ранок</param></offer>
+<offer id="29430" available="true" in_stock="true" selling_type="r" >
+<name>Чарівні історії. Канікули Святого Миколая Ранок Ран Юліта</name>
+<vendorCode>9786170979896</vendorCode>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/charivni-istorii-kanikuly-sviatoho-mykolaia-ranok-ran-yulita/</url>
+<currencyId>UAH</currencyId>
+<categoryId>137</categoryId>
+<price>175</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/29430/charivni_istori_kanikuli_svyatogo_mikolaya_ranok_ran_yulita.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[Канікули Святого Миколая. Чарівні історії. Ран Юліта  Ловіть чудову історію до зимових свят! Хто ж не втомиться, працюючи без перерв і вихідних? Ось і святий Миколай цієї зими так заморився, що вирішив влаштувати собі справжні канікули. Проте, під час відпочинку Миколай дізнався, що чимало дітей більше не вірять у нього... Чи вдасться йому відродити дитячу віру в дива, а потім, нарешті, відпочити? Читайте про пригоди святого Миколая у цій книжці. Книжки цієї серії містять аудіобонус – казку, озвучену авторкою.]]></description>
+<quantity_in_stock>1</quantity_in_stock>
+<param name="Автор">Ран Юліта</param>
+<param name="Мова">українська</param>
+<param name="Вік">6-10 рокiв</param>
+<param name="Тип">книга</param>
+<param name="Серія">Чарівні історії</param>
+<param name="Кількість сторінок">32</param>
+<param name="Рік видання">2022</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">тверда</param>
+<param name="ISBN">9786170979896</param>
+<param name="Формат, розмір">165х230 мм</param>
+<param name="Видавництво">Ранок</param></offer>
 <offer id="29431" available="true" in_stock="true" selling_type="r" >
 <name>Чарівні історії. Про лицарів. З аудіосупроводом Ранок Ран Юліта</name>
 <vendorCode>9786170968104</vendorCode>
@@ -61696,7 +61831,7 @@
 <vendorCode>9786176702893</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/atlas-ukrainoznavstvo-9-11-klas-kartohrafiia/</url>
 <currencyId>UAH</currencyId>
-<categoryId>51</categoryId>
+<categoryId>60</categoryId>
 <price>148</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29864/atlas_ukra_noznavstvo_9_11_klas_kartografiya.jpg</picture>
 <vendor>Картографія</vendor>
@@ -68417,29 +68552,7 @@
 <param name="ISBN">9789669913272</param>
 <param name="Формат, розмір">60х92/8</param>
 <param name="Видавництво">Оріон</param></offer>
-<offer id="30553" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Атлас Оріон Географія. Материки та океани 7 клас</name>
-<vendorCode>9789669913289</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/7-klas-2/nush-atlas-orion-heohrafiia-materyky-ta-okeany-7-klas/</url>
-<currencyId>UAH</currencyId>
-<categoryId>49</categoryId>
-<price>150</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/30553/nush_atlas_orion_geografiya_materiki_ta_okeani_7_klas.jpg</picture>
-<vendor>Оріон</vendor>
-<description>
-<![CDATA[Географія 7 клас. Атлас. Материки і Океани Атлас укладено згідно з навчальною програмою «Географія. 5–9 класи».  У його структурі є 7 тематичних розділів:     Форма і рухи Землі. Материки та океани – великі природні комплекси географічної оболонки (карти світу). Материки тропічних широт (розділи: Африка, Південна Америка, Австралія). Полярний материк планети (Антарктида). Материки Північної півкулі (розділи: Північна Америка, Євразія). Океани. Вплив людини на природу материків та океанів.    Карти атласу розроблені на географічних основах, створених за ГІС-технологіями з використанням цифрових карт, що відображують точну конфігурацію берегової лінії материків, правильні абриси озерних улоговин, актуальні лінії річок тощо. Компонування карт материків відрізняється від узвичаєних у навчальній картографії. Зокрема на картах Африки вміщено територію Чорного моря та півдня України, що дає змогу краще усвідомити зв’язки між нашою країною та державами Африканського континенту (відповідно до навчальної програми). Усі карти атласу створені з відмивкою рельєфу. Це дає можливість, по-перше, уявити об’ємну картину фізичної поверхні материків та дна океанів, простежити зв’язок між формами рельєфу й тектонічними структурами, залежністю клімату від підстильної поверхні, природних зон від рельєфу місцевості. Джерелами укладання карт є актуальна інформація міжнародних організацій, які проводять моніторинг навколишнього природного середовища. Так, кліматична карта світу укладена за відкритими даними WorldClim – Global Climate Data, карти природних зон світу та екологічної ситуації побудовані за новітніми даними Всесвітньої організації з охорони природи, зменшення лісового покриву подано за інтерактивною картою Global Forest World, а картосхеми зміни озонового шару над  Антарктидою створені згідно з космічними знімками NASA Ozone Watch. Традиційні карти материків (фізична, тектонічна, кліматична, природних зон, політична) доповнені картами, які вперше подані в навчальних шкільних атласах, зокрема карти формування території та розселення корінних народів. Карти природних зон материків містять позначення природних об’єктів Світової спадщини ЮНЕСКО за відкритими даними World Database on Protected Areas, а політичні карти — культурних об’єктів ЮНЕСКО. Серед нових треба відзначити карти рельєфу Антарктиди без льодового покриву з відображенням прогнозних корисних копалин і товщини льодового покриву. Особливостями карт океанів є наявність карти Південного океану, відображення рельєфу океанічного дна відмивкою, показ тваринного світу художніми значками, подання охоронних об’єктів ЮНЕСКО.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Тетяна Гільберг</param>
-<param name="Мова">українська</param>
-<param name="Вік">7 клас</param>
-<param name="Тип">Атлас</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Рік видання">2024</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789669913289</param>
-<param name="Формат, розмір">60х92/8</param>
-<param name="Видавництво">Оріон</param></offer>
+
 
 <offer id="30555" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Збірник вправ з граматики Лінгвіст Prepare for Ukraine 7 Grammar Англійська мова 7 клас до підручника Д. Коста М. Вільямс</name>
@@ -69703,94 +69816,10 @@
 <param name="ISBN">9789660743434</param>
 <param name="Формат, розмір">В5 (180*250 мм)</param>
 <param name="Видавництво">Підручники і посібники</param></offer>
-<offer id="30666" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Атлас Оріон Всесвітня історія. Історія України 6 клас Інтегрований курс</name>
-<vendorCode>9789669911643</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/6-klas-2/nush-atlas-orion-vsesvitnia-istoriia-istoriia-ukrainy-6-klas-intehrovanyi-kurs/</url>
-<currencyId>UAH</currencyId>
-<categoryId>48</categoryId>
-<price>100</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/30666/nush_atlas_orion_vsesvitnya_istoriya_istoriya_ukra_ni_6_klas_integrovaniy_kurs.jpg</picture>
-<vendor>Оріон</vendor>
-<description>
-<![CDATA[Всесвітня історія. Історія України НУШ 6 клас. Атлас інтегрований курс  Інтегрований курс історії для 6 класу - перший систематичний курс історії в середній школі. З його особливостей: вивчення давньої історії України як частини всесвітньої історії; викладення історичного матеріалу від появи первісних людей до падіння Західної Римської імперії. Розпочинається атлас сторінкою-нагадуванням «Як читати історичні карти». Усі 33 карти атласу розкривають розуміння цивілізаційної значущості стародавнього періоду в історії України, Європи та світу в цілому. Антична цивілізація, як основа для подальшого розвитку європейського суспільства, займає центральне місце в атласі, 21 карта присвячена цій темі. Усі карти в атласі комплексні – будь-який історичний час для кожної теми показаний на карті з усіх його боків: культові постаті, зміни кордонів і меж, завоювання територій, залежні території, міста, сільськогосподарські культури, корисні копалини, війни та битви, культура та просвітництво тощо.]]></description>
-<quantity_in_stock>99</quantity_in_stock>
-<param name="Мова">українська</param>
-<param name="Вік">6 клас</param>
-<param name="Тип">Атлас</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Рік видання">2023</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789669911643</param>
-<param name="Формат, розмір">60х92/8</param>
-<param name="Видавництво">Оріон</param></offer>
-<offer id="30667" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Контурні карти Оріон Всесвітня історія. Історія України 6 клас Інтегрований курс</name>
-<vendorCode>9789669911650</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/6-klas-2/nush-konturni-karty-orion-vsesvitnia-istoriia-istoriia-ukrainy-6-klas-intehrovanyi-kurs/</url>
-<currencyId>UAH</currencyId>
-<categoryId>48</categoryId>
-<price>50</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/30667/nush_konturni_karti_orion_vsesvitnya_istoriya_istoriya_ukra_ni_6_klas_integrovaniy_kurs.jpg</picture>
-<vendor>Оріон</vendor>
-<description>
-<![CDATA[Всесвітня історія. Історія України (інтегрований курс) НУШ 6 клас. Контурні карти  Контурні карти укладено відповідно до чинної навчальної програми з географії для 6 класу. Завдання в контурних картах відповідають віковим особливостям учнів та сформовані так, щоб закріпити теоретичні знання здобуті під час вивчення окремих навчальних тем і виконати всі практичні роботи, передбачені програмою.]]></description>
-<quantity_in_stock>99</quantity_in_stock>
-<param name="Мова">українська</param>
-<param name="Вік">6 клас</param>
-<param name="Тип">Контурні карти</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">13</param>
-<param name="Рік видання">2023</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789669911650</param>
-<param name="Видавництво">Оріон</param></offer>
-<offer id="30668" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Атлас Оріон Всесвітня історія. Історія України 7 клас Інтегрований курс</name>
-<vendorCode>9789669913265</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/7-klas-2/nush-atlas-orion-vsesvitnia-istoriia-istoriia-ukrainy-7-klas-intehrovanyi-kurs/</url>
-<currencyId>UAH</currencyId>
-<categoryId>49</categoryId>
-<price>100</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/30668/nush_atlas_orion_vsesvitnya_istoriya_istoriya_ukra_ni_7_klas_integrovaniy_kurs.jpg</picture>
-<vendor>Оріон</vendor>
-<description>
-<![CDATA[Всесвітня історія. Історія України (інтегрований курс) 7 клас. Атлас  Упорядник - Ігор Щупак, кандидат історичних наук, заслужений працівник освіти України, член Українсько-німецької історичної комісії, член Українсько-польської комісії експертів підручників історії та географії, автор підручників. Атлас продовжує серію картографічних навчальних посібників інтегрованого курсу з історії видавництва. Навчальна програма висуває високі вимоги, щодо навчальних досягнень, особливого значення набуває робота з історичними картами. Атлас задовольняє ці вимоги. Це єдиний на ринку навчальних картографічних посібників України інтегрований атлас з вивчення епохи Середніх віків, де Історія України вивчається як складова частина всесвітньої історії. Послідовність розділів в атласі та послідовність карт в них відповідає «Таблиці для синхронізації курсів історії України та всесвітньої історії в 7 класі». Кількість карт та їхні теми дають змогу використовувати атлас і під час вивчення курсу «Всесвітня історія», і під час курсу «Історія України». Видання має гарний візуальний культурний контекст: проілюстроване фотографіями та малюнками визначних діячів науки та культури відповідного історичного періоду, схемами битв, світлинами архітектурних пам’яток тощо. Надаємо декілька сторінок із атласу, щоб ви могли ознайомитися з його особливостями та структурою.]]></description>
-<quantity_in_stock>98</quantity_in_stock>
-<param name="Мова">українська</param>
-<param name="Вік">7 клас</param>
-<param name="Тип">Атлас</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">20 (кількість карт: 26)</param>
-<param name="Рік видання">2024</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789669913265</param>
-<param name="Видавництво">Оріон</param></offer>
-<offer id="30669" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Контурні карти Оріон Всесвітня історія. Історія України 7 клас Інтегрований курс</name>
-<vendorCode>9789669913258</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/7-klas-2/nush-konturni-karty-orion-vsesvitnia-istoriia-istoriia-ukrainy-7-klas-intehrovanyi-kurs/</url>
-<currencyId>UAH</currencyId>
-<categoryId>49</categoryId>
-<price>50</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/30669/nush_konturni_karti_orion_vsesvitnya_istoriya_istoriya_ukra_ni_7_klas_integrovaniy_kurs.jpg</picture>
-<vendor>Оріон</vendor>
-<description>
-<![CDATA[Всесвітня історія. Історія України (інтегрований курс) 7 клас. Контурні карти  Упорядник - Ігор Щупак, кандидат історичних наук, заслужений працівник освіти України, член Українсько-німецької історичної комісії, член Українсько-польської комісії експертів підручників історії та географії, автор підручників. Контурні карти містять творчі завдання різного ступеня складності. На їхніх сторінках можна виконати п’ять практичних завдань з курсу «Історія України» та всі завдання з курсу «Всесвітня історія».]]></description>
-<quantity_in_stock>98</quantity_in_stock>
-<param name="Мова">українська</param>
-<param name="Вік">7 клас</param>
-<param name="Тип">Контурні карти</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">12 (кількість карт: 26)</param>
-<param name="Рік видання">2024</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789669913258</param>
-<param name="Видавництво">Оріон</param></offer>
+
+
+
+
 <offer id="30670" available="true" in_stock="true" selling_type="r" >
 <name>НУШ ​Робочий зошит Астон Історія: Україна і світ 7 клас Інтегрований курс Васильків</name>
 <vendorCode>9789663089416</vendorCode>
@@ -72375,74 +72404,9 @@
 <param name="ISBN">9786177712878, 9786177712847</param>
 <param name="Формат, розмір">220х290 мм.</param>
 <param name="Видавництво">Оріон</param></offer>
-<offer id="31050" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Комплект Атлас + Контурні карти Оріон Всесвітня історія. Історія України 9 клас Інтегрований курс Щупак, 2026 рік</name>
-<vendorCode>9789669915429, 9789669915436</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/9-klas-2/nush-komplekt-atlas-konturni-karty-orion-vsesvitnia-istoriia-istoriia-ukrainy-9-klas-intehrovanyi-kurs-shchupak/</url>
-<currencyId>UAH</currencyId>
-<categoryId>51</categoryId>
-<price>150</price>
-<picture>https://knigovan.com/image/catalog/products/31050/nush-komplekt-atlas-konturn-karti-or-on-vsesv-tnya-stor-ya-stor-ya-ukra-ni-9-klas-ntegrovaniy-kurs-shchupak-1.jpg</picture>
-<vendor>Оріон</vendor>
-<description>
-<![CDATA[Комплект Всесвітня історія. Історія України (інтегрований курс) 9 клас. Атлас + Контурні карти (НУШ)  Упорядник – Ігор Щупак, кандидат історичних наук, заслужений працівник освіти України, член Українсько-німецької історичної комісії, член Українсько-польської комісії експертів підручників історії та географії, автор підручників.  1. Атлас продовжує серію картографічних навчальних посібників інтегрованого курсу з історії УОВЦ «Оріон», упорядкованих Ігорем Щупаком. Атлас є новим для навчального процесу посібником, якого досі не було в Україні.   Усі карти атласу виконані з дотриманням необхідних змістовних і технічних вимог, тематично поєднані між собою та взаємно узгоджені. Карти прості для сприйняття, умовні знаки переважно асоціативні. Послідовність карт в атласі, поєднання тем всесвітньої історії та історії України цілком відповідають «Таблиці для синхронізації курсів історії України та всесвітньої історії». Картографічний посібник укладений з дотриманням вимог Держаного стандарту базової та повної загальної освіти та чинної навчальної програми з історії 5–9 класів закладів загальної середньо освіти.  2. Контурні карти містять завдання різного ступеня складності. Кількість карт, їхні теми та масштаби дають змогу виконати всі практичні та творчі роботи обох навчальних курсів з історії.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Щупак І.Я</param>
-<param name="Предмет">Всесвітня історія, Історія України</param>
-<param name="Мова">українська</param>
-<param name="Вік">9 клас</param>
-<param name="Тип">Атлас+Контурні карти</param>
-<param name="Рік видання">2026</param>
-<param name="Тип паперу">кольорова/одноколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789669915429, 9789669915436</param>
-<param name="Видавництво">Оріон</param></offer>
-<offer id="31051" available="true" in_stock="true" selling_type="r" >
-<name>Комплект Атлас + Контурні карти Оріон Всесвітня історія. Історія України 10 клас Інтегрований курс Щупак</name>
-<vendorCode>9786177712755, 9786177712762</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/komplekt-atlas-konturni-karty-orion-vsesvitnia-istoriia-istoriia-ukrainy-10-klas-intehrovanyi-kurs-shchupak/</url>
-<currencyId>UAH</currencyId>
-<categoryId>52</categoryId>
-<price>150</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/31051/komplekt_atlas_konturni_karti_orion_vsesvitnya_istoriya_istoriya_ukra_ni_10_klas_integrovaniy_kurs_shchupak.jpg</picture>
-<vendor>Оріон</vendor>
-<description>
-<![CDATA[Комплект Всесвітня історія. Історія України (інтегрований курс) 10 клас. Атлас + Контурні карти  Упорядник — Ігор Щупак, кандидат історичних наук, заслужений працівник освіти України, член Українсько-німецької історичної комісії, член Українсько-польської комісії експертів підручників історії та географії, автор підручників.  1. Атлас створено за оновленими навчальними програмами, побудованих на компетентнісній основі, для закладів загальної середньої освіти: «Історія України. 10―11 класи. Рівень стандарту» та «Всесвітня історія 10―11 класи. Рівень  стандарту/Академічний рівень». Він продовжує серію картографічних навчальних посібників інтегрованого курсу з історії УОВЦ «Оріон». Атлас вирізняється  новим поглядами на відомі теми. Містить карти, яких немає в інших навчальних атласах. Шість оригінальних за своїм змістом і способами зображення тематичних карт присвячені  розгортанню української революції та боротьби за відновлення державності. На двох картах показані  події в Україні часів Директорії січня–червня 1919 р. та червня–грудня 2019 р. Традиційним для навчальних атласів за темою, але  оригінальним за змістом і способами картографічного зображення є розділ  «Утвердження комуністичного тоталітарного режиму в Україні». Найбільший розділ атласу «Друга світова війна» містить 10 карт, об’єднаних однаковими умовними позначеннями, спільним кольоровим оформленням. Шість карт цього розділу присвячено подіям Другої світової війни на території України. Цікавою, але простою для сприйняття є карта «Наслідки Другої світової війни. Територіальні зміни в Європі». Надаємо декілька сторінок з атласу, щоб ви могли ознайомитися з його особливостями та структурою.  2. Контурні карти містять завдання різного ступеня складності. Кількість карт, їхні теми та масштаби дають змогу виконати всі практичні та творчі роботи обох навчальних курсів з історії.]]></description>
-<quantity_in_stock>20</quantity_in_stock>
-<param name="Автор">Щупак І.Я</param>
-<param name="Мова">українська</param>
-<param name="Вік">10 клас</param>
-<param name="Тип">Атлас+Контурні карти</param>
-<param name="Кількість сторінок">32+16</param>
-<param name="Рік видання">2019</param>
-<param name="Тип паперу">кольорова/одноколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786177712755, 9786177712762</param>
-<param name="Формат, розмір">220х290 мм.</param>
-<param name="Видавництво">Оріон</param></offer>
-<offer id="31052" available="true" in_stock="true" selling_type="r" >
-<name>Комплект Атлас + Контурні карти Оріон Всесвітня історія. Історія України 11 клас Інтегрований курс Щупак</name>
-<vendorCode>9789669910288, 9789669910295</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/11-klas-2/komplekt-atlas-konturni-karty-orion-vsesvitnia-istoriia-istoriia-ukrainy-11-klas-intehrovanyi-kurs-shchupak/</url>
-<currencyId>UAH</currencyId>
-<categoryId>53</categoryId>
-<price>150</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/31052/komplekt_atlas_konturni_karti_orion_vsesvitnya_istoriya_istoriya_ukra_ni_11_klas_integrovaniy_kurs_shchupak.jpg</picture>
-<vendor>Оріон</vendor>
-<description>
-<![CDATA[Комплект Всесвітня історія. Історія України (інтегрований курс) 11 клас. Атлас + Контурні карти  Упорядник — Ігор Щупак, кандидат історичних наук, заслужений працівник освіти України, член Українсько-німецької історичної комісії, член Українсько-польської комісії експертів підручників історії та географії, автор підручників.  1. Структура та зміст атласу упорядковані відповідно до «Таблиці для синхронізації курсів історії України та всесвітньої історії». Розділ «Облаштування повоєнного світу» містить карти, вельми важливі для розуміння сучасної історії: «Територіальні зміни в Європі за підсумками Другої світової війни» та план Берліна із зазначенням секторів окупації. Завершує розділ карта з найбільшим в атласі масштабі «Світ. У 1945–1953 рр.» із врізаними картами «План Маршалла» та копією оригінальної карти видання 1945 року «Зони окупації Німеччини та Австрії». Оригінальними є карти розділу  «Україна в повоєнний період». Чотири карти висвітлюють теми адміністративних змін в Україні, зокрема в Західній Україні, стан промисловості у 1945–1953 роках і карту СРСР з інформацією про народи, що зазнали політичних репресій, шляхи їхньої депортації, табори ГУТАБу тощо. П’ятнадцять карт розділу «Становлення України як незалежної держави» розкривають головні події країни від проголошення незалежності до останніх президентських виборів 2019 року. Окремі карти присвячені помаранчевій революції, революції гідності та російсько-українській війні. Новою за змістом є карта «Релігійне життя», де показані події у християнському світі після отримання Томасу про автокефалію. Сім карт, об’єднаних однаковими умовними позначеннями, спільним кольоровим оформленням містять інформацію про президентські вибори в Україні. Шість карт цього розділу присвячено подіям війни на території України. Надаємо декілька сторінок з атласу, щоб ви могли ознайомитися з його особливостями та структурою. Упорядник — Ігор Щупак, кандидат історичних наук, заслужений працівник освіти України, член Українсько-німецької історичної комісії, член Українсько-польської комісії експертів підручників історії та географії, автор підручників. Контурні карти побудовані відповідно до цивілізаційного підходу у вивченні історії. Головною перевагою цього видання є те, що кожна карта і завдання до неї — це дидактичний комплекс, який допоможе учням сформувати основні предметні компетенції (просторові, логічні та аксіологічні) та скласти цілісне уявлення про суспільний, економічний та політичний розвиток людської цивілізації.  2. Контурні карти за географічними основами цілком відповідають однойменному Атласу з історії 11 класу, доповнені творчими завданнями. Кожна карта містить від 3 до 10 завдань різної складності.]]></description>
-<quantity_in_stock>30</quantity_in_stock>
-<param name="Автор">Щупак І.Я</param>
-<param name="Мова">українська</param>
-<param name="Вік">11 клас</param>
-<param name="Тип">Атлас+Контурні карти</param>
-<param name="Кількість сторінок">32+16</param>
-<param name="Рік видання">2020</param>
-<param name="Тип паперу">кольорова/одноколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789669910288, 9789669910295</param>
-<param name="Формат, розмір">220х290 мм.</param>
-<param name="Видавництво">Оріон</param></offer>
+
+
+
 
 
 <offer id="31055" available="true" in_stock="true" selling_type="r" >
@@ -75755,52 +75719,8 @@
 
 
 
-<offer id="31378" available="true" in_stock="true" selling_type="r" >
-<name>Казкові пригоди з англійською. Wimmelbuch 5-9 років Англійська проссто граючи Нью Тайм Юлія Іванова</name>
-<vendorCode>9786177728305</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/kazkovi-pryhody-z-anhliiskoiu-wimmelbuch-5-9-rokiv-anhliiska-prossto-hraiuchy-niu-taim-yuliia-ivanova/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>159</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/31378/kazkovi_prigodi_z_angliyskoyu_wimmelbuch_5_9_rokiv_angliyska_prossto_grayuchi_nyu_taym_yuliya_ivanova.jpg</picture>
-<vendor>Нью Тайм</vendor>
-<description>
-<![CDATA[Казкові пригоди з англійською. Wimmelbuch Юлія Іванова New Time Books  Ігрове навчання англійської дошкільнят і молодших школярів.  Що може бути приємнішим для дитини, ніж навчатися у грі? Це ж справжнє щастя для батьків спостерігати, з яким задоволенням дітлахи вивчають англійську, розглядаючи барвисті ілюстрації, знаходячи потрібні слова і малюнки, бавлячись з картками. Саме так! Навчатися через гру стає не тільки модною, а й цілком природною справою для сучасних маленьких учнів. Дивовижно красиві ілюстрації утягують дитину в чарівний світ казок і роблять перше знайомство з англійською мовою незабутньо захоплюючим. Разом з маленькими героями дитина пройде сторінками книги, розплутає результат невмілого чаклунства маленької відьмочки, виконає пошукові завдання і запам'ятає більше ніж 300 дуже корисних англійських слів. Книга може бути використана як для першого знайомства дитини з англійською, так і для більш глибоко навчання, оскільки сюжетні ілюстрації дають чудовий ґрунт для спілкування і тренування простих граматичних конструкцій. Подаруйте дитині радість ігрового вивчення англійської мови, і ви побачите, як просто вона почне її засвоювати! Для кращого результату для дошкільнят рекомендуємо купувати цю книгу разом із розробленим до неї комплектом карток.    Для учнів початкової школи рекомендуємо купувати книгу в комплекті з: картками, Робочим зошитом, а також з книгою "У королівстві англійської граматики".     Зміст книги "Казкові пригоди з англійською. Wimmelbuch":  1. Halloween Night 2. The Snow Queen 3. Ali Baba and Forty Thieves 4. The Adventures of Baron Munchausen 5. Sindbad the Sailor 6. Cinderella 7. Goldilocks and Three Bears 8. Beauty and the Beast 9. The Mitten 10. The Ugly Duckling 11. The Jungle Book 12. Puss in Boots 13. Snow White and the Seven Dwarfs 14. Aladdin and the Magic Lamp 15. Little Muck 16. Little Red Riding Hood 17. The Sleeping Beauty 18. Mary Poppins 19. The Magic Porrige Pot 20. The Onion Boy   21. Pinocchio]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Юлія Іванова, Віталій Геращенко</param>
-<param name="Мова">українська, італійський</param>
-<param name="Вік">5-9 років</param>
-<param name="Тип">Книга-вімельбух</param>
-<param name="Серія">Англійська просто граючи</param>
-<param name="Кількість сторінок">48</param>
-<param name="Рік видання">2020</param>
-<param name="Тип паперу">кольоровий, крейдований</param>
-<param name="Тип обкладинки">м&apos;яка, ламінована</param>
-<param name="ISBN">9786177728305</param>
-<param name="Формат, розмір">215х285 мм</param></offer>
-<offer id="31379" available="true" in_stock="true" selling_type="r" >
-<name>Казкові пригоди з англійською. Робочий зошит 5-9 років Англійська проссто граючи Нью Тайм Юлія Іванова</name>
-<vendorCode>9786177728329</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/kazkovi-pryhody-z-anhliiskoiu-robochyi-zoshyt-5-9-rokiv-anhliiska-prossto-hraiuchy-niu-taim-yuliia-ivanova/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>125</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/31379/kazkovi_prigodi_z_angliyskoyu_robochiy_zoshit_5_9_rokiv_angliyska_prossto_grayuchi_nyu_taym_yuliya_ivanova.jpg</picture>
-<vendor>Нью Тайм</vendor>
-<description>
-<![CDATA[Казкові пригоди з англійською. Робочий зошит Юлія Іванова New Time Books  Немає нічого кращого, ніж навчатися із задоволенням!  Цей робочий зошит призначений для кращого запам’ятовування слів з книги "Казкові пригоди з англійською. Wimmelbuch". Завдяки веселим завданням дитина з цікавістю буде засвоювати нові слова, навчиться простих граматичних конструкцій, навчиться будувати прості фрази англійською і розвине найпростіші навички усного мовлення. Перетворіть навчання дитини на веселу гру!  Склад книги "Казкові пригоди з англійською. Робочий зошит":  1. Halloween Night 2. The Snow Queen 3. Ali Baba and Forty Thieves 4. The Adventures of Baron Munchausen 5. Sindbad the Sailor 6. Cinderella 7. Goldilocks and Three Bears 8. Beauty and the Beast 9. The Mitten 10. The Ugly Duckling 11. The Jungle Book 12. Puss in Boots 13. Snow White and the Seven Dwarfs 14. Aladdin and the Magic Lamp 15. Little Muck 16. Little Red Riding Hood 17. The Sleeping Beauty 18. Mary Poppins 19. The Magic Porrige Pot 20. The Onion Boy 21. Pinocchio Відповіді]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Юлія Іванова</param>
-<param name="Мова">українська, італійський</param>
-<param name="Вік">5-9 років</param>
-<param name="Тип">Робочий зошит</param>
-<param name="Серія">Англійська просто граючи</param>
-<param name="Кількість сторінок">88</param>
-<param name="Рік видання">2020</param>
-<param name="Тип паперу">чорно-біла</param>
-<param name="Тип обкладинки">м&apos;яка, ламінована</param>
-<param name="ISBN">9786177728329</param>
-<param name="Формат, розмір">215х285 мм</param></offer>
+
+
 
 
 
@@ -76104,7 +76024,7 @@
 <vendor>Генеза</vendor>
 <description>
 <![CDATA[НУШ Я досліджую світ. 1 клас. Робочий зошит з інтегрованого курсу до підручника Гільберг Т. Г. КОМПЛЕКТ у 2-х частинах Нові зошити є невід’ємною частиною навчально-методичної підтримки оновленого підручника. Містять практику орієнтовані завдання, які допомагають успішно засвоїти програмовий матеріал, формувати компетентності, вміння й навички. Містять необхідні інструктивно-рекомендаційні матеріали для проведення уроків технологічної галузі, яких немає в підручнику. Вдало застосовують спосіб формувального оцінювання. Побудовані так, щоб дитина могла на основі завдань висловлювати та аргументувати власну думку, вчилася пояснювати, відкривала нове, надійно забезпечують усвідомлений навчальний поступ учасників освітнього процесу, зокрема й завдяки завданням із самоперевірки та рефлексії. Саме наші зошити від авторів підручника гарантують педагогам виконання програмових вимог інтегрованого курсу «Я досліджую світ» для 1 класу в повному обсязі. Зміст підручника не дублюється, а доповнюється доцільним матеріалом, надано місце для виконання різноманітних завдань та запису спостережень, замальовок ходу дослідів та формулювання висновків.]]></description>
-<quantity_in_stock>69</quantity_in_stock>
+<quantity_in_stock>52</quantity_in_stock>
 <param name="Автор">Гільберг Т. Тарнавська С. Павич Н.</param>
 <param name="Предмет">Я досліджую світ</param>
 <param name="Мова">українська</param>
@@ -76426,30 +76346,7 @@
 <param name="ISBN">9786170043160,9786170043634,9786170042163,9786170042170,9786170042194,9786170043153, 9786170043689, 9786170044075</param>
 <param name="Формат, розмір">А-4</param>
 <param name="Видавництво">Основа</param></offer>
-<offer id="31480" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Зошит-практикум Алатон Я досліджую світ 1 клас (Воронцова) КОМПЛЕКТ у 4 частинах</name>
-<vendorCode>1210122</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/nush-zoshyt-praktykum-alaton-ya-doslidzhuiu-svit-1-klas-vorontsova-komplekt-u-4-chastynakh/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>340</price>
-<picture>https://knigovan.com/image/catalog/products/31480/nush-zoshit-praktikum-alaton-ya-dosl-dzhuyu-sv-t-1-klas-vorontsova-komplekt-u-4-chastinah-1.jpg</picture>
-<vendor>Алатон</vendor>
-<description>
-<![CDATA[НУШ. Зошит-практикум Я досліджую світ 1 клас. (Воронцова) КОМПЛЕКТ у 4 частинах Зошит-практикум створено відповідно до Державного стандарту початкової освіти, затвердженого постановою Кабінету Міністрів України. Може використовуватися у школах, що працюють за чинними Типовими освітніми програмами.  Зошит-практикум є частиною навчально-методичного комплекту (за авторством: Воронцова Т.В., Пономаренко В.С., Хомич О.Л., Гарбузюк І.В., Андрук Н.В.), до якого також входять: підручник, методичний посібник для вчителя, електронний мультимедійний посібник для учнів, збірка відеоматеріалів і комп'ютерних презентацій. Гриф Міністерства освіти: Рекомендовано Міністерством освіти й науки України]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Воронцова Т.В.</param>
-<param name="Предмет">Я досліджую світ</param>
-<param name="Мова">українська</param>
-<param name="Вік">1 клас</param>
-<param name="Тип">Зошит-практикум</param>
-<param name="Серія">Нова українська школа</param>
-<param name="Кількість сторінок">64+56+64+64</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789662663556, 9789662663563, 9789662663631, 9789662663686</param>
-<param name="Формат, розмір">170х240 мм.</param>
-<param name="Видавництво">Алатон</param></offer>
+
 <offer id="31481" available="true" in_stock="true" selling_type="r" >
 <name>НУШ-2 Зошит дослідника Літера 1 клас до підручника Іщенко, Кліщ КОМПЛЕКТ у 2-х частинах</name>
 <vendorCode>9789669454522, 9789669454539</vendorCode>
@@ -77358,28 +77255,7 @@
 <param name="ISBN">9789669467164, 9789669467065</param>
 <param name="Формат, розмір">220x280 мм</param>
 <param name="Видавництво">Картографія</param></offer>
-<offer id="31531" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Атлас Оріон Всесвітня історія. Історія України 8 клас Інтегрований курс Щупак І.Я. (2025 рік)</name>
-<vendorCode>9789669914415</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/8-klas-2/nush-atlas-orion-vsesvitnia-istoriia-istoriia-ukrainy-8-klas-intehrovanyi-kurs-shchupak-i-ia-2025-rik/</url>
-<currencyId>UAH</currencyId>
-<categoryId>50</categoryId>
-<price>100</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/31531/nush_atlas_orion_vsesvitnya_istoriya_istoriya_ukra_ni_8_klas_integrovaniy_kurs_shchupak_i_ya_2025_rik.jpg</picture>
-<vendor>Оріон</vendor>
-<description>
-<![CDATA[Всесвітня історія. Історія України (інтегрований курс) 8 клас. Атлас (НУШ)  Упорядник – Ігор Щупак, кандидат історичних наук, заслужений працівник освіти України, член Українсько-німецької історичної комісії, член Українсько-польської комісії експертів підручників історії та географії, автор підручників. Структура та зміст атласу забезпечує послідовне висвітлення тем двох навчальних курсів «Всесвітньої історії» та «Історії України» тематичними картами, відповідно до «Таблиці для синхронізації курсів історії України та всесвітньої історії в 7–9 класах». Зміст цього видання суттєво розвантажено, подано тільки ті карти, що ілюструють головні теми навчальних курсів. Тож учні зможуть здобувати знання на основі опрацювання менших обсягів інформації. Атлас можна використовувати як на уроках з курсу «Всесвітньої історії», так і на уроках «Історії України». Тема Східного світу з курсу всесвітньої історії розкрита через окрему карту Персії, Індії, Китаю та Японії, де показано  утворення держави Сефевідів, Великих Моголів, імперії Цін, Японії за Токугавою, європейські колонії в Азії. Видання має гарний візуальний культурний контекст: його проілюстровано фотографіями та малюнками визначних діячів науки та культури відповідного історичного періоду, схемами битв, світлинами архітектурних пам’яток тощо.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Щупак І.Я</param>
-<param name="Мова">українська</param>
-<param name="Вік">8 клас</param>
-<param name="Тип">Атлас</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-966-991-441-5</param>
-<param name="Видавництво">Оріон</param></offer>
+
 <offer id="31532" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Контурні карти Оріон Всесвітня історія. Історія України 8 клас Інтегрований курс Щупак І.Я. (2025 рік)</name>
 <vendorCode>9789669914422</vendorCode>
@@ -77403,28 +77279,7 @@
 <param name="Тип обкладинки">м&apos;яка</param>
 <param name="ISBN">978-966-991-442-2</param>
 <param name="Видавництво">Оріон</param></offer>
-<offer id="31533" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Комплект Атлас + Контурні карти Оріон Всесвітня історія. Історія України 8 клас Інтегрований курс Щупак І.Я. (2025 рік)</name>
-<vendorCode>9789669914415, 9789669914422</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/8-klas-2/nush-komplekt-atlas-konturni-karty-orion-vsesvitnia-istoriia-istoriia-ukrainy-8-klas-intehrovanyi-kurs-shchupak-i-ia-2025-rik/</url>
-<currencyId>UAH</currencyId>
-<categoryId>50</categoryId>
-<price>150</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/31533/nush_komplekt_atlas_konturni_karti_orion_vsesvitnya_istoriya_istoriya_ukra_ni_8_klas_integrovaniy_kurs_shchupak_i_ya_2025_rik.jpg</picture>
-<vendor>Оріон</vendor>
-<description>
-<![CDATA[Комплект Всесвітня історія. Історія України (інтегрований курс) 8 клас. Атлас + Контурні карти (НУШ)  Упорядник – Ігор Щупак, кандидат історичних наук, заслужений працівник освіти України, член Українсько-німецької історичної комісії, член Українсько-польської комісії експертів підручників історії та географії, автор підручників.  1. Атлас. Структура та зміст атласу забезпечує послідовне висвітлення тем двох навчальних курсів «Всесвітньої історії» та «Історії України» тематичними картами, відповідно до «Таблиці для синхронізації курсів історії України та всесвітньої історії в 7–9 класах». Зміст цього видання суттєво розвантажено, подано тільки ті карти, що ілюструють головні теми навчальних курсів. Тож учні зможуть здобувати знання на основі опрацювання менших обсягів інформації. Атлас можна використовувати як на уроках з курсу «Всесвітньої історії», так і на уроках «Історії України». Тема Східного світу з курсу всесвітньої історії розкрита через окрему карту Персії, Індії, Китаю та Японії, де показано  утворення держави Сефевідів, Великих Моголів, імперії Цін, Японії за Токугавою, європейські колонії в Азії. Видання має гарний візуальний культурний контекст: його проілюстровано фотографіями та малюнками визначних діячів науки та культури відповідного історичного періоду, схемами битв, світлинами архітектурних пам’яток тощо.  2. Контурні карти містять завдання різного ступеня складності. Кількість карт, їхні теми та масштаби дають змогу виконати всі практичні та творчі роботи обох навчальних курсів з історії – 5 з курсу історії України та 6 із всесвітньої історії.]]></description>
-<quantity_in_stock>32</quantity_in_stock>
-<param name="Автор">Щупак І.Я</param>
-<param name="Мова">українська</param>
-<param name="Вік">8 клас</param>
-<param name="Тип">Атлас+Контурні карти</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-966-991-441-5, 978-966-991-442-2</param>
-<param name="Видавництво">Оріон</param></offer>
+
 
 
 
@@ -79756,31 +79611,7 @@
 <param name="ISBN">9789669910417, 9789669910424</param>
 <param name="Формат, розмір">70х100/16</param>
 <param name="Видавництво">Оріон</param></offer>
-<offer id="31658" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Зошит-практикум Я досліджую світ 3 клас Алатон (Воронцова, Пономаренко) КОМПЛЕКТ у 2-х частинах</name>
-<vendorCode>9789662663891, 9789662663914</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/nush-zoshyt-praktykum-ya-doslidzhuiu-svit-3-klas-alaton-vorontsova-ponomarenko-komplekt-u-2-kh-chastynakh/</url>
-<currencyId>UAH</currencyId>
-<categoryId>10</categoryId>
-<price>170</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/31658/nush_zoshit_praktikum_ya_doslidzhuyu_svit_3_klas_alaton_vorontsova_ponomarenko_komplekt_u_2_h_chastinah.jpg</picture>
-<vendor>Алатон</vendor>
-<description>
-<![CDATA[КОМПЛЕКТ: НУШ Зошит-практикум Я досліджую світ 3 клас у 2-х частинах (Воронцова Т. Пономаренко В. Хомич О.) Створено відповідно до Державного стандарту початкової освіти, затвердженого постановою Кабінету Міністрів України від 21.02.2018 No 87.  Може використовуватися у школах, що працюють за чинними типовими освітніми програмами. Він є частиною авторського навчально-методичного комплекту, до якого також входять: підручник, календарне планування за обома типовими освітніми програмами, методичний посібник для вчителя, відеоматеріали для учнів за темою кожного тижня, діагностичні роботи тощо. Схвалено для використання у закладах загальної середньої освіти комісією з педагогіки та методики початкового навчання Науково-методичної ради з питань освіти Міністерства освіти і науки України (Лист ІМЗО від 25.05.2020 No 22.1/12-Г-288).]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Воронцова Т. Пономаренко В. Хомич О.</param>
-<param name="Предмет">Я досліджую світ</param>
-<param name="Мова">українська</param>
-<param name="Вік">3 клас</param>
-<param name="Тип">Робочий зошит</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">64+64</param>
-<param name="Рік видання">2020</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789662663891, 9789662663914</param>
-<param name="Формат, розмір">А-5</param>
-<param name="Видавництво">Алатон</param></offer>
+
 <offer id="31659" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Діагностичні роботи Я досліджую світ 3 клас Алатон (Воронцова, Пономаренко) КОМПЛЕКТ у 2-х частинах</name>
 <vendorCode>9789662663921, 9789662663938</vendorCode>
@@ -80864,8 +80695,50 @@
 
 
 
-
-
+<offer id="31730" available="true" in_stock="true" selling_type="r" >
+<name>Подорож країною Дорожніх знаків 5+ з наліпками Ранок/Наочні посібники</name>
+<vendorCode>4827476988771</vendorCode>
+<url>https://knigovan.com/pravyla-dorozhnoho-rukhu/ihry-ta-kartky-pdr/podorozh-krainoiu-dorozhnikh-znakiv-5-z-nalipkamy-ranok-naochni-posibnyky/</url>
+<currencyId>UAH</currencyId>
+<categoryId>32</categoryId>
+<price>66</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31730/podorozh_kra_noyu_dorozhnih_znakiv_5_z_nalipkami_ranok_naochni_posibniki.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[Подорож країною Дорожніх знаків 5+ з наліпками.   Як навчити дитину правилам дорожнього руху легко й цікаво? У пригоді стане посібник «Подорож країною «Дорожніх знаків». У форматі гри з наліпками дитина вивчатиме, запам’ятовуватиме та закріплюватиме основні правила поведінки пішохода.  На 16 сторінках — інтерактивні завдання, яскраві ілюстрації та 36 наліпок. Малюк дізнається про групи дорожніх знаків, сигнали світлофора, значення табличок і багато іншого. Посібник формує уважність, навчає аналізувати ситуації на дорозі та ухвалювати безпечні рішення. Ранні знання з ПДР — це не лише запорука безпеки, а й розвиток відповідальності. Компактний формат і зрозуміла структура роблять зошит зручним для занять удома, у садочку чи школі. Це справжній помічник для дорослих, які хочуть навчити дітей головному — бути обережними.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Мова">українська</param>
+<param name="Вік">5-7 рокiв</param>
+<param name="Тип">Посiбник для дітей</param>
+<param name="Кількість сторінок">16</param>
+<param name="Рік видання">2025</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">4827476988771</param>
+<param name="Формат, розмір">160х230 мм</param>
+<param name="Видавництво">Ранок/Наочні посібники</param></offer>
+<offer id="31731" available="true" in_stock="true" selling_type="r" >
+<name>Екологія: як стати рятівником природи 6+ з наліпками Ранок/Наочні посібники</name>
+<vendorCode>4827476988801</vendorCode>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/entsyklopedii/ekolohiia-yak-staty-riativnykom-pryrody-6-z-nalipkamy-ranok-naochni-posibnyky/</url>
+<currencyId>UAH</currencyId>
+<categoryId>32</categoryId>
+<price>66</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31731/ekologiya_yak_stati_ryativnikom_prirodi_6_z_nalipkami_ranok_naochni_posibniki.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[Екологія: як стати рятівником природи 6+ з наліпками.   Як розповісти дітям про екологію просто, цікаво й доступно? Легко — з посібником/зошитом «Екологія: як стати рятівником природи з наліпками». Він допоможе пояснити малюкам, чому важливо берегти довкілля, сортувати сміття, економити воду й електроенергію.  Усередині — 16 сторінок інтерактивних завдань, 39 наліпок, цікаві факти та весела гра «Від чого планета радіє, а від чого — плаче». Навчання відбувається в ігровій формі, яка залучає дитину до свідомих дій. Посібник розвиває критичне мислення, формує екозвички й дарує перше розуміння відповідальності за природу. Працювати з ним цікаво вдома, у садочку чи школі. Це не просто зошит — це перший крок до турботливого ставлення до світу, що навколо.]]></description>
+<quantity_in_stock>1</quantity_in_stock>
+<param name="Мова">українська</param>
+<param name="Вік">6-8 рокiв</param>
+<param name="Тип">Посiбник для дітей</param>
+<param name="Кількість сторінок">16</param>
+<param name="Рік видання">2025</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">4827476988801</param>
+<param name="Формат, розмір">160х230 мм</param>
+<param name="Видавництво">Ранок/Наочні посібники</param></offer>
 <offer id="31732" available="true" in_stock="true" selling_type="r" >
 <name>Читаємо по черзі. Пухнасті цікавинки. 2-й рівень складності (Федосова В.Б.) Ранок/Видавнича група Кенгуру</name>
 <vendorCode>9786170936646</vendorCode>
@@ -81390,7 +81263,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[КОМПЛЕКТ: НУШ 1 клас. Математика. Робочий зошит. У 2-х частинах. Листопад Н. П. (2025 рік) Зошит схвалено до використання в загальноосвітніх навчальних закладах комісією з педагогіки та методики початкового навчання Науково-методичної ради з питань освіти Міністерства освіти і науки України відповідним листом ДНУ «Інститут модернізації змісту освіти». Відповідно до Типової освітньої програми, розробленої під керівництвом О. Я. Савченко. Зошит вибудовано за тематичними принципом: кожна тема містить низку завдань для опрацювання. Завдання покликані не лише формувати математичну компетентність, а й всебічно розвивати дитину. Вправи на знаходження зайвого предмета, об'єднання за спільною ознакою, визначення розташування об'єктів тощо допомагають розвивати логічне мислення та просторове уявлення. Низка вправ пропонує для їх розв'язання розфарбувати предмети, домалювати, з'єднати чи написати за зразком. Завдання підкріплені яскравим ілюстративним супроводом для стимулювання образного мислення дитини. Наприкінці зошит містить додаткові завдання з різних тем. Методичну підтримку від авторки можна знайти в однойменній рубриці «Методична підтримка».]]></description>
-<quantity_in_stock>96</quantity_in_stock>
+<quantity_in_stock>95</quantity_in_stock>
 <param name="Автор">Листопад Н.П.</param>
 <param name="Предмет">Математика</param>
 <param name="Мова">українська</param>
@@ -84478,52 +84351,8 @@
 <param name="Формат, розмір">200x265 мм</param>
 <param name="Видавництво">АССА</param></offer>
 
-<offer id="31938" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Атлас + Контурні карти Оріон Всесвітня історія. Історія України 6 клас Інтегрований курс КОМПЛЕКТ</name>
-<vendorCode>9789669911643, 9789669911650</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/6-klas-2/nush-atlas-konturni-karty-orion-vsesvitnia-istoriia-istoriia-ukrainy-6-klas-intehrovanyi-kurs-komplekt/</url>
-<currencyId>UAH</currencyId>
-<categoryId>48</categoryId>
-<price>150</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/31938/nush_atlas_konturni_karti_orion_vsesvitnya_istoriya_istoriya_ukra_ni_6_klas_integrovaniy_kurs_komplekt.jpg</picture>
-<vendor>Оріон</vendor>
-<description>
-<![CDATA[КОМПЛЕКТ: Атлас + Контурні карти Всесвітня історія. Історія України НУШ 6 клас. Інтегрований курс   Атлас. Інтегрований курс історії для 6 класу – перший систематичний курс історії в середній школі. З його особливостей: вивчення давньої історії України як частини всесвітньої історії; викладення історичного матеріалу від появи первісних людей до падіння Західної Римської імперії. Розпочинається атлас сторінкою-нагадуванням «Як читати історичні карти». Усі 33 карти атласу розкривають розуміння цивілізаційної значущості стародавнього періоду в історії України, Європи та світу в цілому. Антична цивілізація, як основа для подальшого розвитку європейського суспільства, займає центральне місце в атласі, 21 карта присвячена цій темі. Усі карти в атласі комплексні – будь-який історичний час для кожної теми показаний на карті з усіх його боків: культові постаті, зміни кордонів і меж, завоювання територій, залежні території, міста, сільськогосподарські культури, корисні копалини, війни та битви, культура та просвітництво тощо.  Контурні карти укладено відповідно до чинної навчальної програми з географії для 6 класу. Завдання в контурних картах відповідають віковим особливостям учнів та сформовані так, щоб закріпити теоретичні знання здобуті під час вивчення окремих навчальних тем і виконати всі практичні роботи, передбачені програмою.]]></description>
-<quantity_in_stock>98</quantity_in_stock>
-<param name="Мова">українська</param>
-<param name="Вік">6 клас</param>
-<param name="Тип">Атлас+Контурні карти</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">16+13</param>
-<param name="Рік видання">2023</param>
-<param name="Тип паперу">офсет, кольорова, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789669911643, 9789669911650</param>
-<param name="Формат, розмір">60х92/8</param>
-<param name="Видавництво">Оріон</param></offer>
-<offer id="31939" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Атлас + Контурні карти Оріон Всесвітня історія. Історія України 7 клас Інтегрований курс КОМПЛЕКТ</name>
-<vendorCode>9789669913265, 9789669913258</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/7-klas-2/nush-atlas-konturni-karty-orion-vsesvitnia-istoriia-istoriia-ukrainy-7-klas-intehrovanyi-kurs-komplekt/</url>
-<currencyId>UAH</currencyId>
-<categoryId>49</categoryId>
-<price>150</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/31939/nush_atlas_konturni_karti_orion_vsesvitnya_istoriya_istoriya_ukra_ni_7_klas_integrovaniy_kurs_komplekt.jpg</picture>
-<vendor>Оріон</vendor>
-<description>
-<![CDATA[КОМПЛЕКТ: Атлас + Контурні карти Всесвітня історія. Історія України (інтегрований курс) 7 клас.  Упорядник - Ігор Щупак, кандидат історичних наук, заслужений працівник освіти України, член Українсько-німецької історичної комісії, член Українсько-польської комісії експертів підручників історії та географії, автор підручників.  Атлас продовжує серію картографічних навчальних посібників інтегрованого курсу з історії видавництва. Навчальна програма висуває високі вимоги, щодо навчальних досягнень, особливого значення набуває робота з історичними картами. Атлас задовольняє ці вимоги. Це єдиний на ринку навчальних картографічних посібників України інтегрований атлас з вивчення епохи Середніх віків, де Історія України вивчається як складова частина всесвітньої історії. Послідовність розділів в атласі та послідовність карт в них відповідає «Таблиці для синхронізації курсів історії України та всесвітньої історії в 7 класі». Кількість карт та їхні теми дають змогу використовувати атлас і під час вивчення курсу «Всесвітня історія», і під час курсу «Історія України». Видання має гарний візуальний культурний контекст: проілюстроване фотографіями та малюнками визначних діячів науки та культури відповідного історичного періоду, схемами битв, світлинами архітектурних пам’яток тощо. Надаємо декілька сторінок з атласу, щоб ви могли ознайомитися з його особливостями та структурою.  Контурні карти містять творчі завдання різного ступеня складності. На їхніх сторінках можна виконати п’ять практичних завдань з курсу «Історія України» та всі завдання з курсу «Всесвітня історія».]]></description>
-<quantity_in_stock>65</quantity_in_stock>
-<param name="Автор">Ігор Щупак</param>
-<param name="Мова">українська</param>
-<param name="Вік">7 клас</param>
-<param name="Тип">Атлас+Контурні карти</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">20+12</param>
-<param name="Рік видання">2024</param>
-<param name="Тип паперу">офсет, кольорова, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789669913265, 9789669913258</param>
-<param name="Видавництво">Оріон</param></offer>
+
+
 
 
 
@@ -84856,78 +84685,9 @@
 <param name="ISBN">9786170999498</param>
 <param name="Формат, розмір">165х210 мм</param>
 <param name="Видавництво">Ранок</param></offer>
-<offer id="31975" available="true" in_stock="true" selling_type="r" >
-<name>Стартуємо разом. Логічні вправи: зошит для дітей 5-7 років Крок до НУШ Ранок (Ващенко О.Л.)</name>
-<vendorCode>9786170959249</vendorCode>
-<url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-5-rokiv/startuiemo-razom-lohichni-vpravy-zoshyt-dlia-ditei-5-7-rokiv-krok-do-nush-ranok-vashchenko-o-l/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>75</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/31975/startu_mo_razom_logichni_vpravi_zoshit_dlya_ditey_5_7_rokiv_krok_do_nush_ranok_vashchenko_o_l.jpg</picture>
-<vendor>Ранок</vendor>
-<description>
-<![CDATA[Стартуємо разом. Логічні вправи: зошит для дітей 5-7 років Крок до НУШ  Посібник призначений для роботи з дітьми 5–7 років, які збираються йти до школи, та може використовуватися як додатковий зошит у 1 класі. У ньому пропонуються логічні завдання на ознайомлення з поняттями «ліворуч», «праворуч», «над», «у», «біля», «спільне», «відмінне», «однакове», «пара», «порядок дій» тощо, вправи на порівняння, добір, лічбу. Також зошит містить загадки, графічні вправи, завдання на малювання, домальовування, розмальовування та штрихування. На сторінках посібника розміщено QR­коди, за допомогою яких можна швидко перейти до додаткового матеріалу у вигляді презентацій та аудіозаписів.]]></description>
-<quantity_in_stock>20</quantity_in_stock>
-<param name="Автор">Ващенко О.Л.</param>
-<param name="Мова">українська</param>
-<param name="Вік">5-7 рокiв</param>
-<param name="Тип">Зошит-посібник</param>
-<param name="Серія">Стартуємо разом</param>
-<param name="Кількість сторінок">64</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786170959249</param>
-<param name="Формат, розмір">165х235 мм</param>
-<param name="Видавництво">Ранок</param></offer>
-<offer id="31976" available="true" in_stock="true" selling_type="r" >
-<name>Стартуємо разом. Усна лічба: зошит для дітей 5-7 років Крок до НУШ Ранок (Ващенко О.Л.)</name>
-<vendorCode>9786170959256</vendorCode>
-<url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-5-rokiv/startuiemo-razom-usna-lichba-zoshyt-dlia-ditei-5-7-rokiv-krok-do-nush-ranok-vashchenko-o-l/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>75</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/31976/startu_mo_razom_usna_lichba_zoshit_dlya_ditey_5_7_rokiv_krok_do_nush_ranok_vashchenko_o_l.jpg</picture>
-<vendor>Ранок</vendor>
-<description>
-<![CDATA[Стартуємо разом. Усна лічба: зошит для дітей 5-7 років Крок до НУШ  Посібник призначений для роботи з дітьми 5-7 років, які збираються йти до школи, та може використовуватися як додатковий зошит у 1 класі. У ньому пропонуються завдання на ознайомлення з цифрами від 0 до 9, обчислення виразів, складання та розв’язування задач, порівняння чисел, кількості зображених предметів, логічні вправи. Також посібник містить вірші про цифри, віршовані задачі. Крім того, дітям пропонується малювати по клітинках, учитися писати цифри та математичні знаки, малювати, домальовувати й розфарбовувати предмети. На сторінках посібника розміщено QR-коди, за допомогою яких можна швидко перейти до додаткового матеріалу у вигляді презентацій та аудіозаписів.]]></description>
-<quantity_in_stock>20</quantity_in_stock>
-<param name="Автор">Ващенко О.Л.</param>
-<param name="Мова">українська</param>
-<param name="Вік">5-7 рокiв</param>
-<param name="Тип">Зошит-посібник</param>
-<param name="Серія">Стартуємо разом</param>
-<param name="Кількість сторінок">64</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786170959256</param>
-<param name="Формат, розмір">165х235 мм</param>
-<param name="Видавництво">Ранок</param></offer>
-<offer id="31977" available="true" in_stock="true" selling_type="r" >
-<name>Стартуємо разом. Букви, звуки та склади: зошит для дітей 5-7 років Крок до НУШ Ранок (Ващенко О.Л.)</name>
-<vendorCode>9786170959195</vendorCode>
-<url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-5-rokiv/startuiemo-razom-bukvy-zvuky-ta-sklady-zoshyt-dlia-ditei-5-7-rokiv-krok-do-nush-ranok-vashchenko-o-l/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>75</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/31977/startu_mo_razom_bukvi_zvuki_ta_skladi_zoshit_dlya_ditey_5_7_rokiv_krok_do_nush_ranok_vashchenko_o_l.jpg</picture>
-<vendor>Ранок</vendor>
-<description>
-<![CDATA[Стартуємо разом. Букви, звуки та склади: зошит для дітей 5–7 років Крок до НУШ  Посібник призначений для роботи з дітьми 5–7 років, які збираються йти до школи, та може використовуватися як додатковий зошит у 1 класі. У ньому пропонуються завдання на ознайомлення зі звуками та буквами української абетки, опрацювання звукових схем, поділу слів на склади, визначення наголосу тощо. На сторінках зошита діти навчаться складати речення за схемами та малюнками, поєднувати звуки в склади, а склади – у слова, робити звуковий аналіз слів, розрізняти звуки. Посібник також містить скоромовки, чистомовки, загадки, вірші про букви. Крім того, дошкільнятам пропонується штрихувати, наводити, домальовувати елементи букв, «заховані» в зображеннях предметів і тварин, тобто готувати руку до написання букв. На сторінках посібника розміщено QR-коди, за допомогою яких можна швидко перейти до додаткового матеріалу у вигляді презентацій та аудіозаписів.]]></description>
-<quantity_in_stock>20</quantity_in_stock>
-<param name="Автор">Ващенко О.Л.</param>
-<param name="Мова">українська</param>
-<param name="Вік">5-7 рокiв</param>
-<param name="Тип">Зошит-посібник</param>
-<param name="Серія">Стартуємо разом</param>
-<param name="Кількість сторінок">64</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786170959195</param>
-<param name="Формат, розмір">165х235 мм</param>
-<param name="Видавництво">Ранок</param></offer>
+
+
+
 
 
 
@@ -95881,9 +95641,76 @@
 <param name="ISBN">9786178774851</param>
 <param name="Формат, розмір">105х165 мм</param>
 <param name="Видавництво">Ранок</param></offer>
-
-
-
+<offer id="32941" available="true" in_stock="true" selling_type="r" >
+<name>Для турботливих батьків Основа Зрозумій мене! Секрети розшифровування дитячої поведінки Анна Гресь</name>
+<vendorCode>9786170037541</vendorCode>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/dlia-turbotlyvykh-batkiv/dlia-turbotlyvykh-batkiv-osnova-zrozumii-mene-sekrety-rozshyfrovuvannia-dytiachoi-povedinky-anna-hres/</url>
+<currencyId>UAH</currencyId>
+<categoryId>137</categoryId>
+<price>250</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/32941/dlya_turbotlivih_batkiv_osnova_zrozumiy_mene_sekreti_rozshifrovuvannya_dityacho_povedinki_anna_gres.jpg</picture>
+<vendor>Основа</vendor>
+<description>
+<![CDATA[Зрозумій мене! Секрети розшифровування дитячої поведінки. Серія: Для турботливих батьків.  «Як мені зрозуміти дитину?»   «Чому вона так поводиться?»   «Як навчитися звертати увагу на важливі сигнали, які вона транслює своєю поведінкою?»   «Хочу, аби дитина почула те, що я їй кажу»  Ці та багато інших запитань ви ставите нам. І справді, нерозуміння — одне з головних перешкод у спілкуванні «батьки — дитина». На допомогу кожному із вас ми випустили друком нову книгу «Зрозумій мене! Секрети розшифровування дитячої поведінки», що допоможе поглянути на поведінку вашої дитини під іншим кутом! Авторка — Анна Гресь, одна з найулюбленіших психологинь нашого Видавництва! У книзі наведено прості й дуже ефективні способи спостереження за дитячою поведінкою та прийоми її первинного аналізування. А також запропоновано конкретний алгоритм дій: робити щось чи ні; утрутитися самим або залучити фахівців. І ще, що вкрай важливо, — чого РОБИТИ НЕ потрібно! Щоби не нашкодити дитині.  Прочитавши книгу, ви навчитеся:     СПРИЙМАТИ поведінку дитини абсолютно інакше; РОЗУМІТИ, чому дитина чинить саме так; ЯК ПРАВИЛЬНО ПОВОДИТИСЯ з дитиною, аби не нашкодити, а допомогти у її розвитку.    Ця книга буде найкращим доповненням до вашої унікальної батьківської інтуїції! Також усі, хто придбає книгу, зможуть БЕЗКОШТОВНО завантажити додатковий корисний матеріал від психологині. Зробити це можна буде за допомогою QR-коду на обкладинці книги. Замовляйте та вчіться розуміти поведінку своєї дитини, щоби НЕ НАШКОДИТИ її розвитку!]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Анна Гресь</param>
+<param name="Мова">українська</param>
+<param name="Вік">3-9 років</param>
+<param name="Тип">Книга для батьків</param>
+<param name="Серія">Для турботливих батьків</param>
+<param name="Кількість сторінок">96</param>
+<param name="Тип паперу">офсет, чорно-біла</param>
+<param name="Тип обкладинки">тверда</param>
+<param name="ISBN">9786170037541</param>
+<param name="Формат, розмір">145х210 мм</param>
+<param name="Видавництво">Основа / MAMAS</param></offer>
+<offer id="32942" available="true" in_stock="true" selling_type="r" >
+<name>Для турботливих батьків Основа Ігри на щодень. Чим розважити дитину 2-6 років Л.В. Туріщева</name>
+<vendorCode>9786170039408</vendorCode>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/dlia-turbotlyvykh-batkiv/dlia-turbotlyvykh-batkiv-osnova-ihry-na-shchoden-chym-rozvazhyty-dytynu-2-6-rokiv-l-v-turishcheva/</url>
+<currencyId>UAH</currencyId>
+<categoryId>137</categoryId>
+<price>300</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/32942/dlya_turbotlivih_batkiv_osnova_igri_na_shchoden_chim_rozvazhiti_ditinu_2_6_rokiv_l_v_turishcheva.jpg</picture>
+<vendor>Основа</vendor>
+<description>
+<![CDATA[Ігри на щодень. Чим розважити дитину 2-6 років. Туріщева Л.В. Серія: Для турботливих батьків. «Пограй зі мною!» — ці слова ви, безумовно, чуєте від своєї дитини щодня. А часу вигадати щось цікаве немає. Ця книжка про елементарні ігри для дитини і з дитиною. Для них вам не потрібні спеціальні іграшки чи довга підготовча робота. Усе необхідне маєте попідруч — ложка, рушник, коробка, пляшка, ґудзик чи аркуш паперу. Додайте трішки вашої фантазії, часу, залученості, гарного настрою — і цікаві розвивальні розваги готові. Наведені ігри надзвичайно легко організувати, коли ви зайняті на кухні чи йдете з дитиною у справах, їдете у транспорті чи чекаєте в черзі. Будь-де! Відкладіть телефон. Подивіться на світ очима вашої дитини. Візьміть підручний предмет або задумайте слово — гра починається! Авторка книги — Людмила Туріщева, кандидатка психологічних наук, психологиня-практик. Має понад 100 наукових робіт і великий практичний досвід роботи з дітьми дошкільного та шкільного віку.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Туріщева Л.В.</param>
+<param name="Мова">українська</param>
+<param name="Вік">2-6 років</param>
+<param name="Тип">Книга для батьків</param>
+<param name="Серія">Для турботливих батьків</param>
+<param name="Кількість сторінок">144</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет, чорно-біла</param>
+<param name="Тип обкладинки">тверда</param>
+<param name="ISBN">9786170039408</param>
+<param name="Видавництво">Основа / MAMAS</param></offer>
+<offer id="32943" available="true" in_stock="true" selling_type="r" >
+<name>Корисні навички Основа Спілкуйся вільно — почувайся впевнено. Секрети комунікації для підлітків Катерина Дубойська</name>
+<vendorCode>9786170038760</vendorCode>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/dlia-turbotlyvykh-batkiv/korysni-navychky-osnova-spilkuisia-vilno-pochuvaisia-vpevneno-sekrety-komunikatsii-dlia-pidlitkiv-kateryna-duboiska/</url>
+<currencyId>UAH</currencyId>
+<categoryId>137</categoryId>
+<price>300</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/32943/korisni_navichki_osnova_spilkuysya_vilno_pochuvaysya_vpevneno_sekreti_komunikatsi_dlya_pidlitkiv_katerina_duboyska.jpg</picture>
+<vendor>Основа</vendor>
+<description>
+<![CDATA[Корисні навички. Спілкуйся вільно — почувайся впевнено. Секрети комунікації для підлітків Катерина Дубойська Інколи важко говорити так, щоб тебе дійсно почули, побачили, зрозуміли. Це дратує. І врешті-решт здається, що краще взагалі промовчати. Знайомо? Ефективне спілкування — твоя суперсила! Якщо навчитися правил комунікації, можна легко заводити нових друзів, привертати до себе увагу, казати «ні», досягати взаєморозуміння з будь-ким.  На сторінках цієї книжки ти знайдеш поради:     як почати розмову та почуватися впевнено в новій компанії; як слухати інших, щоб почули тебе; як презентувати себе та справляти враження під час публічних виступів; як розв'язувати конфлікти словами та спілкуватися на складні чи неприємні теми; як розпізнавати брехню, маніпуляцію та нещирість у розмові з іншими тощо.    Усі секрети спілкування у будь-якому колі людей, у будь-якій ситуації є у цій книжці. Опановуй поради, керуйся інструкціями, долай виклики, аналізуй приклади ― і ти станеш неперевершеним майстром або неперевершеною майстринею комунікацій!  Катерина Дубойська — професійна комунікаційниця. Очолює напрям корпоративних комунікацій у виробничій компанії. Магістр журналістики. Мама підлітків, яка вірить, що в основі будь-якої успішної комунікації — як у бізнесі, так і в сім’ї ― щирість, дисципліна та повага до особистості.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Катерина Дубойська</param>
+<param name="Мова">українська</param>
+<param name="Вік">10-16 рокiв</param>
+<param name="Тип">Книга</param>
+<param name="Серія">Корисні навички</param>
+<param name="Кількість сторінок">144</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет, чорно-біла</param>
+<param name="Тип обкладинки">тверда</param>
+<param name="ISBN">9786170038760</param>
+<param name="Формат, розмір">А-5</param>
+<param name="Видавництво">Основа / MAMAS</param></offer>
 
 
 <offer id="32946" available="true" in_stock="true" selling_type="r" >
@@ -96710,7 +96537,29 @@
 <param name="Видавництво">Основа</param></offer>
 
 
-
+<offer id="33039" available="true" in_stock="true" selling_type="r" >
+<name>Для турботливих батьків Основа Здоров&apos;я мами і малюка. Перший рік життя: рік ніжності, любові й турботи</name>
+<vendorCode>9786170044549</vendorCode>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/dlia-turbotlyvykh-batkiv/dlia-turbotlyvykh-batkiv-osnova-zdorovia-mamy-i-maliuka-pershyi-rik-zhyttia-rik-nizhnosti-liubovi-y-turboty/</url>
+<currencyId>UAH</currencyId>
+<categoryId>137</categoryId>
+<price>350</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/33039/dlya_turbotlivih_batkiv_osnova_zdorov_ya_mami_i_malyuka_pershiy_rik_zhittya_rik_nizhnosti_lyubovi_y_turboti.jpg</picture>
+<vendor>Основа</vendor>
+<description>
+<![CDATA[Здоров'я мами і малюка. Перший рік життя: рік ніжності, любові й турботи Серія: Для турботливих батьків. Перший рік вашого спільного із малюком життя — це рік ніжності. А ще це рік 1000 і 1 запитання. Ця книжка покликана підтримати вас у питаннях здоров’я і пройти з вами від першого спільного дня із малюком до першого року разом. Книжку зручно структуровано за 7 великими розділами: підготовка до пологів; перший день разом; перший тиждень після пологів; перший місяць; три місяці; шість місяців та дев’ять місяців разом.  У кожному розділі ви знайдете:     відповіді на найпоширеніші запитання про фізичне й психологічне здоров’я мами, розвиток малюка та особливості кожного періоду зростання; сучасні рекомендації щодо догляду за дитиною; рекомендації про те, як мамі піклуватися про себе й на що звернути особливу увагу (піклуватися про себе — це складова піклування про дитину, не забувайте про це ); чекліст наприкінці кожного розділу: «Найважливіше для здоров’я матері й дитини».    Ця книжка стане порадником з усіх питань щодо задоволення потреб дитини в перший рік життя, а також дасть відповіді на запитання щодо здоров’я мами до й після пологів, відкриє таємниці догляду за тілом і відновлення нервової системи, м’яко спрямує та убезпечить від багатьох можливих проблем на шляху до щасливого батьківства, щасливої родини. Ілюстрації: О.О. Кришталь]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Руденко А.В. Браславець А.О. Зайцева Ю.О. Стоянова О.Є.</param>
+<param name="Мова">українська</param>
+<param name="Вік">0-1</param>
+<param name="Тип">Книга для батьків</param>
+<param name="Серія">Для турботливих батьків</param>
+<param name="Кількість сторінок">208</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет, чорно-біла</param>
+<param name="Тип обкладинки">тверда</param>
+<param name="ISBN">9786170044549</param>
+<param name="Видавництво">Основа / MAMAS</param></offer>
 
 
 <offer id="33042" available="true" in_stock="true" selling_type="r" >
@@ -97403,7 +97252,7 @@
 <offer id="33104" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Робочий зошит Лінгвіст Full Blast Plus for Ukraine 9 Workbook Англійська мова 9 клас Мітчелл Г.К. 2026 рік</name>
 <vendorCode>9786180561210</vendorCode>
-<url>https://knigovan.com/index.php?route=product/product&amp;product_id=33104</url>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/9-klas-1/nush-robochyi-zoshyt-linhvist-full-blast-plus-for-ukraine-9-workbook-anhliiska-mova-9-klas-mitchell-hk-2026-rik/</url>
 <currencyId>UAH</currencyId>
 <categoryId>51</categoryId>
 <price>225</price>
@@ -97411,7 +97260,7 @@
 <vendor>Лінгвіст</vendor>
 <description>
 <![CDATA[Full Blast Plus for Ukraine НУШ 9 Workbook Шукаєте ідеальний інструмент для самостійної роботи вдома та додаткової практики в класі? Full Blast Plus for Ukraine 9 Workbook – це невід'ємна частина курсу, розроблена для ефективного закріплення та поглиблення знань, отриманих на уроці.    Чітка відповідність підручнику. Структура зошита повністю відповідає модулям підручника, що дозволяє послідовно відпрацьовувати тему та надійно закріплювати матеріал.   Розвиток писемного мовлення. Зошит містить покрокові завдання та зразки, які допомагають учням навчитися створювати власні тексти різних жанрів.   Зручність для самостійної роботи. Логічна структура та зрозумілі завдання дозволяють ефективно працювати самостійно, розвиваючи навички автономного навчання.     Структура та зміст зошита Workbook:     Велика кількість різноманітних вправ для відпрацювання лексики, граматики, читання та письма, що забезпечує автоматизацію навичок.   Розділ Round-up наприкінці кожного модуля, який дозволяє узагальнити ключовий матеріал та підготуватися до контрольних робіт.]]></description>
-<quantity_in_stock>15</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Мітчелл Г.К.; Марілені Малкоґіанні</param>
 <param name="Мова">українська, англійська</param>
 <param name="Вік">9 клас</param>
@@ -97434,7 +97283,7 @@
 <vendor>Лінгвіст</vendor>
 <description>
 <![CDATA[Prepare for Ukraine НУШ 9 Workbook Шукаєте зошит, який не просто дублює підручник, а забезпечує системну практику та розвиває навички самостійної роботи? Prepare 9. Ukrainian Edition Workbook – це невід'ємний практичний компонент курсу для 9-х класів, створений для поглибленого закріплення матеріалу.    Фокус на автоматизації навичок. Велика кількість вправ для тренування граматики та лексики, що вивчаються в основному підручнику. Універсальність використання. Ідеально підходить як для задавання домашньої роботи, так і для додаткової практики безпосередньо на уроці.     Структура та зміст зошита Workbook:     Додаткові вправи до кожного тематичного розділу зі Student’s Book. Системна практика ключових мовних навичок: завдання на повторення, закріплення та автоматизацію використання мовних структур. Завдання для розвитку навичок письма, що доповнюють комунікативні активності основного курсу.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Helen Chilton</param>
 <param name="Мова">англійська</param>
 <param name="Вік">9 клас</param>
@@ -98007,7 +97856,7 @@
 <vendor>Ранок</vendor>
 <description>
 <![CDATA[Підприємництво і фінансова грамотність. 9 клас. Робочий зошит (до підручника Пластуна, Панченка)  Робочий зошит є частиною навчально-методичного комплекту «Підприємництво і фінансова грамотність. 9 клас», створеного на основі підручника Олексія Пластуна, Сергія Панченка. Зошит містить завдання й задачі, що допоможуть відпрацювати практичні навички, набуті під час опанування навчального матеріалу, ребуси, кросворди і комікси для мотивації навчальної діяльності та ефективного повторення, шаблони практичних робіт із покроковим описом виконання для набуття практичного досвіду в ситуаціях, наближених до реального життя.  Призначено для учнів і учениць 9 класу закладів загальної середньої освіти, учителів і вчительок підприємництва і фінансової грамотності.]]></description>
-<quantity_in_stock>30</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Пластун О. Л., Панченко С. Ю.</param>
 <param name="Предмет">Підприємництво і фінансова грамотність</param>
 <param name="Мова">українська</param>
@@ -98227,7 +98076,7 @@
 <vendor>Ранок</vendor>
 <description>
 <![CDATA[Здоров’я, безпека та добробут. Робочий зошит для 9 класу ЗЗСО  Цей робочий зошит укладено відповідно до параграфів підручника й доповнює його, надаючи можливість застосувати на практиці отримані знання. Тут є різноманітні компетентнісні завдання, творчі задачки й навіть невеликі експерименти! Зошит стане надійним супутником під час роботи на уроці та при виконанні домашніх завдань, допоможе учням і ученицям пізнати світ і перетворить навчання на захопливу подорож!]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Шиян О. Дяків В. Седоченко А. Тагліна О.</param>
 <param name="Предмет">Основи здоров&apos;я</param>
 <param name="Мова">українська</param>
@@ -98883,7 +98732,7 @@
 <vendor>Лінгвіст</vendor>
 <description>
 <![CDATA[Збірник тестів Full Blast Plus for Ukraine НУШ 9 Test Booklet Шукаєте готове рішення для об'єктивного оцінювання знань та моніторингу прогресу протягом усього навчального року? Full Blast Plus 9 Test Booklet — це ключовий компонент для систематичного контролю результатів учнів.  Структурований контроль. Тести логічно відповідають модулям підручника, що дозволяє проводити регулярну перевірку матеріалу.   Комплексна перевірка. Кожен тест розроблено для перевірки всіх основних мовленнєвих навичок (читання, письма, аудіювання) та використання лексики і граматики.   Готовність до використання. Посібник є готовим рішенням, що значно спрощує організацію контрольних робіт у класі. Поточні комплексні тести до модулів підручника Поточні комплексні тести для перевірки вивченої граматики   Mid-term test (проміжний контроль) та Final test (підсумковий контроль) для ефективного відстеження прогресу на ключових етапах.]]></description>
-<quantity_in_stock>68</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Гарольд Квінтон Мітчелл, Марілені Малкогіанні</param>
 <param name="Предмет">Англійська мова</param>
 <param name="Мова">українська, англійська</param>
@@ -99091,7 +98940,31 @@
 <param name="Тип обкладинки">м&apos;яка</param>
 <param name="ISBN">9786178415075</param>
 <param name="Видавництво">Лінгвіст | Cambridge University Press</param></offer>
-
+<offer id="33199" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Робочий зошит Ранок Біологія 9 клас до підручника О.Тагліної, А. Самойлова та ін. 2026 рік</name>
+<vendorCode>9786178933371</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/9-klas-1/nush-robochyi-zoshyt-ranok-biolohiia-9-klas-do-pidruchnyka-otahlinoi-a-samoilova-ta-in-2026-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>51</categoryId>
+<price>120</price>
+<picture>https://knigovan.com/image/catalog/products/33199/nush-robochiy-zoshit-ranok-h-m-ya-9-klas-do-p-druchnika-grigorovicha-nedoruba-2026-r-k-1.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[НУШ Біологія. Робочий зошит для 9 класу ЗЗСО до підручника Ольги Тагліної та ін. 2026 рік  Цей робочий зошит укладено відповідно до параграфів підручника й доповнює його, надаючи можливість застосувати на практиці отримані знання. Тут є різноманітні компетентнісні завдання, творчі задачки й навіть невеликі експерименти! Зошит стане надійним супутником під час роботи на уроці та при виконанні домашніх завдань, допоможе учням і ученицям пізнати біологію та перетворить навчання на захопливу подорож!]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Тагліна О.В. Самойлов А.М. Довгаль Л.В.</param>
+<param name="Предмет">Біологія</param>
+<param name="Мова">українська</param>
+<param name="Вік">9 клас</param>
+<param name="Тип">Робочий зошит</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">96</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786178933371</param>
+<param name="Формат, розмір">200х260 мм</param>
+<param name="Видавництво">Ранок</param></offer>
 <offer id="33200" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Українська мова. 8 клас. Поточне та підсумкове оцінювання за групами результатів + діагностувальна робота Ранок Оксана Обідченко 2026 рік</name>
 <vendorCode>9786178921569</vendorCode>
@@ -100087,7 +99960,7 @@
 <vendor>Картографія</vendor>
 <description>
 <![CDATA[Атлас + Контурні карти Географія. «Україна і світове господарство». 9 клас (НУШ) Державне науково-виробниче підприємство "Картографія".  Комплект містить атлас і контурні карти для 9 класу.   1. Атлас. Україна і світове господарство 9 клас НУШ  Атлас укладено відповідно до вимог Державного стандарту базової середньої освіти за модельною навчальною програмою «Географія 6-9 кл. Запотоцький С.П. та ін». Атлас включає наступні розділи:  Населення України і світу; Національна і світова економіка; Екологічні проблеми; Регіони і країни.  Серед висвітлених тем атласу:  Розселення, природний рух, етнічний склад населення. Урбанізація, зайнятість населення. Безробіття; Типи економічних систем країн світу, мінерально-сировинні ресурси, ТНК, господарство, зовнішньоекономічна діяльність; Економіка регіонів і країн світу.  Карти атласу укладені з використанням актуальних даних, отриманих з відкритих джерел. Атлас містить велику кількість діаграм, графіків, таблиць, дані з яких дають вичерпну економіко-географічну характеристику України та світу, дозволяють виконувати різноманітні практичні завдання, аналізувати, давати порівняльні характеристики країн та галузей економіки тощо. За інформативністю атлас дорівнює багатьом довідковим джерелам. Водночас, інформація подана в доступній для учнів формі, що не вимагає значних зусиль для сприйняття.  2. Контурні карти. Україна і світове господарство 9 клас НУШ  Комплект контурних карт розроблено на основі атласу «Україна і світове господарство 9 клас НУШ». Контурні карти містять запропоновані завдання, водночас на картах залишається вільне місце, куди можна вписати завдання, які запропонує вчитель.]]></description>
-<quantity_in_stock>22</quantity_in_stock>
+<quantity_in_stock>21</quantity_in_stock>
 <param name="Предмет">Географія</param>
 <param name="Мова">українська</param>
 <param name="Вік">9 клас</param>
@@ -100100,52 +99973,8 @@
 <param name="ISBN">978-966-946-797-3, 978-966-946-798-0</param>
 <param name="Формат, розмір">220x280 мм</param>
 <param name="Видавництво">Картографія</param></offer>
-<offer id="33289" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Атлас Оріон Всесвітня історія. Історія України 9 клас Інтегрований курс Щупак, 2026 рік</name>
-<vendorCode>9789669915429</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/9-klas-2/nush-atlas-orion-vsesvitnia-istoriia-istoriia-ukrainy-9-klas-intehrovanyi-kurs-shchupak-2026-rik/</url>
-<currencyId>UAH</currencyId>
-<categoryId>51</categoryId>
-<price>100</price>
-<picture>https://knigovan.com/image/catalog/products/33289/nush-atlas-or-on-vsesv-tnya-stor-ya-stor-ya-ukra-ni-8-klas-ntegrovaniy-kurs-shchupak-ya-2025-r-k-1.jpg</picture>
-<vendor>Оріон</vendor>
-<description>
-<![CDATA[Всесвітня історія. Історія України (інтегрований курс) 9 клас. Атлас (НУШ)  Упорядник – Ігор Щупак, кандидат історичних наук, заслужений працівник освіти України, член Українсько-німецької історичної комісії, член Українсько-польської комісії експертів підручників історії та географії, автор підручників. Атлас продовжує серію картографічних навчальних посібників інтегрованого курсу з історії УОВЦ «Оріон», упорядкованих Ігорем Щупаком. Атлас є новим для навчального процесу посібником, якого досі не було в Україні.   Усі карти атласу виконані з дотриманням необхідних змістовних і технічних вимог, тематично поєднані між собою та взаємно узгоджені. Карти прості для сприйняття, умовні знаки переважно асоціативні. Послідовність карт в атласі, поєднання тем всесвітньої історії та історії України цілком відповідають «Таблиці для синхронізації курсів історії України та всесвітньої історії». Картографічний посібник укладений з дотриманням вимог Держаного стандарту базової та повної загальної освіти та чинної навчальної програми з історії 5–9 класів закладів загальної середньо освіти.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Щупак І.Я</param>
-<param name="Предмет">Всесвітня історія, Історія України</param>
-<param name="Мова">українська</param>
-<param name="Вік">9 клас</param>
-<param name="Тип">Атлас</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Рік видання">2026</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789669915429</param>
-<param name="Видавництво">Оріон</param></offer>
-<offer id="33291" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Контурні карти Оріон Всесвітня історія. Історія України 9 клас Інтегрований курс Щупак, 2026 рік</name>
-<vendorCode>9789669915436</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/9-klas-2/nush-konturni-karty-orion-vsesvitnia-istoriia-istoriia-ukrainy-9-klas-intehrovanyi-kurs-shchupak-2026-rik/</url>
-<currencyId>UAH</currencyId>
-<categoryId>51</categoryId>
-<price>50</price>
-<picture>https://knigovan.com/image/catalog/products/33291/nush-konturn-karti-or-on-vsesv-tnya-stor-ya-stor-ya-ukra-ni-8-klas-ntegrovaniy-kurs-shchupak-ya-2025-r-k-1.jpg</picture>
-<vendor>Оріон</vendor>
-<description>
-<![CDATA[Всесвітня історія. Історія України (інтегрований курс) 9 клас. Контурні карти  Упорядник - Ігор Щупак, кандидат історичних наук, заслужений працівник освіти України, член Українсько-німецької історичної комісії, член Українсько-польської комісії експертів підручників історії та географії, автор підручників. Контурні карти Всесвітня історія Історія України інтегрований курс 9 клас Оріон. Контурні карти містять завдання різного ступеня складності. Кількість карт, їхні теми та масштаби дають змогу виконати всі практичні та творчі роботи обох навчальних курсів з історії.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Щупак І.Я</param>
-<param name="Предмет">Всесвітня історія, Історія України</param>
-<param name="Мова">українська</param>
-<param name="Вік">9 клас</param>
-<param name="Тип">Контурні карти</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Рік видання">2026</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789669915436</param>
-<param name="Видавництво">Оріон</param></offer>
+
+
 
 
 <offer id="33295" available="true" in_stock="true" selling_type="r" >
