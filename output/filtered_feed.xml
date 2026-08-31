@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-08-30 12:00">
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-08-31 12:00">
 <shop>
 <url>https://knigovan.com/</url>
 <name>Книгован</name>
@@ -1469,7 +1469,26 @@
 <param name="ISBN">9789669397379</param>
 <param name="Формат, розмір">А5 (150*210 мм)</param>
 <param name="Видавництво">Торсiнг</param></offer>
-
+<offer id="24015" available="true" in_stock="true" selling_type="r" >
+<name>НУШ My first copy-book Торсінг Прописи з англійської мови універсальні Котик</name>
+<vendorCode>9789669396174</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/1-klas-1/nush-my-first-copy-book-torsinh-propysy-z-anhliiskoi-movy-universalni-kotyk/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>48</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/24015/nush_my_first_copy_book_torsing_propisi_z_angliysko_movi_universalni_kotik.jpg</picture>
+<vendor>Торсінг</vendor>
+<description>
+<![CDATA[НУШ My first copy-book Прописи з англійської мови універсальні Котик.   Прописи з англійської мови можуть застосовуватися до будь-якого підручника. Універсальні прописи підходять для учнів 1-2 класів.      телефони: +38 (050) 843-90-47    +38 (067) 138-15-99]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Фісіна А.О</param>
+<param name="Мова">українська, англійська</param>
+<param name="Вік">1-2 класи</param>
+<param name="Тип">НУШ</param>
+<param name="Кількість сторінок">48</param>
+<param name="Тип паперу">офсет</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9789669396174</param></offer>
 <offer id="24016" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Українська мова Торсінг Прописи Каліграфічний тренажер</name>
 <vendorCode>9789669397386</vendorCode>
@@ -2478,7 +2497,7 @@
 <vendorCode>9789660727915</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/matematychnyi-litnii-zoshyt-iz-3-v-4-klas/</url>
 <currencyId>UAH</currencyId>
-<categoryId>25</categoryId>
+<categoryId>10</categoryId>
 <price>125</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24147/matematichniy_litniy_zoshit_iz_3_v_4_klas.png</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -3121,7 +3140,7 @@
 <vendorCode>9789660726680</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/matematychnyi-litnii-zoshyt-z-2-v-3-klas/</url>
 <currencyId>UAH</currencyId>
-<categoryId>24</categoryId>
+<categoryId>9</categoryId>
 <price>125</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24218/matematichniy_litniy_zoshit_z_2_v_3_klas.png</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -3143,7 +3162,7 @@
 <vendorCode>9789660730861</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/matematychnyi-litnii-zoshyt-z-1-v-2-klas/</url>
 <currencyId>UAH</currencyId>
-<categoryId>23</categoryId>
+<categoryId>8</categoryId>
 <price>105</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24219/matematichniy_litniy_zoshit_z_1_v_2_klas.png</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -4190,10 +4209,102 @@
 
 
 
-
-
-
-
+<offer id="24333" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Каліграфічний зошит-шаблон Школа Збільшений розмір графічної сітки Синій</name>
+<vendorCode>9786178106324</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/nush-kalihrafichnyi-zoshyt-shablon-shkola-zbilshenyi-rozmir-hrafichnoi-sitky-synii/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>40</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/24333/nush_kaligrafichniy_zoshit_shablon_shkola_zbilsheniy_rozmir_grafichno_sitki_siniy.png</picture>
+<vendor>Школа</vendor>
+<description>
+<![CDATA[НУШ Каліграфічний зошит-шаблон Збільшений розмір графічної сітки Синій  Загальновідомим є той факт, що процес опанування навичок письма, особливо на першому етапі, — нелегка праця для дитини шести-семи років. Надзвичайно важливим моментом стає вибір додаткового посібника для вироблення початкових графічних навичок, що враховує вікові фізіологічні та психологічні особливості дітей молодшого шкільного віку. Ми пропонуємо графічний шаблон, що являє собою густу похилу сітку, кожна чарунка якої призначена для вписування в неї елемента цифри, букви або з’єднання. Працюючи за таким шаблоном, дитина легше і швидше навчиться дотримуватися правильного нахилу в процесі письма, однакової висоти і ширини букв, відстані між буквами, словами і реченнями.]]></description>
+<quantity_in_stock>94</quantity_in_stock>
+<param name="Автор">В. Федієнко</param>
+<param name="Мова">українська</param>
+<param name="Вік">молодший шкільний</param>
+<param name="Тип">Робочий зошит</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">12</param>
+<param name="Рік видання">2022</param>
+<param name="Тип паперу">офсет, двоколірна</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786178106324</param>
+<param name="Формат, розмір">205 х 170 х 1 мм</param>
+<param name="Видавництво">Школа</param></offer>
+<offer id="24334" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Каліграфічний зошит-шаблон Школа Стандартний розмір графічної сітки Бордовий</name>
+<vendorCode>9789664292730</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/nush-kalihrafichnyi-zoshyt-shablon-shkola-standartnyi-rozmir-hrafichnoi-sitky-bordovyi/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>50</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/24334/nush_kaligrafichniy_zoshit_shablon_shkola_standartniy_rozmir_grafichno_sitki_bordoviy.jpg</picture>
+<vendor>Школа</vendor>
+<description>
+<![CDATA[НУШ Каліграфічний зошит-шаблон Стандартний розмір графічної сітки Бордовий  Загальновідомим є той факт, що процес опанування навичок письма, особливо на першому етапі, — нелегка праця для дитини шести-семи років. Надзвичайно важливим моментом стає вибір додаткового посібника для вироблення початкових графічних навичок, що враховує вікові фізіологічні та психологічні особливості дітей молодшого шкільного віку. Ми пропонуємо графічний шаблон, що являє собою густу похилу сітку, кожна чарунка якої призначена для вписування в неї елемента цифри, букви або з’єднання. Працюючи за таким шаблоном, дитина легше і швидше навчиться дотримуватися правильного нахилу в процесі письма, однакової висоти і ширини букв, відстані між буквами, словами і реченнями.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">В. Федієнко</param>
+<param name="Мова">українська</param>
+<param name="Вік">молодший шкільний</param>
+<param name="Тип">Робочий зошит</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">12</param>
+<param name="Рік видання">2021</param>
+<param name="Тип паперу">офсет, двоколірна</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-966-429-273-0</param>
+<param name="Формат, розмір">205 х 170 х 1 мм</param>
+<param name="Видавництво">Школа</param></offer>
+<offer id="24335" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Каліграфічний зошит-шаблон Школа Адаптація руки до письма у стандартному зошиті в лінію Зелений</name>
+<vendorCode>9789664292723</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/nush-kalihrafichnyi-zoshyt-shablon-shkola-adaptatsiia-ruky-do-pysma-u-standartnomu-zoshyti-v-liniiu-zelenyi/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>35</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/24335/nush_kaligrafichniy_zoshit_shablon_shkola_adaptatsiya_ruki_do_pisma_u_standartnomu_zoshiti_v_liniyu_zeleniy.jpg</picture>
+<vendor>Школа</vendor>
+<description>
+<![CDATA[НУШ Каліграфічний зошит-шаблон Адаптація руки до письма у стандартному зошиті в лінію Зелений.  Загальновідомим є той факт, що процес опанування навичок письма, особливо на першому етапі, — нелегка праця для дитини шести-семи років. Надзвичайно важливим моментом стає вибір додаткового посібника для вироблення початкових графічних навичок, що враховує вікові фізіологічні та психологічні особливості дітей молодшого шкільного віку. Ми пропонуємо графічний шаблон, що являє собою густу похилу сітку, кожна чарунка якої призначена для вписування в неї елемента цифри, букви або з’єднання. Працюючи за таким шаблоном, дитина легше і швидше навчиться дотримуватися правильного нахилу в процесі письма, однакової висоти і ширини букв, відстані між буквами, словами і реченнями.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">В. Федієнко</param>
+<param name="Мова">українська</param>
+<param name="Вік">молодший шкільний</param>
+<param name="Тип">Робочий зошит</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">12</param>
+<param name="Рік видання">2020</param>
+<param name="Тип паперу">офсет, двоколірна</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-966-429-272-3</param>
+<param name="Формат, розмір">205 х 170 х 1 мм</param>
+<param name="Видавництво">Школа</param></offer>
+<offer id="24336" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Математичні прописи Школа Зошит-шаблон Синя графічна сітка Федієнко</name>
+<vendorCode>978-966-429-560-1</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/nush-matematychni-propysy-shkola-zoshyt-shablon-synia-hrafichna-sitka-fediienko/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>70</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/24336/nush_matematichni_propisi_shkola_zoshit_shablon_sinya_grafichna_sitka_fedi_nko.jpg</picture>
+<vendor>Школа</vendor>
+<description>
+<![CDATA[НУШ Математичні прописи. Зошит-шаблон. Синя графічна сітка.  Додаткові вправи зроблять заняття цікавими, допоможуть розвинути різні математичні знання та навички, логіку та дрібну моторику. Дитина ознайомиться з цифрами і числами в межах десяти, їх складом, порядковим і кількісним значенням, отримає уявлення про прямий і зворотний порядок цифр, суміжні числа, вимірювання за допомогою лінійки, визначення часу та ін.   Посібник відрізняється якістю методичного наповнення та поліграфічного виконання. Колір і товщину підібрано таким чином, щоб зменшити навантаження на зір дитини та зробити навчальний процес якомога комфортнішим.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">В. Федієнко</param>
+<param name="Мова">українська</param>
+<param name="Вік">6+</param>
+<param name="Тип">Прописи</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">48</param>
+<param name="Рік видання">2021</param>
+<param name="Тип паперу">офсет, двоколірна</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-966-429-560-1</param>
+<param name="Формат, розмір">210 х 165 х 4 мм</param>
+<param name="Видавництво">Школа</param></offer>
 
 <offer id="24338" available="true" in_stock="true" selling_type="r" >
 <name>Довідник в таблицях. Математика 1-4 клас</name>
@@ -4770,27 +4881,7 @@
 
 
 
-<offer id="24413" available="true" in_stock="true" selling_type="r" >
-<name>Книга Улюблені казки УЛА Чудо-наліпки</name>
-<vendorCode>9789662842463</vendorCode>
-<url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/knyha-uliubleni-kazky-ula-chudo-nalipky/</url>
-<currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
-<price>33</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/24413/kniga_ulyubleni_kazki_ula_chudo_nalipki.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Прагнете допомогти дітлахам швидко та якісно засвоїти літери й числа? Видавництво “УЛА” представляє нові книжки, що виконують саме ці важливі завдання, а також тренують дрібну моторику, логіку й увагу. Уявіть, як цікаво вивчати абетку, коли вона не проста, а “жива”, і кожна буква ніби сама прагне познайомитися з допитливим малюком! Як весело, коли кольорові циферки розфарбовують процес лічби в усі барви веселки! До того ж кожне видання серії містить яскраві наліпки, що обов’язково сподобаються вашій дитині. Подаруйте юним розумникам маленьке диво! Виразно ілюстроване видання з яскравими наліпками — найкращий вибір для батьків, які хочуть зробити дозвілля своєї дитини веселим і пізнавальним. Адже грати з такою книжкою не лише цікаво, але й корисно. Під час подібних занять у малюка поліпшується настрій, розвиваються увага, пам’ять, уява, зорове й тактильне сприйняття, логічне й просторове мислення. Робота з наліпками також привчає дитину до акуратності й удосконалює дрібну моторику кисті, яка у свою чергу позитивно впливає на мовленнєві навички. Потренуйтеся доповнювати малюнки за допомогою наших «Чудо-наліпок»! Діти дуже люблять яскраві, кольорові книги з наліпками. Грати з такою книгою дитині не тільки цікаво, але й корисно. Під час подібних занять у малюка піднімається настрій, розвивається увага, уява та мислення, поліпшується пам´ять. Саме тому ми створили серію «Чудо-наліпки». Книга "Чудо-наліпки. Улюблені казки" містить ілюстрації до восьми казок. Яскраві цікаві картинки і барвисті наліпки дуже сподобаються дитині й захоплять її в чарівний світ казки.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Автор">Столяренко А. В.</param>
-<param name="Мова">українська</param>
-<param name="Вік">дошкольный</param>
-<param name="Тип">Книга с наклейками</param>
-<param name="Серія">Чудо-наклейки</param>
-<param name="Кількість сторінок">8</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789662842463</param></offer>
+
 
 
 
@@ -5878,7 +5969,7 @@
 <vendorCode>978-617-656-830-8</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/ya-krokuiu-v-3-klas-matematychnyi-interaktyvnyi-litnii-zoshyt/</url>
 <currencyId>UAH</currencyId>
-<categoryId>24</categoryId>
+<categoryId>9</categoryId>
 <price>100</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24531/ya_krokuyu_v_3_klas_matematichniy_interaktivniy_litniy_zoshit.jpg</picture>
 <vendor>Освіта-Центр</vendor>
@@ -5898,7 +5989,7 @@
 <vendorCode>978-617-656-849-0</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/ya-krokuiu-v-2-klas-matematychnyi-interaktyvnyi-litnii-zoshyt/</url>
 <currencyId>UAH</currencyId>
-<categoryId>23</categoryId>
+<categoryId>8</categoryId>
 <price>100</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24532/ya_krokuyu_v_2_klas_matematichniy_interaktivniy_litniy_zoshit.jpg</picture>
 <vendor>Освіта-Центр</vendor>
@@ -5919,7 +6010,7 @@
 <vendorCode>978-617-656-832-2</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/ya-krokuiu-v-2-klas-movnyi-interaktyvnyi-litnii-zoshyt/</url>
 <currencyId>UAH</currencyId>
-<categoryId>23</categoryId>
+<categoryId>8</categoryId>
 <price>100</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24534/ya_krokuyu_v_2_klas_movniy_interaktivniy_litniy_zoshit.jpg</picture>
 <vendor>Освіта-Центр</vendor>
@@ -5939,7 +6030,7 @@
 <vendorCode>978-617-656-831-5</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/ya-krokuiu-v-3-klas-movnyi-interaktyvnyi-litnii-zoshyt/</url>
 <currencyId>UAH</currencyId>
-<categoryId>24</categoryId>
+<categoryId>9</categoryId>
 <price>100</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24535/ya_krokuyu_v_3_klas_movniy_interaktivniy_litniy_zoshit.jpg</picture>
 <vendor>Освіта-Центр</vendor>
@@ -7271,8 +7362,54 @@
 
 
 
-
-
+<offer id="24733" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Каліграфічний тренажер Школа Прописи-шаблон Синя графічна сітка Федієнко</name>
+<vendorCode>978-966-429-562-5</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/nush-kalihrafichnyi-trenazher-shkola-propysy-shablon-synia-hrafichna-sitka-fediienko/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>75</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/24733/nush_kaligrafichniy_trenazher_shkola_propisi_shablon_sinya_grafichna_sitka_fedi_nko.jpg</picture>
+<vendor>Школа</vendor>
+<description>
+<![CDATA[НУШ Каліграфічний тренажер. Пропис-шаблон. Синій графічної сітки.   Завдяки використаному в зошиту унікальному запатентованому графічному шаблону — частій косій лінії — дитина зможе стандартизувати не тільки висоту, а й ширину — тобто пропорції літер та літерних елементів, навчиться дотримуватися однакового нахилу літер та відстані між словами. Ретельно підібрані завдання на обведення та копіювання допоможуть відпрацювати різні види з'єднань для кожної літери.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">В. Федієнко</param>
+<param name="Мова">українська</param>
+<param name="Вік">6+</param>
+<param name="Тип">Прописи</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">64</param>
+<param name="Рік видання">2021</param>
+<param name="Тип паперу">офсет, двоколірна</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-966-429-562-5</param>
+<param name="Формат, розмір">210 х 165 х 5 мм</param>
+<param name="Видавництво">Школа</param></offer>
+<offer id="24734" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Каліграфічні прописи Школа Зошит-шаблон Синя графічна сітка Федієнко</name>
+<vendorCode>978-966-429-558-8</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/nush-kalihrafichni-propysy-shkola-zoshyt-shablon-synia-hrafichna-sitka-fediienko/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>75</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/24734/nush_kaligrafichni_propisi_shkola_zoshit_shablon_sinya_grafichna_sitka_fedi_nko.jpg</picture>
+<vendor>Школа</vendor>
+<description>
+<![CDATA[НУШ Каліграфічні прописи. Зошит-шаблон. Синя графічна сітка.  У прописах використано унікальну графічну сітку для навчання каліграфії та покращення почерку дитини, захищену патентом України.    Написання букв та з'єднань відповідає «Єдиним зразкам каліграфічного листа цифр, українських та російських букв та з'єднань», затвердженим рішенням Колегії Міністерства освіти і науки України.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">В. Федієнко</param>
+<param name="Мова">українська</param>
+<param name="Вік">6+</param>
+<param name="Тип">Прописи</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">64</param>
+<param name="Рік видання">2021</param>
+<param name="Тип паперу">офсет, двоколірна</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-966-429-558-8</param>
+<param name="Формат, розмір">210 х 165 х 5 мм</param>
+<param name="Видавництво">Школа</param></offer>
 
 
 
@@ -7429,7 +7566,7 @@
 <vendor>Абетка</vendor>
 <description>
 <![CDATA[Матеріал довідника " Підготовка до ЗНО. Біологія. Довідник+тести (повний повторювальний курс) " викладено згідно з програмою зовнішнього незалежного оцінювання з біології, створеної на основі чинної програми з біології для 7-11 класів загальноосвітніх навчальних закладів. Теоретичний матеріал розподілено на 5 тематичних розділів "Загальна характеристика живої природи", "Молекулярний рівень організації життя", "Клітинний рівень організації життя", "Організмений рівень організації життя", "Надорганізмені рівні життя", які в свою чергу розподілено за темами. Теми супроводжуються ілюстраціями і тестовими завданнями для перевірки знань. Довідник також містить практичні роботи для формування умінь розвязування задач з біології. Довідник пропонується учням випускних класів, які готуються до вступу у ВУЗи, учням, які мають бажання поглибити знання з біології, студентам першокурсникам для повторювання матеріалу.      Хороша підготовка до ЗНО - запорука успішного і впевненого вступу до ВНЗ.]]></description>
-<quantity_in_stock>99</quantity_in_stock>
+<quantity_in_stock>98</quantity_in_stock>
 <param name="Автор">Соболь В. І.</param>
 <param name="Мова">українська</param>
 <param name="Вік">11 клас</param>
@@ -7685,7 +7822,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[В посібнику " НУШ. Альбом-посібник Маленький трудівничок. Трудове навчання 1 клас " запропоновано творчі завдання з трудового навчання (дизайну і технологій), розроблені відповідно до Типових освітніх програм МОН України (О.  Савченко та Р. Шияна) для 1 класу, спрямовані на розвиток універсальних творчих якостей  і  сенсорних здібностей учнів.         Для учнів першого класу, учителів початкових класів,  батьків.]]></description>
-<quantity_in_stock>19</quantity_in_stock>
+<quantity_in_stock>18</quantity_in_stock>
 <param name="Автор">Роговська Л.</param>
 <param name="Мова">українська</param>
 <param name="Вік">1 клас</param>
@@ -9439,7 +9576,7 @@
 <vendorCode>9789660733954</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/litni-zoshyty/1-klas-4/lito-litechko-zoshyt-maibutnoho-druhoklasnyka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>23</categoryId>
+<categoryId>8</categoryId>
 <price>110</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24938/lito_litechko_zoshit_maybutnogo_drugoklasnika.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -9674,7 +9811,7 @@
 <vendorCode>9789660733961</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/litni-zoshyty/2-klas-4/lito-litechko-zoshyt-maibutnoho-tretoklasnyka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>24</categoryId>
+<categoryId>9</categoryId>
 <price>110</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24976/lito_litechko_zoshit_maybutnogo_tretoklasnika.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -10039,7 +10176,7 @@
 <vendorCode>9789660726505</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/litni-zoshyty/1-klas-4/litnia-chytanka-maibutnoho-druhoklasnyka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>23</categoryId>
+<categoryId>8</categoryId>
 <price>120</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25018/litnya_chitanka_maybutnogo_drugoklasnika.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -10065,7 +10202,7 @@
 <vendorCode>9789660734036</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/litni-zoshyty/3-klas-4/lito-litechko-zoshyt-maibutnoho-chetvertoklasnyka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>25</categoryId>
+<categoryId>10</categoryId>
 <price>110</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25020/lito_litechko_zoshit_maybutnogo_chetvertoklasnika.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -10873,7 +11010,7 @@
 <vendorCode>978-966-991-009-7</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/atlasy/3-klas-2/nush-atlas-z-konturnymy-kartamy-orion-ya-doslidzhuiu-svit-3-klas-hilberh/</url>
 <currencyId>UAH</currencyId>
-<categoryId>15</categoryId>
+<categoryId>10</categoryId>
 <price>80</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25174/nush_atlas_z_konturnimi_kartami_orion_ya_doslidzhuyu_svit_3_klas_gilberg.jpg</picture>
 <vendor>Оріон</vendor>
@@ -12244,27 +12381,7 @@
 
 
 
-<offer id="25356" available="true" in_stock="true" selling_type="r" >
-<name>НУШ. Післябукварик 1 клас до букваря Воскресенської</name>
-<vendorCode>9786170956873</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/nush-pisliabukvaryk-1-klas-do-bukvaria-voskresenskoi/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>90</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/25356/nush_pislyabukvarik_1_klas_do_bukvarya_voskresensko.jpg</picture>
-<vendor>Ранок</vendor>
-<description>
-<![CDATA[Посібник "НУШ. Післябукварик 1 клас до букваря Воскресенської" складений до «Букваря» Н. О. Воскресенської, І. В. Цепової відповідно до Типової освітньої програми, розробленої під керівництвом О. Я. Савченко.   Зошит містить завдання на складання речень за малюнками, складовий і звуковий аналіз слів.   Різноманітні цікаві вправи, пов’язані з читанням і друкуванням окремих букв, складів слів і невеликих речень, складені з урахуванням вікових особливостей шестирічних першокласників. На сторінках посібника розміщено QR-коди, за допомогою яких можна швидко перейти до додаткового матеріалу у вигляді презентацій.   Призначено для організації навчальної діяльності учнів 1 класу закладів загальної середньої освіти.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
-<param name="Автор">Цепова І.В.</param>
-<param name="Мова">українська</param>
-<param name="Вік">1 клас</param>
-<param name="Серія">Нова українська школа</param>
-<param name="Кількість сторінок">48</param>
-<param name="Тип паперу">кольорова</param>
-<param name="ISBN">9786170956873</param>
-<param name="Формат, розмір">170х215 мм.</param>
-<param name="Видавництво">Ранок</param></offer>
+
 <offer id="25357" available="true" in_stock="true" selling_type="r" >
 <name>НУШ. Англійська мова 1 клас. Ранок Робочий зошит до підручника Start Up до підручника Губарева</name>
 <vendorCode>9786170955265</vendorCode>
@@ -15164,7 +15281,7 @@
 <vendorCode>9789660735880</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/litni-zoshyty/3-klas-4/moie-vesele-lito-zoshyt-maibutnoho-chetvertoklasnyka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>25</categoryId>
+<categoryId>10</categoryId>
 <price>65</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25773/mo_vesele_lito_zoshit_maybutnogo_chetvertoklasnika.png</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -15187,7 +15304,7 @@
 <vendorCode>9789660735873</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/litni-zoshyty/2-klas-4/moie-vesele-lito-zoshyt-maibutnoho-tretoklasnyka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>24</categoryId>
+<categoryId>9</categoryId>
 <price>65</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25774/mo_vesele_lito_zoshit_maybutnogo_tretoklasnika.png</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -15210,7 +15327,7 @@
 <vendorCode>9789660735910</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/moie-vesele-lito-zoshyt-maibutnoho-druhoklasnyka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>23</categoryId>
+<categoryId>8</categoryId>
 <price>65</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25775/mo_vesele_lito_zoshit_maybutnogo_drugoklasnika.png</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -26116,7 +26233,31 @@
 <param name="ISBN">978-617-656-843-8</param>
 <param name="Формат, розмір">130х200 мм.</param>
 <param name="Видавництво">Освіта-Центр</param></offer>
-
+<offer id="26899" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Робочий зошит Освіта Українська мова + уроки із розвитку зв’язного мовлення 4 класс Частина 1 Вашуленко, 2026 рік</name>
+<vendorCode>9789669836632</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-ukrainska-mova-osvita-robochyi-zoshyt-ta-uroky-iz-rozvytku-zv-iaznoho-movlennia-4-klass-chastyna-1-vashulenko/</url>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<price>110</price>
+<picture>https://knigovan.com/image/catalog/products/26899/nush-ukra-nska-mova-osv-ta-robochiy-zoshit-ta-uroki-z-rozvitku-zv-yaznogo-movlennya-4-klass-chastina-1-vashulenko-1.jpeg</picture>
+<vendor>Освіта-Центр</vendor>
+<description>
+<![CDATA[НУШ "Українська мова" Робочий зошит + уроки із розвитку зв’язного мовлення 4 класс Частина 1. Посібник «Українська мова. Робочий зошит + уроки із розвитку зв'язного мовлення. 4 клас. Частина 1» (автори М. С. Вашуленко та ін.) — це навчальний посібник, створений для закріплення знань та вдосконалення мовленнєвих навичок учнів початкової школи.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Оксана Вашуленко</param>
+<param name="Предмет">Українська мова</param>
+<param name="Мова">українська</param>
+<param name="Вік">4 клас</param>
+<param name="Тип">Робочий зошит</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">64</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-966-983-663-2</param>
+<param name="Формат, розмір">А-5</param>
+<param name="Видавництво">Освіта-Центр</param></offer>
 
 
 
@@ -28384,8 +28525,54 @@
 <param name="Формат, розмір">220 х 170 х 11 мм</param>
 <param name="Видавництво">Школа</param></offer>
 
-
-
+<offer id="27158" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Каліграфічні прописи Школа Експрес-шаблон Федієнко</name>
+<vendorCode>978-966-429-615-8</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/nush-kalihrafichni-propysy-shkola-ekspres-shablon-fediienko/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>45</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27158/nush_kaligrafichni_propisi_shkola_ekspres_shablon_fedi_nko.jpg</picture>
+<vendor>Школа</vendor>
+<description>
+<![CDATA[НУШ. Каліграфічні прописи. Експрес-шаблон.  Завдяки використаному в зошиту унікальному запатентованому графічному шаблону - частої косої лінії - дитина зможе стандартизувати не тільки висоту, а й ширину букв і елементів, привчиться дотримуватися однакового нахилу букв і відстані між словами. А ретельно підібрані завдання на обведення та копіювання допоможуть відпрацювати різні види з'єднань. Бажаємо успіхів і пам'ятайте, що гарний почерк дитини - це результат кропіткої спільної роботи дитини, педагогів та батьків!]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Федієнко В.</param>
+<param name="Мова">українська</param>
+<param name="Вік">6+</param>
+<param name="Тип">Прописи</param>
+<param name="Серія">Експрес-шаблон</param>
+<param name="Кількість сторінок">32</param>
+<param name="Рік видання">2021</param>
+<param name="Тип паперу">офсет, двоколірна</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-966-429-615-8</param>
+<param name="Формат, розмір">210 х 165 х 5 мм</param>
+<param name="Видавництво">Школа</param></offer>
+<offer id="27159" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Математичні прописи Школа Експрес-шаблон Федієнко</name>
+<vendorCode>978-966-429-616-5</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/nush-matematychni-propysy-shkola-ekspres-shablon-fediienko/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>45</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27159/nush_matematichni_propisi_shkola_ekspres_shablon_fedi_nko.jpg</picture>
+<vendor>Школа</vendor>
+<description>
+<![CDATA[НУШ. Математичні прописи. Експрес-шаблон. Додаткові вправи зроблять завдання цікавішими, допоможуть розвинути різні математичні навички, логіку та дрібну моторику.   Дитина ознайомиться з цифрами в межах 10, їх складом, порядковим і кількісним значенням, повчить уявлення про прямий і зворотний порядок цифр, суміжні числа, вимірювання лінійкою, визначення часу по годинах, навчиться складати, записувати і вирішувати вирази на порівняння, віднімання, складання та тощо.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Федієнко В.</param>
+<param name="Мова">українська</param>
+<param name="Вік">6+</param>
+<param name="Тип">Прописи</param>
+<param name="Серія">Експрес-шаблон</param>
+<param name="Кількість сторінок">32</param>
+<param name="Рік видання">2021</param>
+<param name="Тип паперу">офсет, двоколірна</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-966-429-616-5</param>
+<param name="Формат, розмір">210 х 165 х 5 мм</param>
+<param name="Видавництво">Школа</param></offer>
 
 
 
@@ -28485,10 +28672,102 @@
 <param name="ISBN">978-617-686-690-9</param>
 <param name="Формат, розмір">165×208 мм.</param>
 <param name="Видавництво">Весна</param></offer>
-
-
-
-
+<offer id="27167" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Журнал спостережень за навчальною діяльністю учнів та результатами їхнього навчання Весна 2 клас</name>
+<vendorCode>978-617-686-695-4</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/konspekty-urokiv/2-klas/nush-zhurnal-sposterezhen-za-navchalnoiu-diialnistiu-uchniv-ta-rezultatamy-yikhnoho-navchannia-vesna-2-klas/</url>
+<currencyId>UAH</currencyId>
+<categoryId>4</categoryId>
+<price>70</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27167/nush_zhurnal_sposterezhen_za_navchalnoyu_diyalnistyu_uchniv_ta_rezultatami_hnogo_navchannya_vesna_2_klas.jpg</picture>
+<vendor>Весна</vendor>
+<description>
+<![CDATA["Журнал спостережень за навчальною діяльністю учнів та результатами їхнього навчання 2 клас НУШ" - допомагає вчителю здійснювати та фіксувати рівень розвитку учнів, динаміку формування певних навичок та особистих досягнень учнів 2 класу.   Журнал допоможе:    вчасно виявити проблеми учня й запобігти їхньому нашаруванню; побачити, коли дитина вже досягла визначеному результату; здійсніти корегування освітнього процессу на різних етапах; порівняти досягнення учня з попередніми його результатами; надати батькам більш певну картину опису навчальних досягнень учнів; оперативно заповнити “Свідоцтва досягнень”  Фіксувати рівень досягнень кожного учня учитель може в довільній формі. Учитель може фіксувати результати кілька разів на місяць,або рідше одного разу на місяць.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Гребенькова Л.О.</param>
+<param name="Мова">українська</param>
+<param name="Вік">2 клас</param>
+<param name="Тип">Посiбник для вчителя</param>
+<param name="Серія">Шкільна документація НУШ</param>
+<param name="Кількість сторінок">64</param>
+<param name="Рік видання">2021</param>
+<param name="Тип паперу">офсет</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-617-686-695-4</param>
+<param name="Формат, розмір">200х260 мм</param>
+<param name="Видавництво">Весна</param></offer>
+<offer id="27168" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Журнал спостережень за навчальною діяльністю учнів та результатами їхнього навчання Весна 4 клас</name>
+<vendorCode>978-617-686-697-8</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/konspekty-urokiv/4-klas/nush-zhurnal-sposterezhen-za-navchalnoiu-diialnistiu-uchniv-ta-rezultatamy-yikhnoho-navchannia-vesna-4-klas/</url>
+<currencyId>UAH</currencyId>
+<categoryId>6</categoryId>
+<price>70</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27168/nush_zhurnal_sposterezhen_za_navchalnoyu_diyalnistyu_uchniv_ta_rezultatami_hnogo_navchannya_vesna_4_klas.jpg</picture>
+<vendor>Весна</vendor>
+<description>
+<![CDATA["Журнал спостережень за навчальною діяльністю учнів та результатами їхнього навчання 4 клас НУШ" - допомагає вчителю здійснювати та фіксувати рівень розвитку учнів, динаміку формування певних навичок та особистих досягнень учнів 2 класу.   Журнал допоможе:    вчасно виявити проблеми учня й запобігти їхньому нашаруванню; побачити, коли дитина вже досягла визначеному результату; здійсніти корегування освітнього процессу на різних етапах; порівняти досягнення учня з попередніми його результатами; надати батькам більш певну картину опису навчальних досягнень учнів; оперативно заповнити “Свідоцтва досягнень”  Фіксувати рівень досягнень кожного учня учитель може в довільній формі.  Учитель може фіксувати результати кілька разів на місяць,або рідше одного разу на місяць.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Гребенькова Л.О.</param>
+<param name="Мова">українська</param>
+<param name="Вік">4 клас</param>
+<param name="Тип">Посiбник для вчителя</param>
+<param name="Серія">Шкільна документація НУШ</param>
+<param name="Кількість сторінок">80</param>
+<param name="Рік видання">2021</param>
+<param name="Тип паперу">офсет</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-617-686-697-8</param>
+<param name="Формат, розмір">200х260 мм</param>
+<param name="Видавництво">Весна</param></offer>
+<offer id="27169" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Журнал спостережень за навчальною діяльністю учнів та результатами їхнього навчання Весна 3 клас</name>
+<vendorCode>978-617-686-696-1</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/konspekty-urokiv/3-klas/nush-zhurnal-sposterezhen-za-navchalnoiu-diialnistiu-uchniv-ta-rezultatamy-yikhnoho-navchannia-vesna-3-klas/</url>
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<price>70</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27169/nush_zhurnal_sposterezhen_za_navchalnoyu_diyalnistyu_uchniv_ta_rezultatami_hnogo_navchannya_vesna_3_klas.jpg</picture>
+<vendor>Весна</vendor>
+<description>
+<![CDATA["Журнал спостережень за навчальною діяльністю учнів та результатами їхнього навчання 3 клас. НУШ." допомагає вчителю здійснювати та фіксувати рівень розвитку учнів, динаміку формування певних навичок та особистих досягнень учнів 3 класу.   Журнал допоможе:    вчасно виявити проблеми учня й запобігти їхньому нашаруванню; побачити, коли дитина вже досягла визначеному результату; здійсніти корегування освітнього процессу на різних етапах; порівняти досягнення учня з попередніми його результатами; надати батькам більш певну картину опису навчальних досягнень учнів; оперативно заповнити “Свідоцтва досягнень”  Фіксувати рівень досягнень кожного учня учитель може в довільній формі. Учитель може фіксувати результати кілька разів на місяць,або рідше одного разу на місяць.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Гребенькова Л.О.</param>
+<param name="Мова">українська</param>
+<param name="Вік">3 клас</param>
+<param name="Тип">Посiбник для вчителя</param>
+<param name="Серія">Шкільна документація НУШ</param>
+<param name="Кількість сторінок">80</param>
+<param name="Рік видання">2021</param>
+<param name="Тип паперу">офсет</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-617-686-696-1</param>
+<param name="Формат, розмір">200х260 мм</param>
+<param name="Видавництво">Весна</param></offer>
+<offer id="27170" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Журнал спостережень за навчальною діяльністю учнів та результатами їхнього навчання Весна 1 клас</name>
+<vendorCode>978-617-686-694-7</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/konspekty-urokiv/1-klas/nush-zhurnal-sposterezhen-za-navchalnoiu-diialnistiu-uchniv-ta-rezultatamy-yikhnoho-navchannia-vesna-1-klas/</url>
+<currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<price>70</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27170/nush_zhurnal_sposterezhen_za_navchalnoyu_diyalnistyu_uchniv_ta_rezultatami_hnogo_navchannya_vesna_1_klas.jpg</picture>
+<vendor>Весна</vendor>
+<description>
+<![CDATA["Журнал спостережень за навчальною діяльністю учнів та результатами їхнього навчання 1 клас НУШ" - допомагає вчителю здійснювати та фіксувати рівень розвитку учнів, динаміку формування певних навичок та особистих досягнень учнів 1 класу.   Журнал допоможе:    вчасно виявити проблеми учня й запобігти їхньому нашаруванню; побачити, коли дитина вже досягла визначеному результату; здійсніти корегування освітнього процессу на різних етапах; порівняти досягнення учня з попередніми його результатами; надати батькам більш певну картину опису навчальних досягнень учнів; оперативно заповнити “Свідоцтва досягнень”.  Фіксувати рівень досягнень кожного учня учитель може в довільній формі.  Учитель може фіксувати результати кілька разів на місяць,або рідше одного разу на місяць.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Гребенькова Л.О.</param>
+<param name="Мова">українська</param>
+<param name="Вік">1 клас</param>
+<param name="Тип">Посiбник для вчителя</param>
+<param name="Серія">Шкільна документація НУШ</param>
+<param name="Кількість сторінок">64</param>
+<param name="Рік видання">2021</param>
+<param name="Тип паперу">офсет</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-617-686-694-7</param>
+<param name="Формат, розмір">200х260 мм</param>
+<param name="Видавництво">Весна</param></offer>
 <offer id="27171" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Інтегрований cловник-довідник Весна Українська мова Початкова школа 2025</name>
 <vendorCode>978-617-686-747-0</vendorCode>
@@ -30145,7 +30424,7 @@
 <vendorCode>9789660740266</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/litni-zoshyty/4-klas-4/zoshyt-maibutnoho-piatyklasnyka-pidruchnyky-i-posibnyky-lito-litechko/</url>
 <currencyId>UAH</currencyId>
-<categoryId>26</categoryId>
+<categoryId>11</categoryId>
 <price>110</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27350/zoshit_maybutnogo_p_yatiklasnika_pidruchniki_i_posibniki_lito_litechko.png</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -30195,7 +30474,7 @@
 <vendorCode>9789660739727</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/litni-zoshyty/3-klas-4/nush-litni-kanikuly-z-matematykoiu-z-3-u-4-klas-pidruchnyky-i-posibnyky-matematychni-kanikuly/</url>
 <currencyId>UAH</currencyId>
-<categoryId>25</categoryId>
+<categoryId>10</categoryId>
 <price>105</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27354/nush_litni_kanikuli_z_matematikoyu_z_3_u_4_klas_pidruchniki_i_posibniki_matematichni_kanikuli.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -30217,7 +30496,7 @@
 <vendorCode>9789660739314</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/litni-zoshyty/2-klas-4/nush-litni-kanikuly-z-matematykoiu-z-2-u-3-klas-pidruchnyky-i-posibnyky-matematychni-kanikuly/</url>
 <currencyId>UAH</currencyId>
-<categoryId>24</categoryId>
+<categoryId>9</categoryId>
 <price>105</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27355/nush_litni_kanikuli_z_matematikoyu_z_2_u_3_klas_pidruchniki_i_posibniki_matematichni_kanikuli.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -30239,7 +30518,7 @@
 <vendorCode>9789660738102</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/litni-zoshyty/1-klas-4/nush-litni-kanikuly-z-matematykoiu-z-1-u-2-klas-pidruchnyky-i-posibnyky-matematychni-kanikuly/</url>
 <currencyId>UAH</currencyId>
-<categoryId>23</categoryId>
+<categoryId>8</categoryId>
 <price>105</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27356/nush_litni_kanikuli_z_matematikoyu_z_1_u_2_klas_pidruchniki_i_posibniki_matematichni_kanikuli.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -31153,7 +31432,7 @@
 <vendorCode>978-966-991-108-7</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/atlasy/4-klas-2/nush-atlas-z-konturnymy-kartamy-orion-ya-doslidzhuiu-svit-4-klas-hilberh/</url>
 <currencyId>UAH</currencyId>
-<categoryId>16</categoryId>
+<categoryId>11</categoryId>
 <price>80</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27443/nush_atlas_z_konturnimi_kartami_orion_ya_doslidzhuyu_svit_4_klas_gilberg.jpg</picture>
 <vendor>Оріон</vendor>
@@ -31525,7 +31804,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[Українська мова: зошит для діагностувальних робіт за групами результатів. 5 клас (за програмою Н. Голуб, О. Горошкіної) Зошит укладено відповідно до модельної навчальної програми «Українська мова. 5–6 класи» для закладів загальної середньої освіти (автори: Голуб Н. Б., Горошкіна О. М.). Він призначений для діагностування засвоєння тематичного матеріалу за групами результатів.  Для учнів 5 класу, учителів української мови.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Галина Панчук, Богдана Близнюк, Ольга Приведа</param>
 <param name="Предмет">Українська мова</param>
 <param name="Мова">українська</param>
@@ -33562,7 +33841,7 @@
 <vendor>Генеза</vendor>
 <description>
 <![CDATA[НУШ Українська мова, 5клас Зошит для підсумкового оцінювання навчальних досягнень - Заболотний О.В   Навчальний посібник для 5 класу закладів загальної середньої освіти  Посібник містить діагностичні (контрольні роботи), за допомогою яких можна оцінити навчальні досягнення учнів та учениць з української мови:    шість робіт для тематичного оцінювання, дві роботи для семестрового контролю, одну роботу для оцінювання вміння сприймати письмовий текст.    Кожна робота для тематичного оцінювання та робота для семестрового контролю складається з 12 завдань різного виду і подана у двох варіантах.  Біля завдань указано максимально можливу кількість балів за виконання. Для перевірки правописних навичок у зошиті передбачено місце для диктанту. Для оцінювання вміння логічно й зрозуміло викладати думки, доречно вживати слова, грамотно писати учням та ученицям пропонується написати переказ та твір. Крім оцінювання роботи за 12-бальною шкалою, учитель / учителька може висловити загальне враження від діяльності учнів / учениць. Для цього в кінці кожної роботи запропоновано словесні характеристики, біля яких учитель / учителька за бажанням поставить одну або кілька позначок.]]></description>
-<quantity_in_stock>99</quantity_in_stock>
+<quantity_in_stock>97</quantity_in_stock>
 <param name="Автор">Заболотний О., Заболотний В.</param>
 <param name="Мова">українська</param>
 <param name="Вік">5 клас</param>
@@ -34213,7 +34492,7 @@
 <vendor>Генеза</vendor>
 <description>
 <![CDATA[Пізнаємо природу, 5 кл. Робочий зошит та діагностичні роботи (Гільберг Т. Г)    Зошит з інтегрованого курсу «Пізнаємо природу» для 5 класу закладів загальної середньої освіти  Зошит складено відповідно до модельної навчальної програми (автори: Д. Біда, Т. Гільберг, Я. Колісник) та є додатком до підручника для 5 класу закладів загальної середньої освіти «Пізнаємо природу» (автори: Дарія Біда, Тетяна Гільберг, Ярина Колісник). Зошит містить широкий набір завдань різного рівня складності, які спрямовані на реалізацію обов’язкових результатів навчання, закріплення й перевірку отриманих знань, сформованих навичок, наскрізних умінь і ключових компетенцій. Алгоритми виконання завдань, що містяться в зошиті, та приклади їхнього оформлення сприяють розвитку в учнів навичок самостійної роботи.   Зошит також містить вкладку з діагностувальними роботами, які розроблено у двох варіантах. Діагностувальні роботи відповідають вимогам державного стандарту, перевіряють предметні й ключові компетентності учнів.    Переваги посібника:    НАСТУПНІСТЬ  викладу навчального матеріалу. Посібник є продовженням вивчення природничих предметів у початковій школі, тому повністю врахувує вікові особливості дітей, їхні знань та навички. Автор підручників для 1-4 кл, програми для 5-6 класів та підручника для 5 класу – Гільберг Тетяна   НАУКОВІСТЬ навчального матеріалу. У посібнику враховані усі тенденції сучасної науки, навчальний матеріал отримав високі схвальні відгуки від науковців-експертів.   ДОСТУПНІСТЬ навчального матеріалу. Для створення ефективних, цікавих та результативних завдань було залучено вчителів-практиків.   АПРОБАЦІЯ навчальних матеріалів. Завдання, вміщені до зошита, пройшли апробацію в пілотних школах та отримала високі оцінки від вчителів та учнів.]]></description>
-<quantity_in_stock>99</quantity_in_stock>
+<quantity_in_stock>98</quantity_in_stock>
 <param name="Автор">Гільберг Т. Стократний С. Кулініч О.</param>
 <param name="Мова">українська</param>
 <param name="Вік">5 клас</param>
@@ -34427,7 +34706,7 @@
 <vendorCode>978-966-991-209-1</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/nush-atlas-intehrovanyi-kurs-orion-vstup-istorii-ukrainy-ta-hromadianskoi-osvity-5-klas/</url>
 <currencyId>UAH</currencyId>
-<categoryId>55</categoryId>
+<categoryId>47</categoryId>
 <price>100</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27753/nush_atlas_integrovaniy_kurs_orion_vstup_istori_ukra_ni_ta_gromadyansko_osviti_5_klas.jpg</picture>
 <vendor>Оріон</vendor>
@@ -34717,13 +34996,13 @@
 <vendorCode>978-966-991-210-7</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/5-klas-2/nush-atlas-z-konturnymy-kartamy-orion-piznaiemo-pryrodu-5-klas/</url>
 <currencyId>UAH</currencyId>
-<categoryId>55</categoryId>
+<categoryId>47</categoryId>
 <price>80</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27793/nush_atlas_z_konturnimi_kartami_orion_pizna_mo_prirodu_5_klas.jpg</picture>
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[НУШ Атлас з контурними картами Оріон Пізнаємо природу 5 клас   Атлас видавництва Оріон складено за програмою загальноосвітніх навчальних закладів України для курсу історії України за 5 клас. Атлас включає в себе карти, схеми, кольорові ілюстрації, контурні карти, а також багато корисної навчальної інформації.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>15</quantity_in_stock>
 <param name="Мова">українська</param>
 <param name="Вік">5 клас</param>
 <param name="Тип">Атлас</param>
@@ -35481,7 +35760,7 @@
 <vendor>Лінгвіст</vendor>
 <description>
 <![CDATA[Тести Prepare for Ukraine НУШ 5 Test book (Автор: Cochrane, S., Torres, L.)   Prepare 5. Test Book – збірник тестів з англійської мови, що дає змогу регулярно проводити контроль навчальних досягнень учнів 5-х класів у процесі вивчення англійської мови. Структура кожного тесту дозволяє комплексно перевірити уміння слухати, читати, писати і говорити, а також знання з лексики і граматики. Матеріал збірника відповідає вимогам програм МОН та містить тести до 20 уроків у двох варіантах: стандартний та поглиблений, а також семестрові та річний тести, за допомогою яких кожен викладач зможе легко перевірити результат роботи учнів на проміжних та фінальному етапах навчання. Призначений для загальноосвітніх та спеціалізованих навчальних закладів, мовних курсів, а також для індивідуальних занять з метою здійснення самоконтролю.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Cochrane, S., Torres, L.</param>
 <param name="Мова">українська, англійська</param>
 <param name="Вік">5 клас</param>
@@ -37572,7 +37851,7 @@
 <vendorCode>9786170040909</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/litni-zoshyty/3-klas-4/nush-krutezni-kanikuly-osnova-zoshyt-dlia-3-klasu-pliushch/</url>
 <currencyId>UAH</currencyId>
-<categoryId>25</categoryId>
+<categoryId>10</categoryId>
 <price>65</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28091/nush_krutezni_kanikuli_osnova_zoshit_dlya_3_klasu_plyushch.jpg</picture>
 <vendor>Основа</vendor>
@@ -37675,7 +37954,7 @@
 <vendorCode>9786170040831</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/litni-zoshyty/2-klas-4/nush-krutezni-kanikuly-osnova-zoshyt-dlia-2-klasu-pliushch/</url>
 <currencyId>UAH</currencyId>
-<categoryId>24</categoryId>
+<categoryId>9</categoryId>
 <price>65</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28102/nush_krutezni_kanikuli_osnova_zoshit_dlya_2_klasu_plyushch.jpg</picture>
 <vendor>Основа</vendor>
@@ -37699,7 +37978,7 @@
 <vendorCode>9786170040893</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/litni-zoshyty/1-klas-4/nush-krutezni-kanikuly-osnova-zoshyt-dlia-1-klasu-pliushch/</url>
 <currencyId>UAH</currencyId>
-<categoryId>23</categoryId>
+<categoryId>8</categoryId>
 <price>65</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28103/nush_krutezni_kanikuli_osnova_zoshit_dlya_1_klasu_plyushch.jpg</picture>
 <vendor>Основа</vendor>
@@ -38561,7 +38840,7 @@
 <vendor>Богдан</vendor>
 <description>
 <![CDATA[Альбом з інтегрованого курсу. Образотворче мистецтво 5 клас (до підручника Кондратової Л.Г. та ін.) НУШ Кондратова Л.Г.  Альбом містить практичні завдання до уроків мистецтва у 5 класі відповідно до Державного стандарту базової середньої освіти та модельної навчальної програми «Мистецтво. 5-6 кл.» для закладів загальної середньої освіти (авт. Л.Г. Кондратова). Запропонований матеріал сприятиме розвитку художніх здібностей, творчої уяви, фантазії, логічного мислення п’ятикласників.    Для учнів 5 класу, їхніх батьків, вчителів, студентів.]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Автор">Кондратова Л.Г.</param>
 <param name="Мова">українська</param>
 <param name="Вік">5 клас</param>
@@ -40445,7 +40724,7 @@
 <vendorCode>9786170041562</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/literatura-vid-6-rokiv/veselyi-trenazher-chytanka-strashylka-iz-zavdanniamy-6-7-rokiv-osnova-rozhevi-kaloshi-ta-opudalo-z-knyzhkovoi-shafy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>8</categoryId>
 <price>220</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28352/veseliy_trenazher_chitanka_strashilka_iz_zavdannyami_6_7_rokiv_osnova_rozhevi_kaloshi_ta_opudalo_z_knizhkovo_shafi.jpg</picture>
 <vendor>Основа</vendor>
@@ -40755,11 +41034,116 @@
 <param name="Формат, розмір">В5 (180*250 мм)</param>
 <param name="Видавництво">Підручники і посібники</param></offer>
 
-
-
-
-
-
+<offer id="28395" available="true" in_stock="true" selling_type="r" >
+<name>НУШ-2 Буквар 1 клас Частина 2 Посібник. Українська мова Оріон Пономарьова</name>
+<vendorCode>9789669910578</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/nush-2-bukvar-1-klas-chastyna-2-posibnyk-ukrainska-mova-orion-ponomarova/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>110</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/28395/nush_2_bukvar_1_klas_chastina_2_posibnik_ukra_nska_mova_orion_ponomarova.jpg</picture>
+<vendor>Оріон</vendor>
+<description>
+<![CDATA[Українська мова. Буквар Частина 2: навчальний посібник для 1 класу ЗЗСО. Пономарьова К.І. (2023)  Дорога дитино!  Ти отримав буквар, і це початок твоєї захоплюючої подорожі у світ чудових історій та знань. Ця книжка допоможе тобі вивчати нові слова, навчить читати та писати. Розглядай малюнки, розповідай про них, спілкуйся з друзями і з учителями. Виконуй завдання з захопленням, фантазуй, мрій і розвивай свій розум. Ми бажаємо тобі успіхів у навчанні, радості від вивчення нового та задоволення від кожного успіху!]]></description>
+<quantity_in_stock>5</quantity_in_stock>
+<param name="Автор">Пономарьова К. І.</param>
+<param name="Мова">українська</param>
+<param name="Вік">1 клас</param>
+<param name="Тип">навчальний посібник</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">80</param>
+<param name="Рік видання">2023</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="ISBN">978-966-991-057-8</param>
+<param name="Видавництво">Оріон</param></offer>
+<offer id="28396" available="true" in_stock="true" selling_type="r" >
+<name>НУШ-2 Буквар 1 клас Частина 3 Посібник. Українська мова Оріон Пономарьова</name>
+<vendorCode>9789669910592</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/nush-2-bukvar-1-klas-chastyna-3-posibnyk-ukrainska-mova-orion-ponomarova/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>110</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/28396/nush_2_bukvar_1_klas_chastina_3_posibnik_ukra_nska_mova_orion_ponomarova.jpg</picture>
+<vendor>Оріон</vendor>
+<description>
+<![CDATA[Українська мова. Буквар Частина 3: навчальний посібник для 1 класу ЗЗСО. Пономарьова К.І. (2023)  Дорога дитино!  Ти отримав буквар, і це початок твоєї захоплюючої подорожі у світ чудових історій та знань. Ця книжка допоможе тобі вивчати нові слова, навчить читати та писати. Розглядай малюнки, розповідай про них, спілкуйся з друзями і з учителями. Виконуй завдання з захопленням, фантазуй, мрій і розвивай свій розум. Ми бажаємо тобі успіхів у навчанні, радості від вивчення нового та задоволення від кожного успіху!]]></description>
+<quantity_in_stock>5</quantity_in_stock>
+<param name="Автор">Пономарьова К. І.</param>
+<param name="Мова">українська</param>
+<param name="Вік">1 клас</param>
+<param name="Тип">навчальний посібник</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">80</param>
+<param name="Рік видання">2023</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="ISBN">978-966-991-059-2</param>
+<param name="Видавництво">Оріон</param></offer>
+<offer id="28397" available="true" in_stock="true" selling_type="r" >
+<name>НУШ-2 Буквар 1 клас Частина 4 Посібник. Українська мова Оріон Пономарьова</name>
+<vendorCode>9789669911223</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/nush-2-bukvar-1-klas-chastyna-4-posibnyk-ukrainska-mova-orion-ponomarova/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>110</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/28397/nush_2_bukvar_1_klas_chastina_4_posibnik_ukra_nska_mova_orion_ponomarova.jpg</picture>
+<vendor>Оріон</vendor>
+<description>
+<![CDATA[Українська мова. Буквар Частина 4: навчальний посібник для 1 класу ЗЗСО. Пономарьова К.І. (2023)  Дорога дитино!  Ти отримав буквар, і це початок твоєї захоплюючої подорожі у світ чудових історій та знань. Ця книжка допоможе тобі вивчати нові слова, навчить читати та писати. Розглядай малюнки, розповідай про них, спілкуйся з друзями і з учителями. Виконуй завдання з захопленням, фантазуй, мрій і розвивай свій розум. Ми бажаємо тобі успіхів у навчанні, радості від вивчення нового та задоволення від кожного успіху!]]></description>
+<quantity_in_stock>5</quantity_in_stock>
+<param name="Автор">Пономарьова К. І.</param>
+<param name="Мова">українська</param>
+<param name="Вік">1 клас</param>
+<param name="Тип">навчальний посібник</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">64</param>
+<param name="Рік видання">2023</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="ISBN">978-966-991-122-3</param>
+<param name="Видавництво">Оріон</param></offer>
+<offer id="28398" available="true" in_stock="true" selling_type="r" >
+<name>НУШ-2 Буквар 1 клас Частина 5 Посібник. Українська мова Оріон Пономарьова</name>
+<vendorCode>9789669911230</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/nush-2-bukvar-1-klas-chastyna-5-posibnyk-ukrainska-mova-orion-ponomarova/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>110</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/28398/nush_2_bukvar_1_klas_chastina_5_posibnik_ukra_nska_mova_orion_ponomarova.jpg</picture>
+<vendor>Оріон</vendor>
+<description>
+<![CDATA[Українська мова. Буквар Частина 5: навчальний посібник для 1 класу ЗЗСО. Пономарьова К.І. (2023)  Дорога дитино!  Ти отримав буквар, і це початок твоєї захоплюючої подорожі у світ чудових історій та знань. Ця книжка допоможе тобі вивчати нові слова, навчить читати та писати. Розглядай малюнки, розповідай про них, спілкуйся з друзями і з учителями. Виконуй завдання з захопленням, фантазуй, мрій і розвивай свій розум. Ми бажаємо тобі успіхів у навчанні, радості від вивчення нового та задоволення від кожного успіху!]]></description>
+<quantity_in_stock>5</quantity_in_stock>
+<param name="Автор">Пономарьова К. І.</param>
+<param name="Мова">українська</param>
+<param name="Вік">1 клас</param>
+<param name="Тип">навчальний посібник</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">64</param>
+<param name="Рік видання">2023</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="ISBN">978-966-991-123-0</param>
+<param name="Видавництво">Оріон</param></offer>
+<offer id="28399" available="true" in_stock="true" selling_type="r" >
+<name>НУШ-2 Буквар 1 клас Частина 6 Посібник. Українська мова Оріон Пономарьова</name>
+<vendorCode>9789669911278</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/nush-2-bukvar-1-klas-chastyna-6-posibnyk-ukrainska-mova-orion-ponomarova/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>110</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/28399/nush_2_bukvar_1_klas_chastina_6_posibnik_ukra_nska_mova_orion_ponomarova.jpg</picture>
+<vendor>Оріон</vendor>
+<description>
+<![CDATA[Українська мова. Буквар Частина 6: навчальний посібник для 1 класу ЗЗСО. Пономарьова К.І. (2023)  Дорога дитино!  Ти отримав буквар, і це початок твоєї захоплюючої подорожі у світ чудових історій та знань. Ця книжка допоможе тобі вивчати нові слова, навчить читати та писати. Розглядай малюнки, розповідай про них, спілкуйся з друзями і з учителями. Виконуй завдання з захопленням, фантазуй, мрій і розвивай свій розум. Ми бажаємо тобі успіхів у навчанні, радості від вивчення нового та задоволення від кожного успіху!]]></description>
+<quantity_in_stock>5</quantity_in_stock>
+<param name="Автор">Пономарьова К. І.</param>
+<param name="Мова">українська</param>
+<param name="Вік">1 клас</param>
+<param name="Тип">навчальний посібник</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">64</param>
+<param name="Рік видання">2023</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="ISBN">978-966-991-127-8</param>
+<param name="Видавництво">Оріон</param></offer>
 <offer id="28400" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Зошит для підсумкового оцінювання навчальних досягнень Генеза Українска мова 6 клас Заболотний</name>
 <vendorCode>9789661113533</vendorCode>
@@ -40817,7 +41201,7 @@
 <vendor>Генеза</vendor>
 <description>
 <![CDATA[НУШ 1 клас. Мистецтво. Альбом з інтегрованого курсу. Масол Л.  Автори: Масол Людмила Михайлівна Гайдамака Олена Василівна Колотило Оксана Миколаївна Код ISBN: 978-966-11-1357-1 Мова видання: українська Кількість сторінок: 64.]]></description>
-<quantity_in_stock>93</quantity_in_stock>
+<quantity_in_stock>92</quantity_in_stock>
 <param name="Автор">Масол Людмила Михайлівна; Гайдамака Олена Василівна; Колотило Оксана Миколаївна</param>
 <param name="Мова">українська</param>
 <param name="Вік">1 клас</param>
@@ -42330,13 +42714,13 @@
 <vendorCode>9789669912336</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/6-klas-2/nush-atlas-orion-piznaiemo-pryrodu-6-klas/</url>
 <currencyId>UAH</currencyId>
-<categoryId>56</categoryId>
+<categoryId>48</categoryId>
 <price>80</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28570/nush_atlas_orion_pizna_mo_prirodu_6_klas.jpg</picture>
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[Атлас Пізнаємо природу 6 клас. НУШ  Відповідає всім чинним модельним навчальним програмам інтегрованого курсу "Пізнаємо природу" для 6 класу Нової української школи. Схвалено для використання в освітньому процесі (рішеннями експертних комісій з біології та екології (протокол №5 від 09.06.2023 року), географії (протокол №7 від 27.07.2023), фізики та астрономії (протокол №6 від 1.08.2023 року), №3.0436-2023 у Каталозі надання грифів навчальній літературі і навчальним програмам) Атлас відповідає санітарному законодавству України (висновок №12.2-18-1/7458 від 26.06.2023 року).]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>15</quantity_in_stock>
 <param name="Мова">українська</param>
 <param name="Вік">6 клас</param>
 <param name="Тип">Атлас</param>
@@ -42394,7 +42778,28 @@
 <param name="Тип обкладинки">м&apos;яка</param>
 <param name="ISBN">978-966-983-433-1</param>
 <param name="Видавництво">Освіта-Центр</param></offer>
-
+<offer id="28573" available="true" in_stock="true" selling_type="r" >
+<name>НУШ-2 Буквар. Українська мова 1 клас Частина 1 Посібник Освіта Вашуленко</name>
+<vendorCode>9789669834386</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/pidruchnyky/1-klas-3/nush-2-bukvar-ukrainska-mova-1-klas-chastyna-1-posibnyk-osvita-vashulenko/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>130</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/28573/nush_2_bukvar_ukra_nska_mova_1_klas_chastina_1_posibnik_osvita_vashulenko.jpg</picture>
+<vendor>Освіта-Центр</vendor>
+<description>
+<![CDATA[НУШ-2 1 клас. Буквар. Українська мова. (у 6-х частинах). Частина 1. Вашуленко М. С.   Цей навчальний посібник із шести частин - безперечно нове слово у підручникотворенні. Уперше дбайливо й цікаво поєднано в одній книжці практичний матеріал з навчання читання і письма. Цей посібник створений для того, щоб дитина захотіла читати і писати й відчула радість від того, що вміє це робити. І-ша частина посібника призначена для добуквеного періоду навчання грамоти, 2-5 частини забезпечують буквений період, 6-та – післябуквений період навчання. Орієнтований на дітей, які мають різний рівень дошкільної читацької підготовки: для тих учнів/учениць, які навчаються читати, у матеріалі для читання використовуються тільки вивчені літери, також у посібнику вміщено тексти і завдання для дітей, які певною мірою вміють читати, щоб створити умови для організації на уроці диференційованої роботи з різними групами учнів/учениць. Родзинкою посібника є використання нових, цікавих сучасним першокласникам текстів, компетентнісно орієнтованих завдань та завдань функціонального характеру. Автори звертаються до каналів сприйняття дитиною світу, залучають емоційну та образну пам'ять, щоб граючи, без настанов і примусу сформувати в учнів психологічну готовність до читання і письма.      Посібник звернеться до дитини, заговорить і заспіває разом з нею. У QR-кодах із посиланнями на аудіофайли вміщено тексти для слухання, озвучені професійними дикторами, мовлення яких стане взірцем для учнів/учениць. Після завершення слухання відбувається робота над виконанням завдань, які спрямовані на перевірку розуміння усної інформації.  Щоб маленькі школярі подолали існуючий у багатьох з них бар'єр у навчанні письма, автори пропонують писати спочатку друковані букви. Особливу увагу в посібнику приділено формуванню навички письма у ліворуких дітей: зразок букви в кінці рядка на той випадок, якщо він/вона закриватиме рукою зразок, який розташований на початку рядка. Над буквами нанесено стрілочку, яка нагадує дітям (особливо лівшам) звідки починати писати букву, який елемент у букві пишеться першим. З посібником зручно буде працювати й учителям: ураховуючи рівень розвитку читацьких і мовленнєвих умінь учнів класу, педагог самостійно визначає обсяг і частотність виконання тих чи інших завдань.  Завдання до текстів подано в самому посібнику, але дрібним шрифтом, призначеним для дорослого читача. Ми намагалися створити не просто навчальний посібник, а дитячу книжку з яскравими малюнками, мовними цікавинками, міцним патріотичним підґрунтям. Нехай вона, турботливо тримаючи за руку, веде дитину у світ української мови!]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Вашуленко М.С.</param>
+<param name="Мова">українська</param>
+<param name="Вік">1 клас</param>
+<param name="Тип">навчальний посібник</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">80</param>
+<param name="Рік видання">2023</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="ISBN">978-966-983-438-6</param>
+<param name="Видавництво">Освіта-Центр</param></offer>
 
 
 
@@ -42675,51 +43080,8 @@
 <param name="ISBN">9789669912299</param>
 <param name="Формат, розмір">160х240 мм</param>
 <param name="Видавництво">Оріон</param></offer>
-<offer id="28604" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Контурні карти Оріон Пізнаємо природу 6 клас</name>
-<vendorCode>9789669912343</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/6-klas-2/nush-konturni-karty-orion-piznaiemo-pryrodu-6-klas/</url>
-<currencyId>UAH</currencyId>
-<categoryId>56</categoryId>
-<price>50</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/28604/nush_konturni_karti_orion_pizna_mo_prirodu_6_klas.jpg</picture>
-<vendor>Оріон</vendor>
-<description>
-<![CDATA[Контурні карти Пізнаємо природу 6 клас НУШ  Відповідає всім чинним модельним навчальним програмам інтегрованого курсу "Пізнаємо природу" для 6 класу Нової української школи.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Руденко</param>
-<param name="Мова">українська</param>
-<param name="Вік">6 клас</param>
-<param name="Тип">Контурные карты</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">20</param>
-<param name="Рік видання">2023</param>
-<param name="Тип паперу">офсет</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789669912343</param>
-<param name="Видавництво">Оріон</param></offer>
-<offer id="28605" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Контурні карти Оріон Географія 6 клас</name>
-<vendorCode>9789669912367</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/6-klas-2/nush-konturni-karty-orion-heohrafiia-6-klas/</url>
-<currencyId>UAH</currencyId>
-<categoryId>56</categoryId>
-<price>50</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/28605/nush_konturni_karti_orion_geografiya_6_klas.jpg</picture>
-<vendor>Оріон</vendor>
-<description>
-<![CDATA[Контурні карти Географія 6 клас НУШ  Відповідає всім чинним модельним програмам з географії для 6 класу НУШ.]]></description>
-<quantity_in_stock>99</quantity_in_stock>
-<param name="Автор">Тетяна Гільберг</param>
-<param name="Мова">українська</param>
-<param name="Вік">6 клас</param>
-<param name="Тип">Контурные карты</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Рік видання">2023</param>
-<param name="Тип паперу">офсет</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789669912367</param>
-<param name="Видавництво">Оріон</param></offer>
+
+
 
 
 
@@ -43027,7 +43389,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[Супутник Букваря 1 кл. Тренувальні завдання з навчання грамоти (Автор: Катерина Пономарьова)  Гриф Міністерства освіти і науки України Зошит призначений для виконання практичних робіт на уроках читання. У ньому вміщено завдання на складання речень і побудову їх схем, побудову звукових схем слів, встановелння відповідності між малюнками і схемами їх назв, друкування букв і слів, утворення слів із поданих складів, визначення "зайвого" в групі предметів тощо.]]></description>
-<quantity_in_stock>81</quantity_in_stock>
+<quantity_in_stock>80</quantity_in_stock>
 <param name="Автор">Пономарьова К. І.</param>
 <param name="Мова">українська</param>
 <param name="Вік">1 клас</param>
@@ -43413,7 +43775,28 @@
 <param name="ISBN">978-966-8959-94-3</param>
 <param name="Формат, розмір">120х165 мм</param>
 <param name="Видавництво">Арій</param></offer>
-
+<offer id="28676" available="true" in_stock="true" selling_type="r" >
+<name>НУШ-2 Буквар. Українська мова 1 клас Частина 2 Посібник Освіта Вашуленко</name>
+<vendorCode>9789669834393</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/pidruchnyky/1-klas-3/nush-2-bukvar-ukrainska-mova-1-klas-chastyna-2-posibnyk-osvita-vashulenko/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>130</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/28676/nush_2_bukvar_ukra_nska_mova_1_klas_chastina_2_posibnik_osvita_vashulenko.png</picture>
+<vendor>Освіта-Центр</vendor>
+<description>
+<![CDATA[НУШ-2 1 клас. Буквар. Українська мова. (у 6-х частинах). Частина 2. Вашуленко М. С.   Цей навчальний посібник із шести частин - безперечно нове слово у підручникотворенні. Уперше дбайливо й цікаво поєднано в одній книжці практичний матеріал з навчання читання і письма. Цей посібник створений для того, щоб дитина захотіла читати і писати й відчула радість від того, що вміє це робити. І-ша частина посібника призначена для добуквеного періоду навчання грамоти, 2-5 частини забезпечують буквений період, 6-та – післябуквений період навчання. Орієнтований на дітей, які мають різний рівень дошкільної читацької підготовки: для тих учнів/учениць, які навчаються читати, у матеріалі для читання використовуються тільки вивчені літери, також у посібнику вміщено тексти і завдання для дітей, які певною мірою вміють читати, щоб створити умови для організації на уроці диференційованої роботи з різними групами учнів/учениць. Родзинкою посібника є використання нових, цікавих сучасним першокласникам текстів, компетентнісно орієнтованих завдань та завдань функціонального характеру. Автори звертаються до каналів сприйняття дитиною світу, залучають емоційну та образну пам'ять, щоб граючи, без настанов і примусу сформувати в учнів психологічну готовність до читання і письма.      Посібник звернеться до дитини, заговорить і заспіває разом з нею. У QR-кодах із посиланнями на аудіофайли вміщено тексти для слухання, озвучені професійними дикторами, мовлення яких стане взірцем для учнів/учениць. Після завершення слухання відбувається робота над виконанням завдань, які спрямовані на перевірку розуміння усної інформації.  Щоб маленькі школярі подолали існуючий у багатьох з них бар'єр у навчанні письма, автори пропонують писати спочатку друковані букви. Особливу увагу в посібнику приділено формуванню навички письма у ліворуких дітей: зразок букви в кінці рядка на той випадок, якщо він/вона закриватиме рукою зразок, який розташований на початку рядка. Над буквами нанесено стрілочку, яка нагадує дітям (особливо лівшам) звідки починати писати букву, який елемент у букві пишеться першим. З посібником зручно буде працювати й учителям: ураховуючи рівень розвитку читацьких і мовленнєвих умінь учнів класу, педагог самостійно визначає обсяг і частотність виконання тих чи інших завдань.  Завдання до текстів подано в самому посібнику, але дрібним шрифтом, призначеним для дорослого читача. Ми намагалися створити не просто навчальний посібник, а дитячу книжку з яскравими малюнками, мовними цікавинками, міцним патріотичним підґрунтям. Нехай вона, турботливо тримаючи за руку, веде дитину у світ української мови!]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Вашуленко М.С.</param>
+<param name="Мова">українська</param>
+<param name="Вік">1 клас</param>
+<param name="Тип">навчальний посібник</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">80</param>
+<param name="Рік видання">2023</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="ISBN">978-966-983-439-3</param>
+<param name="Видавництво">Освіта-Центр</param></offer>
 
 
 
@@ -45190,9 +45573,69 @@
 <param name="ISBN">9786178678043</param>
 <param name="Формат, розмір">А4 (210*300 мм)</param>
 <param name="Видавництво">Підручники і посібники</param></offer>
-
-
-
+<offer id="29109" available="true" in_stock="true" selling_type="r" >
+<name>НУШ-2 Буквар. Українська мова 1 клас Частина 3 Посібник Освіта Вашуленко</name>
+<vendorCode>9789669834409</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/pidruchnyky/1-klas-3/nush-2-bukvar-ukrainska-mova-1-klas-chastyna-3-posibnyk-osvita-vashulenko/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>130</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/29109/nush_2_bukvar_ukra_nska_mova_1_klas_chastina_3_posibnik_osvita_vashulenko.jpg</picture>
+<vendor>Освіта-Центр</vendor>
+<description>
+<![CDATA[НУШ-2 1 клас. Буквар. Українська мова. (у 6-х частинах). Частина 3. Вашуленко М. С.   Цей навчальний посібник із шести частин - безперечно нове слово у підручникотворенні. Уперше дбайливо й цікаво поєднано в одній книжці практичний матеріал з навчання читання і письма. Цей посібник створений для того, щоб дитина захотіла читати і писати й відчула радість від того, що вміє це робити. І-ша частина посібника призначена для добуквеного періоду навчання грамоти, 2-5 частини забезпечують буквений період, 6-та – післябуквений період навчання. Орієнтований на дітей, які мають різний рівень дошкільної читацької підготовки: для тих учнів/учениць, які навчаються читати, у матеріалі для читання використовуються тільки вивчені літери, також у посібнику вміщено тексти і завдання для дітей, які певною мірою вміють читати, щоб створити умови для організації на уроці диференційованої роботи з різними групами учнів/учениць. Родзинкою посібника є використання нових, цікавих сучасним першокласникам текстів, компетентнісно орієнтованих завдань та завдань функціонального характеру. Автори звертаються до каналів сприйняття дитиною світу, залучають емоційну та образну пам'ять, щоб граючи, без настанов і примусу сформувати в учнів психологічну готовність до читання і письма.      Посібник звернеться до дитини, заговорить і заспіває разом з нею. У QR-кодах із посиланнями на аудіофайли вміщено тексти для слухання, озвучені професійними дикторами, мовлення яких стане взірцем для учнів/учениць. Після завершення слухання відбувається робота над виконанням завдань, які спрямовані на перевірку розуміння усної інформації.  Щоб маленькі школярі подолали існуючий у багатьох з них бар'єр у навчанні письма, автори пропонують писати спочатку друковані букви. Особливу увагу в посібнику приділено формуванню навички письма у ліворуких дітей: зразок букви в кінці рядка на той випадок, якщо він/вона закриватиме рукою зразок, який розташований на початку рядка. Над буквами нанесено стрілочку, яка нагадує дітям (особливо лівшам) звідки починати писати букву, який елемент у букві пишеться першим. З посібником зручно буде працювати й учителям: ураховуючи рівень розвитку читацьких і мовленнєвих умінь учнів класу, педагог самостійно визначає обсяг і частотність виконання тих чи інших завдань.  Завдання до текстів подано в самому посібнику, але дрібним шрифтом, призначеним для дорослого читача. Ми намагалися створити не просто навчальний посібник, а дитячу книжку з яскравими малюнками, мовними цікавинками, міцним патріотичним підґрунтям. Нехай вона, турботливо тримаючи за руку, веде дитину у світ української мови!]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Вашуленко М.С.</param>
+<param name="Мова">українська</param>
+<param name="Вік">1 клас</param>
+<param name="Тип">навчальний посібник</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Рік видання">2023</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="ISBN">978-966-983-440-9</param>
+<param name="Видавництво">Освіта-Центр</param></offer>
+<offer id="29110" available="true" in_stock="true" selling_type="r" >
+<name>НУШ-2 Буквар. Українська мова 1 клас Частина 4 Посібник Освіта Вашуленко</name>
+<vendorCode>9789669834461</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/pidruchnyky/1-klas-3/nush-2-bukvar-ukrainska-mova-1-klas-chastyna-4-posibnyk-osvita-vashulenko/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>130</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/29110/nush_2_bukvar_ukra_nska_mova_1_klas_chastina_4_posibnik_osvita_vashulenko.jpg</picture>
+<vendor>Освіта-Центр</vendor>
+<description>
+<![CDATA[НУШ-2 1 клас. Буквар. Українська мова. (у 6-х частинах). Частина 4. Вашуленко М. С.   Цей навчальний посібник із шести частин - безперечно нове слово у підручникотворенні. Уперше дбайливо й цікаво поєднано в одній книжці практичний матеріал з навчання читання і письма. Цей посібник створений для того, щоб дитина захотіла читати і писати й відчула радість від того, що вміє це робити. І-ша частина посібника призначена для добуквеного періоду навчання грамоти, 2-5 частини забезпечують буквений період, 6-та – післябуквений період навчання. Орієнтований на дітей, які мають різний рівень дошкільної читацької підготовки: для тих учнів/учениць, які навчаються читати, у матеріалі для читання використовуються тільки вивчені літери, також у посібнику вміщено тексти і завдання для дітей, які певною мірою вміють читати, щоб створити умови для організації на уроці диференційованої роботи з різними групами учнів/учениць. Родзинкою посібника є використання нових, цікавих сучасним першокласникам текстів, компетентнісно орієнтованих завдань та завдань функціонального характеру. Автори звертаються до каналів сприйняття дитиною світу, залучають емоційну та образну пам'ять, щоб граючи, без настанов і примусу сформувати в учнів психологічну готовність до читання і письма.      Посібник звернеться до дитини, заговорить і заспіває разом з нею. У QR-кодах із посиланнями на аудіофайли вміщено тексти для слухання, озвучені професійними дикторами, мовлення яких стане взірцем для учнів/учениць. Після завершення слухання відбувається робота над виконанням завдань, які спрямовані на перевірку розуміння усної інформації.  Щоб маленькі школярі подолали існуючий у багатьох з них бар'єр у навчанні письма, автори пропонують писати спочатку друковані букви. Особливу увагу в посібнику приділено формуванню навички письма у ліворуких дітей: зразок букви в кінці рядка на той випадок, якщо він/вона закриватиме рукою зразок, який розташований на початку рядка. Над буквами нанесено стрілочку, яка нагадує дітям (особливо лівшам) звідки починати писати букву, який елемент у букві пишеться першим. З посібником зручно буде працювати й учителям: ураховуючи рівень розвитку читацьких і мовленнєвих умінь учнів класу, педагог самостійно визначає обсяг і частотність виконання тих чи інших завдань.  Завдання до текстів подано в самому посібнику, але дрібним шрифтом, призначеним для дорослого читача. Ми намагалися створити не просто навчальний посібник, а дитячу книжку з яскравими малюнками, мовними цікавинками, міцним патріотичним підґрунтям. Нехай вона, турботливо тримаючи за руку, веде дитину у світ української мови!]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Вашуленко М.С.</param>
+<param name="Мова">українська</param>
+<param name="Вік">1 клас</param>
+<param name="Тип">навчальний посібник</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Рік видання">2023</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="ISBN">978-966-983-446-1</param>
+<param name="Видавництво">Освіта-Центр</param></offer>
+<offer id="29111" available="true" in_stock="true" selling_type="r" >
+<name>НУШ-2 Буквар. Українська мова 1 клас Частина 5 Посібник Освіта Вашуленко</name>
+<vendorCode>9789669834478</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/pidruchnyky/1-klas-3/nush-2-bukvar-ukrainska-mova-1-klas-chastyna-5-posibnyk-osvita-vashulenko/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>130</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/29111/nush_2_bukvar_ukra_nska_mova_1_klas_chastina_5_posibnik_osvita_vashulenko.jpg</picture>
+<vendor>Освіта-Центр</vendor>
+<description>
+<![CDATA[НУШ-2 1 клас. Буквар. Українська мова. (у 6-х частинах). Частина 5. Вашуленко М. С.   Цей навчальний посібник із шести частин - безперечно нове слово у підручникотворенні. Уперше дбайливо й цікаво поєднано в одній книжці практичний матеріал з навчання читання і письма. Цей посібник створений для того, щоб дитина захотіла читати і писати й відчула радість від того, що вміє це робити. І-ша частина посібника призначена для добуквеного періоду навчання грамоти, 2-5 частини забезпечують буквений період, 6-та – післябуквений період навчання. Орієнтований на дітей, які мають різний рівень дошкільної читацької підготовки: для тих учнів/учениць, які навчаються читати, у матеріалі для читання використовуються тільки вивчені літери, також у посібнику вміщено тексти і завдання для дітей, які певною мірою вміють читати, щоб створити умови для організації на уроці диференційованої роботи з різними групами учнів/учениць. Родзинкою посібника є використання нових, цікавих сучасним першокласникам текстів, компетентнісно орієнтованих завдань та завдань функціонального характеру. Автори звертаються до каналів сприйняття дитиною світу, залучають емоційну та образну пам'ять, щоб граючи, без настанов і примусу сформувати в учнів психологічну готовність до читання і письма.      Посібник звернеться до дитини, заговорить і заспіває разом з нею. У QR-кодах із посиланнями на аудіофайли вміщено тексти для слухання, озвучені професійними дикторами, мовлення яких стане взірцем для учнів/учениць. Після завершення слухання відбувається робота над виконанням завдань, які спрямовані на перевірку розуміння усної інформації.  Щоб маленькі школярі подолали існуючий у багатьох з них бар'єр у навчанні письма, автори пропонують писати спочатку друковані букви. Особливу увагу в посібнику приділено формуванню навички письма у ліворуких дітей: зразок букви в кінці рядка на той випадок, якщо він/вона закриватиме рукою зразок, який розташований на початку рядка. Над буквами нанесено стрілочку, яка нагадує дітям (особливо лівшам) звідки починати писати букву, який елемент у букві пишеться першим. З посібником зручно буде працювати й учителям: ураховуючи рівень розвитку читацьких і мовленнєвих умінь учнів класу, педагог самостійно визначає обсяг і частотність виконання тих чи інших завдань.  Завдання до текстів подано в самому посібнику, але дрібним шрифтом, призначеним для дорослого читача. Ми намагалися створити не просто навчальний посібник, а дитячу книжку з яскравими малюнками, мовними цікавинками, міцним патріотичним підґрунтям. Нехай вона, турботливо тримаючи за руку, веде дитину у світ української мови!]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Вашуленко М.С.</param>
+<param name="Мова">українська</param>
+<param name="Вік">1 клас</param>
+<param name="Тип">навчальний посібник</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Рік видання">2023</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="ISBN">978-966-983-447-8</param>
+<param name="Видавництво">Освіта-Центр</param></offer>
 
 
 <offer id="29114" available="true" in_stock="true" selling_type="r" >
@@ -47079,7 +47522,28 @@
 
 
 
-
+<offer id="29409" available="true" in_stock="true" selling_type="r" >
+<name>НУШ-2 Буквар. Українська мова 1 клас Частина 6 Посібник Освіта Вашуленко</name>
+<vendorCode>9789669834485</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/pidruchnyky/1-klas-3/nush-2-bukvar-ukrainska-mova-1-klas-chastyna-6-posibnyk-osvita-vashulenko/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>130</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/29409/nush_2_bukvar_ukra_nska_mova_1_klas_chastina_6_posibnik_osvita_vashulenko.jpg</picture>
+<vendor>Освіта-Центр</vendor>
+<description>
+<![CDATA[НУШ-2 1 клас. Буквар. Українська мова. (у 6-х частинах). Частина 6. Вашуленко М. С.   Цей навчальний посібник із шести  частин - безперечно нове слово у підручникотворенні. Уперше дбайливо й цікаво поєднано в одній книжці практичний матеріал з навчання читання і письма. Цей посібник створений для того, щоб дитина захотіла читати і писати й відчула радість від того, що вміє це робити. І-ша частина посібника призначена для добуквеного періоду навчання грамоти, 2-5 частини забезпечують буквений період, 6-та – післябуквений період навчання. Орієнтований на дітей, які мають різний рівень дошкільної читацької підготовки: для тих учнів/учениць, які навчаються читати, у матеріалі для читання використовуються тільки вивчені літери, також у посібнику вміщено тексти і завдання для дітей, які певною мірою вміють читати, щоб створити умови для організації на уроці диференційованої роботи з різними групами учнів/учениць. Родзинкою посібника є використання нових, цікавих сучасним першокласникам текстів, компетентнісно орієнтованих завдань та завдань функціонального характеру. Автори звертаються до каналів сприйняття дитиною світу, залучають емоційну та образну пам'ять, щоб граючи, без настанов і примусу сформувати в учнів психологічну готовність до читання і письма.       Посібник звернеться до дитини, заговорить і заспіває разом з нею. У QR-кодах із посиланнями на аудіофайли вміщено тексти для слухання, озвучені професійними дикторами, мовлення яких стане взірцем для учнів/учениць. Після завершення слухання відбувається робота над виконанням завдань, які спрямовані на перевірку розуміння усної інформації. Щоб маленькі школярі подолали існуючий у багатьох з них бар'єр у навчанні письма, автори пропонують писати спочатку друковані букви. Особливу увагу в посібнику приділено формуванню навички письма у ліворуких дітей: зразок букви в кінці рядка на той випадок, якщо він/вона закриватиме рукою зразок, який розташований на початку рядка. Над буквами нанесено стрілочку, яка нагадує дітям (особливо лівшам) звідки починати писати букву, який елемент у букві пишеться першим. З посібником зручно буде працювати й учителям: ураховуючи рівень розвитку читацьких і мовленнєвих умінь учнів класу, педагог самостійно визначає обсяг і частотність виконання тих чи інших завдань.  Завдання до текстів подано в самому посібнику, але дрібним шрифтом, призначеним для дорослого читача. Ми намагалися створити не просто навчальний посібник, а дитячу книжку з яскравими малюнками, мовними цікавинками, міцним патріотичним підґрунтям. Нехай вона, турботливо тримаючи за руку, веде дитину у світ української мови!]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Вашуленко М.С.</param>
+<param name="Мова">українська</param>
+<param name="Вік">1 клас</param>
+<param name="Тип">навчальний посібник</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">96</param>
+<param name="Рік видання">2023</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="ISBN">978-966-983-448-5</param>
+<param name="Видавництво">Освіта-Центр</param></offer>
 <offer id="29410" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Бліцоцінювання Пiдручники i посiбники Математика 6 клас Частина 1 до підручника Істер</name>
 <vendorCode>9789660742178</vendorCode>
@@ -49418,7 +49882,7 @@
 <vendorCode>9786177403264</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/zustrich-z-kazkoiu-belkar-knyha-kazky-chytannia-po-skladakh-prominets/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>140</categoryId>
 <price>180</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29719/zustrich_z_kazkoyu_belkar_kniga_kazki_chitannya_po_skladah_prominets.png</picture>
 <vendor>Белкар-книга</vendor>
@@ -49464,7 +49928,7 @@
 <vendorCode>9789661694780</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/druzi-belkar-knyha-opovidannia-chytannia-po-skladakh-prominets/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>140</categoryId>
 <price>180</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29721/druzi_belkar_kniga_opovidannya_chitannya_po_skladah_prominets.png</picture>
 <vendor>Белкар-книга</vendor>
@@ -50621,7 +51085,7 @@
 <vendorCode>9786176702893</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/atlas-ukrainoznavstvo-9-11-klas-kartohrafiia/</url>
 <currencyId>UAH</currencyId>
-<categoryId>53</categoryId>
+<categoryId>59</categoryId>
 <price>148</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29864/atlas_ukra_noznavstvo_9_11_klas_kartografiya.jpg</picture>
 <vendor>Картографія</vendor>
@@ -51086,7 +51550,7 @@
 <vendorCode>9786178229740</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/litni-zoshyty/2-klas-4/nush-sekrety-znan-assa-zustrichai-3-klas-tetiana-kvartnyk-olena-shapoval/</url>
 <currencyId>UAH</currencyId>
-<categoryId>24</categoryId>
+<categoryId>9</categoryId>
 <price>160</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29942/nush_sekreti_znan_assa_zustrichay_3_klas_tetyana_kvartnik_olena_shapoval.jpg</picture>
 <vendor>АССА</vendor>
@@ -51135,7 +51599,7 @@
 <vendorCode>9786178229719</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/nush-prokachai-matematyku-assa-zustrichai-3-klas-tetiana-kvartnyk-olena-shapoval/</url>
 <currencyId>UAH</currencyId>
-<categoryId>24</categoryId>
+<categoryId>9</categoryId>
 <price>160</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29945/nush_prokachay_matematiku_assa_zustrichay_3_klas_tetyana_kvartnik_olena_shapoval.jpg</picture>
 <vendor>АССА</vendor>
@@ -51159,7 +51623,7 @@
 <vendorCode>9786178229726</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/litni-zoshyty/3-klas-4/nush-prokachai-matematyku-assa-zustrichai-4-klas-tetiana-kvartnyk-olena-shapoval/</url>
 <currencyId>UAH</currencyId>
-<categoryId>25</categoryId>
+<categoryId>10</categoryId>
 <price>160</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29946/nush_prokachay_matematiku_assa_zustrichay_4_klas_tetyana_kvartnik_olena_shapoval.jpg</picture>
 <vendor>АССА</vendor>
@@ -52407,7 +52871,7 @@
 <vendorCode>9789660742512</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/litni-zoshyty/4-klas-4/nush-litni-kanikuly-z-matematykoiu-pidruchnyky-i-posibnyky-z-4-u-5-klas-chyzh-shumska/</url>
 <currencyId>UAH</currencyId>
-<categoryId>26</categoryId>
+<categoryId>11</categoryId>
 <price>105</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30164/nush_litni_kanikuli_z_matematikoyu_pidruchniki_i_posibniki_z_4_u_5_klas_chizh_shumska.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -53802,7 +54266,7 @@
 <vendorCode>9786175443279</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/2-klas-1/nush-kreatyvna-matematyka-ula-mnozhennia-i-dilennia-60-nalipok/</url>
 <currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
+<categoryId>9</categoryId>
 <price>75</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30289/nush_kreativna_matematika_ula_mnozhennya_i_dilennya_60_nalipok.jpg</picture>
 <vendor>УЛА</vendor>
@@ -56658,29 +57122,7 @@
 <param name="ISBN">978-617-686-736-4</param>
 <param name="Формат, розмір">125х200 мм.</param>
 <param name="Видавництво">Весна</param></offer>
-<offer id="30552" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Контурні карти Оріон Географія. Материки та океани 7 клас</name>
-<vendorCode>9789669913272</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/7-klas-2/nush-konturni-karty-orion-heohrafiia-materyky-ta-okeany-7-klas/</url>
-<currencyId>UAH</currencyId>
-<categoryId>57</categoryId>
-<price>50</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/30552/nush_konturni_karti_orion_geografiya_materiki_ta_okeani_7_klas.jpg</picture>
-<vendor>Оріон</vendor>
-<description>
-<![CDATA[Географія 7 клас. Контурні карти. Материки і Океани Контурні карти за географічними основами цілком відповідають однойменному атласу «Географія материків і океанів» для 7 класу. Вони містять всі необхідні карти для виконання практичних робіт, передбачених навчальною програмою.    Карти доповнені творчими завданнями різної складності.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Тетяна Гільберг</param>
-<param name="Мова">українська</param>
-<param name="Вік">7 клас</param>
-<param name="Тип">Контурні карти</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Рік видання">2024</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789669913272</param>
-<param name="Формат, розмір">60х92/8</param>
-<param name="Видавництво">Оріон</param></offer>
+
 
 
 <offer id="30555" available="true" in_stock="true" selling_type="r" >
@@ -58795,7 +59237,7 @@
 <vendor>Генеза</vendor>
 <description>
 <![CDATA[Українська література, 5 клас. Зошит для підсумкового оцінювання та проєктної діяльності - Заболотний Зошити для підсумкового оцінювання для 5 класу містить низку робіт, за допомогою яких можна оцінити навчальні досягнення з української літератури НУШ та організувати проєктну діяльність учнів / учениць. Подано п’ять робіт для тематичного оцінювання. Кожна робота для тематичного оцінювання складається з 12 завдань різного виду і подана у двох варіантах. Біля завдань указано максимально можливу кількість балів за виконання. Для оцінювання вміння логічно й зрозуміло викладати думки, доречно вживати слова, грамотно писати учням та ученицям пропонується написати твір. Складено За модельною навчальною програмою «Українська література. 5–6 класи» (авт.: Архипова В. П., Січкар С. І., Шило С. Б.).]]></description>
-<quantity_in_stock>99</quantity_in_stock>
+<quantity_in_stock>98</quantity_in_stock>
 <param name="Автор">Заболотний Олександр, Заболотний Віктор</param>
 <param name="Мова">українська</param>
 <param name="Вік">5 клас</param>
@@ -59955,7 +60397,7 @@
 <vendorCode>9786170043078</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-virshykiv-opovidan/nikoly-ne-nudno-osnova-dytiacha-khudozhnia-literatura-renata-pontkovska/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>139</categoryId>
 <price>350</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30979/nikoli_ne_nudno_osnova_dityacha_hudozhnya_literatura_renata_pontkovska.jpg</picture>
 <vendor>Основа</vendor>
@@ -60242,13 +60684,13 @@
 <vendorCode>9789669912350, 9789669912367</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/nush-atlas-konturni-karty-orion-heohrafiia-6-klas-komplekt-hilberh/</url>
 <currencyId>UAH</currencyId>
-<categoryId>56</categoryId>
+<categoryId>48</categoryId>
 <price>200</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31044/nush_atlas_konturni_karti_orion_geografiya_6_klas_komplekt_gilberg.jpg</picture>
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[Комплект Географія 6 клас. Атлас+Контурні карти. НУШ  Атлас та Контурні карти відповідають всім чинним модельним навчальним програмам з географії для 6 класу НУШ.]]></description>
-<quantity_in_stock>98</quantity_in_stock>
+<quantity_in_stock>20</quantity_in_stock>
 <param name="Автор">Тетяна Гільберг</param>
 <param name="Мова">українська</param>
 <param name="Вік">6 клас</param>
@@ -60266,13 +60708,13 @@
 <vendorCode>9789669913289, 9789669913272</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/nush-atlas-konturni-karty-orion-heohrafiia-materyky-ta-okeany-7-klas-hilberh-komplekt/</url>
 <currencyId>UAH</currencyId>
-<categoryId>57</categoryId>
+<categoryId>49</categoryId>
 <price>200</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31045/nush_atlas_konturni_karti_orion_geografiya_materiki_ta_okeani_7_klas_gilberg_komplekt.jpg</picture>
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[Комплект Географія: Материки та океани 7 клас. Атлас+Контурні карти. НУШ  1. Атлас укладено згідно з навчальною програмою «Географія. 5–9 класи».  У його структурі є 7 тематичних розділів:     Форма і рухи Землі. Материки та океани – великі природні комплекси географічної оболонки (карти світу). Материки тропічних широт (розділи: Африка, Південна Америка, Австралія). Полярний материк планети (Антарктида). Материки Північної півкулі (розділи: Північна Америка, Євразія). Океани. Вплив людини на природу материків та океанів.    Карти атласу розроблені на географічних основах, створених за ГІС-технологіями з використанням цифрових карт, що відображують точну конфігурацію берегової лінії материків, правильні абриси озерних улоговин, актуальні лінії річок тощо. Компонування карт материків відрізняється від узвичаєних у навчальній картографії. Зокрема на картах Африки вміщено територію Чорного моря та півдня України, що дає змогу краще усвідомити зв’язки між нашою країною та державами Африканського континенту (відповідно до навчальної програми). Усі карти атласу створені з відмивкою рельєфу. Це дає можливість, по-перше, уявити об’ємну картину фізичної поверхні материків та дна океанів, простежити зв’язок між формами рельєфу й тектонічними структурами, залежністю клімату від підстильної поверхні, природних зон від рельєфу місцевості. Джерелами укладання карт є актуальна інформація міжнародних організацій, які проводять моніторинг навколишнього природного середовища. Так, кліматична карта світу укладена за відкритими даними WorldClim – Global Climate Data, карти природних зон світу та екологічної ситуації побудовані за новітніми даними Всесвітньої організації з охорони природи, зменшення лісового покриву подано за інтерактивною картою Global Forest World, а картосхеми зміни озонового шару над  Антарктидою створені згідно з космічними знімками NASA Ozone Watch. Традиційні карти материків (фізична, тектонічна, кліматична, природних зон, політична) доповнені картами, які вперше подані в навчальних шкільних атласах, зокрема карти формування території та розселення корінних народів. Карти природних зон материків містять позначення природних об’єктів Світової спадщини ЮНЕСКО за відкритими даними World Database on Protected Areas, а політичні карти — культурних об’єктів ЮНЕСКО. Серед нових треба відзначити карти рельєфу Антарктиди без льодового покриву з відображенням прогнозних корисних копалин і товщини льодового покриву. Особливостями карт океанів є наявність карти Південного океану, відображення рельєфу океанічного дна відмивкою, показ тваринного світу художніми значками, подання охоронних об’єктів ЮНЕСКО. Надаємо декілька сторінок з атласу, щоб ви могли ознайомитися з його особливостями та структурою.  2. Контурні карти за географічними основами цілком відповідають однойменному атласу «Географія материків і океанів» для 7 класу. Вони містять всі необхідні карти для виконання практичних робіт, передбачених навчальною програмою. Карти доповнені творчими завданнями різної складності.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>20</quantity_in_stock>
 <param name="Автор">Тетяна Гільберг</param>
 <param name="Мова">українська</param>
 <param name="Вік">7 клас</param>
@@ -60288,15 +60730,15 @@
 <offer id="31046" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Атлас + Контурні карти Оріон Пізнаємо природу 6 клас Комплект Руденко</name>
 <vendorCode>9789669912336, 9789669912343</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/6-klas-2/nush-atlas-konturni-karty-orion-piznaiemo-pryrodu-6-klas-komplekt-rudenko/</url>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/nush-atlas-konturni-karty-orion-piznaiemo-pryrodu-6-klas-komplekt-rudenko/</url>
 <currencyId>UAH</currencyId>
-<categoryId>56</categoryId>
+<categoryId>48</categoryId>
 <price>130</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31046/nush_atlas_konturni_karti_orion_pizna_mo_prirodu_6_klas_komplekt_rudenko.jpg</picture>
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[Комплект Пізнаємо природу 6 клас. Атлас + Контурні карти НУШ  Атлас та Контурні карти відповідають всім чинним модельним навчальним програмам інтегрованого курсу «Пізнаємо природу» для 6 класу Нової української школи.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>15</quantity_in_stock>
 <param name="Автор">Руденко І.С.</param>
 <param name="Мова">українська</param>
 <param name="Вік">6 клас</param>
@@ -60315,13 +60757,13 @@
 <vendorCode>9786177712663, 9786177712670</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/komplekt-atlas-konturni-karty-orion-heohrafiia-rehiony-ta-krainy-10-klas-savchuk/</url>
 <currencyId>UAH</currencyId>
-<categoryId>60</categoryId>
+<categoryId>52</categoryId>
 <price>200</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31048/komplekt_atlas_konturni_karti_orion_geografiya_regioni_ta_kra_ni_10_klas_savchuk.jpg</picture>
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[Комплект Географія: Регіони та країни 10 клас. Атлас + Контурні карти  1. Атлас відповідає чинній навчальній програмі з географії для 10 класу. Він має єдину систему показників, асоціативних значків та структуру легенд спільно з географічним навчальним атласом для 9 класу, тому учні легко зможуть розпізнати й застосувати вже знайомий алгоритм читання карт. Тематичні карти атласу створені за сучасною офіційною статистикою зарубіжних країн і міжнародних організацій. Кожна країна, згідно з програмою представлена  4 картами: «Адміністративно-територіальний устрій», «Системи розселення», «Економіка», «Зовнішні економічні та культурні зв’язки країни з країнами світу». Економіка країн світу показана за секторальною моделлю: первинний, вторинний, третинний сектори. На всіх картах економіку подано за КВЕДом і секторами економіки. Сім карт показують місце України у світі: дипломатичні зв’язки України, інтеграцію України з ЄС, міждержавну міграцію, українську діаспору, міжнародний організований туризм в Україні, зовнішню торгівлю товарами й послугами України.  За вимогами навчальної програми вперше в Україні подано:     межі мегалополісів відповідно до сучасних уявлень геоурбаністики; розміщення найбільших ВЕС, СЕС, геоТЕС у світі; QR-code провідних підприємств країн (визначених програмою); карти «Системи розселення» кожної країни;  карту «Кремнієва долина»; карту «Україна. Дипломатичні зв’язки»; карту «Економічна інтеграція України в Європейський Союз» та карта «Україна. Діяльні єврорегіони»; карту «Міжнародний туризм України» тощо.    Атлас дає змогу виконувати практичні та проєктні роботи, заплановані шкільною програмою, та готуватися до складання ЗНО. Надаємо декілька сторінок з атласу, щоб ви могли ознайомитися з його особливостями та структурою.  2. Контурні карти, створені на географічних основах однойменного атласу, містять додаткові карти, за якими необхідно виконувати практичні роботи згідно з чинною навчальною програмою. Контурні карти пропонують завдання різного ступеня складності за темами практичних робіт і самостійних досліджень, обумовлені навчальною програмою з географії для 10 класу.]]></description>
-<quantity_in_stock>30</quantity_in_stock>
+<quantity_in_stock>20</quantity_in_stock>
 <param name="Автор">Савчук І.Г.</param>
 <param name="Мова">українська</param>
 <param name="Вік">10 клас</param>
@@ -60338,13 +60780,13 @@
 <vendorCode>9786177712878, 9786177712847</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/komplekt-atlas-konturni-karty-orion-heohrafiia-heohrafichnyi-prostir-zemli-11-klas-savchuk/</url>
 <currencyId>UAH</currencyId>
-<categoryId>61</categoryId>
+<categoryId>53</categoryId>
 <price>200</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31049/komplekt_atlas_konturni_karti_orion_geografiya_geografichniy_prostir_zemli_11_klas_savchuk.jpg</picture>
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[Комплект Географія: Географічний простір Землі 11 клас. Атлас + Контурні карти  1. Атлас створено за офіційною статистикою та матеріалами зарубіжних наукових видань. У структурі атласу є розділи «Топографія та картографія», «Оболонки Землі», «Суспільна географія світу» та «Географія України». На картах послідовно розкривається взаємозв’язок між природними, економічними, політичними, суспільними процесами та їхнім впливом на людство (глобальний рівень), а також  прояви цих явищ в Україні (регіональний рівень).  Для атласу відповідно до навчальної програми розроблені оригінальні авторські карти:       «Забезпеченість країн світу мінерально-сировинними ресурсами»;  «Світ. Деградація ґрунтів»;  «Прогнозовані зміни агрокліматичних умов у ХХІ ст.;  «Демографічна ситуація у світі»;  «Світ. Сучасна геополітична ситуація» та інші.    Атлас є ідеальним навчальним картографічним посібником для підготовки до ЗНО, бо містить основну ущільнену інформацію з усіх шкільних курсів географії 6–10 класів, сумісний з будь-якими підручниками з географії для 11 класу. Надаємо декілька сторінок з атласу, щоб ви могли ознайомитися з його особливостями та структурою.  2. Контурні карти, створені на географічних основах однойменного атласу, пропонують завдання різного ступеня складності за темами практичних робіт і самостійних досліджень, обумовлені навчальною програмою з географії для 11 класу.]]></description>
-<quantity_in_stock>30</quantity_in_stock>
+<quantity_in_stock>20</quantity_in_stock>
 <param name="Автор">Савчук І.Г.</param>
 <param name="Мова">українська</param>
 <param name="Вік">11 клас</param>
@@ -60357,8 +60799,52 @@
 <param name="Формат, розмір">220х290 мм.</param>
 <param name="Видавництво">Оріон</param></offer>
 
-
-
+<offer id="31051" available="true" in_stock="true" selling_type="r" >
+<name>Комплект Атлас + Контурні карти Оріон Всесвітня історія. Історія України 10 клас Інтегрований курс Щупак</name>
+<vendorCode>9786177712755, 9786177712762</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/komplekt-atlas-konturni-karty-orion-vsesvitnia-istoriia-istoriia-ukrainy-10-klas-intehrovanyi-kurs-shchupak/</url>
+<currencyId>UAH</currencyId>
+<categoryId>52</categoryId>
+<price>150</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31051/komplekt_atlas_konturni_karti_orion_vsesvitnya_istoriya_istoriya_ukra_ni_10_klas_integrovaniy_kurs_shchupak.jpg</picture>
+<vendor>Оріон</vendor>
+<description>
+<![CDATA[Комплект Всесвітня історія. Історія України (інтегрований курс) 10 клас. Атлас + Контурні карти  Упорядник — Ігор Щупак, кандидат історичних наук, заслужений працівник освіти України, член Українсько-німецької історичної комісії, член Українсько-польської комісії експертів підручників історії та географії, автор підручників.  1. Атлас створено за оновленими навчальними програмами, побудованих на компетентнісній основі, для закладів загальної середньої освіти: «Історія України. 10―11 класи. Рівень стандарту» та «Всесвітня історія 10―11 класи. Рівень  стандарту/Академічний рівень». Він продовжує серію картографічних навчальних посібників інтегрованого курсу з історії УОВЦ «Оріон». Атлас вирізняється  новим поглядами на відомі теми. Містить карти, яких немає в інших навчальних атласах. Шість оригінальних за своїм змістом і способами зображення тематичних карт присвячені  розгортанню української революції та боротьби за відновлення державності. На двох картах показані  події в Україні часів Директорії січня–червня 1919 р. та червня–грудня 2019 р. Традиційним для навчальних атласів за темою, але  оригінальним за змістом і способами картографічного зображення є розділ  «Утвердження комуністичного тоталітарного режиму в Україні». Найбільший розділ атласу «Друга світова війна» містить 10 карт, об’єднаних однаковими умовними позначеннями, спільним кольоровим оформленням. Шість карт цього розділу присвячено подіям Другої світової війни на території України. Цікавою, але простою для сприйняття є карта «Наслідки Другої світової війни. Територіальні зміни в Європі». Надаємо декілька сторінок з атласу, щоб ви могли ознайомитися з його особливостями та структурою.  2. Контурні карти містять завдання різного ступеня складності. Кількість карт, їхні теми та масштаби дають змогу виконати всі практичні та творчі роботи обох навчальних курсів з історії.]]></description>
+<quantity_in_stock>20</quantity_in_stock>
+<param name="Автор">Щупак І.Я</param>
+<param name="Мова">українська</param>
+<param name="Вік">10 клас</param>
+<param name="Тип">Атлас+Контурні карти</param>
+<param name="Кількість сторінок">32+16</param>
+<param name="Рік видання">2019</param>
+<param name="Тип паперу">кольорова/одноколірна</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786177712755, 9786177712762</param>
+<param name="Формат, розмір">220х290 мм.</param>
+<param name="Видавництво">Оріон</param></offer>
+<offer id="31052" available="true" in_stock="true" selling_type="r" >
+<name>Комплект Атлас + Контурні карти Оріон Всесвітня історія. Історія України 11 клас Інтегрований курс Щупак</name>
+<vendorCode>9789669910288, 9789669910295</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/11-klas-2/komplekt-atlas-konturni-karty-orion-vsesvitnia-istoriia-istoriia-ukrainy-11-klas-intehrovanyi-kurs-shchupak/</url>
+<currencyId>UAH</currencyId>
+<categoryId>53</categoryId>
+<price>150</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31052/komplekt_atlas_konturni_karti_orion_vsesvitnya_istoriya_istoriya_ukra_ni_11_klas_integrovaniy_kurs_shchupak.jpg</picture>
+<vendor>Оріон</vendor>
+<description>
+<![CDATA[Комплект Всесвітня історія. Історія України (інтегрований курс) 11 клас. Атлас + Контурні карти  Упорядник — Ігор Щупак, кандидат історичних наук, заслужений працівник освіти України, член Українсько-німецької історичної комісії, член Українсько-польської комісії експертів підручників історії та географії, автор підручників.  1. Структура та зміст атласу упорядковані відповідно до «Таблиці для синхронізації курсів історії України та всесвітньої історії». Розділ «Облаштування повоєнного світу» містить карти, вельми важливі для розуміння сучасної історії: «Територіальні зміни в Європі за підсумками Другої світової війни» та план Берліна із зазначенням секторів окупації. Завершує розділ карта з найбільшим в атласі масштабі «Світ. У 1945–1953 рр.» із врізаними картами «План Маршалла» та копією оригінальної карти видання 1945 року «Зони окупації Німеччини та Австрії». Оригінальними є карти розділу  «Україна в повоєнний період». Чотири карти висвітлюють теми адміністративних змін в Україні, зокрема в Західній Україні, стан промисловості у 1945–1953 роках і карту СРСР з інформацією про народи, що зазнали політичних репресій, шляхи їхньої депортації, табори ГУТАБу тощо. П’ятнадцять карт розділу «Становлення України як незалежної держави» розкривають головні події країни від проголошення незалежності до останніх президентських виборів 2019 року. Окремі карти присвячені помаранчевій революції, революції гідності та російсько-українській війні. Новою за змістом є карта «Релігійне життя», де показані події у християнському світі після отримання Томасу про автокефалію. Сім карт, об’єднаних однаковими умовними позначеннями, спільним кольоровим оформленням містять інформацію про президентські вибори в Україні. Шість карт цього розділу присвячено подіям війни на території України. Надаємо декілька сторінок з атласу, щоб ви могли ознайомитися з його особливостями та структурою. Упорядник — Ігор Щупак, кандидат історичних наук, заслужений працівник освіти України, член Українсько-німецької історичної комісії, член Українсько-польської комісії експертів підручників історії та географії, автор підручників. Контурні карти побудовані відповідно до цивілізаційного підходу у вивченні історії. Головною перевагою цього видання є те, що кожна карта і завдання до неї — це дидактичний комплекс, який допоможе учням сформувати основні предметні компетенції (просторові, логічні та аксіологічні) та скласти цілісне уявлення про суспільний, економічний та політичний розвиток людської цивілізації.  2. Контурні карти за географічними основами цілком відповідають однойменному Атласу з історії 11 класу, доповнені творчими завданнями. Кожна карта містить від 3 до 10 завдань різної складності.]]></description>
+<quantity_in_stock>20</quantity_in_stock>
+<param name="Автор">Щупак І.Я</param>
+<param name="Мова">українська</param>
+<param name="Вік">11 клас</param>
+<param name="Тип">Атлас+Контурні карти</param>
+<param name="Кількість сторінок">32+16</param>
+<param name="Рік видання">2020</param>
+<param name="Тип паперу">кольорова/одноколірна</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9789669910288, 9789669910295</param>
+<param name="Формат, розмір">220х290 мм.</param>
+<param name="Видавництво">Оріон</param></offer>
 
 
 <offer id="31055" available="true" in_stock="true" selling_type="r" >
@@ -61046,7 +61532,7 @@
 <vendor>Час Майстрів</vendor>
 <description>
 <![CDATA[3000 вправ та завдань. Математика 5-6 класи. Розкриття дужок. Посібник адресований учням 5-6-х класів, батькам та вчителям і призначений для формування та закріплення обчислювальних навичок, а також умінь і навичок застосування основних математичних понять, формул і правил з теми «Розкриття дужок. Подібні доданки». Видання відповідає чинній програмі з математики та може бути використане з будь-яким підручником. Посібник можна використовувати для самостійних, перевіряльних та залікових робіт, а також як тренажер для відпрацювання відповідних навичок на уроках і вдома.]]></description>
-<quantity_in_stock>99</quantity_in_stock>
+<quantity_in_stock>98</quantity_in_stock>
 <param name="Автор">Галкіна І.М.</param>
 <param name="Мова">українська</param>
 <param name="Вік">5-6 класи</param>
@@ -62401,7 +62887,7 @@
 <vendorCode>9786170043429</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-virshykiv-opovidan/mriia-sirka-opovidannia-dlia-ditei-pro-liudianist-smilyvist-i-zdiisnennia-mrii-osnova-dytiacha-khudozhnia-literatura-kateryna-duboiska/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>139</categoryId>
 <price>300</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31252/mriya_sirka_opovidannya_dlya_ditey_pro_lyudyanist_smilivist_i_zdiysnennya_mriy_osnova_dityacha_hudozhnya_literatura_katerina_duboyska.jpg</picture>
 <vendor>Основа</vendor>
@@ -63813,7 +64299,7 @@
 <vendor>Освіта-Центр</vendor>
 <description>
 <![CDATA[НУШ-2 1 клас. Буквар. Українська мова. (у 6-х частинах). Частина 1. Вашуленко М. С.  Цей навчальний посібник із шести частин - безперечно нове слово у підручникотворенні. Уперше дбайливо й цікаво поєднано в одній книжці практичний матеріал з навчання читання і письма. Цей посібник створений для того, щоб дитина захотіла читати і писати й відчула радість від того, що вміє це робити. І-ша частина посібника призначена для добуквеного періоду навчання грамоти, 2-5 частини забезпечують буквений період, 6-та – післябуквений період навчання. Орієнтований на дітей, які мають різний рівень дошкільної читацької підготовки: для тих учнів/учениць, які навчаються читати, у матеріалі для читання використовуються тільки вивчені літери, також у посібнику вміщено тексти та завдання для дітей, які певною мірою вміють читати, щоб створити умови для організації на уроці диференційованої роботи з різними групами учнів/учениць. Родзинкою посібника є використання нових, цікавих сучасним першокласникам текстів, компетентнісно орієнтованих завдань та завдань функціонального характеру. Автори звертаються до каналів сприйняття дитиною світу, залучають емоційну та образну пам'ять, щоб граючи, без настанов і примусу сформувати в учнів психологічну готовність до читання і письма.      Посібник звернеться до дитини, заговорить і заспіває разом з нею. У QR-кодах із посиланнями на аудіофайли вміщено тексти для слухання, озвучені професійними дикторами, мовлення яких стане взірцем для учнів/учениць. Після завершення слухання відбувається робота над виконанням завдань, які спрямовані на перевірку розуміння усної інформації.  Щоб маленькі школярі подолали існуючий у багатьох з них бар'єр у навчанні письма, автори пропонують писати спочатку друковані букви. Особливу увагу в посібнику приділено формуванню навички письма у ліворуких дітей: зразок букви в кінці рядка на той випадок, якщо він/вона закриватиме рукою зразок, який розташований на початку рядка. Над буквами нанесено стрілочку, яка нагадує дітям (особливо лівшам) звідки починати писати букву, який елемент у букві пишеться першим. З посібником зручно буде працювати й учителям: ураховуючи рівень розвитку читацьких і мовленнєвих умінь учнів класу, педагог самостійно визначає обсяг і частотність виконання тих чи інших завдань.  Завдання до текстів подано в самому посібнику, але дрібним шрифтом, призначеним для дорослого читача. Ми намагалися створити не просто навчальний посібник, а дитячу книжку з яскравими малюнками, мовними цікавинками, міцним патріотичним підґрунтям. Нехай вона, турботливо тримаючи за руку, веде дитину у світ української мови!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Вашуленко М.С.</param>
 <param name="Мова">українська</param>
 <param name="Вік">1 клас</param>
@@ -63824,7 +64310,31 @@
 <param name="Тип паперу">офсет, кольорова</param>
 <param name="ISBN">9789669834386,9789669834393,9789669834409,9789669834461,9789669834478,9789669834485</param>
 <param name="Видавництво">Освіта-Центр</param></offer>
-
+<offer id="31443" available="true" in_stock="true" selling_type="r" >
+<name>НУШ-2 Посібник Оріон Математика 1 клас Листопад Н. КОМПЛЕКТ із 3-х частин</name>
+<vendorCode>1210116</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/nush-2-posibnyk-orion-matematyka-1-klas-lystopad-n-komplekt-iz-3-kh-chastyn/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>390</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31443/nush_2_posibnik_orion_matematika_1_klas_listopad_n_komplekt_iz_3_h_chastin.jpg</picture>
+<vendor>Оріон</vendor>
+<description>
+<![CDATA[НУШ Посібник Оріон Математика 1 клас Листопад Н. КОМПЛЕКТ із 3-х частин Математика. Навчальний посібник для 1 класу закладів загальної середньої освіти (у 3-х частинах). Навчальний посібник створено відповідно до Типової освітньої програми, розробленої під керівництвом О.Я. Савченко.]]></description>
+<quantity_in_stock>1</quantity_in_stock>
+<param name="Автор">Наталія Листопад</param>
+<param name="Предмет">Математика</param>
+<param name="Мова">українська</param>
+<param name="Вік">1 клас</param>
+<param name="Тип">навчальний посібник</param>
+<param name="Серія">Нова українська школа (НУШ-2)</param>
+<param name="Кількість сторінок">96+96+96</param>
+<param name="Рік видання">2023</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9789669911971, 9789669911988, 9789669911674</param>
+<param name="Формат, розмір">170х240 мм</param>
+<param name="Видавництво">Оріон</param></offer>
 
 <offer id="31445" available="true" in_stock="true" selling_type="r" >
 <name>НУШ-2  Навчальний посібник Ранок Математика 1 клас Скворцова, Онопрієнко КОМПЛЕКТ із 3-х частин</name>
@@ -64135,7 +64645,31 @@
 <param name="ISBN">9786170945778, 9786170945785</param>
 <param name="Формат, розмір">200х282 мм</param>
 <param name="Видавництво">Ранок</param></offer>
-
+<offer id="31476" available="true" in_stock="true" selling_type="r" >
+<name>НУШ-2 Навчальний посібник Ранок Математика 1 клас (Гісь, Філяк) КОМПЛЕКТ у 3-х частинах</name>
+<vendorCode>1210121</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/nush-2-navchalnyi-posibnyk-ranok-matematyka-1-klas-his-filiak-komplekt-u-3-kh-chastynakh/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>450</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31476/nush_2_navchalniy_posibnik_ranok_matematika_1_klas_gis_filyak_komplekt_u_3_h_chastinah.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[Математика навчальний посібник для 1 класу ЗЗСО у 3-х частинах (Гісь О.М. Філяк І.В.) Навчальний посібник «Математика» для 1 класу ЗЗСО створено відповідно до Типової освітньої програми, розробленої під керівництвом Р. Б. Шияна. Це сучасне навчальне видання, яке органічно поєднує функції підручника і робочого зошита. Він щедро проілюстрований, наповнений веселими ігровими сюжетами, що підвищує мотивацію учнів/учениць до навчання.  Новий навчальний посібник органічно поєднує функції підручника та робочого зошита, він зорієнтований на:     індивідуальну роботу учня/учениці;   засвоєння початкових математичних знань;  формування розумових і практичних умінь та навичок; повторення та закріплення вивченого матеріалу;  формування досвіду самостійної роботи; рефлексію навчальної діяльності. інтерактивні завдання, які відповідають послідовності тем у навчальному посібнику;  теоретичний матеріал, який полегшує процес засвоєння тієї чи іншої теми;  навчальні відеоролики; 3D-моделі; пазли, лабіринти, розмальовки;]]></description>
+<quantity_in_stock>1</quantity_in_stock>
+<param name="Автор">Гісь О.М. Філяк І.В.</param>
+<param name="Предмет">Математика</param>
+<param name="Мова">українська</param>
+<param name="Вік">1 клас</param>
+<param name="Тип">Нав­чальний посібник</param>
+<param name="Серія">Нова українська школа (НУШ-2)</param>
+<param name="Кількість сторінок">112+112+112</param>
+<param name="Рік видання">2023</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786170982704, 9786170982711, 9786170982728</param>
+<param name="Формат, розмір">200х290 мм</param>
+<param name="Видавництво">Ранок</param></offer>
 <offer id="31477" available="true" in_stock="true" selling_type="r" >
 <name>НУШ-2 Робочий зошит Ранок Я досліджую світ 1 клас до підручника Бібік, Бондарчук  КОМПЛЕКТ у 2-х частинах</name>
 <vendorCode>9786170983565, 9786170983572</vendorCode>
@@ -64850,7 +65384,7 @@
 <vendor>Лінгвіст</vendor>
 <description>
 <![CDATA[Prepare for Ukraine НУШ 8 Workbook  Prepare Workbook — це сучасний робочий зошит з англійської мови, створений за модельною програмою НУШ. Він є доповненням до основного підручника і спрямований на розвиток мовленнєвих навичок та комунікативної компетентності школярів.  Основні особливості:     Відповідність програмі НУШ (Іноземна мова 5–9 класи). Комунікативний підхід — інтерактивні вправи для читання, письма, аудіювання й говоріння. 20 тем, згрупованих у 5 блоків, кожен з яких містить: розділ Culture – для розвитку соціокультурної компетентності; Life Skills – формування життєвих навичок 21 століття; Review – для повторення й закріплення матеріалу.     Переваги:     Персоналізовані та інтерактивні завдання. Підтримка розвитку критичного мислення й креативності. Актуальні теми, що відповідають віковим інтересам дітей. Ідеальне поєднання з підручником Prepare Student’s Book.    Цей зошит ідеально підходить для систематичної роботи на уроках і вдома, а також для підготовки до тематичного та підсумкового оцінювання з англійської мови.]]></description>
-<quantity_in_stock>55</quantity_in_stock>
+<quantity_in_stock>34</quantity_in_stock>
 <param name="Автор">Джеймс Стайрінг, Ніколаз Тімз, Анне Робінсон</param>
 <param name="Мова">англійська</param>
 <param name="Вік">8 клас</param>
@@ -65276,7 +65810,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[Українська мова. 5 клас. Комплексні роботи за групами результатів. (за програмою Н. Голуб, О. Горошкіної) Зошит укладено відповідно до модельної навчальної програми «Українська мова. 5–6 класи» для закладів загальної середньої освіти (автори: Голуб Н. Б., Горошкіна О. М.). Він призначений для діагностування засвоєння програмового матеріалу за групами результатів.    Для учнів 5 класу, учителів української мови.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Панчук Г., Приведа О.</param>
 <param name="Мова">українська</param>
 <param name="Вік">5 класс</param>
@@ -65597,14 +66131,200 @@
 <param name="Тип обкладинки">м&apos;яка</param>
 <param name="ISBN">978-617-8370-69-5</param>
 <param name="Видавництво">Генеза</param></offer>
-
-
-
-
-
-
-
-
+<offer id="31565" available="true" in_stock="true" selling_type="r" >
+<name>НУШ-2 Навчальний посібник Пiдручники i посiбники Українська мова Буквар 1 клас Кравцова КОМПЛЕКТ у 4-х частинах</name>
+<vendorCode>1210131</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/nush-2-navchalnyi-posibnyk-pidruchnyky-i-posibnyky-ukrainska-mova-bukvar-1-klas-kravtsova-komplekt-u-4-kh-chastynakh/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>440</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31565/nush_2_navchalniy_posibnik_pidruchniki_i_posibniki_ukra_nska_mova_bukvar_1_klas_kravtsova_komplekt_u_4_h_chastinah.jpg</picture>
+<vendor>Пiдручники i посiбники</vendor>
+<description>
+<![CDATA[КОМПЛЕКТ Українська мова. Буквар.1 клас. У 4-х частинах. Цікавий, креативний, змістовний навчальний посібник «Українська мова. Буквар» складається з чотирьох частин. У ньому уміщено три періоди: добукварний, букварний та післябукварний. Посібник містить диференційовані, мовно-логічні вправи, різноманітні мовні дослідження, завдання на розвиток мовлення та критичного мислення, а також завдання для самооцінювання дітьми своєї роботи. Навчальний посібник створено відповідно до Типової освітньої програми, розробленої під керівництвом О. Я. Савченко. Схвалено для використання в освітньому процесі (протокол від 20 січня 2023 року № 1 засідання експертної комісії з педагогіки та методики початкової освіти; протокол від 12 січня 2023 року № 2 засідання експертної комісії з проведення антидискримінаційної експертизи; номер у Каталозі надання грифів навчальній літературі та навчальним програмам № 2.0004-2023).]]></description>
+<quantity_in_stock>43</quantity_in_stock>
+<param name="Автор">Кравцова Н., Придаток О.</param>
+<param name="Мова">українська</param>
+<param name="Вік">1 клас</param>
+<param name="Тип">Нав­чальний посібник</param>
+<param name="Серія">Нова українська школа (НУШ-2)</param>
+<param name="Кількість сторінок">80+80+80+80</param>
+<param name="Рік видання">2023</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка, ламінована</param>
+<param name="ISBN">9789660741591, 9789660741607, 9789660741614, 9789660741621</param>
+<param name="Формат, розмір">А4 (210*300 мм)</param>
+<param name="Видавництво">Підручники і посібники</param></offer>
+<offer id="31566" available="true" in_stock="true" selling_type="r" >
+<name>НУШ-2 Навчальний посібник Пiдручники i посiбники Математика 1 клас Заїка, Тарнавська КОМПЛЕКТ у 3-х частинах</name>
+<vendorCode>1210132</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/nush-2-navchalnyi-posibnyk-pidruchnyky-i-posibnyky-matematyka-1-klas-zaika-tarnavska-komplekt-u-3-kh-chastynakh/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>390</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31566/nush_2_navchalniy_posibnik_pidruchniki_i_posibniki_matematika_1_klas_za_ka_tarnavska_komplekt_u_3_h_chastinah.jpg</picture>
+<vendor>Пiдручники i посiбники</vendor>
+<description>
+<![CDATA[КОМПЛЕКТ Математика: навчальний посібник для 1 класу. У 3-х частинах. (А. Заїка, С. Тарнавська) Навчальний посібник створено відповідно до Типової освітньої програми, розробленої під керівництвом Р. Б Шияна. Схвалено для використання в освітньому процесі (протокол від 20 січня 2023 року № 1 засідання експертної комісії з педагогіки та методики початкової освіти; протокол від 23 грудня 2022 року № 2 засідання експертної комісії з проведення антидискримінаційної експертизи; номер у Каталозі надання грифів навчальній літературі та навчальним програмам № 2.0016-2023).    Для учнів 1 класу та вчителів початкових класів.]]></description>
+<quantity_in_stock>81</quantity_in_stock>
+<param name="Автор">Заїка А., Тарнавська С.</param>
+<param name="Предмет">Математика</param>
+<param name="Мова">українська</param>
+<param name="Вік">1 клас</param>
+<param name="Тип">Навчальний посібник</param>
+<param name="Серія">Нова українська школа (НУШ-2)</param>
+<param name="Кількість сторінок">96+96+96</param>
+<param name="Рік видання">2023</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка, ламінована</param>
+<param name="ISBN">9789660741553, 9789660741560, 9789660741577</param>
+<param name="Формат, розмір">А4 (210*300 мм)</param>
+<param name="Видавництво">Підручники і посібники</param></offer>
+<offer id="31567" available="true" in_stock="true" selling_type="r" >
+<name>НУШ-2 Навчальний посібник Пiдручники i посiбники Математика 1 клас Козак, Корчевська КОМПЛЕКТ у 3-х частинах</name>
+<vendorCode>1210133</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/nush-2-navchalnyi-posibnyk-pidruchnyky-i-posibnyky-matematyka-1-klas-kozak-korchevska-komplekt-u-3-kh-chastynakh/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>330</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31567/nush_2_navchalniy_posibnik_pidruchniki_i_posibniki_matematika_1_klas_kozak_korchevska_komplekt_u_3_h_chastinah.jpg</picture>
+<vendor>Пiдручники i посiбники</vendor>
+<description>
+<![CDATA[КОМПЛЕКТ Математика: навчальний посібник для 1 класу. У 3-х частинах. Дорога першокласнице / дорогий першокласнику! Ця книжка проведе тебе таємничими стежками в чарівну країну МАТЕМАТИКУ, у якій живуть числа, фігури, задачі, величини. Вона навчить тебе обчислювати, міркувати і застосовувати математичні знання в житті.  Щоб перевірити набуті знання з кожного розділу, скористайся QR-кодом.   Успіхів тобі!   –  Авторки.   Навчальний посібник створено відповідно до Типової освітньої програми, розробленої під керівництвом О. Я. Савченко.  Схвалено для використання в освітньому процесі (протокол від 20 січня 2023 року № 1 засідання експертної комісії з педагогіки та методики початкової освіти; протокол від 23 грудня 2022 року № 2 засідання експертної комісії з проведення антидискримінаційної експертизи; номер у Каталозі надання грифів навчальній літературі та навчальним програмам № 2.0017-2023).    Для учнів 1 класу та вчителів початкових класів.]]></description>
+<quantity_in_stock>95</quantity_in_stock>
+<param name="Автор">Козак М., Корчевська О.</param>
+<param name="Предмет">Математика</param>
+<param name="Мова">українська</param>
+<param name="Вік">1 клас</param>
+<param name="Тип">Нав­чальний посібник</param>
+<param name="Серія">Нова українська школа (НУШ-2)</param>
+<param name="Кількість сторінок">80+80+80</param>
+<param name="Рік видання">2023</param>
+<param name="Тип паперу">кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9789660741508, 9789660741515, 9789660741522</param>
+<param name="Формат, розмір">А4 (210*300 мм)</param>
+<param name="Видавництво">Підручники і посібники</param></offer>
+<offer id="31568" available="true" in_stock="true" selling_type="r" >
+<name>НУШ-2 Навчальний посібник Пiдручники i посiбники Математика 2 клас Заїка, Тарнавська КОМПЛЕКТ у 3-х частинах</name>
+<vendorCode>1210134</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/nush-2-navchalnyi-posibnyk-pidruchnyky-i-posibnyky-matematyka-2-klas-zaika-tarnavska-komplekt-u-3-kh-chastynakh/</url>
+<currencyId>UAH</currencyId>
+<categoryId>9</categoryId>
+<price>390</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31568/nush_2_navchalniy_posibnik_pidruchniki_i_posibniki_matematika_2_klas_za_ka_tarnavska_komplekt_u_3_h_chastinah.jpg</picture>
+<vendor>Пiдручники i посiбники</vendor>
+<description>
+<![CDATA[Математика: навчальний посібник. 2 клас. У 3-х част. (А. Заїка, С. Тарнавська)  Посібник розроблено відповідно до Типової освітньої програми колективу авторів під керівництвом Р. Б. Шияна.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Заїка А., Тарнавська С.</param>
+<param name="Предмет">Математика</param>
+<param name="Мова">українська</param>
+<param name="Вік">2 клас</param>
+<param name="Тип">Нав­чальний посібник</param>
+<param name="Серія">Нова українська школа (НУШ-2)</param>
+<param name="Кількість сторінок">96+96+96</param>
+<param name="Рік видання">2024</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка, ламінована</param>
+<param name="ISBN">9789660742727, 9789660742734, 9789660742741</param>
+<param name="Формат, розмір">А4 (210*300 мм)</param>
+<param name="Видавництво">Підручники і посібники</param></offer>
+<offer id="31569" available="true" in_stock="true" selling_type="r" >
+<name>НУШ-2 Навчальний посібник Пiдручники i посiбники Математика 2 клас Козак, Корчевська КОМПЛЕКТ у 3-х частинах</name>
+<vendorCode>1210135</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/nush-2-navchalnyi-posibnyk-pidruchnyky-i-posibnyky-matematyka-2-klas-kozak-korchevska-komplekt-u-3-kh-chastynakh/</url>
+<currencyId>UAH</currencyId>
+<categoryId>9</categoryId>
+<price>330</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31569/nush_2_navchalniy_posibnik_pidruchniki_i_posibniki_matematika_2_klas_kozak_korchevska_komplekt_u_3_h_chastinah.jpg</picture>
+<vendor>Пiдручники i посiбники</vendor>
+<description>
+<![CDATA[КОМПЛЕКТ Математика: навчальний посібник. 2 клас. У 3-х частинах (М. Козак, О. Корчевська)  Посібник розроблено відповідно до Типової освітньої програми колективу авторів під керівництвом О. Я. Савченко. У першій частині посібника учні додаватимуть і відніматимуть з переходом через десяток.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Козак М., Корчевська О.</param>
+<param name="Предмет">Математика</param>
+<param name="Мова">українська</param>
+<param name="Вік">2 клас</param>
+<param name="Тип">Нав­чальний посібник</param>
+<param name="Серія">Нова українська школа (НУШ-2)</param>
+<param name="Кількість сторінок">80+80+80</param>
+<param name="Рік видання">2024</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка, ламінована</param>
+<param name="ISBN">9789660742680, 9789660742697, 9789660742703</param>
+<param name="Формат, розмір">А4 (210*300 мм)</param>
+<param name="Видавництво">Підручники і посібники</param></offer>
+<offer id="31570" available="true" in_stock="true" selling_type="r" >
+<name>НУШ-2 Навчальний посібник Пiдручники i посiбники Українська мова та читання 2 клас Кравцова, Савчук КОМПЛЕКТ у 4-х частинах</name>
+<vendorCode>1210136</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/nush-2-navchalnyi-posibnyk-pidruchnyky-i-posibnyky-ukrainska-mova-ta-chytannia-2-klas-kravtsova-savchuk-komplekt-u-4-kh-chastynakh/</url>
+<currencyId>UAH</currencyId>
+<categoryId>9</categoryId>
+<price>520</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31570/nush_2_navchalniy_posibnik_pidruchniki_i_posibniki_ukra_nska_mova_ta_chitannya_2_klas_kravtsova_savchuk_komplekt_u_4_h_chastinah.jpg</picture>
+<vendor>Пiдручники i посiбники</vendor>
+<description>
+<![CDATA[КОМПЛЕКТ Українська мова та читання: навчальний посібник. 2 клас. У 4-х частинах. (Н. Кравцова, А. Савчук)  Цікавий, змістовний навчальний посібник «Українська мова та читання. 2 клас» складається з чотирьох частин. Кожна частина вміщує два розділи: українська мова та читання. Навчальний посібник містить творчі диференційовані, мовно-логічні завдання, різноманітні мовні дослідження, завдання на розвиток мовлення та критичного мислення. Дітям сподобаються цікаві казки, оповідання, вірші, вирішення життєвих ситуацій. У посібнику особлива увага приділяється вправам для групової роботи, самооцінювання. У захопливій формі діти матимуть змогу вивчати українську мову.    Навчальний посібник створено відповідно до Типової освітньої програми, розробленої під керівництвом О. Я. Савченко.]]></description>
+<quantity_in_stock>80</quantity_in_stock>
+<param name="Автор">Кравцова Н., Савчук А.</param>
+<param name="Мова">українська</param>
+<param name="Вік">2 клас</param>
+<param name="Тип">Нав­чальний посібник</param>
+<param name="Серія">Нова українська школа (НУШ-2)</param>
+<param name="Кількість сторінок">96+96+96+96</param>
+<param name="Рік видання">2024</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка, ламінована</param>
+<param name="ISBN">9789660742628, 9789660742635, 9789660742642, 9789660742659</param>
+<param name="Формат, розмір">А4 (210*300 мм)</param>
+<param name="Видавництво">Підручники і посібники</param></offer>
+<offer id="31571" available="true" in_stock="true" selling_type="r" >
+<name>НУШ-2 Посібник Оріон Українська мова та читання 2 клас Пономарьова КОМПЛЕКТ у 6-ти частинах</name>
+<vendorCode>1210137</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/nush-2-posibnyk-orion-ukrainska-mova-ta-chytannia-2-klas-ponomarova-komplekt-u-6-ty-chastynakh/</url>
+<currencyId>UAH</currencyId>
+<categoryId>9</categoryId>
+<price>660</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31571/nush_2_posibnik_orion_ukra_nska_mova_ta_chitannya_2_klas_ponomarova_komplekt_u_6_ti_chastinah.jpg</picture>
+<vendor>Оріон</vendor>
+<description>
+<![CDATA[КОМПЛЕКТ у 6 частинах. Українська мова та читання. Посібник. 2 клас Цікавий, креативний, змістовний навчальний посібник «Українська мова та читання 2 клас Пономарьова Савченко складається з 6 частин. Цей посібник призначений для навчання з двох предметів - "Української мови" та "Читання" і складається з 2 розділів. У першому вміщено навчальний матеріал до уроків української мови і розвитку мовлення. Цей розділ розташований на сторінках 4-39. У другому розділі подано навчальний матеріал до уроків читання. Цей розділ розміщений на сторінках 40-79. Навчальний посібник створено відповідно до Типової освітньої програми НУШ 2024 року.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Катерина Пономарьова, Олександра Савченко, Ірина Красуцька</param>
+<param name="Мова">українська</param>
+<param name="Вік">2 клас</param>
+<param name="Тип">Нав­чальний посібник</param>
+<param name="Серія">Нова українська школа (НУШ-2)</param>
+<param name="Кількість сторінок">80+80+80+80+80+80</param>
+<param name="Рік видання">2024</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9789669912671, 9789669912688, 9789669912695, 9789669912701, 9789669912718, 9789669912725</param>
+<param name="Видавництво">Оріон</param></offer>
+<offer id="31572" available="true" in_stock="true" selling_type="r" >
+<name>НУШ-2 Посібник Оріон Математика 2 клас Листопад КОМПЛЕКТ у 3-х частинах</name>
+<vendorCode>1210138</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/nush-2-posibnyk-orion-matematyka-2-klas-lystopad-komplekt-u-3-kh-chastynakh/</url>
+<currencyId>UAH</currencyId>
+<categoryId>9</categoryId>
+<price>390</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31572/nush_2_posibnik_orion_matematika_2_klas_listopad_komplekt_u_3_h_chastinah.jpg</picture>
+<vendor>Оріон</vendor>
+<description>
+<![CDATA[КОМПЛЕКТ у 3-х частинах. Математика 2 клас. Посібник. Наталія Листопад Пропонуємо вашій увазі навчальний посібник з математики для 2 класу (Листопад НУШ). Видання відповідає ТОП з математики для 2 класу, створеній під керівництвом О.Я. Савченко, та охоплює матеріал до кожного уроку згідно з навчальним планом. Кожна частина посібника має просту й зрозумілу дітям та зручну для педагогів і батьків поурочну будову. Уроки об’єднано у вісім розділів. Кожен урок присвячено певній темі, його змістове наповнення дібрано таким чином, що нове вводиться за допомогою діяльнісного методу навчання, закріплюється на практиці, за зразком, на основі спостережень, спонукання до вибору, формулювання висновків. Завдання чіткі й зрозумілі, виконання їх запропоновано з опорою на зразок, малюнок, схему тощо. Диференційований підхід реалізовано за допомогою вправ підвищеної складності. Подано вправи для тренування математичного письма, завдання для рефлексії. Апарат орієнтування включає зокрема оптимальну кількість виразних умовних позначень та «Зміст».    Підходить як для очного, так і для дистанційного чи змішаного навчання. Для учнів 2 класу, учителів початкової школи, методистів, батьків.]]></description>
+<quantity_in_stock>79</quantity_in_stock>
+<param name="Автор">Наталія Листопад</param>
+<param name="Предмет">Математика</param>
+<param name="Мова">українська</param>
+<param name="Вік">2 клас</param>
+<param name="Тип">навчальний посібник</param>
+<param name="Серія">Нова українська школа (НУШ-2)</param>
+<param name="Рік видання">2024</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9789669912640, 9789669912657, 9789669912664</param>
+<param name="Видавництво">Оріон</param></offer>
 <offer id="31573" available="true" in_stock="true" selling_type="r" >
 <name>Великий тренажер УЛА Задачі 1-2 клас Швидка автоматизація навичок, з наліпками (Собчук)</name>
 <vendorCode>9786175444733</vendorCode>
@@ -66090,9 +66810,79 @@
 <param name="ISBN">9786170995827</param>
 <param name="Формат, розмір">200х260 мм</param>
 <param name="Видавництво">Ранок</param></offer>
-
-
-
+<offer id="31597" available="true" in_stock="true" selling_type="r" >
+<name>НУШ-2 Навчальний посібник Ранок Українська мова та читання 2 клас (Цепова, Коченгіна, Тимченко) КОМПЛЕКТ у 6-ти частинах</name>
+<vendorCode>1210141</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/2-klas-1/nush-2-navchalnyi-posibnyk-ranok-ukrainska-mova-ta-chytannia-2-klas-tsepova-kochenhina-tymchenko-komplekt-u-6-ty-chastynakh/</url>
+<currencyId>UAH</currencyId>
+<categoryId>9</categoryId>
+<price>450</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31597/nush_2_navchalniy_posibnik_ranok_ukra_nska_mova_ta_chitannya_2_klas_tsepova_kochengina_timchenko_komplekt_u_6_ti_chastinah.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[КОМПЛЕКТ: Українська мова та читання. Навчальний посібник для 2 класу ЗЗСО (у 6-ти частинах) Навчальний посібник «Українська мова та читання» для 2 класу ЗЗСО створено відповідно до Типової освітньої програми, розробленої під керівництвом О. Я. Савченко. За своїми цілями і змістом є інтегрованим і пропедевтичним. Це сучасне навчальне видання, яке органічно поєднує функції підручника і робочого зошита. Автори: Цепова І.В. Коченгіна М.В. Тимченко Л.І.]]></description>
+<quantity_in_stock>1</quantity_in_stock>
+<param name="Автор">Цепова І.В. Коченгіна М.В. Тимченко Л.І.</param>
+<param name="Мова">українська</param>
+<param name="Вік">2 клас</param>
+<param name="Тип">навчальний посібник, комплект</param>
+<param name="Серія">Нова українська школа (НУШ-2)</param>
+<param name="Кількість сторінок">48+48+48+48+48+48</param>
+<param name="Рік видання">2024</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786170987938, 9786170987945, 9786170987952, 9786170987969, 9786170987976, 9786170987983</param>
+<param name="Формат, розмір">200х260 мм</param>
+<param name="Видавництво">Ранок</param></offer>
+<offer id="31598" available="true" in_stock="true" selling_type="r" >
+<name>НУШ-2 Навчальний посібник Ранок Математика 2 клас Скворцова, Онопрієнко КОМПЛЕКТ у 3-х частинах</name>
+<vendorCode>1210144</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/nush-2-navchalnyi-posibnyk-ranok-matematyka-2-klas-skvortsova-onopriienko-komplekt-u-3-kh-chastynakh/</url>
+<currencyId>UAH</currencyId>
+<categoryId>9</categoryId>
+<price>480</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31598/nush_2_navchalniy_posibnik_ranok_matematika_2_klas_skvortsova_onopri_nko_komplekt_u_3_h_chastinah.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[КОМПЛЕКТ: Математика. Навчальний посібник для 2 класу ЗЗСО (у 3-х частинах) + безкоштовно вкладка для самостійних робіт  Особливості навчального посібника:  У навчальному посібнику реалізована авторська методична система навчання математики, у якій враховані нейрофізіологічні особливості сучасних дітей. Система завдань уроку спрямована на організацію дослідницької діяльності учнів та учениць за допомогою математичних матеріалів. Різнорівневість завдань і варіативність виконання математичних дій забезпечують реалізацію індивідуального та інтегрованого підходів.  Посібник містить:     теоретичні відомості; візуальні опори у вигляді пам'яток, схем, зразків міркувань; системи завдань на актуалізацію опорних знань, створення проблемної ситуації та її розв'язання, первинне закріплення, формування вмінь і навичок, неперервне повторення.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Скворцова С.О. Онопрієнко О.В.</param>
+<param name="Предмет">Математика</param>
+<param name="Мова">українська</param>
+<param name="Вік">2 клас</param>
+<param name="Тип">навчальний посібник, комплект</param>
+<param name="Серія">Нова українська школа (НУШ-2)</param>
+<param name="Кількість сторінок">112+112+128</param>
+<param name="Рік видання">2025</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786170987846, 9786170987853, 9786170987860</param>
+<param name="Формат, розмір">200х260 мм</param>
+<param name="Видавництво">Ранок</param></offer>
+<offer id="31599" available="true" in_stock="true" selling_type="r" >
+<name>НУШ-2 Навчальний посібник Ранок Українська мова та читання 2 клас Большакова, Пристінська КОМПЛЕКТ у 6-ти частинах</name>
+<vendorCode>1210146</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/2-klas-1/nush-2-navchalnyi-posibnyk-ranok-ukrainska-mova-ta-chytannia-2-klas-bolshakova-prystinska-komplekt-u-6-ty-chastynakh/</url>
+<currencyId>UAH</currencyId>
+<categoryId>9</categoryId>
+<price>570</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31599/nush_2_navchalniy_posibnik_ranok_ukra_nska_mova_ta_chitannya_2_klas_bolshakova_pristinska_komplekt_u_6_ti_chastinah.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[КОМПЛЕКТ: Українська мова та читання. Навчальний посібник для 2 класу ЗЗСО (у 6-ти частинах).  Навчальний посібник органічно поєднує функції підручника та робочого зошита, він зорієнтований на: сучасність, науковість, результативність, дитиноцентризм, зв’язок із життям та доступність.  Особливості навчального посібника:     тексти різних типів і завдання для їх аналізу; завдання для розвитку усного і писемного мовлення; вправи для формування орфографічних й орфоепічних умінь; система різнорівневих завдань; ілюстративний матеріал для формування читацької мотивації; візуалізація правил; система завдань для розвитку критичного та креативного мислення; вправи для розвитку емоційного інтелекту.     Електронний інтерактивний додаток містить:     інтерактивні завдання до кожного уроку відео, 3D-моделі тестування до кожного розділу з автоматичною перевіркою результату додаткові завдання відеоуроки календарно-тематичний план]]></description>
+<quantity_in_stock>3</quantity_in_stock>
+<param name="Автор">Большакова І.О. Пристінська М.С.</param>
+<param name="Мова">українська</param>
+<param name="Вік">2 клас</param>
+<param name="Тип">навчальний посібник, комплект</param>
+<param name="Серія">Нова українська школа (НУШ-2)</param>
+<param name="Кількість сторінок">80+64+80+80+64+64</param>
+<param name="Рік видання">2024</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786170987877, 9786170987884, 9786170987891, 9786170987907, 9786170987914, 9786170987921</param>
+<param name="Формат, розмір">200х260 мм</param>
+<param name="Видавництво">Ранок</param></offer>
 <offer id="31600" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Робочий зошит Ранок Українська мова 2 клас до підручника Тимченко, Цепової КОМПЛЕКТ у 2-х частинах</name>
 <vendorCode>9786170954183, 9786170954176</vendorCode>
@@ -66166,7 +66956,31 @@
 <param name="Формат, розмір">200x260 мм</param>
 <param name="Видавництво">Ранок</param></offer>
 
-
+<offer id="31604" available="true" in_stock="true" selling_type="r" >
+<name>НУШ-2 Навчальний посібник Ранок Математика 2 клас до підручника Гісь, Філяк КОМПЛЕКТ у 3-х частинах</name>
+<vendorCode>1210147</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/nush-2-navchalnyi-posibnyk-ranok-matematyka-2-klas-do-pidruchnyka-his-filiak-komplekt-u-3-kh-chastynakh/</url>
+<currencyId>UAH</currencyId>
+<categoryId>9</categoryId>
+<price>450</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31604/nush_2_navchalniy_posibnik_ranok_matematika_2_klas_do_pidruchnika_gis_filyak_komplekt_u_3_h_chastinah.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[КОМПЛЕКТ: Математика. 2 клас. Навчальний посібник. (у 3-х частинах) до підручника Гісь О.М. та ін. Навчальний посібник «Математика» для 2 класу ЗЗСО створено відповідно до Типової освітньої програми, розробленої під керівництвом Р. Б. Шияна. Це сучасне навчальне видання, яке органічно поєднує функції підручника і робочого зошита. Він щедро проілюстрований, наповнений веселими ігровими сюжетами, що підвищує мотивацію учнів/учениць до навчання.]]></description>
+<quantity_in_stock>1</quantity_in_stock>
+<param name="Автор">Гісь О.М. Філяк І.В.</param>
+<param name="Предмет">Математика</param>
+<param name="Мова">українська</param>
+<param name="Вік">2 клас</param>
+<param name="Тип">навчальний посібник, комплект</param>
+<param name="Серія">Нова українська школа (НУШ-2)</param>
+<param name="Кількість сторінок">112+112+112</param>
+<param name="Рік видання">2024</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">тверда</param>
+<param name="ISBN">9786170987990, 9786170988003, 9786170988010</param>
+<param name="Формат, розмір">200х290 мм</param>
+<param name="Видавництво">Ранок</param></offer>
 <offer id="31605" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Робочий зошит Ранок Я досліджую світ 2 клас до підручника Бібік КОМПЛЕКТ у 2-х частинах</name>
 <vendorCode>9786170989307, 9786170989314</vendorCode>
@@ -66340,7 +67154,30 @@
 <param name="ISBN">9786178370053, 9786178370060</param>
 <param name="Формат, розмір">205x260 мм</param>
 <param name="Видавництво">Генеза</param></offer>
-
+<offer id="31615" available="true" in_stock="true" selling_type="r" >
+<name>НУШ-2 Навчальний посібник Освіта Українська мова та читання 2 клас Вашуленко КОМПЛЕКТ у 6-ти частинах</name>
+<vendorCode>1210148</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/pidruchnyky/2-klas-3/nush-2-navchalnyi-posibnyk-osvita-ukrainska-mova-ta-chytannia-2-klas-vashulenko-komplekt-u-6-ty-chastynakh/</url>
+<currencyId>UAH</currencyId>
+<categoryId>9</categoryId>
+<price>780</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31615/nush_2_navchalniy_posibnik_osvita_ukra_nska_mova_ta_chitannya_2_klas_vashulenko_komplekt_u_6_ti_chastinah.jpg</picture>
+<vendor>Освіта-Центр</vendor>
+<description>
+<![CDATA[КОМПЛЕКТ: Українська мова та читання. Навчальний посібник для 2 класу ЗЗСО (у 6-ти частинах). Вашуленко М.С., Вашуленко О.В., Дубовик С.Г.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Вашуленко М.С., Вашуленко О.В., Дубовик С.Г.</param>
+<param name="Мова">українська</param>
+<param name="Вік">2 клас</param>
+<param name="Тип">навчальний посібник, комплект</param>
+<param name="Серія">Нова українська школа (НУШ-2)</param>
+<param name="Кількість сторінок">96+96+96+96+96+96</param>
+<param name="Рік видання">2024</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9789669834775, 9789669834782, 9789669834799, 9789669834805, 9789669834812, 9789669834829</param>
+<param name="Формат, розмір">84х108/16</param>
+<param name="Видавництво">Освіта-Центр</param></offer>
 
 <offer id="31617" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Робочий зошит Освіта Я досліджую світ 2 клас до підручника Вашуленко КОМПЛЕКТ у 2-х частинах</name>
@@ -66982,7 +67819,7 @@
 <vendorCode>1210149</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/komplekt-velykyi-trenazher-ula-ukrainska-mova-2-4-klasy-orfohrafichni-zavdannia-leksyka-ta-vidminiuvannia-chastyny-movy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
+<categoryId>9</categoryId>
 <price>240</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31651/komplekt_velikiy_trenazher_ula_ukra_nska_mova_2_4_klasi_orfografichni_zavdannya_leksika_ta_vidminyuvannya_chastini_movi.jpg</picture>
 <vendor>УЛА</vendor>
@@ -67007,7 +67844,7 @@
 <vendorCode>1210150</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/komplekt-velykyi-trenazher-ula-matematyka-1-4-klasy-zadachi-tablytsia-mnozhennia-i-dilennia-dodavannia-i-vidnimannia-bahatotsyfrovykh-chysel/</url>
 <currencyId>UAH</currencyId>
-<categoryId>10</categoryId>
+<categoryId>11</categoryId>
 <price>240</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31652/komplekt_velikiy_trenazher_ula_matematika_1_4_klasi_zadachi_tablitsya_mnozhennya_i_dilennya_dodavannya_i_vidnimannya_bagatotsifrovih_chisel.jpg</picture>
 <vendor>УЛА</vendor>
@@ -67056,7 +67893,7 @@
 <vendorCode>9786175444634, 9786175444665</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/komplekt-nush-zoshyt-repetytor-iz-matematyky-ula-dodavannia-i-vidnimannia-v-mezhakh-100-1-2-klas-tablytsia-mnozhennia-2-3-klas/</url>
 <currencyId>UAH</currencyId>
-<categoryId>10</categoryId>
+<categoryId>8</categoryId>
 <price>68</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31654/komplekt_nush_zoshit_repetitor_iz_matematiki_ula_dodavannya_i_vidnimannya_v_mezhah_100_1_2_klas_tablitsya_mnozhennya_2_3_klas.jpg</picture>
 <vendor>УЛА</vendor>
@@ -67947,13 +68784,13 @@
 <vendorCode>9789669913395, 9789669914460</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/nush-komplekt-atlas-konturni-karty-orion-heohrafiia-ukraina-pryroda-pryrodokorystuvannia-8-klas-rudenko-i-s-2025-rik/</url>
 <currencyId>UAH</currencyId>
-<categoryId>58</categoryId>
+<categoryId>50</categoryId>
 <price>200</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31713/nush_komplekt_atlas_konturni_karti_orion_geografiya_ukra_na_priroda_prirodokoristuvannya_8_klas_rudenko_i_s_2025_rik.jpg</picture>
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[НУШ 8 клас. Комплект Атлас + Контурні карти Географія. Україна: природа, природокористування НУШ 8 клас. Географія. Україна: природа, природокористування. Атлас + Контурні карти. Руденко І. С.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Автор">Руденко І. С.</param>
 <param name="Мова">українська</param>
 <param name="Вік">8 клас</param>
@@ -68412,7 +69249,7 @@
 <vendor>Генеза</vendor>
 <description>
 <![CDATA[КОМПЛЕКТ: НУШ-2 1 клас. Я досліджую світ. Зошит-практикум. У 2-х частинах. Гільберг Т. Г. Цей зошит-практикум у двох частинах є невід’ємним компонентом навчально-методичного комплекту з інтегрованого курсу «Я досліджую світ» для 1 класу і призначений для формування в учнів предметних і міжпредметних компетентностей, зокрема ціннісного ставлення до природи тощо. Завдання посібника дають можливість використовувати інтерактивні форми навчання та взаємодії учасників освітнього процесу: спостереження, експеримент, дослід, групова, парна робота тощо.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Гільберг Т. Г.</param>
 <param name="Предмет">Я досліджую світ</param>
 <param name="Мова">українська</param>
@@ -68732,7 +69569,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[КОМПЛЕКТ: Навчайся писати 1 клас НУШ. Зошит для письма і розвитку мовлення. У 2-х частинах Пономарьова 2025 рік. Навчайся писати 1 клас Пономарьова - зошит для письма і розвитку мовлення, схвалений для використання МОН України у загальноосвітніх навчальних закладах з українською мовою навчання. Навчальний матеріал у зошиті представлений у двох частинах. Завдяки якісно підібраним вправам, учні 1 класу навчаться письма та навичкам розвитку зв'язного мовлення.]]></description>
-<quantity_in_stock>79</quantity_in_stock>
+<quantity_in_stock>78</quantity_in_stock>
 <param name="Автор">Катерина Пономарьова</param>
 <param name="Мова">українська</param>
 <param name="Вік">1 клас</param>
@@ -68755,7 +69592,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[КОМПЛЕКТ: НУШ 1 клас. Математика. Робочий зошит. У 2-х частинах. Листопад Н. П. (2025 рік) Зошит схвалено до використання в загальноосвітніх навчальних закладах комісією з педагогіки та методики початкового навчання Науково-методичної ради з питань освіти Міністерства освіти і науки України відповідним листом ДНУ «Інститут модернізації змісту освіти». Відповідно до Типової освітньої програми, розробленої під керівництвом О. Я. Савченко. Зошит вибудовано за тематичними принципом: кожна тема містить низку завдань для опрацювання. Завдання покликані не лише формувати математичну компетентність, а й всебічно розвивати дитину. Вправи на знаходження зайвого предмета, об'єднання за спільною ознакою, визначення розташування об'єктів тощо допомагають розвивати логічне мислення та просторове уявлення. Низка вправ пропонує для їх розв'язання розфарбувати предмети, домалювати, з'єднати чи написати за зразком. Завдання підкріплені яскравим ілюстративним супроводом для стимулювання образного мислення дитини. Наприкінці зошит містить додаткові завдання з різних тем. Методичну підтримку від авторки можна знайти в однойменній рубриці «Методична підтримка».]]></description>
-<quantity_in_stock>95</quantity_in_stock>
+<quantity_in_stock>94</quantity_in_stock>
 <param name="Автор">Листопад Н.П.</param>
 <param name="Предмет">Математика</param>
 <param name="Мова">українська</param>
@@ -73473,7 +74310,7 @@
 <vendorCode>9786178678302</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/zymovi-zoshyty/1-klas-5/zoshyt-snihovychok-zymovi-kanikuly-1-klas-pidruchnyky-i-posibnyky-rohovska-l-dvornytska-i/</url>
 <currencyId>UAH</currencyId>
-<categoryId>28</categoryId>
+<categoryId>8</categoryId>
 <price>75</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32103/zoshit_snigovichok_zimovi_kanikuli_1_klas_pidruchniki_i_posibniki_rogovska_l_dvornitska_i.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -73497,7 +74334,7 @@
 <vendorCode>9786178678319</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/zymovi-zoshyty/2-klas-5/zoshyt-snihovychok-zymovi-kanikuly-2-klas-pidruchnyky-i-posibnyky-rohovska-l-dvornytska-i/</url>
 <currencyId>UAH</currencyId>
-<categoryId>29</categoryId>
+<categoryId>9</categoryId>
 <price>75</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32104/zoshit_snigovichok_zimovi_kanikuli_2_klas_pidruchniki_i_posibniki_rogovska_l_dvornitska_i.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -73521,7 +74358,7 @@
 <vendorCode>9786178678326</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/zymovi-zoshyty/3-klas-5/zoshyt-snihovychok-zymovi-kanikuly-3-klas-pidruchnyky-i-posibnyky-rohovska-l-dvornytska-i/</url>
 <currencyId>UAH</currencyId>
-<categoryId>30</categoryId>
+<categoryId>10</categoryId>
 <price>75</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32105/zoshit_snigovichok_zimovi_kanikuli_3_klas_pidruchniki_i_posibniki_rogovska_l_dvornitska_i.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -73545,7 +74382,7 @@
 <vendorCode>9786178678333</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/zymovi-zoshyty/4-klas-5/zoshyt-snihovychok-zymovi-kanikuly-4-klas-pidruchnyky-i-posibnyky-rohovska-l-dvornytska-i/</url>
 <currencyId>UAH</currencyId>
-<categoryId>31</categoryId>
+<categoryId>11</categoryId>
 <price>75</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32106/zoshit_snigovichok_zimovi_kanikuli_4_klas_pidruchniki_i_posibniki_rogovska_l_dvornitska_i.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -73652,7 +74489,7 @@
 <vendor>Генеза</vendor>
 <description>
 <![CDATA[КОМПЛЕКТ: НУШ Математика 5 клас Самостійні та діагностичні роботи + Вправи, тематичні контрольні роботи, експрес-контроль  1. НУШ Математика, 5 клас. Самостійні та діагностичні роботи - Істер О. С.  Посібник містить добірку самостійних, тематичних діагностичних (контрольних), семестрових та підсумкової письмових робіт для перевірки й оцінювання результатів навчання, зміст яких відповідає модельній навчальній програмі «Математика. 5–6 класи» (автор – О.С. Істер) та критеріям оцінювання з математики. Усі роботи, крім семестрових, подано у 4-х однотипних варіантах, семестрові роботи – у 2-х варіантах. У передмові надано роз’яснення щодо формату робіт, типів включених до них тестових завдань та рівнів їхньої складності, а також запропоновано методичні рекомендації щодо проведення, перевірки та оцінювання робіт.    Призначено для учнів 5-х класів НУШ, вчителів математики ЗЗСО та методистів ІППО.   2. Математика, 5 клас. Вправи, самостійні роботи, тематичні контрольні роботи, експрес-контроль - Істер О. С. НУШ  Схвалено для використання в освітньому процесі Протокол № 11 засідання експертної комісії з математики від 28.11.2022, зареєстрований у Каталозі надання грифів навчальній літературі та навчальним програмам за № 3.0651-2022 Відповідає модельній навчальній програмі «Математика. 5—6 класи» для закладів загальної середньої освіти (автор О. С. Істер) У посібнику запропоновано повну добірку матеріалів з математики 5-го класу відповідно до модельної навчальної програми «Математика. 5—6 класи» (автор О. С. Істер): вправи, різнорівневі самостійні роботи, діагностичні роботи, завдання для проведення диференційованого експрес-контролю знань і підсумкова контрольна робота.    Призначено для учнів 5-х класів НУШ, учителів та методистів математики.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Істер О. С.</param>
 <param name="Мова">українська</param>
 <param name="Вік">5 клас</param>
@@ -74776,7 +75613,30 @@
 <param name="Видавництво">АССА</param></offer>
 
 
-
+<offer id="32201" available="true" in_stock="true" selling_type="r" >
+<name>НУШ-2 КОМПЛЕКТ Навчальних посібників Українська мова та читання 3 клас у 4 частинах Пiдручники i посiбники Кравцова, Савчук (2025 рік)</name>
+<vendorCode>1210174</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/nush-2-komplekt-navchalnykh-posibnykiv-ukrainska-mova-ta-chytannia-3-klas-u-4-chastynakh-pidruchnyky-i-posibnyky-kravtsova-savchuk-2025-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>10</categoryId>
+<price>520</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/32201/nush_2_komplekt_navchalnih_posibnikiv_ukra_nska_mova_ta_chitannya_3_klas_u_4_chastinah_pidruchniki_i_posibniki_kravtsova_savchuk_2025_rik.jpg</picture>
+<vendor>Пiдручники i посiбники</vendor>
+<description>
+<![CDATA[КОМПЛЕКТ у 4 частинах НУШ Українська мова та читання: навчальний посібник. 3 клас Н. Кравцова, А. Савчук  Цікавий, змістовний навчальний посібник «Українська мова та читання. 3 клас» складається з чотирьох частин. Кожна частина вміщує два розділи: українська мова та читання. Навчальний посібник містить творчі диференційовані, мовно-логічні завдання, різноманітні мовні дослідження, завдання на розвиток мовлення та критичного мислення. Дітям сподобаються цікаві казки, оповідання, вірші, вирішення життєвих ситуацій. У посібнику особлива увага приділяється вправам для групової роботи, самооцінювання. У захопливій формі діти матимуть змогу вивчати українську мову. Навчальний посібник створено відповідно до Типової освітньої програми, розробленої під керівництвом О. Я. Савченко.]]></description>
+<quantity_in_stock>98</quantity_in_stock>
+<param name="Автор">Кравцова Н.,Савчук А.</param>
+<param name="Мова">українська</param>
+<param name="Вік">3 клас</param>
+<param name="Тип">Нав­чальний посібник, комплект</param>
+<param name="Серія">Нова українська школа (НУШ-2)</param>
+<param name="Кількість сторінок">96+96+96+96</param>
+<param name="Рік видання">2025</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка, ламінована</param>
+<param name="ISBN">9789660744844, 9789660744851, 9789660745148, 9789660745131</param>
+<param name="Формат, розмір">А4 (210*300 мм)</param>
+<param name="Видавництво">Підручники і посібники</param></offer>
 
 
 <offer id="32204" available="true" in_stock="true" selling_type="r" >
@@ -79878,7 +80738,7 @@
 <vendorCode>1210211</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/komplekt-litni-kanikuly-maibutnoho-druhoklasnyka-pidruchnyky-i-posibnyky-litnia-chytankalito-litechkomatematyka-iz-1-v-2-klas/</url>
 <currencyId>UAH</currencyId>
-<categoryId>23</categoryId>
+<categoryId>8</categoryId>
 <price>335</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32640/komplekt_litni_kanikuli_maybutnogo_drugoklasnika_pidruchniki_i_posibniki_litnya_chitanka_lito_litechko_matematika_iz_1_v_2_klas.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -79900,7 +80760,7 @@
 <vendorCode>1210212</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/komplekt-litni-kanikuly-maibutnoho-tretoklasnyka-pidruchnyky-i-posibnyky-litnia-chytankalito-litechkomatematyka-iz-2-v-3-klas/</url>
 <currencyId>UAH</currencyId>
-<categoryId>24</categoryId>
+<categoryId>9</categoryId>
 <price>360</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32641/komplekt_litni_kanikuli_maybutnogo_tretoklasnika_pidruchniki_i_posibniki_litnya_chitanka_lito_litechko_matematika_iz_2_v_3_klas.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -79922,7 +80782,7 @@
 <vendorCode>1210213</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/komplekt-litni-kanikuly-maibutnoho-chetvertoklasnyka-pidruchnyky-i-posibnyky-litnia-chytankalito-litechkomatematyka-iz-3-v-4-klas/</url>
 <currencyId>UAH</currencyId>
-<categoryId>25</categoryId>
+<categoryId>10</categoryId>
 <price>360</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32642/komplekt_litni_kanikuli_maybutnogo_chetvertoklasnika_pidruchniki_i_posibniki_litnya_chitanka_lito_litechko_matematika_iz_3_v_4_klas.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -79944,7 +80804,7 @@
 <vendorCode>9789660740266, 9789660742512</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/litni-zoshyty/4-klas-4/komplekt-litni-kanikuly-maibutnoho-p-iatyklasnyka-pidruchnyky-i-posibnyky-lito-litechko-matematyka-iz-4-v-5-klas/</url>
 <currencyId>UAH</currencyId>
-<categoryId>26</categoryId>
+<categoryId>11</categoryId>
 <price>215</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32643/komplekt_litni_kanikuli_maybutnogo_p_yatiklasnika_pidruchniki_i_posibniki_lito_litechko_matematika_iz_4_v_5_klas.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -79992,7 +80852,7 @@
 <vendorCode>9789660745384</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/litni-zoshyty/1-klas-4/nush-litnia-chytanka-z-1-v-2-klas-pidruchnyky-i-posibnyky-posibnyk-dlia-chytannia-vlitku-vozniuk-sapun/</url>
 <currencyId>UAH</currencyId>
-<categoryId>23</categoryId>
+<categoryId>8</categoryId>
 <price>125</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32647/nush_litnya_chitanka_z_1_v_2_klas_pidruchniki_i_posibniki_posibnik_dlya_chitannya_vlitku_voznyuk_sapun.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -80017,7 +80877,7 @@
 <vendorCode>9789660745391</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/litni-zoshyty/2-klas-4/nush-litnia-chytanka-z-2-v-3-klas-pidruchnyky-i-posibnyky-posibnyk-dlia-chytannia-vlitku-vozniuk-sapun/</url>
 <currencyId>UAH</currencyId>
-<categoryId>24</categoryId>
+<categoryId>9</categoryId>
 <price>125</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32648/nush_litnya_chitanka_z_2_v_3_klas_pidruchniki_i_posibniki_posibnik_dlya_chitannya_vlitku_voznyuk_sapun.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -80042,7 +80902,7 @@
 <vendorCode>9789660745407</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/litni-zoshyty/3-klas-4/nush-litnia-chytanka-z-3-v-4-klas-pidruchnyky-i-posibnyky-posibnyk-dlia-chytannia-vlitku-vozniuk-sapun/</url>
 <currencyId>UAH</currencyId>
-<categoryId>25</categoryId>
+<categoryId>10</categoryId>
 <price>125</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32649/nush_litnya_chitanka_z_3_v_4_klas_pidruchniki_i_posibniki_posibnik_dlya_chitannya_vlitku_voznyuk_sapun.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -80067,7 +80927,7 @@
 <vendorCode>9786178678401</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/litni-zoshyty/1-klas-4/nush-chytolito-z-1-v-2-klas-pidruchnyky-i-posibnyky-posibnyk-dlia-chytannia-vlitku-savchuk-sapun/</url>
 <currencyId>UAH</currencyId>
-<categoryId>23</categoryId>
+<categoryId>8</categoryId>
 <price>120</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32650/nush_chitolito_z_1_v_2_klas_pidruchniki_i_posibniki_posibnik_dlya_chitannya_vlitku_savchuk_sapun.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -80092,7 +80952,7 @@
 <vendorCode>9786178678418</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/litni-zoshyty/2-klas-4/nush-chytolito-z-2-v-3-klas-pidruchnyky-i-posibnyky-posibnyk-dlia-chytannia-vlitku-savchuk-sapun/</url>
 <currencyId>UAH</currencyId>
-<categoryId>24</categoryId>
+<categoryId>9</categoryId>
 <price>120</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32651/nush_chitolito_z_2_v_3_klas_pidruchniki_i_posibniki_posibnik_dlya_chitannya_vlitku_savchuk_sapun.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -80117,7 +80977,7 @@
 <vendorCode>9786178678425</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/litni-zoshyty/3-klas-4/nush-chytolito-z-3-v-4-klas-pidruchnyky-i-posibnyky-posibnyk-dlia-chytannia-vlitku-savchuk-sapun/</url>
 <currencyId>UAH</currencyId>
-<categoryId>25</categoryId>
+<categoryId>10</categoryId>
 <price>120</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32652/nush_chitolito_z_3_v_4_klas_pidruchniki_i_posibniki_posibnik_dlya_chitannya_vlitku_savchuk_sapun.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -80149,7 +81009,7 @@
 <vendorCode>1210214</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/litni-zoshyty/1-klas-4/komplekt-litni-kanikuly-maibutnoho-druhoklasnyka-pidruchnyky-i-posibnyky-chytolito-moie-vesele-lito-matematyka-iz-1-v-2-klas/</url>
 <currencyId>UAH</currencyId>
-<categoryId>23</categoryId>
+<categoryId>8</categoryId>
 <price>290</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32660/komplekt_litni_kanikuli_maybutnogo_drugoklasnika_pidruchniki_i_posibniki_chitolito_mo_vesele_lito_matematika_iz_1_v_2_klas.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -80172,7 +81032,7 @@
 <vendorCode>1210215</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/litni-zoshyty/2-klas-4/komplekt-litni-kanikuly-maibutnoho-tretoklasnyka-pidruchnyky-i-posibnyky-chytolito-moie-vesele-lito-matematyka-iz-2-v-3-klas/</url>
 <currencyId>UAH</currencyId>
-<categoryId>24</categoryId>
+<categoryId>9</categoryId>
 <price>290</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32661/komplekt_litni_kanikuli_maybutnogo_tretoklasnika_pidruchniki_i_posibniki_chitolito_mo_vesele_lito_matematika_iz_2_v_3_klas.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -80195,7 +81055,7 @@
 <vendorCode>1210216</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/litni-zoshyty/3-klas-4/komplekt-litni-kanikuly-maibutnoho-chetvertoklasnyka-pidruchnyky-i-posibnyky-chytolito-moie-vesele-lito-matematyka-iz-3-v-4-klas/</url>
 <currencyId>UAH</currencyId>
-<categoryId>25</categoryId>
+<categoryId>10</categoryId>
 <price>290</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32662/komplekt_litni_kanikuli_maybutnogo_chetvertoklasnika_pidruchniki_i_posibniki_chitolito_mo_vesele_lito_matematika_iz_3_v_4_klas.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -82870,7 +83730,30 @@
 <param name="ISBN">978-966-945-205-4</param>
 <param name="Формат, розмір">70х100/16</param>
 <param name="Видавництво">Літера</param></offer>
-
+<offer id="33023" available="true" in_stock="true" selling_type="r" >
+<name>НУШ-2 Комплект посібників Літера Українська мова та читання 4 клас у 5-ти частинах Олена Іщенко та ін. 2026 рік</name>
+<vendorCode>1210225</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-2-komplekt-posibnykiv-litera-ukrainska-mova-ta-chytannia-4-klas-u-5-ty-chastynakh-olena-ishchenko-ta-in-2026-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<price>750</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/33023/nush_2_komplekt_posibnikiv_litera_ukra_nska_mova_ta_chitannya_4_klas_u_5_ti_chastinah_olena_ishchenko_ta_in_2026_rik.jpg</picture>
+<vendor>Літера</vendor>
+<description>
+<![CDATA[Українська мова та читання. 4 клас. Навчальний посібник у 5-ти частинах   Комплект посібників "Українська мова та читання" для 4го класу продовжує лінійку сучасних посібників для початкової школи та включає у себе п'ять частин]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Олена Іщенко, Андрій Іщенко, Любов Зарольська</param>
+<param name="Мова">українська</param>
+<param name="Вік">4 клас</param>
+<param name="Тип">Нав­чальний посібник</param>
+<param name="Серія">Нова українська школа (НУШ-2)</param>
+<param name="Кількість сторінок">104+112+96+48+112</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-966-945-561-1, 978-966-945-562-8, 978-966-945-563-5, 978-966-945-564-2, 978-966-945-565-9</param>
+<param name="Формат, розмір">84х108/16</param>
+<param name="Видавництво">Літера</param></offer>
 
 
 
@@ -83110,7 +83993,31 @@
 
 
 
-
+<offer id="33066" available="true" in_stock="true" selling_type="r" >
+<name>НУШ-2 Комплект Навчальний посібник Ранок Математика 3 клас у 3-х частинах Скворцова, Онопрієнко 2026 рік</name>
+<vendorCode>1210228</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/3-klas-1/nush-2-komplekt-navchalnyi-posibnyk-ranok-matematyka-3-klas-u-3-kh-chastynakh-skvortsova-onopriienko-2026-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>10</categoryId>
+<price>510</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/33066/nush_2_komplekt_navchalniy_posibnik_ranok_matematika_3_klas_u_3_h_chastinah_skvortsova_onopri_nko_2026_rik.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[Комплект у 3-х частинах. Навчальний посібник Математика 3 клас. Скворцова, Онопрієнко 2026 Посібник є складником навчально-методичного комплекту з математики для 3 класу авторок Світлани Скворцової та Оксани Онопрієнко. Посібник складається з трьох частин. Кожна частина містить: тексти правил; зразки міркувань; завдання на актуалізацію опорних знань, створення проблемної ситуації та її розв’язання, первинне закріплення, формування вмінь і навичок, неперервне повторення. Навчальний матеріал поданий у цікавій та доступній формі з урахуванням психологічних особливостей сучасних третьокласників і третьокласниць. Комплект супроводжено інтерактивним електронним додатком, що дає можливість    учнівству виконати завдання до кожного уроку в режимах онлайн і офлайн, пройти тестування з автоматичною перевіркою результату до кожного розділу, унаочнити навчальний матеріал за допомогою 3D-моделей і відео; учительству — ознайомитись із методичними матеріалами.    Перейти до електронного додатка можна за QR-кодами, що розміщено безпосередньо біля тем уроків.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Скворцова С. О., Онопрієнко О. В.</param>
+<param name="Предмет">Математика</param>
+<param name="Мова">українська</param>
+<param name="Вік">3 клас</param>
+<param name="Тип">Нав­чальний посібник, комплект</param>
+<param name="Серія">Нова українська школа (НУШ-2)</param>
+<param name="Кількість сторінок">128+120+96</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет, двоколірна</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786178775100, 9786178775117, 9786178775124</param>
+<param name="Формат, розмір">200x260 мм</param>
+<param name="Видавництво">Ранок</param></offer>
 
 <offer id="33069" available="true" in_stock="true" selling_type="r" >
 <name>Мінішпаргалка Весна Хімія 7-11 клас Титаренко</name>
@@ -84537,7 +85444,31 @@
 
 
 
-
+<offer id="33155" available="true" in_stock="true" selling_type="r" >
+<name>НУШ-2 Комплект Навчальний посібник Ранок Математика 4 клас у 3-х частинах Скворцова, Онопрієнко 2026 рік</name>
+<vendorCode>1210230</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-2-komplekt-navchalnyi-posibnyk-ranok-matematyka-4-klas-u-3-kh-chastynakh-skvortsova-onopriienko-2026-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<price>510</price>
+<picture>https://knigovan.com/image/catalog/products/33155/nush-2-navchalniy-pos-bnik-ranok-matematika-4-klas-chastina-1-skvortsova-onopr-nko-2026-r-k-1.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[Комплект посібників в 3-х частинах "Математика" 4 клас ЗЗСО Скворцова, Онопрієнко 2026 рік  Посібник є складником навчально-методичного комплекту з математики для 4 класу авторок Світлани Скворцової та Оксани Онопрієнко. Посібник складається з трьох частин. Кожна частина містить: тексти правил; зразки міркувань; завдання на актуалізацію опорних знань, створення проблемної ситуації та її розв’язання, первинне закріплення, формування вмінь і навичок, неперервне повторення. Навчальний матеріал поданий у цікавій та доступній формі з урахуванням психологічних особливостей сучасних четвертокласників і четвертокласниць. Комплект супроводжено інтерактивним електронним додатком, що дає можливість учнівству виконати завдання до кожного уроку в режимах онлайн і офлайн, пройти тестування з автоматичною перевіркою результату до кожного розділу, унаочнити навчальний матеріал за допомогою 3D-моделей і відео; учительству — ознайомитись із методичними матеріалами. Перейти до електронного додатка можна за QR-кодами, що розміщено безпосередньо біля тем уроків. Деякі уроки в електронному додатку об’єднано в блоки — юніти. У такому випадку код стоїть біля першої теми юніта.  Призначено для учнів і учениць 4 класу закладів загальної середньої освіти та вчителів і вчительок початкових класів.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Скворцова С. О., Онопрієнко О. В.</param>
+<param name="Предмет">Математика</param>
+<param name="Мова">українська</param>
+<param name="Вік">4 клас</param>
+<param name="Тип">Нав­чальний посібник, комплект</param>
+<param name="Серія">Нова українська школа (НУШ-2)</param>
+<param name="Кількість сторінок">96+128+128</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786178933494, 9786178933500, 9786178933517</param>
+<param name="Формат, розмір">200x260 мм</param>
+<param name="Видавництво">Ранок</param></offer>
 
 
 
@@ -85121,7 +86052,30 @@
 
 
 
-
+<offer id="33227" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Каліграфічний зошит-шаблон Школа Стандартний розмір графічної сітки Червоний Василь Федієнко</name>
+<vendorCode>9786177106317</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/1-klas-1/nush-kalihrafichnyi-zoshyt-shablon-shkola-standartnyi-rozmir-hrafichnoi-sitky-chervonyi/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>50</price>
+<picture>https://knigovan.com/image/catalog/products/33227/nush-kal-graf-chniy-zoshit-shablon-shkola-standartniy-rozm-r-graf-chno-s-tki-bordoviy-1.png</picture>
+<vendor>Школа</vendor>
+<description>
+<![CDATA[Каліграфічний зошит-шаблон. Cтандартний розмір графічної сітки (ЧЕРВОНИЙ зошит) Процес опанування навичок письма — нелегка праця для дитини шести-семи років. Надважливим моментом є вибір відповідного посібника, що враховує вікові фізіологічні та психологічні особливості дітей цього віку. Модернізована графічна сітка для навчання каліграфії та корекції почерку зберігає звичний для нас тип і склад ліній, проте має низку суттєвих відмінностей, у яких і полягає зміст удосконалення. Уведено допоміжні часті похилі лінії через кожні 3–3,5 мм. На першому етапі відстань між рядковими і міжрядковими лініями збільшується на двадцять — двадцять п’ять відсотків. Похилі лінії через певний інтервал зроблені товщими, аби позбавити графічну сітку монотонності. Дитині пропонується удосконалений графічний шаблон — густа похила сітка, кожна чарунка якої призначена для вписування в неї елемента букви або з’єднання. Працюючи з таким шаблоном, дитина легше і швидше навчиться дотримуватися правильного нахилу в процесі письма, однакової висоти і ширини букв, відстані між буквами, словами.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Василь Федієнко</param>
+<param name="Мова">українська</param>
+<param name="Вік">6-7 рокiв</param>
+<param name="Тип">Робочий зошит</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">32</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет, двоколірна</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-617-7106-31-7</param>
+<param name="Формат, розмір">205 х 170 х 1 мм</param>
+<param name="Видавництво">Школа</param></offer>
 <offer id="33228" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Вчимося читати англійською Абетка Let&apos;s read. Listen, read and write. 1 клас. Доценко, Євчук</name>
 <vendorCode>9789669778024</vendorCode>
@@ -85940,7 +86894,30 @@
 
 
 
-
+<offer id="33294" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Контурні карти Оріон Географія: Україна та світове господарство 9 клас Руденко, 2026 рік</name>
+<vendorCode>9789669915450</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/9-klas-2/nush-konturni-karty-orion-heohrafiia-ukraina-ta-svitove-hospodarstvo-9-klas-rudenko-2026-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>51</categoryId>
+<price>50</price>
+<picture>https://knigovan.com/image/catalog/products/33294/nush-konturn-karti-or-on-ukra-na-priroda-prirodokoristuvannya-geograf-ya-8-klas-rudenko-s-2025-r-k-1.jpeg</picture>
+<vendor>Оріон</vendor>
+<description>
+<![CDATA[Географія. Контурні карти Географія: Україна та світове господарство 9 клас НУШ Контурні карти призначені для практичного опрацювання навчального матеріалу. З їхньою допомогою учні наносять географічні об’єкти, позначають території та кордони, працюють з умовними знаками, створюють легенди карт і закріплюють знання, отримані під час роботи з підручником та атласом. Кількість карт і їхня тематика дозволяють виконати всі практичні роботи, рекомендовані діючою навчальною програмою.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Руденко І.С.</param>
+<param name="Предмет">Географія</param>
+<param name="Мова">українська</param>
+<param name="Вік">9 клас</param>
+<param name="Тип">Контурні карти</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет, двоколірна</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9789669915450</param>
+<param name="Формат, розмір">220х280 мм</param>
+<param name="Видавництво">Оріон</param></offer>
 <offer id="33295" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Комплект зошитів у 2-х частинах Літера Українська мова 7 клас до підручника Онатій, Ткачук + Оцінювання за групами результатів</name>
 <vendorCode>9789669454737, 9789669454898</vendorCode>
@@ -87579,4 +88556,101 @@
 <param name="Видавництво">Ранок</param></offer>
 
 
-</offers></shop></yml_catalog>
+
+<offer id="33400" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Збірник тестів Лібра Терра Англійська мова 9 клас English 9. Kids Online Карпюк, 2026 рік</name>
+<vendorCode>9786176091554</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/9-klas-1/nush-zbirnyk-testiv-libra-terra-anhliiska-mova-9-klas-english-9-kids-online-karpiuk-2026-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>51</categoryId>
+<price>115</price>
+<picture>https://knigovan.com/image/catalog/products/33400/nush-zb-rnik-test-v-l-bra-terra-angl-yska-mova-8-klas-english-8-kids-online-karpyuk-2025-r-k-1.jpg</picture>
+<vendor>Лібра Терра</vendor>
+<description>
+<![CDATA[Збірник тестів для поточного та семестрового контролю з англійської мови у 9 класі НУШ автора К. Карпюк (з аудіосупроводом)  У збірнику наведено 8 діагностичних робіт для поточного конт­ролю та визначення рівня опанування навчального матеріалу кожного розділу НМК. Посібник також містить 2 діагностичні роботи для підсумкового контролю наприкінці кожного семестру, які розраховано на 2 навчальні години (відповідно частини А і В). Тестовий збірник містить аудіосупровід, який є у вільному доступі на сайті видавництва.  Отримати збірник тестів для поточного і семестрового контролю БЕЗКОШТОВНО Ви можете, придбавши зошит з граматики.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">К.Карпюк</param>
+<param name="Предмет">Англійська мова</param>
+<param name="Мова">українська, англійська</param>
+<param name="Вік">9 клас</param>
+<param name="Тип">Робочий зошит</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">48</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-617-609-155-4</param>
+<param name="Формат, розмір">70х100 1/16</param>
+<param name="Видавництво">Лiбра Терра</param></offer>
+<offer id="33401" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Зошит моїх досягнень Освіта Історія України 9 клас Олена Пометун, Ольга Дудар – 2026 рік</name>
+<vendorCode>9789669836700</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/9-klas-1/nush-zoshyt-moikh-dosiahnen-osvita-istoriia-ukrainy-9-klas-olena-pometun-olha-dudar-2026-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>51</categoryId>
+<price>130</price>
+<picture>https://knigovan.com/image/catalog/products/33401/nush-zoshit-mo-h-dosyagnen-osv-ta-stor-ya-ukra-ni-8-klas-pometun-2025-r-k-1.jpeg</picture>
+<vendor>Освіта-Центр</vendor>
+<description>
+<![CDATA[Історія України. Зошит моїх досягнень. 9 клас. НУШ (Олена Пометун, Ольга Дудар) За модельною навчальною програмою "Історія України 7-9 класи" для закладів загальної середньої освіти (автори Пометун О.І., Ремех Т.О., Гупан Н.М., Малієнко Ю.Б., Сєрова Г.В.)  Оцінювання трьох груп результатів:   Орієнтування в історичному часі і просторі. Робота з інформацією історичного і суспільнознавчого змісту. Уміння співпрацювати, виявляти толерантність і громадянську активність.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Олена Пометун, Ольга Дудар</param>
+<param name="Предмет">Історія України</param>
+<param name="Мова">українська</param>
+<param name="Вік">9 клас</param>
+<param name="Тип">Зошит для оцінювання учнів</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">64</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-966-983-670-0</param>
+<param name="Видавництво">Освіта-Центр</param></offer>
+<offer id="33402" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Зошит моїх досягнень Освіта Геометрія 9 клас Григорій Бевз, 2026 рік</name>
+<vendorCode>9789669836748</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/9-klas-1/nush-zoshyt-moikh-dosiahnen-osvita-heometriia-9-klas-hryhorii-bevz-2026-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>51</categoryId>
+<price>130</price>
+<picture>https://knigovan.com/image/catalog/products/33402/nush-zoshit-mo-h-dosyagnen-osv-ta-geometr-ya-8-klas-bevz-2025-r-k-1.jpeg</picture>
+<vendor>Освіта-Центр</vendor>
+<description>
+<![CDATA[Геометрія. Зошит моїх досягнень. 9 клас. НУШ (Григорій Бевз, Валентина Бевз, Дарина Васильєва, Наталія Владімірова) До модельної навчальної програми "Геометрія 7-9 класи" для закладів загальної середньої освіти (автори Бурда М.І., Тарасенкова Н.А., Васильєва Д.В.) У зошиті запропоновано роботи у 2 варіантах за кожною програмовою темою:  6 самостійних робіт у 2 варіантах; 6 тематичних робіт у 2 варіантах; 6 окремих робіт у 2 варіантах для перевірки груп результатів: дослідження проблемних ситуацій і створення математичних моделей та інтерпретація і критичний аналіз результатів.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Григорій Бевз, Валентина Бевз, Дарина Васильєва, Наталія Владімірова</param>
+<param name="Предмет">Геометрія</param>
+<param name="Мова">українська</param>
+<param name="Вік">9 клас</param>
+<param name="Тип">Зошит для оцінювання учнів</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">64</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет, чорно-білий</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-966-983-674-8</param>
+<param name="Видавництво">Освіта-Центр</param></offer>
+<offer id="33403" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Зошит моїх досягнень Освіта Алгебра 9 клас Григорій Бевз, 2026 рік</name>
+<vendorCode>9789669836731</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/9-klas-1/nush-zoshyt-moikh-dosiahnen-osvita-alhebra-9-klas-hryhorii-bevz-2026-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>51</categoryId>
+<price>130</price>
+<picture>https://knigovan.com/image/catalog/products/33403/nush-zoshit-mo-h-dosyagnen-osv-ta-algebra-8-klas-bevz-2025-r-k-1.jpeg</picture>
+<vendor>Освіта-Центр</vendor>
+<description>
+<![CDATA[Алгебра. Зошит моїх досягнень. 9 клас. НУШ (Григорій Бевз, Валентина Бевз, Дарина Васильєва, Наталія Владімірова)  До модельної навчальної програми "Алгебра 7-9 класи" для закладів загальної середньої освіти (автори Бурда М.І., Тарасенкова Н.А., Васильєва Д.В.) У зошиті запропоновано роботи у 2 варіантах за кожною програмовою темою:     5 самостійних робіт у 2 варіантах;    5 тематичних робіт у 2 варіантах;    5 окремих робіт у 2 варіантах для перевірки груп результатів: дослідження проблемних ситуацій і створення математичних моделей та інтерпретація і критичний аналіз результатів.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Григорій Бевз, Валентина Бевз, Дарина Васильєва, Наталія Владімірова</param>
+<param name="Предмет">Алгебра</param>
+<param name="Мова">українська</param>
+<param name="Вік">9 клас</param>
+<param name="Тип">Зошит для оцінювання учнів</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">56</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет, чорно-білий</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-966-983-673-1</param>
+<param name="Видавництво">Освіта-Центр</param></offer></offers></shop></yml_catalog>
