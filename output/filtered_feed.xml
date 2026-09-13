@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-09-12 12:00">
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-09-13 12:00">
 <shop>
 <url>https://knigovan.com/</url>
 <name>Книгован</name>
@@ -6934,28 +6934,7 @@
 
 
 
-<offer id="24712" available="true" in_stock="true" selling_type="r" >
-<name>НУШ. Англійська мова. Зошит з письма для 1 класу. Прописні літери</name>
-<vendorCode>9789660732766</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/1-klas-1/nush-anhliiska-mova-zoshyt-z-pysma-dlia-1-klasu-propysni-litery/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>55</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/24712/nush_angliyska_mova_zoshit_z_pisma_dlya_1_klasu_propisni_literi.jpg</picture>
-<vendor>Пiдручники i посiбники</vendor>
-<description>
-<![CDATA[Зошит " Англійська мова. Зошит з письма для 1 класу закладів загальної середньої освіти (до чинних підручників Нової української школи). Прописні літери " укладено відповідно до чинних програм МОН України та підручників з англійської мови для 1-го класу Нової української школи. Посібник розроблено з використанням прописних літер, що допоможе учням опанувати графіку ангійської мови.        Для учнів 1-го класу та вчителів англійської мови.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Вітушинська Н., Косован О.</param>
-<param name="Мова">англійська</param>
-<param name="Вік">1 клас</param>
-<param name="Тип">Робочий зошит</param>
-<param name="Серія">Нова українська школа</param>
-<param name="Кількість сторінок">32</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="ISBN">9789660732766</param>
-<param name="Формат, розмір">В5 (180*250 мм)</param>
-<param name="Видавництво">Підручники і посібники</param></offer>
+
 <offer id="24713" available="true" in_stock="true" selling_type="r" >
 <name>Англійська мова. Таблиці та схеми. Середній рівень</name>
 <vendorCode>9789660732810</vendorCode>
@@ -15814,7 +15793,7 @@
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/nush-anhliiska-abetka-zoshyt-z-pysma-dlia-1-klasu-propysni-litery/</url>
 <currencyId>UAH</currencyId>
 <categoryId>8</categoryId>
-<price>50</price>
+<price>55</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25937/nush_angliyska_abetka_zoshit_z_pisma_dlya_1_klasu_propisni_literi.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
 <description>
@@ -25738,30 +25717,7 @@
 
 
 
-<offer id="26984" available="true" in_stock="true" selling_type="r" >
-<name>Книга класного вчителя Соняшник Біологія 9 клас Шаламов</name>
-<vendorCode>9789669714763</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/rozrobky-urokiv/9-klas/knyha-klasnoho-vchytelia-soniashnyk-biolohiia-9-klas-shalamov/</url>
-<currencyId>UAH</currencyId>
-<categoryId>43</categoryId>
-<price>72</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/26984/kniga_klasnogo_vchitelya_sonyashnik_biologiya_9_klas_shalamov.jpg</picture>
-<vendor>Соняшник</vendor>
-<description>
-<![CDATA[Книга класного вчителя Соняшник Біологія 9 клас Р. Шаламов.   Книга для вчителя біології за курс 9 класу складена відповідно чинної навчальної програми з біології для загальноосвітніх навчальних закладів за Державним стандартом базової і повної загальної освіти. Книга містить численні матеріали для конструювання уроків.  Книга призначена для учителів біології, студентів біологічних спеціальностей педагогічних ВНЗ.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Автор">Георгій Носов, Руслан Шаламов</param>
-<param name="Мова">українська</param>
-<param name="Вік">9 класс</param>
-<param name="Тип">Методичний посібник</param>
-<param name="Серія">Книга для вчителя</param>
-<param name="Кількість сторінок">144</param>
-<param name="Рік видання">2017</param>
-<param name="Тип паперу">офсет</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789669714763</param>
-<param name="Формат, розмір">17х24 см</param>
-<param name="Видавництво">Соняшник</param></offer>
+
 
 
 
@@ -31078,7 +31034,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[НУШ Математика 4 клас. Робочий зошит з математики. Наталія Листопад.  Навчальний посібник для учнів 4-го класу. Схвалено для використання в загальноосвітніх навчальних закладах комісією з педагогіки та методики початкового навчання Науково-методичної ради з питань освіти Міністерства освіти і науки України]]></description>
-<quantity_in_stock>92</quantity_in_stock>
+<quantity_in_stock>91</quantity_in_stock>
 <param name="Автор">Наталія Листопад</param>
 <param name="Предмет">Математика</param>
 <param name="Мова">українська</param>
@@ -43339,7 +43295,7 @@
 <vendor>АССА</vendor>
 <description>
 <![CDATA[Хоробрі казки. Ірина Виговська, Вікторія Мурована (Суспільне Мовлення)   Ця дивовижна книга — для найхоробріших українських дітей і батьків.  «Хоробрі казки» — це терапевтичні розповіді про досвід українських родин. Ці родини різні, як і всі ми, але кожна має свою історію життя в нових реаліях воєнного часу. В основу казок лягло дванадцять найважливіших тем: дружба, підтримка, розлука, доброта, солідарність, втрата, належність до спільноти, віра у спільну перемогу та інші. А головне, що кожна історія в цій книзі — зі щасливим завершенням. За час великих випробувань українці змінилися, згуртувалися, зміцніли. Читайте разом цікаві історії про дружбу, підтримку, сміливість і єдність. Пам'ятайте, добро завжди долає зло. А віра в перемогу зігріває і додає сил та хоробрості. Перші 100 замовників отримають в подарунок колекційні наліпки (стікерпак) з зображеннями героїв книги.  Чому варто читати:  Дванадцять казок нового часу правдиво, але делікатно і з повагою пояснюють усе, що відбувається навколо. За словами психологині Маріанни Новаковської, яка разом з авторками працювала над книжкою, «Хоробрі казки» допоможуть пояснити дитині складні ситуації, розкажуть, як можна впоратися з емоціями, коли буває сумно, тривожно чи щось незрозуміло. Ця книга – підбірка історій, які стануть опорою для дитини і підкажуть безпечний спосіб прожити непрості ситуації та віднайти свою власну хоробрість». Завдяки QR-кодам, які розміщені у книжці, читачі зможуть послухати казки у виконанні відомих українців: Юлії Саніної, Злати Огневич, Сергія Притули, Павла Вишебаби, Тараса Компаніченка, Ірми Вітовської, Антоніни Хижняк та інших. У вересні 2023 року проєкт «Хоробрі казки» здобув друге місце у категорії «цифровий контент» на міжнародному фестивалі «Серце Європи».  Авторки:  Ірина Виговська – письменниця, копірайтерка, редакторка та керівниця соціальних мереж The Village Україна. Вікторія Мурована – головна продюсерка цифрових платформ Суспільного Мовлення, членкиня наглядової ради благодійного фонду Ukraine Volya Foundation (UVF).]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Ірина Виговська, Вікторія Мурована</param>
 <param name="Мова">українська</param>
 <param name="Вік">4-9 років</param>
@@ -46070,12 +46026,132 @@
 
 
 
-
-
-
-
-
-
+<offer id="29505" available="true" in_stock="true" selling_type="r" >
+<name>Логопедичний зошит Богдан Звуки [с]-[з], [с]-[с&apos;], [з]-[з&apos;] для учнів 2-4 класів Дяченко Катерина</name>
+<vendorCode>9789661023689</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/lohopedychnyi-zoshyt-bohdan-zvuky-s-z-s-s-z-z-dlia-uchniv-2-4-klasiv-diachenko-kateryna/</url>
+<currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<price>80</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/29505/logopedichniy_zoshit_bogdan_zvuki_s_z_s_s_z_z_dlya_uchniv_2_4_klasiv_dyachenko_katerina.jpg</picture>
+<vendor>Богдан</vendor>
+<description>
+<![CDATA[Звуки [с]-[з], [с]-[с'], [з]-[з'] : логопедичний зошит для учнів 2-4 класів. Дяченко Катерина Григорівна.  Логопедичний зошит укладено за посібником К.Г. Дяченко «Інновації в корекції писемного мовлення молодших школярів», щоб допомогти учням подолати вади писемного мовлення. В даному посібнику подано систему завдань із урахуванням диференційованого підходу для усунення вад писемного мовлення в учнів 2-4 класів загальноосвітньої школи.     Логопедичний зошит адресовано логопедам, вчителям, учням початкових класів, а також батькам, які бажають допомогти своїм дітям у навчанні.     Зміст:     Звернення до учнів Диференціація звуків [с] - [з] Розрізнення звуків [с] - [с'] Розрізнення звуків [з] - [з'] Пам’ятка]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Дяченко Катерина Григорівна</param>
+<param name="Мова">українська</param>
+<param name="Вік">2-4 клас</param>
+<param name="Кількість сторінок">72</param>
+<param name="Тип паперу">офсет, чорно-біла</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-966-10-2368-9</param>
+<param name="Формат, розмір">170х200 мм.</param>
+<param name="Видавництво">Богдан</param></offer>
+<offer id="29506" available="true" in_stock="true" selling_type="r" >
+<name>Логопедичний зошит Богдан Звуки [п]-[б], [ф]-[в], [г]-[к]-[х] для учнів 2-4 класів Дяченко Катерина</name>
+<vendorCode>9789661023696</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/lohopedychnyi-zoshyt-bohdan-zvuky-p-b-f-v-h-k-kh-dlia-uchniv-2-4-klasiv-diachenko-kateryna/</url>
+<currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<price>80</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/29506/logopedichniy_zoshit_bogdan_zvuki_p_b_f_v_g_k_h_dlya_uchniv_2_4_klasiv_dyachenko_katerina.jpg</picture>
+<vendor>Богдан</vendor>
+<description>
+<![CDATA[Звуки [п]-[б], [ф]-[в], [г]-[к]-[х] : логопедичний зошит для учнів 2-4 класів. Дяченко Катерина Григорівна.  Логопедичний зошит укладено за посібником К.Г. Дяченко «Інновації в корекції писемного мовлення молодших школярів», щоб допомогти учням подолати вади писемного мовлення. В даному посібнику подано систему завдань із урахуванням диференційованого підходу для усунення вад писемного мовлення в учнів 2 - 4 класів загальноосвітньої школи.     Логопедичний зошит адресовано логопедам, вчителям, учням початкових класів, а також батькам, які бажають допомогти своїм дітям у навчанні.       Зміст:     Звернення до учнів Диференціація звуків [п] - [б] Диференціація звуків [ф] - [в] Диференціація звуків  [г] - [к] - [х]]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Дяченко Катерина Григорівна</param>
+<param name="Мова">українська</param>
+<param name="Вік">2-4 клас</param>
+<param name="Кількість сторінок">80</param>
+<param name="Тип паперу">офсет, чорно-біла</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-966-10-2369-6</param>
+<param name="Формат, розмір">170х200 мм.</param>
+<param name="Видавництво">Богдан</param></offer>
+<offer id="29507" available="true" in_stock="true" selling_type="r" >
+<name>Логопедичний зошит Богдан Звуки [р]-[л], [л]-[л&apos;], [р]-[р&apos;] для учнів 2-4 класів Дяченко Катерина</name>
+<vendorCode>9789661023702</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/lohopedychnyi-zoshyt-bohdan-zvuky-r-l-l-l-r-r-dlia-uchniv-2-4-klasiv-diachenko-kateryna/</url>
+<currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<price>80</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/29507/logopedichniy_zoshit_bogdan_zvuki_r_l_l_l_r_r_dlya_uchniv_2_4_klasiv_dyachenko_katerina.jpg</picture>
+<vendor>Богдан</vendor>
+<description>
+<![CDATA[Звуки [р]-[л], [л]-[л'], [р]-[р'] : логопедичний зошит для учнів 2-4 класів. Дяченко Катерина Григорівна.  Логопедичний зошит укладено за посібником К.Г. Дяченко «Інновації в корекції писемного мовлення молодших школярів», щоб допомогти учням подолати вади писемного мовлення. В даному посібнику подано систему завдань із урахуванням диференційованого підходу для усунення вад писемного мовлення в учнів 2-4 класів загальноосвітньої школи.    Логопедичний зошит адресовано логопедам, вчителям, учням початкових класів, а також батькам, які бажають допомогти своїм дітям у навчанні.         Зміст:     Звернення до учнів. Диференціація звуків [л] - [р].  Розрізнення звуків [р] - [р’]. Розрізнення звуків [л] - [л’]. Пам’ятка.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Дяченко Катерина Григорівна</param>
+<param name="Мова">українська</param>
+<param name="Вік">2-4 клас</param>
+<param name="Кількість сторінок">80</param>
+<param name="Тип паперу">офсет, чорно-біла</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-966-10-2370-2</param>
+<param name="Формат, розмір">170х200 мм.</param>
+<param name="Видавництво">Богдан</param></offer>
+<offer id="29508" available="true" in_stock="true" selling_type="r" >
+<name>Логопедичний зошит Богдан Звуки [ш]-[ж], [с]-[ш], [з]-[ж], [ц]-[щ] для учнів 2-4 класів Дяченко Катерина</name>
+<vendorCode>9789661023733</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/lohopedychnyi-zoshyt-bohdan-zvuky-sh-zh-s-sh-z-zh-ts-shch-dlia-uchniv-2-4-klasiv-diachenko-kateryna/</url>
+<currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<price>80</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/29508/logopedichniy_zoshit_bogdan_zvuki_sh_zh_s_sh_z_zh_ts_shch_dlya_uchniv_2_4_klasiv_dyachenko_katerina.jpg</picture>
+<vendor>Богдан</vendor>
+<description>
+<![CDATA[Звуки [ш]-[ж], [с]-[ш], [з]-[ж], [ц]-[щ] : логопедичний зошит для учнів 2-4 класів. Дяченко Катерина Григорівна.  Логопедичний зошит укладено за посібником К.Г. Дяченко «Інновації в корекції писемного мовлення молодших школярів», щоб допомогти учням подолати вади писемного мовлення. В даному посібнику подано систему завдань із урахуванням диференційованого підходу для усунення вад писемного мовлення в учнів 2-4 класів загальноосвітньої школи.    Логопедичний зошит адресовано вчителям-логопедам, вчителям, учням початкових класів, а також батькам, які бажають допомогти своїм дітям у навчанні.           Зміст:        Звернення до учнів.  Диференціація звуків [ш] - [ж]. Диференціація звуків [с] - [ш]. Диференціація звуків [з] - [ж]. Диференціація звуків [ч] - [щ]. Пам’ятка.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Дяченко Катерина Григорівна</param>
+<param name="Мова">українська</param>
+<param name="Вік">2-4 клас</param>
+<param name="Кількість сторінок">116</param>
+<param name="Тип паперу">офсет, чорно-біла</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-966-10-2373-3</param>
+<param name="Формат, розмір">170х200 мм.</param>
+<param name="Видавництво">Богдан</param></offer>
+<offer id="29509" available="true" in_stock="true" selling_type="r" >
+<name>Логопедичний зошит Богдан Звуки [ч]-[ц], [ц]-[ц&apos;], [с]-[ц], [с]-[ч] для учнів 2-4 класів Дяченко Катерина</name>
+<vendorCode>9789661023726</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/lohopedychnyi-zoshyt-bohdan-zvuky-ch-ts-ts-ts-s-ts-s-ch-dlia-uchniv-2-4-klasiv-diachenko-kateryna/</url>
+<currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<price>80</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/29509/logopedichniy_zoshit_bogdan_zvuki_ch_ts_ts_ts_s_ts_s_ch_dlya_uchniv_2_4_klasiv_dyachenko_katerina.jpg</picture>
+<vendor>Богдан</vendor>
+<description>
+<![CDATA[Звуки [ч]-[ц], [ц]-[ц'], [с]-[ц], [с]-[ч] : логопедичний зошит для учнів 2-4 класів. Дяченко Катерина Григорівна.   Логопедичний зошит укладено за посібником К.Г. Дяченко «Інновації в корекції писемного мовлення молодших школярів», щоб допомогти учням подолати вади писемного мовлення. В даному посібнику подано систему завдань із урахуванням диференційованого підходу для усунення вад писемного мовлення в учнів 2-4 класів загальноосвітньої школи.    Логопедичний зошит адресовано вчителям-логопедам, вчителям, учням початкових класів, а також батькам, які бажають допомогти своїм дітям у навчанні.             Зміст:          Звернення до учнів  Диференціація звуків [ч] - [ц] Розрізнення звуків [ц] - [ц′] Диференціація звуків [с] - [ц] Диференціація звуків [с] - [ч] Пам’ятка]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Дяченко Катерина Григорівна</param>
+<param name="Мова">українська</param>
+<param name="Вік">2-4 клас</param>
+<param name="Кількість сторінок">104</param>
+<param name="Тип паперу">офсет, чорно-біла</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-966-10-2372-6</param>
+<param name="Формат, розмір">170х200 мм.</param>
+<param name="Видавництво">Богдан</param></offer>
+<offer id="29510" available="true" in_stock="true" selling_type="r" >
+<name>Логопедичний зошит Богдан Звуки [т]-[д], [д]-[д&apos;], [т]-[т&apos;] для учнів 2-4 класів Дяченко Катерина</name>
+<vendorCode>9789661023719</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/lohopedychnyi-zoshyt-bohdan-zvuky-t-d-d-d-t-t-dlia-uchniv-2-4-klasiv-diachenko-kateryna/</url>
+<currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<price>80</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/29510/logopedichniy_zoshit_bogdan_zvuki_t_d_d_d_t_t_dlya_uchniv_2_4_klasiv_dyachenko_katerina.jpg</picture>
+<vendor>Богдан</vendor>
+<description>
+<![CDATA[Звуки [т]-[д], [д]-[д'], [т]-[т'] : логопедичний зошит для учнів 2-4 класів. Дяченко Катерина Григорівна.   Логопедичний зошит укладено за посібником К.Г. Дяченко «Інновації в корекції писемного мовлення молодших школярів», щоб допомогти учням подолати вади писемного мовлення. В даному посібнику подано систему завдань із урахуванням диференційованого підходу для усунення вад писемного мовлення в учнів 2-4 класів загальноосвітньої школи.    Логопедичний зошит адресовано вчителям-логопедам, вчителям, учням початкових класів, а також батькам, які бажають допомогти своїм дітям у навчанні.               Зміст:            Юний друже!  Диференціація звуків [т] - [д]. Розрізнення звуків [д] - [д´]. Розрізнення звуків [т] - [т´]. Пам’ятка роботи над помилками.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Дяченко Катерина Григорівна</param>
+<param name="Мова">українська</param>
+<param name="Вік">2-4 клас</param>
+<param name="Кількість сторінок">76</param>
+<param name="Тип паперу">офсет, чорно-біла</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-966-10-2371-9</param>
+<param name="Формат, розмір">170х200 мм.</param>
+<param name="Видавництво">Богдан</param></offer>
 
 
 
@@ -58333,7 +58409,7 @@
 <vendorCode>9786170043078</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-virshykiv-opovidan/nikoly-ne-nudno-osnova-dytiacha-khudozhnia-literatura-renata-pontkovska/</url>
 <currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
+<categoryId>141</categoryId>
 <price>350</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30979/nikoli_ne_nudno_osnova_dityacha_hudozhnya_literatura_renata_pontkovska.jpg</picture>
 <vendor>Основа</vendor>
@@ -59183,28 +59259,7 @@
 <param name="ISBN">9789660743588</param>
 <param name="Формат, розмір">В5 (180*250 мм)</param>
 <param name="Видавництво">Підручники і посібники</param></offer>
-<offer id="31088" available="true" in_stock="true" selling_type="r" >
-<name>Хрестоматія для читання Основа Казки, які навчають та виховують дітям дошкільного та молодшого шкільного віку Харченко</name>
-<vendorCode>9786170043368</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/khrestomatiia-dlia-chytannia-osnova-kazky-yaki-navchaiut-ta-vykhovuiut-ditiam-doshkilnoho-ta-molodshoho-shkilnoho-viku-kharchenko/</url>
-<currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
-<price>320</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/31088/hrestomatiya_dlya_chitannya_osnova_kazki_yaki_navchayut_ta_vihovuyut_dityam_doshkilnogo_ta_molodshogo_shkilnogo_viku_harchenko.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[Казки, які навчають та виховують. Хрестоматія для читання дітям дошкільного та молодшого шкільного віку    Чому кульбабки біліють? Чому шнурки необхідно зав’язувати? А чому на дорозі малюють «зебру»?    Усі ці питання цікавлять маленьких чомусиків та дослідників! Як склад но іноді розповісти про звичайні речі так, щоб допитливий малюк усе зрозумів. І найкраща мова, яка допоможе усе пояснити, — мова казок. У книзі ви знайдете понад 100 авторських казок з повчальним, пізнавальним, виховним характером. Вони допоможуть навчити дитину дружити, товаришувати, увічливо ставитися до природи та оточення, розширять її кругозір. Усі історії коротенькі, але змістовні, тому чудово підходять для наймолодших малюків. Читати їх можна разом перед сном, на прогулянці, у дорозі.  Бонус до книги!  У безкоштовному додатку містяться аудіоказки. які можна завантажити, скориставшись QR кодом на обкладинці. Цей посібник буде корисним для вихователів закладів дошкільної освіти, учителів початкової школи та турботливих батьків.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Автор">Харченко О.Ю.</param>
-<param name="Мова">українська</param>
-<param name="Вік">дошкільний, молодший шкільний</param>
-<param name="Тип">Хрестоматія</param>
-<param name="Кількість сторінок">176</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">офсет, чорно-біла</param>
-<param name="ISBN">9786170043368</param>
-<param name="Формат, розмір">130х150 мм</param>
-<param name="Видавництво">Основа</param></offer>
+
 
 
 
@@ -60715,7 +60770,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[Тренувальник. Українська мова. 1 клас. Пашковська І. Мета посібників «Тренувальник з української мови» навчити учнів писати без помилок найуживаніші слова за новим правописом. Основні правила, тренувальні вправи, вкладка-відповіді до всіх завдань і сторінка-сюрприз для батьків — це те, що неодмінно допоможе в навчанні онлайн та на канікулах. У навчальному посібнику дібрано бліцзавдання для формування орфографічних навичок другокласників. Ці завдання учитель може запропонувати як для виконання на уроці, так і для самостійної роботи вдома в умовах дистанційного навчання чи на канікулах.    Для учнів 1 класу, учителів, батьків.]]></description>
-<quantity_in_stock>98</quantity_in_stock>
+<quantity_in_stock>97</quantity_in_stock>
 <param name="Автор">Пашковська І.</param>
 <param name="Мова">українська</param>
 <param name="Вік">1 клас</param>
@@ -60865,7 +60920,7 @@
 <vendorCode>9786170043429</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-virshykiv-opovidan/mriia-sirka-opovidannia-dlia-ditei-pro-liudianist-smilyvist-i-zdiisnennia-mrii-osnova-dytiacha-khudozhnia-literatura-kateryna-duboiska/</url>
 <currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
+<categoryId>141</categoryId>
 <price>300</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31252/mriya_sirka_opovidannya_dlya_ditey_pro_lyudyanist_smilivist_i_zdiysnennya_mriy_osnova_dityacha_hudozhnya_literatura_katerina_duboyska.jpg</picture>
 <vendor>Основа</vendor>
@@ -76740,7 +76795,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[НУШ Малюй словом. 4 клас. Зошит з розвитку мовлення. Пономарьова К.І.  Зошит з розвитку мовлення 4 клас Малюю словом до підручника К. Пономарьової НУШ Оріон. Навчальний посібник для учнів 4-го класу.    Складова частина навчально-методичного комплекту з української мови до підручника Українська мова та читання К. І. Пономарьова.   Схвалено для використання в загальноосвітніх навчальних закладах комісією з педагогіки та методики початкового навчання   Науково-методичної ради з питань освіти Міністерства освіти і науки України]]></description>
-<quantity_in_stock>94</quantity_in_stock>
+<quantity_in_stock>88</quantity_in_stock>
 <param name="Автор">Пономарьова К.І.</param>
 <param name="Мова">українська</param>
 <param name="Вік">4 клас</param>
@@ -78109,7 +78164,7 @@
 <vendorCode>9789660745308</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/pukhnasti-istorii-pidruchnyky-i-posibnyky-piter-i-rizdvo-shchyrykh-serdets-iryna-matsko/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>138</categoryId>
 <price>245</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32633/puhnasti_istori_pidruchniki_i_posibniki_piter_i_rizdvo_shchirih_serdets_irina_matsko.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -83247,7 +83302,7 @@
 <vendor>Ранок</vendor>
 <description>
 <![CDATA[НМТ 2027. Українська мова. Тестовий зошит (Інна Літвінова, Зара Тищенко) Видання створено з метою якісної та ефективної підготовки до складання зовнішнього незалежного оцінювання з української мови. У довіднику вміщено тестові завдання у форматі національного мультипредметного тесту ЗНО та інформацію з орфографії, морфології, синтаксису, пунктуації, стилістики.  Для учнів, абітурієнтів, учителів, репетиторів і всіх, хто прагне здобути й удосконалити знання з української мови.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>9</quantity_in_stock>
 <param name="Автор">Інна Літвінова, Зара Тищенко</param>
 <param name="Предмет">Українська мова</param>
 <param name="Мова">українська</param>
@@ -83743,7 +83798,7 @@
 <vendor>Лінгвіст</vendor>
 <description>
 <![CDATA[Super Minds (Ukrainian edition) НУШ 4 Workbook Шукаєте робочий зошит, який перетворює виконання домашніх завдань на захопливе тренування розуму?  Super Minds 4. Ukrainian Edition Workbook — це кольоровий, ілюстрований посібник, адаптований видавництвом «Лінгвіст» для системного закріплення матеріалу та розвитку логічного мислення четвертокласників.  Абсолютна синхронізація.   Матеріал зошита повністю співвідноситься з темами підручника Student’s Book, забезпечуючи плавне та послідовне відпрацювання кожної теми.  Головоломки та логіка.   Замість механічного виконання вправ, учні розв'язують кросворди, логічні задачі та головоломки, що стимулює їхній інтерес до навчання.  Підтримка автономності.   Зрозумілі інструкції дозволяють дітям легко виконувати завдання самостійно.  Структура та зміст зошита Workbook:   Достатня кількість тренувальних вправ на закріплення лексико-граматичних структур. Практика ключових мовних навичок з акцентом на читання та письмо. Можливість паралельного використання із додатками Super Phonics Book та Super Skills Book для комплексного розвитку.   Повний комплект для учня:   Student’s Book Workbook Super Phonics Book Super Skills Book Електронний додаток на платформі ВШО]]></description>
-<quantity_in_stock>97</quantity_in_stock>
+<quantity_in_stock>98</quantity_in_stock>
 <param name="Автор">Герберт Пухта, Пітер Льюіс-Джонс, Світлана Дроботенко</param>
 <param name="Предмет">Англійська мова</param>
 <param name="Мова">українська, англійська</param>
@@ -83767,7 +83822,7 @@
 <vendor>Лінгвіст</vendor>
 <description>
 <![CDATA[Super Minds (Ukrainian edition) НУШ 4 Super Phonics Book Шукаєте ефективний інструмент для системного відпрацювання правил читання та формування ідеальної вимови?  Super Minds 4. Ukrainian Edition Super Phonics Book — це власна розробка видавництва «Лінгвіст», створена як ідеальний фонетичний додаток до курсу для глибокого опрацювання навичок читання.  Системний підхід.   Посібник логічно та послідовно навчає учнів ідентифікувати звуки, буквосполучення та читати складні слова, спираючись на методичний досвід українських фахівців.  Ігровий формат.   Фонетичні вправи подані у вигляді цікавих завдань, що не викликають у дітей втоми чи нудьги.  Комплексність.   Ідеально співвідноситься з розділами основного підручника, забезпечуючи постійне повторення та закріплення вивченого на уроці.  Структура та зміст посібника Super Phonics Book:   Вправи на розпізнавання звуків на слух та їх правильну артикуляцію. Практика читання слів, фраз та коротких текстів із цільовими фонетичними конструкціями на сторінках Reading Practice. Завдання на аудіювання, що виконуються разом із загальним аудіосупроводом курсу.   Повний комплект для учня:   Student’s Book Workbook Super Phonics Book Super Skills Book Електронний додаток на платформі ВШО]]></description>
-<quantity_in_stock>99</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Olha Panchuk, Dariia Orlovtseva</param>
 <param name="Предмет">Англійська мова</param>
 <param name="Мова">українська, англійська</param>
@@ -83791,7 +83846,7 @@
 <vendor>Лінгвіст</vendor>
 <description>
 <![CDATA[Super Minds (Ukrainian edition) НУШ 4 Super Skills Book Шукаєте додатковий посібник для прицільного прокачування мовленнєвих компетенцій та навичок 21-го століття?  Super Minds 4. Ukrainian Edition Super Skills Book — це розширений практичний компонент, спеціально адаптований для цілеспрямованого поглиблення комунікативних навичок учнів 4-го класу НУШ.  Комплексна практика.  Забезпечує додатковий простір для розвитку читання, письма, аудіювання та говоріння на більш просунутому рівні.  Розвиток креативності.  Пропонує нестандартні комунікативні та творчі завдання, що виходять за рамки стандартних вправ.  Підготовка до реального спілкування.  Фокусується на використанні англійської мови у життєвих, практичних ситуаціях.  Структура та зміст посібника Super Skills Book:   Додаткові тексти для читання та обговорення, що розширюють світогляд. Завдання на створення власних зв'язних висловлювань (як усних, так і письмових). Проєкти та інтерактивні завдання для індивідуальної та парної роботи.   Повний комплект для учня:   Student’s Book Workbook Super Phonics Book Super Skills Book Електронний додаток на платформі ВШО]]></description>
-<quantity_in_stock>98</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Garan Holcombe, Emma Szlachta</param>
 <param name="Предмет">Англійська мова</param>
 <param name="Мова">українська, англійська</param>
@@ -84595,7 +84650,7 @@
 <vendorCode>9786178510213</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/velyka-podorozh-lili-assa-upered-do-vidkryttiv-mila-radchenko/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>138</categoryId>
 <price>400</price>
 <picture>https://knigovan.com/image/catalog/products/33251/opov-d-u-malyunkah-assa-chim-v-doma-sonya-delone-andr-y-korn-v-1.jpg</picture>
 <vendor>АССА</vendor>
@@ -84965,7 +85020,7 @@
 <vendor>Картографія</vendor>
 <description>
 <![CDATA[Атлас + Контурні карти Історія України. 9 клас (НУШ). Державне науково-виробниче підприємство "Картографія". Комплект містить атлас та контурні карти для 9 класу.  1. Атлас. Історія України 9 клас НУШ  Атлас з історії України для 9 класу охоплює період з кінця XVIIІ ст. і до початку ХХ ст. Зміст атласу узгоджений з діючими програмами НУШ. Серед цікавинок Атласу історії України для 9 класу – карта «Україна в планах декабристів», карти, що висвітлюють зв'язок українського національно-визвольного руху з «Весною народів» у Європі, плани Києва і Львова на зламі ХІХ-ХХ ст. Висвітлені теми революції 1905 р., Столипінської реформи та переселенського руху, національного відродження, зокрема поява та розвиток української преси. Широко висвітлена тема «Український національний рух у 1907-1914 роках. Освіта, наука і техніка». Значно оновлений зміст карти «Архітектура ХІХ- початку ХХ ст. Релігія».  2. Контурні карти. Історія України. 9 клас НУШ  Комплект контурних карт розроблено на основі атласу «Історія України. 9 клас НУШ». Контурні карти містять запропоновані завдання, водночас на картах залишається вільне місце, куди можна вписати завдання, які запропонує вчитель.]]></description>
-<quantity_in_stock>97</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Предмет">Історія України</param>
 <param name="Мова">українська</param>
 <param name="Вік">9 клас</param>
@@ -85263,7 +85318,7 @@
 <vendor>Абетка</vendor>
 <description>
 <![CDATA[SMART TUTOR. Посібник-репетитор. Рівень B1. 9 клас (Оксана Євчук, Ірина Доценко) Посібник призначений для вивчення англійської мови учнями дев’ятого року навчання. Книга містить тематичний та граматичний матеріал, завдання для розвитку аудіювання, читання, письма і говоріння на рівні В1. Даний посібник укладено відповідно до типових освітніх програм для 9 класів закладів загальної середньої освіти.  Для учнів 9 класу, вчителів англійської мови, батьків.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>9</quantity_in_stock>
 <param name="Автор">Оксана Євчук, Ірина Дощенко</param>
 <param name="Предмет">Англійська мова</param>
 <param name="Мова">українська, англійська</param>
