@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-09-20 12:00">
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-09-21 12:00">
 <shop>
 <url>https://knigovan.com/</url>
 <name>Книгован</name>
@@ -5707,7 +5707,26 @@
 
 
 
-
+<offer id="24525" available="true" in_stock="true" selling_type="r" >
+<name>Дитина народилася! (укр)</name>
+<vendorCode>9786170025456</vendorCode>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/dlia-turbotlyvykh-batkiv/dytyna-narodylasia-ukr/</url>
+<currencyId>UAH</currencyId>
+<categoryId>137</categoryId>
+<price>350</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/24525/ditina_narodilasya_ukr.jpg</picture>
+<vendor>Основа</vendor>
+<description>
+<![CDATA[Незабаром у вашому житті з’явиться дитина, а може, ви нещодавно стали молодими батьками. Мине лише рік, і безпорадна крихітка, що плаче, перетвориться на дуже допитливого і спритного малюка. Це рік надзвичайних змін! Як малюк пізнає світ навколо себе і себе у світі? Як допомогти йому опанувати всі навички і знання? Як зрозуміти, що малюк розвивається гармонійно і правильно? Як бути його батьками? Відповіді на ці та інші запитання ви знайдете в книзі «Дитина народилася!». У книзі також подано інформацію про основні етапи розвитку малюка, його потреби в перший рік життя, наведено вправи та ігри. Книга адресована всім молодим мамам і татусям, бабусям і дідусям, яким важливо розуміти об’єктивні закони формування психіки і поведінки немовляти і які хочуть правильно спланувати власну «генеральну лінію» виховання дитини.]]></description>
+<quantity_in_stock>1</quantity_in_stock>
+<param name="Автор">М.Малихіна</param>
+<param name="Мова">українська</param>
+<param name="Тип">посібник</param>
+<param name="Серія">Для турботливих батьків</param>
+<param name="Кількість сторінок">192</param>
+<param name="Тип паперу">офсет</param>
+<param name="Тип обкладинки">м&apos;яка, ламінована</param>
+<param name="ISBN">9786170025456</param></offer>
 
 
 
@@ -6197,7 +6216,7 @@
 <vendorCode>9789660732049</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/polska-mova-tablytsi-ta-skhemy-pochatkovyi-i-serednii-rivni/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>33</categoryId>
 <price>85</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24581/polska_mova_tablitsi_ta_shemi_pochatkoviy_i_seredniy_rivni.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -29849,7 +29868,7 @@
 <vendor>Лінгвіст</vendor>
 <description>
 <![CDATA[Smart Junior for Ukraine 1 Workbook Updated Edition. НУШ.  НОВИЙ зошит за 2023 рік (такий самий як і smart junior 1 workbook але з з додавнням нових листків ) Робочий зошит Smart Junior 1 Workbook  НУШ Mitchell H. MM Publications. Smart Junior навчальний курс, рекомендований Міністерством освіти і науки України для учнів 1-5 класів, призначений для використання в початковій школі з поглибленим вивченням англійської мови та розроблений відповідно до Європейських мовних стандартів CEFR. Workbook робочий зошит учня містить додаткові завдання до кожного уроку підручника, секцію повторення, завдання на розвиток дрібної моторики, настільні ігри, матеріали для вирізання. Він опоможе дітям повторити та закріпити набуті знання самостійно або на уроці в класі. Student’s QR  для учня містить аудіозаписи лексики, пісень, діалогів, історій, текстів до підручника. Завдяки аудіо-додатку для учня діти зможуть прослухати записи неодноразово, попрацювати над вимовою слів та інтонацією. Що таке фонікси й чому це працює? Фонікси — метод навчання, завдяки якому діти вчаться співвідносити фонеми (звуки) та букви між собою. Основна складність читання англійською полягає в тому, що 44 звуки, наявні в мові, можна записати 90 різними буквосполученнями. Метод фоніксів спрощує процес навчання читання, адже на відміну від зв’язки «алфавіт — транскрипція», дітей вчать не тільки звуків, а й варіантів їх злиття — блендів (bland від англ. — змішувати). Із його допомогою діти не просто технічно заучують звуки й букви, а вчаться відрізняти їх акустично — на слух, щоб застосовувати спочатку для читання, а потім і в процесі живого спілкування. Фонікси становлять собою наочні навчальні посібники, у яких прості слова для читання англійською для дітей зібрані в групи згідно з правилами їх читання. Уперше фонікси почали використовувати у Великобританії ще в 2012 році для викладання дітям-носіям, щоб підвищити рівень успішності. З огляду на те, що правила читання в англійській мові раніше викликали труднощі навіть в англомовних дітей, методика показала себе з найкращого боку, підвищивши успішність учнів у перший же рік її застосування. Трохи пізніше застосування фоніксів у процесі відточування навичок читання англійською ввели і в мовних школах для дітей, які вивчають англійську як іноземну мову. Прослухавши та прочитавши кілька разів окрему групу слів, дитина інтуїтивно уловить правило, яке потім зможе застосувати на схожій за написанням лексиці. Наприклад: засвоївши слова ball, fall, call, tall, дитина без проблем зможе прочитати незнайоме їй «wall», тому що в неї вже склався логічний ланцюжок звукового відтворення схожих буквосполучень. Після того як діти вивчили основні фонеми й найпоширеніші способи їх написання словами, вони почнуть вивчати їх численні варіації. Фонікси приділяють окрему увагу словам зі списків винятків, а також найбільш часто вживаним групам, вивчають буквосполучення з однаковим звучанням, але різним написанням. Схеми читання допомагають робити це структуровано, не перевантажуючи дітей. Завдання методики —навчити дитину розпізнавати загальні закономірності в словах, які пишуться та звучать однаково. Для цього в підручниках і схемах використовують римовані розповіді або розповіді з елементами частого повторення подібних слів.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Мітчелл, М.</param>
 <param name="Мова">українська, англійська</param>
 <param name="Вік">1 клас</param>
@@ -31272,7 +31291,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[НУШ Читанка 2 клас. Посібник для додаткового та позакласного читання Олександра Савченко.   Схвалено для використання в загальноосвітніх навчальних закладах комісією з педагогіки та методики початкового навчання Науково-методичної ради з питань освіти Міністерства освіти і науки України (лист ДНУ «Інститут модернізації змісту освіти» від 23. 08. 2019 р. № 22. 1/12-Г-904).  Додаток до підручника «Українська мова та читання» (частина 2) для 2 класу ЗЗСО (авторка Олександра Савченко).   На сторінках читанки можна виконувати цікаві завдання, висловлювати свої думки і навіть створювати власні ілюстрації до творів. Посібник сприяє вихованню творчих читачів і читачок.   Твори упорядковано відповідно до розділів підручника Олександри Яківни Савченко. Читанка містить рубрику Медіавіконце, численні скоромовки, загадки; наповнена яскравими ілюстраціями, що стимулюють учнів та учениць уявляти й фантазувати.   Посібник містить сторінки, де діти мають змогу виявити свої ставлення, почуття. У кінці книжечки є спеціальні сторінки для першого читацького щоденника.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Олександра Савченко</param>
 <param name="Мова">українська</param>
 <param name="Вік">2 клас</param>
@@ -35799,11 +35818,126 @@
 
 
 
-
-
-
-
-
+<offer id="27936" available="true" in_stock="true" selling_type="r" >
+<name>Пізнаємо Україну УЛА Книжка-активіті для дітей 10+</name>
+<vendorCode>9786175441695</vendorCode>
+<url>https://knigovan.com/dozvillia-ihry/patriotychni-knyzhky/piznaiemo-ukrainu-ula-knyzhka-aktyviti-dlia-ditei-10/</url>
+<currencyId>UAH</currencyId>
+<categoryId>32</categoryId>
+<price>56</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27936/pizna_mo_ukra_nu_ula_knizhka_aktiviti_dlya_ditey_10.jpg</picture>
+<vendor>УЛА</vendor>
+<description>
+<![CDATA[Пізнаємо Україну — Книжка-активіті для дітей 10+  Любов до Батьківщини, як і до родини, з’являється і виховується змалечку. Захоплення красою рідної землі, насолода від милозвучності мови, повага до символів і пам’яток, турбота про ближнього, гордість за українське проростає з усвідомленням себе частинкою країни. Ця книжка допоможе в цьому й відкриє цікаві горизонти пізнання, запропонує незвичні завдання на українську тематику, розраховані на дітей від 10 років, — кросворди, ребуси, шифрограми, судоку, розмальовки, математичний диктант, завдання для розвитку уваги, покращання дикції та тренування пам’яті.     Видання призначене для дітей молодшого шкільного віку.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Сіліч С. О.</param>
+<param name="Мова">українська</param>
+<param name="Вік">10+</param>
+<param name="Тип">для дозвілля</param>
+<param name="Серія">Пізнаємо Україну</param>
+<param name="Кількість сторінок">16</param>
+<param name="Рік видання">2023</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786175441695</param>
+<param name="Формат, розмір">21×30,5 см</param>
+<param name="Видавництво">Ула</param></offer>
+<offer id="27937" available="true" in_stock="true" selling_type="r" >
+<name>Пізнаємо Україну УЛА Книжка-активіті для дітей 9+</name>
+<vendorCode>9786175441688</vendorCode>
+<url>https://knigovan.com/dozvillia-ihry/patriotychni-knyzhky/piznaiemo-ukrainu-ula-knyzhka-aktyviti-dlia-ditei-9/</url>
+<currencyId>UAH</currencyId>
+<categoryId>32</categoryId>
+<price>56</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27937/pizna_mo_ukra_nu_ula_knizhka_aktiviti_dlya_ditey_9.jpg</picture>
+<vendor>УЛА</vendor>
+<description>
+<![CDATA[Пізнаємо Україну — Книжка-активіті для дітей 9+   Любов до Батьківщини, як і до родини, з’являється і виховується змалечку. Захоплення красою рідної землі, насолода від милозвучності мови, повага до символів і пам’яток, турбота про ближнього, гордість за українське проростають з усвідомленням себе частинкою країни. Ця книжка допоможе в цьому й відкриє цікаві горизонти пізнання, запропонує незвичні завдання на українську тематику, розраховані на дітей від 9 років, — кросворди, ребуси, шифрограми, судоку, розмальовки, лабіринт, математичний диктант, завдання для розвитку уваги, покращання дикції та тренування пам’яті.     Видання призначене для дітей молодшого шкільного віку.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Сіліч С. О.</param>
+<param name="Мова">українська</param>
+<param name="Вік">9+</param>
+<param name="Тип">для дозвілля</param>
+<param name="Серія">Пізнаємо Україну</param>
+<param name="Кількість сторінок">16</param>
+<param name="Рік видання">2023</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786175441688</param>
+<param name="Формат, розмір">21×30,5 см</param>
+<param name="Видавництво">Ула</param></offer>
+<offer id="27938" available="true" in_stock="true" selling_type="r" >
+<name>Пізнаємо Україну УЛА Книжка-активіті для дітей 8+</name>
+<vendorCode>9786175441671</vendorCode>
+<url>https://knigovan.com/dozvillia-ihry/patriotychni-knyzhky/piznaiemo-ukrainu-ula-knyzhka-aktyviti-dlia-ditei-8/</url>
+<currencyId>UAH</currencyId>
+<categoryId>32</categoryId>
+<price>56</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27938/pizna_mo_ukra_nu_ula_knizhka_aktiviti_dlya_ditey_8.jpg</picture>
+<vendor>УЛА</vendor>
+<description>
+<![CDATA[Пізнаємо Україну — Книжка-активіті для дітей 8+   Любов до Батьківщини, як і до родини, з’являється і виховується змалечку. Захоплення красою рідної землі, насолода від милозвучності мови, повага до символів і пам’яток, турбота про ближнього, гордість за українське проростають з усвідомленням себе частинкою країни. Ця книжка допоможе в цьому й відкриє цікаві горизонти пізнання, запропонує незвичні завдання на українську тематику, розраховані на дітей від 8 років, — кросворди, ребуси, шифрограми, судоку, розмальовки, лабіринт, математичні диктанти, завдання для розвитку уваги, покращання дикції та тренування пам’яті.    Видання призначене для дітей молодшого шкільного віку.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Сіліч С. О.</param>
+<param name="Мова">українська</param>
+<param name="Вік">8+</param>
+<param name="Тип">для дозвілля</param>
+<param name="Серія">Пізнаємо Україну</param>
+<param name="Кількість сторінок">16</param>
+<param name="Рік видання">2023</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786175441671</param>
+<param name="Формат, розмір">21×30,5 см</param>
+<param name="Видавництво">Ула</param></offer>
+<offer id="27939" available="true" in_stock="true" selling_type="r" >
+<name>Пізнаємо Україну УЛА Книжка-активіті для дітей 7+</name>
+<vendorCode>9786175441664</vendorCode>
+<url>https://knigovan.com/dozvillia-ihry/patriotychni-knyzhky/piznaiemo-ukrainu-ula-knyzhka-aktyviti-dlia-ditei-7/</url>
+<currencyId>UAH</currencyId>
+<categoryId>32</categoryId>
+<price>56</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27939/pizna_mo_ukra_nu_ula_knizhka_aktiviti_dlya_ditey_7.jpg</picture>
+<vendor>УЛА</vendor>
+<description>
+<![CDATA[Пізнаємо Україну — Книжка-активіті для дітей 7+   Любов до Батьківщини, як і до родини, з’являється і виховується змалечку. Захоплення красою рідної землі, насолода від милозвучності мови, повага до символів і пам’яток, турбота про ближнього, гордість за українське проростають з усвідомленням себе частинкою країни. Ця книжка допоможе в цьому й відкриє цікаві горизонти пізнання, запропонує незвичні завдання на українську тематику, розраховані на дітей від 7 років, — кросворди, загадки, ребуси, шифрограми, судоку, розмальовку, лабіринт, завдання для розвитку уваги, покращання дикції та тренування пам’яті.    Видання призначене для дітей молодшого шкільного віку.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Сіліч С. О.</param>
+<param name="Мова">українська</param>
+<param name="Вік">7+</param>
+<param name="Тип">для дозвілля</param>
+<param name="Серія">Пізнаємо Україну</param>
+<param name="Кількість сторінок">16</param>
+<param name="Рік видання">2023</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786175441664</param>
+<param name="Формат, розмір">21×30,5 см</param>
+<param name="Видавництво">Ула</param></offer>
+<offer id="27940" available="true" in_stock="true" selling_type="r" >
+<name>Пізнаємо Україну УЛА Книжка-активіті для дітей 6+</name>
+<vendorCode>9786175441657</vendorCode>
+<url>https://knigovan.com/dozvillia-ihry/patriotychni-knyzhky/piznaiemo-ukrainu-ula-knyzhka-aktyviti-dlia-ditei-6/</url>
+<currencyId>UAH</currencyId>
+<categoryId>32</categoryId>
+<price>56</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27940/pizna_mo_ukra_nu_ula_knizhka_aktiviti_dlya_ditey_6.jpg</picture>
+<vendor>УЛА</vendor>
+<description>
+<![CDATA[Пізнаємо Україну — Книжка-активіті для дітей 6+   Любов до Батьківщини, як і до родини, з’являється і виховується змалечку. Захоплення красою рідної землі, насолода від милозвучності мови, повага до символів і пам’яток, турбота про ближнього, гордість за українське проростають з усвідомленням себе частинкою країни. Ця книжка допоможе в цьому й відкриє цікаві горизонти пізнання, запропонує незвичні завдання на українську тематику, розраховані на дітей від 6 років, — кросворди, загадки, ребуси, шифрограми, судоку, розмальовку, лабіринт, завдання для розвитку уваги, покращання дикції та тренування пам’яті.    Видання призначене для дітей старшого дошкільного й молодшого шкільного віку.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Сіліч С. О.</param>
+<param name="Мова">українська</param>
+<param name="Вік">6+</param>
+<param name="Тип">для дозвілля</param>
+<param name="Серія">Пізнаємо Україну</param>
+<param name="Кількість сторінок">16</param>
+<param name="Рік видання">2023</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786175441657</param>
+<param name="Формат, розмір">21×30,5 см</param>
+<param name="Видавництво">Ула</param></offer>
 
 
 
@@ -35999,7 +36133,7 @@
 <vendor>Лінгвіст</vendor>
 <description>
 <![CDATA[Smart Dictionary 1 клас до підручника Smart Junior 1   Smart Dictionary 1 – це посібник, укладений до підручника Smart Junior 1 і призначений для вивчення лексичних одиниць, передбачених програмою для учнів перших класів. Яскраві ілюстрації сприятимуть легкому запам’ятовуванню слів, а вправи допоможуть розвинути навички читання і письма.   Smart Dictionary - це додаткова допомога до підручника Smart Junior.  Яскраві великі картинки допоможуть запам'ятати слова, завдання після кожного юніта - відмінний спосіб повторити правопис слів.  Зображення і слова подані в порядку, який в підручнику Smart Junior, секції, до яких відносяться слова також підписані, як і в підручнику. Після кожного юніта словничка - секція на один розворот з завданням для відпрацювання слів.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Mitchell H.Q</param>
 <param name="Мова">українська, англійська</param>
 <param name="Вік">1 клас</param>
@@ -43565,7 +43699,7 @@
 <vendorCode>9786170973269</vendorCode>
 <url>https://knigovan.com/dozvillia-ihry/holovolomky-krosvordy-labirynty/ihrovi-labirynty-dlia-posydiuchykh-i-neposydkiv-ranok-koval-n-m/</url>
 <currencyId>UAH</currencyId>
-<categoryId>135</categoryId>
+<categoryId>32</categoryId>
 <price>120</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28958/igrovi_labirinti_dlya_posidyuchih_i_neposidkiv_ranok_koval_n_m.jpg</picture>
 <vendor>Ранок</vendor>
@@ -43594,7 +43728,7 @@
 <vendorCode>9786177995400</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/trenazher-kompleksnyi-z-matematyky-5-9-klas-assa-n-f-ryndina-o-m-tytarenko/</url>
 <currencyId>UAH</currencyId>
-<categoryId>73</categoryId>
+<categoryId>7</categoryId>
 <price>270</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28965/trenazher_kompleksniy_z_matematiki_5_9_klas_assa_n_f_rindina_o_m_titarenko.jpg</picture>
 <vendor>АССА</vendor>
@@ -49521,7 +49655,7 @@
 <vendorCode>9786176702893</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/atlas-ukrainoznavstvo-9-11-klas-kartohrafiia/</url>
 <currencyId>UAH</currencyId>
-<categoryId>51</categoryId>
+<categoryId>60</categoryId>
 <price>148</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29864/atlas_ukra_noznavstvo_9_11_klas_kartografiya.jpg</picture>
 <vendor>Картографія</vendor>
@@ -53452,7 +53586,7 @@
 <vendor>Весна</vendor>
 <description>
 <![CDATA[Математичні прописи 1 клас. Прописи з математики. НУШ Зошит «Математичні прописи. 1 клас» складено відповідно до вимог програм з математики для 1 класу О. Я. Савченко та Р. Б. Шияна. Видання містить цікаві завдання для розвитку математичної компе-тентності. Цей зошит навчить першокласників правильно та красиво писа¬ти цифри, а також розвинути дрібну моторику руки, увагу, спостережли¬вість, логічне мислення.  Разом із посібником діти легко опанують склад числа та навчаться:     розв’язувати вирази на додавання та віднімання в межах 10, записувати їх, установлювати закономірність, порівнювати числа і математичні вирази, розпізнавати геометричні фігури, користуватися лінійкою і будувати геометричні фігури, вимірювати і порівнювати величини: довжину, масу, місткість (об’єм), оперувати грошима в межах 10 гривень.    «Математичні прописи. 1 клас» можна використовувати як на уроці, так і вдома для закріплення вивченого в класі матеріалу. Видання стане в пригоді вчителям початкових класів, першокласникам та їхнім батькам.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Мещерякова К.С.</param>
 <param name="Мова">українська</param>
 <param name="Вік">1 клас</param>
@@ -55384,7 +55518,7 @@
 <vendor>Весна</vendor>
 <description>
 <![CDATA[Прописи з української мови. 1 клас Зошит – тренажер. НУШ (за редакцією Гайової Л.А.)Зошит «Прописи з української мови. 1 клас» складено відповідно до вимог програм з української мови для 1 класу.Видання містить цікаві завдання для розвитку мовної компетентності. Цей зошит навчить першокласників правильно та красиво писати, а також розвинути дрібну моторику руки, увагу, спостережливість.  «Прописи з української мови. 1 клас» можна використовувати як на уроці, так і вдома для закріплення вивченого в класі матеріалу.    Видання стане в пригоді вчителям початкових класів, першокласникам та їхнім батькам.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Мещерякова К.С.</param>
 <param name="Мова">українська</param>
 <param name="Вік">1 клас</param>
@@ -62421,52 +62555,8 @@
 
 
 
-<offer id="31378" available="true" in_stock="true" selling_type="r" >
-<name>Казкові пригоди з англійською. Wimmelbuch 5-9 років Англійська проссто граючи Нью Тайм Юлія Іванова</name>
-<vendorCode>9786177728305</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/kazkovi-pryhody-z-anhliiskoiu-wimmelbuch-5-9-rokiv-anhliiska-prossto-hraiuchy-niu-taim-yuliia-ivanova/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>159</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/31378/kazkovi_prigodi_z_angliyskoyu_wimmelbuch_5_9_rokiv_angliyska_prossto_grayuchi_nyu_taym_yuliya_ivanova.jpg</picture>
-<vendor>Нью Тайм</vendor>
-<description>
-<![CDATA[Казкові пригоди з англійською. Wimmelbuch Юлія Іванова New Time Books  Ігрове навчання англійської дошкільнят і молодших школярів.  Що може бути приємнішим для дитини, ніж навчатися у грі? Це ж справжнє щастя для батьків спостерігати, з яким задоволенням дітлахи вивчають англійську, розглядаючи барвисті ілюстрації, знаходячи потрібні слова і малюнки, бавлячись з картками. Саме так! Навчатися через гру стає не тільки модною, а й цілком природною справою для сучасних маленьких учнів. Дивовижно красиві ілюстрації утягують дитину в чарівний світ казок і роблять перше знайомство з англійською мовою незабутньо захоплюючим. Разом з маленькими героями дитина пройде сторінками книги, розплутає результат невмілого чаклунства маленької відьмочки, виконає пошукові завдання і запам'ятає більше ніж 300 дуже корисних англійських слів. Книга може бути використана як для першого знайомства дитини з англійською, так і для більш глибоко навчання, оскільки сюжетні ілюстрації дають чудовий ґрунт для спілкування і тренування простих граматичних конструкцій. Подаруйте дитині радість ігрового вивчення англійської мови, і ви побачите, як просто вона почне її засвоювати! Для кращого результату для дошкільнят рекомендуємо купувати цю книгу разом із розробленим до неї комплектом карток.    Для учнів початкової школи рекомендуємо купувати книгу в комплекті з: картками, Робочим зошитом, а також з книгою "У королівстві англійської граматики".     Зміст книги "Казкові пригоди з англійською. Wimmelbuch":  1. Halloween Night 2. The Snow Queen 3. Ali Baba and Forty Thieves 4. The Adventures of Baron Munchausen 5. Sindbad the Sailor 6. Cinderella 7. Goldilocks and Three Bears 8. Beauty and the Beast 9. The Mitten 10. The Ugly Duckling 11. The Jungle Book 12. Puss in Boots 13. Snow White and the Seven Dwarfs 14. Aladdin and the Magic Lamp 15. Little Muck 16. Little Red Riding Hood 17. The Sleeping Beauty 18. Mary Poppins 19. The Magic Porrige Pot 20. The Onion Boy   21. Pinocchio]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Юлія Іванова, Віталій Геращенко</param>
-<param name="Мова">українська, італійський</param>
-<param name="Вік">5-9 років</param>
-<param name="Тип">Книга-вімельбух</param>
-<param name="Серія">Англійська просто граючи</param>
-<param name="Кількість сторінок">48</param>
-<param name="Рік видання">2020</param>
-<param name="Тип паперу">кольоровий, крейдований</param>
-<param name="Тип обкладинки">м&apos;яка, ламінована</param>
-<param name="ISBN">9786177728305</param>
-<param name="Формат, розмір">215х285 мм</param></offer>
-<offer id="31379" available="true" in_stock="true" selling_type="r" >
-<name>Казкові пригоди з англійською. Робочий зошит 5-9 років Англійська проссто граючи Нью Тайм Юлія Іванова</name>
-<vendorCode>9786177728329</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/kazkovi-pryhody-z-anhliiskoiu-robochyi-zoshyt-5-9-rokiv-anhliiska-prossto-hraiuchy-niu-taim-yuliia-ivanova/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>125</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/31379/kazkovi_prigodi_z_angliyskoyu_robochiy_zoshit_5_9_rokiv_angliyska_prossto_grayuchi_nyu_taym_yuliya_ivanova.jpg</picture>
-<vendor>Нью Тайм</vendor>
-<description>
-<![CDATA[Казкові пригоди з англійською. Робочий зошит Юлія Іванова New Time Books  Немає нічого кращого, ніж навчатися із задоволенням!  Цей робочий зошит призначений для кращого запам’ятовування слів з книги "Казкові пригоди з англійською. Wimmelbuch". Завдяки веселим завданням дитина з цікавістю буде засвоювати нові слова, навчиться простих граматичних конструкцій, навчиться будувати прості фрази англійською і розвине найпростіші навички усного мовлення. Перетворіть навчання дитини на веселу гру!  Склад книги "Казкові пригоди з англійською. Робочий зошит":  1. Halloween Night 2. The Snow Queen 3. Ali Baba and Forty Thieves 4. The Adventures of Baron Munchausen 5. Sindbad the Sailor 6. Cinderella 7. Goldilocks and Three Bears 8. Beauty and the Beast 9. The Mitten 10. The Ugly Duckling 11. The Jungle Book 12. Puss in Boots 13. Snow White and the Seven Dwarfs 14. Aladdin and the Magic Lamp 15. Little Muck 16. Little Red Riding Hood 17. The Sleeping Beauty 18. Mary Poppins 19. The Magic Porrige Pot 20. The Onion Boy 21. Pinocchio Відповіді]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Юлія Іванова</param>
-<param name="Мова">українська, італійський</param>
-<param name="Вік">5-9 років</param>
-<param name="Тип">Робочий зошит</param>
-<param name="Серія">Англійська просто граючи</param>
-<param name="Кількість сторінок">88</param>
-<param name="Рік видання">2020</param>
-<param name="Тип паперу">чорно-біла</param>
-<param name="Тип обкладинки">м&apos;яка, ламінована</param>
-<param name="ISBN">9786177728329</param>
-<param name="Формат, розмір">215х285 мм</param></offer>
+
+
 
 
 
@@ -63598,7 +63688,7 @@
 <vendor>Лінгвіст</vendor>
 <description>
 <![CDATA[Prepare for Ukraine НУШ 8 Workbook  Prepare Workbook — це сучасний робочий зошит з англійської мови, створений за модельною програмою НУШ. Він є доповненням до основного підручника і спрямований на розвиток мовленнєвих навичок та комунікативної компетентності школярів.  Основні особливості:     Відповідність програмі НУШ (Іноземна мова 5–9 класи). Комунікативний підхід — інтерактивні вправи для читання, письма, аудіювання й говоріння. 20 тем, згрупованих у 5 блоків, кожен з яких містить: розділ Culture – для розвитку соціокультурної компетентності; Life Skills – формування життєвих навичок 21 століття; Review – для повторення й закріплення матеріалу.     Переваги:     Персоналізовані та інтерактивні завдання. Підтримка розвитку критичного мислення й креативності. Актуальні теми, що відповідають віковим інтересам дітей. Ідеальне поєднання з підручником Prepare Student’s Book.    Цей зошит ідеально підходить для систематичної роботи на уроках і вдома, а також для підготовки до тематичного та підсумкового оцінювання з англійської мови.]]></description>
-<quantity_in_stock>33</quantity_in_stock>
+<quantity_in_stock>32</quantity_in_stock>
 <param name="Автор">Джеймс Стайрінг, Ніколаз Тімз, Анне Робінсон</param>
 <param name="Мова">англійська</param>
 <param name="Вік">8 клас</param>
@@ -67121,7 +67211,28 @@
 
 
 
-
+<offer id="31730" available="true" in_stock="true" selling_type="r" >
+<name>Подорож країною Дорожніх знаків 5+ з наліпками Ранок/Наочні посібники</name>
+<vendorCode>4827476988771</vendorCode>
+<url>https://knigovan.com/pravyla-dorozhnoho-rukhu/ihry-ta-kartky-pdr/podorozh-krainoiu-dorozhnikh-znakiv-5-z-nalipkamy-ranok-naochni-posibnyky/</url>
+<currencyId>UAH</currencyId>
+<categoryId>32</categoryId>
+<price>66</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31730/podorozh_kra_noyu_dorozhnih_znakiv_5_z_nalipkami_ranok_naochni_posibniki.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[Подорож країною Дорожніх знаків 5+ з наліпками.   Як навчити дитину правилам дорожнього руху легко й цікаво? У пригоді стане посібник «Подорож країною «Дорожніх знаків». У форматі гри з наліпками дитина вивчатиме, запам’ятовуватиме та закріплюватиме основні правила поведінки пішохода.  На 16 сторінках — інтерактивні завдання, яскраві ілюстрації та 36 наліпок. Малюк дізнається про групи дорожніх знаків, сигнали світлофора, значення табличок і багато іншого. Посібник формує уважність, навчає аналізувати ситуації на дорозі та ухвалювати безпечні рішення. Ранні знання з ПДР — це не лише запорука безпеки, а й розвиток відповідальності. Компактний формат і зрозуміла структура роблять зошит зручним для занять удома, у садочку чи школі. Це справжній помічник для дорослих, які хочуть навчити дітей головному — бути обережними.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Мова">українська</param>
+<param name="Вік">5-7 рокiв</param>
+<param name="Тип">Посiбник для дітей</param>
+<param name="Кількість сторінок">16</param>
+<param name="Рік видання">2025</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">4827476988771</param>
+<param name="Формат, розмір">160х230 мм</param>
+<param name="Видавництво">Ранок/Наочні посібники</param></offer>
 
 <offer id="31732" available="true" in_stock="true" selling_type="r" >
 <name>Читаємо по черзі. Пухнасті цікавинки. 2-й рівень складності (Федосова В.Б.) Ранок/Видавнича група Кенгуру</name>
@@ -67985,7 +68096,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[КОМПЛЕКТ: Математика: робочий зошит. 2 клас. У 2-х частинах (до підручника М. Козак, О. Корчевської) 2025 рік  Зошит призначений для уроків математики у 2 класі й відповідає системі вправ підручника М. Козак, О. Корчевська «Математика : підручник для 2 кл. закладів загальної середньої освіти / М. Козак, О. Корчевська. – Тернопіль : Підручники і посібники». Він містить виважену систему вправ і завдань для формування математичних і загальноосвітніх компетентностей.    Для учнів 2 класу та вчителів початкових класів.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>79</quantity_in_stock>
 <param name="Автор">Корчевська О., Козак М.</param>
 <param name="Предмет">Математика</param>
 <param name="Мова">українська</param>
@@ -81188,8 +81299,52 @@
 <param name="ISBN">9786178774851</param>
 <param name="Формат, розмір">105х165 мм</param>
 <param name="Видавництво">Ранок</param></offer>
-
-
+<offer id="32941" available="true" in_stock="true" selling_type="r" >
+<name>Для турботливих батьків Основа Зрозумій мене! Секрети розшифровування дитячої поведінки Анна Гресь</name>
+<vendorCode>9786170037541</vendorCode>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/dlia-turbotlyvykh-batkiv/dlia-turbotlyvykh-batkiv-osnova-zrozumii-mene-sekrety-rozshyfrovuvannia-dytiachoi-povedinky-anna-hres/</url>
+<currencyId>UAH</currencyId>
+<categoryId>137</categoryId>
+<price>250</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/32941/dlya_turbotlivih_batkiv_osnova_zrozumiy_mene_sekreti_rozshifrovuvannya_dityacho_povedinki_anna_gres.jpg</picture>
+<vendor>Основа</vendor>
+<description>
+<![CDATA[Зрозумій мене! Секрети розшифровування дитячої поведінки. Серія: Для турботливих батьків.  «Як мені зрозуміти дитину?»   «Чому вона так поводиться?»   «Як навчитися звертати увагу на важливі сигнали, які вона транслює своєю поведінкою?»   «Хочу, аби дитина почула те, що я їй кажу»  Ці та багато інших запитань ви ставите нам. І справді, нерозуміння — одне з головних перешкод у спілкуванні «батьки — дитина». На допомогу кожному із вас ми випустили друком нову книгу «Зрозумій мене! Секрети розшифровування дитячої поведінки», що допоможе поглянути на поведінку вашої дитини під іншим кутом! Авторка — Анна Гресь, одна з найулюбленіших психологинь нашого Видавництва! У книзі наведено прості й дуже ефективні способи спостереження за дитячою поведінкою та прийоми її первинного аналізування. А також запропоновано конкретний алгоритм дій: робити щось чи ні; утрутитися самим або залучити фахівців. І ще, що вкрай важливо, — чого РОБИТИ НЕ потрібно! Щоби не нашкодити дитині.  Прочитавши книгу, ви навчитеся:     СПРИЙМАТИ поведінку дитини абсолютно інакше; РОЗУМІТИ, чому дитина чинить саме так; ЯК ПРАВИЛЬНО ПОВОДИТИСЯ з дитиною, аби не нашкодити, а допомогти у її розвитку.    Ця книга буде найкращим доповненням до вашої унікальної батьківської інтуїції! Також усі, хто придбає книгу, зможуть БЕЗКОШТОВНО завантажити додатковий корисний матеріал від психологині. Зробити це можна буде за допомогою QR-коду на обкладинці книги. Замовляйте та вчіться розуміти поведінку своєї дитини, щоби НЕ НАШКОДИТИ її розвитку!]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Анна Гресь</param>
+<param name="Мова">українська</param>
+<param name="Вік">3-9 років</param>
+<param name="Тип">Книга для батьків</param>
+<param name="Серія">Для турботливих батьків</param>
+<param name="Кількість сторінок">96</param>
+<param name="Тип паперу">офсет, чорно-біла</param>
+<param name="Тип обкладинки">тверда</param>
+<param name="ISBN">9786170037541</param>
+<param name="Формат, розмір">145х210 мм</param>
+<param name="Видавництво">Основа / MAMAS</param></offer>
+<offer id="32942" available="true" in_stock="true" selling_type="r" >
+<name>Для турботливих батьків Основа Ігри на щодень. Чим розважити дитину 2-6 років Л.В. Туріщева</name>
+<vendorCode>9786170039408</vendorCode>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/dlia-turbotlyvykh-batkiv/dlia-turbotlyvykh-batkiv-osnova-ihry-na-shchoden-chym-rozvazhyty-dytynu-2-6-rokiv-l-v-turishcheva/</url>
+<currencyId>UAH</currencyId>
+<categoryId>137</categoryId>
+<price>300</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/32942/dlya_turbotlivih_batkiv_osnova_igri_na_shchoden_chim_rozvazhiti_ditinu_2_6_rokiv_l_v_turishcheva.jpg</picture>
+<vendor>Основа</vendor>
+<description>
+<![CDATA[Ігри на щодень. Чим розважити дитину 2-6 років. Туріщева Л.В. Серія: Для турботливих батьків. «Пограй зі мною!» — ці слова ви, безумовно, чуєте від своєї дитини щодня. А часу вигадати щось цікаве немає. Ця книжка про елементарні ігри для дитини і з дитиною. Для них вам не потрібні спеціальні іграшки чи довга підготовча робота. Усе необхідне маєте попідруч — ложка, рушник, коробка, пляшка, ґудзик чи аркуш паперу. Додайте трішки вашої фантазії, часу, залученості, гарного настрою — і цікаві розвивальні розваги готові. Наведені ігри надзвичайно легко організувати, коли ви зайняті на кухні чи йдете з дитиною у справах, їдете у транспорті чи чекаєте в черзі. Будь-де! Відкладіть телефон. Подивіться на світ очима вашої дитини. Візьміть підручний предмет або задумайте слово — гра починається! Авторка книги — Людмила Туріщева, кандидатка психологічних наук, психологиня-практик. Має понад 100 наукових робіт і великий практичний досвід роботи з дітьми дошкільного та шкільного віку.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Туріщева Л.В.</param>
+<param name="Мова">українська</param>
+<param name="Вік">2-6 років</param>
+<param name="Тип">Книга для батьків</param>
+<param name="Серія">Для турботливих батьків</param>
+<param name="Кількість сторінок">144</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет, чорно-біла</param>
+<param name="Тип обкладинки">тверда</param>
+<param name="ISBN">9786170039408</param>
+<param name="Видавництво">Основа / MAMAS</param></offer>
 
 
 
@@ -82017,7 +82172,29 @@
 <param name="Видавництво">Основа</param></offer>
 
 
-
+<offer id="33039" available="true" in_stock="true" selling_type="r" >
+<name>Для турботливих батьків Основа Здоров&apos;я мами і малюка. Перший рік життя: рік ніжності, любові й турботи</name>
+<vendorCode>9786170044549</vendorCode>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/dlia-turbotlyvykh-batkiv/dlia-turbotlyvykh-batkiv-osnova-zdorovia-mamy-i-maliuka-pershyi-rik-zhyttia-rik-nizhnosti-liubovi-y-turboty/</url>
+<currencyId>UAH</currencyId>
+<categoryId>137</categoryId>
+<price>350</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/33039/dlya_turbotlivih_batkiv_osnova_zdorov_ya_mami_i_malyuka_pershiy_rik_zhittya_rik_nizhnosti_lyubovi_y_turboti.jpg</picture>
+<vendor>Основа</vendor>
+<description>
+<![CDATA[Здоров'я мами і малюка. Перший рік життя: рік ніжності, любові й турботи Серія: Для турботливих батьків. Перший рік вашого спільного із малюком життя — це рік ніжності. А ще це рік 1000 і 1 запитання. Ця книжка покликана підтримати вас у питаннях здоров’я і пройти з вами від першого спільного дня із малюком до першого року разом. Книжку зручно структуровано за 7 великими розділами: підготовка до пологів; перший день разом; перший тиждень після пологів; перший місяць; три місяці; шість місяців та дев’ять місяців разом.  У кожному розділі ви знайдете:     відповіді на найпоширеніші запитання про фізичне й психологічне здоров’я мами, розвиток малюка та особливості кожного періоду зростання; сучасні рекомендації щодо догляду за дитиною; рекомендації про те, як мамі піклуватися про себе й на що звернути особливу увагу (піклуватися про себе — це складова піклування про дитину, не забувайте про це ); чекліст наприкінці кожного розділу: «Найважливіше для здоров’я матері й дитини».    Ця книжка стане порадником з усіх питань щодо задоволення потреб дитини в перший рік життя, а також дасть відповіді на запитання щодо здоров’я мами до й після пологів, відкриє таємниці догляду за тілом і відновлення нервової системи, м’яко спрямує та убезпечить від багатьох можливих проблем на шляху до щасливого батьківства, щасливої родини. Ілюстрації: О.О. Кришталь]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Руденко А.В. Браславець А.О. Зайцева Ю.О. Стоянова О.Є.</param>
+<param name="Мова">українська</param>
+<param name="Вік">0-1</param>
+<param name="Тип">Книга для батьків</param>
+<param name="Серія">Для турботливих батьків</param>
+<param name="Кількість сторінок">208</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет, чорно-біла</param>
+<param name="Тип обкладинки">тверда</param>
+<param name="ISBN">9786170044549</param>
+<param name="Видавництво">Основа / MAMAS</param></offer>
 
 
 <offer id="33042" available="true" in_stock="true" selling_type="r" >
@@ -88705,7 +88882,7 @@
 <vendor>Ранок</vendor>
 <description>
 <![CDATA[НУШ Фізика. 9 клас. Зошит для лабораторних робіт (Фаїна Божинова, Олена Кірюхіна) 2026 рік Посібник створено відповідно до модельної навчальної програми «Фізика. 7–9 класи» для закладів загальної середньої освіти (автори Кремінський Б. Г., Гельфгат І. М., Божинова Ф. Я., Ненашев І. Ю., Кірюхіна О. О.).]]></description>
-<quantity_in_stock>172</quantity_in_stock>
+<quantity_in_stock>60</quantity_in_stock>
 <param name="Автор">Фаїна Божинова, Олена Кірюхіна</param>
 <param name="Предмет">Фізика</param>
 <param name="Мова">українська</param>
