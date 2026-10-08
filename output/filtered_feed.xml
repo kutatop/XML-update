@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-10-07 12:00">
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-10-08 12:00">
 <shop>
 <url>https://knigovan.com/</url>
 <name>Книгован</name>
@@ -4143,54 +4143,8 @@
 
 
 
-<offer id="24331" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Англійські прописи Школа Напівдрукований шрифт Федієнко</name>
-<vendorCode>978-966-429-085-9</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nush-anhliiski-propysy-shkola-napivdrukovanyi-shryft-fediienko/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>50</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/24331/nush_angliyski_propisi_shkola_napivdrukovaniy_shrift_fedi_nko.jpg</picture>
-<vendor>Школа</vendor>
-<description>
-<![CDATA[НУШ Англійські прописи. Напівдрукований шрифт.  Прописи допоможуть маленькому учневі опанувати навички правильного написання друкованих і великих літер англійського алфавіту. Спеціально розроблені шрифти відповідають світовим стандартам, а блакитний колір та оптимальна товщина ліній зменшують навантаження на зір.   Додаткові завдання допоможуть дитині краще запам'ятати графічні образи вивчених літер і зроблять цікавішими заняття. Розташування літер в алфавітному порядку дозволяє використовувати зошит із будь-яким підручником з англійської мови, де літери вивчаються в такій послідовності.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">В. Федієнко</param>
-<param name="Мова">українська, англійська</param>
-<param name="Вік">6+</param>
-<param name="Тип">Прописи</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-966-429-085-9</param>
-<param name="Формат, розмір">А-5</param>
-<param name="Видавництво">Школа</param></offer>
-<offer id="24332" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Англійські прописи Школа Каліграфічний шрифт Федієнко</name>
-<vendorCode>978-966-429-095-8</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nush-anhliiski-propysy-shkola-kalihrafichnyi-shryft-fediienko/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>50</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/24332/nush_angliyski_propisi_shkola_kaligrafichniy_shrift_fedi_nko.jpg</picture>
-<vendor>Школа</vendor>
-<description>
-<![CDATA[НУШ Англійські прописи. Каліграфічний шрифт.  Прописи допоможуть маленькому учневі опанувати навички правильного написання друкованих і великих літер англійського алфавіту. Спеціально розроблені шрифти відповідають світовим стандартам, а блакитний колір та оптимальна товщина ліній зменшують навантаження на зір.  Додаткові завдання допоможуть дитині краще запам'ятати графічні образи вивчених літер і зроблять цікавішими заняття. Розташування літер в алфавітному порядку дозволяє використовувати зошит із будь-яким підручником з англійської мови, де літери вивчаються в такій послідовності.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">В. Федієнко</param>
-<param name="Мова">українська, англійська</param>
-<param name="Вік">6+</param>
-<param name="Тип">Прописи</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-966-429-095-8</param>
-<param name="Формат, розмір">А-5</param>
-<param name="Видавництво">Школа</param></offer>
+
+
 <offer id="24333" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Каліграфічний зошит-шаблон Школа Збільшений розмір графічної сітки Синій</name>
 <vendorCode>9786178106324</vendorCode>
@@ -13872,7 +13826,7 @@
 <vendorCode>978-617-7485-82-6</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/nush-atlas-konturni-karty-orion-ya-doslidzhuiu-svit-1-2-klas-hilberh/</url>
 <currencyId>UAH</currencyId>
-<categoryId>14</categoryId>
+<categoryId>13</categoryId>
 <price>80</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25626/nush_atlas_konturni_karti_orion_ya_doslidzhuyu_svit_1_2_klas_gilberg.jpg</picture>
 <vendor>Оріон</vendor>
@@ -21108,7 +21062,7 @@
 <vendorCode>9789662848915</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/virshyky-zahadky-ula-vyrushai-u-podorozh/</url>
 <currencyId>UAH</currencyId>
-<categoryId>139</categoryId>
+<categoryId>138</categoryId>
 <price>45</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26433/virshiki_zagadki_ula_virushay_u_podorozh.jpg</picture>
 <vendor>УЛА</vendor>
@@ -21131,7 +21085,7 @@
 <vendorCode>9789662848922</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/virshyky-zahadky-ula-nahodui-tvarynok/</url>
 <currencyId>UAH</currencyId>
-<categoryId>139</categoryId>
+<categoryId>138</categoryId>
 <price>45</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26434/virshiki_zagadki_ula_nagoduy_tvarinok.jpg</picture>
 <vendor>УЛА</vendor>
@@ -21154,7 +21108,7 @@
 <vendorCode>9789662848939</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/virshyky-zahadky-ula-upiznai-maliuka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>139</categoryId>
+<categoryId>138</categoryId>
 <price>45</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26435/virshiki_zagadki_ula_upiznay_malyuka.jpg</picture>
 <vendor>УЛА</vendor>
@@ -25700,102 +25654,10 @@
 <param name="ISBN">9789669399533</param>
 <param name="Формат, розмір">60*84 1/8</param>
 <param name="Видавництво">Торсiнг</param></offer>
-<offer id="26930" available="true" in_stock="true" selling_type="r" >
-<name>Я читаю самостійно Торсінг Великий шрифт Той хто боявся темряви</name>
-<vendorCode>9789669399861</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/1-klas-1/ya-chytaiu-samostiino-torsinh-velykyi-shryft-toi-khto-boiavsia-temriavy/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>54</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/26930/ya_chitayu_samostiyno_torsing_velikiy_shrift_toy_hto_boyavsya_temryavi.jpg</picture>
-<vendor>Торсінг</vendor>
-<description>
-<![CDATA[Я читаю самостійно Великий шрифт Той хто боявся темряви.  У період опанування дітьми самостійного читання немає нічого кращого за якісну дитячу літературу! Саме такі історії ми пропонуємо у цій книжці. Вона складається з сучасних казок із захопливим сюжетом, який обов'язково сподобається дітям. А щоб маленькі читачі не перенапружували зір, підібрано казкові історії оптимальні за обсягом і надруковано їх великим шрифтом. Ці книжечки допоможуть набути навичок свідомого читання, розширити словниковий запас, розвинути почуттся гумору, і найголовніше - отримати задоволення від читання. Читайте з насолодою!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Майборода О.В.</param>
-<param name="Мова">українська</param>
-<param name="Вік">6+</param>
-<param name="Тип">Книжка для читання</param>
-<param name="Серія">Я читаю самостійно</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">тверда</param>
-<param name="ISBN">9789669399861</param>
-<param name="Формат, розмір">17х23 см</param>
-<param name="Видавництво">Торсiнг</param></offer>
-<offer id="26931" available="true" in_stock="true" selling_type="r" >
-<name>Я читаю самостійно Торсінг Великий шрифт Таємниця розбитого дзеркала</name>
-<vendorCode>9789669399892</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/1-klas-1/ya-chytaiu-samostiino-torsinh-velykyi-shryft-taiemnytsia-rozbytoho-dzerkala/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>54</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/26931/ya_chitayu_samostiyno_torsing_velikiy_shrift_ta_mnitsya_rozbitogo_dzerkala.jpg</picture>
-<vendor>Торсінг</vendor>
-<description>
-<![CDATA[Я читаю самостійно Великий шрифт Таємниця розбитого дзеркала.  У період опанування дітьми самостійного читання немає нічого кращого за якісну дитячу літературу! Саме такі історії ми пропонуємо у цій книжці. Вона складається з сучасних казок із захопливим сюжетом, який обов'язково сподобається дітям. А щоб маленькі читачі не перенапружували зір, підібрано казкові історії оптимальні за обсягом і надруковано їх великим шрифтом. Ці книжечки допоможуть набути навичок свідомого читання, розширити словниковий запас, розвинути почуттся гумору, і найголовніше - отримати задоволення від читання. Читайте з насолодою!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Майборода О.В.</param>
-<param name="Мова">українська</param>
-<param name="Вік">6+</param>
-<param name="Тип">Книжка для читання</param>
-<param name="Серія">Я читаю самостійно</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">тверда</param>
-<param name="ISBN">9789669399892</param>
-<param name="Формат, розмір">17х23 см</param>
-<param name="Видавництво">Торсiнг</param></offer>
-<offer id="26932" available="true" in_stock="true" selling_type="r" >
-<name>Я читаю самостійно Торсінг Великий шрифт Хто вкрав сніг</name>
-<vendorCode>9789669399885</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/1-klas-1/ya-chytaiu-samostiino-torsinh-velykyi-shryft-khto-vkrav-snih/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>54</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/26932/ya_chitayu_samostiyno_torsing_velikiy_shrift_hto_vkrav_snig.jpg</picture>
-<vendor>Торсінг</vendor>
-<description>
-<![CDATA[Я читаю самостійно Великий шрифт Хто вкрав сніг?  У період опанування дітьми самостійного читання немає нічого кращого за якісну дитячу літературу! Саме такі історії ми пропонуємо у цій книжці. Вона складається з сучасних казок із захопливим сюжетом, який обов'язково сподобається дітям. А щоб маленькі читачі не перенапружували зір, підібрано казкові історії оптимальні за обсягом і надруковано їх великим шрифтом. Ці книжечки допоможуть набути навичок свідомого читання, розширити словниковий запас, розвинути почуттся гумору, і найголовніше - отримати задоволення від читання. Читайте з насолодою!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Майборода О.В.</param>
-<param name="Мова">українська</param>
-<param name="Вік">6+</param>
-<param name="Тип">Книжка для читання</param>
-<param name="Серія">Я читаю самостійно</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">тверда</param>
-<param name="ISBN">9789669399885</param>
-<param name="Формат, розмір">17х23 см</param>
-<param name="Видавництво">Торсiнг</param></offer>
-<offer id="26933" available="true" in_stock="true" selling_type="r" >
-<name>Я читаю самостійно Торсінг Великий шрифт Школа крилатих піратів</name>
-<vendorCode>9789669399878</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/1-klas-1/ya-chytaiu-samostiino-torsinh-velykyi-shryft-shkola-krylatykh-pirativ/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>54</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/26933/ya_chitayu_samostiyno_torsing_velikiy_shrift_shkola_krilatih_pirativ.jpg</picture>
-<vendor>Торсінг</vendor>
-<description>
-<![CDATA[Я читаю самостійно Великий шрифт Школа крилатих піратів.  У період опанування дітьми самостійного читання немає нічого кращого за якісну дитячу літературу! Саме такі історії ми пропонуємо у цій книжці. Вона складається з сучасних казок із захопливим сюжетом, який обов'язково сподобається дітям. А щоб маленькі читачі не перенапружували зір, підібрано казкові історії оптимальні за обсягом і надруковано їх великим шрифтом. Ці книжечки допоможуть набути навичок свідомого читання, розширити словниковий запас, розвинути почуттся гумору, і найголовніше - отримати задоволення від читання. Читайте з насолодою!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Майборода О.В.</param>
-<param name="Мова">українська</param>
-<param name="Вік">6+</param>
-<param name="Тип">Книжка для читання</param>
-<param name="Серія">Я читаю самостійно</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">тверда</param>
-<param name="ISBN">9789669399878</param>
-<param name="Формат, розмір">17х23 см</param>
-<param name="Видавництво">Торсiнг</param></offer>
+
+
+
+
 
 
 
@@ -27362,78 +27224,9 @@
 <param name="ISBN">978-966-429-616-5</param>
 <param name="Формат, розмір">210 х 165 х 5 мм</param>
 <param name="Видавництво">Школа</param></offer>
-<offer id="27160" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Англійські прописи Школа Експрес-шаблон Федієнко</name>
-<vendorCode>978-966-429-617-2</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nush-anhliiski-propysy-shkola-ekspres-shablon-fediienko/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>45</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27160/nush_angliyski_propisi_shkola_ekspres_shablon_fedi_nko.jpg</picture>
-<vendor>Школа</vendor>
-<description>
-<![CDATA[НУШ. Англійські прописи. Експрес-шаблон. Завдяки використаному в зошиту унікальному запатентованому графічному шаблону - частої косої лінії - дитина зможе стандартизувати не тільки висоту, а й ширину букв і елементів, привчиться дотримуватися однакового нахилу букв і відстані між словами. А ретельно підібрані завдання на обведення та копіювання допоможуть відпрацювати різні види з'єднань.    Бажаємо успіхів і пам'ятайте, що гарний почерк дитини - це результат кропіткої спільної роботи дитини, педагогів та батьків!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Федієнко В.</param>
-<param name="Мова">українська, англійська</param>
-<param name="Вік">6+</param>
-<param name="Тип">Прописи</param>
-<param name="Серія">Експрес-шаблон</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-966-429-617-2</param>
-<param name="Формат, розмір">210 х 165 х 5 мм</param>
-<param name="Видавництво">Школа</param></offer>
-<offer id="27161" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Англійські прописи Школа Каліграфічний шрифт Експрес-шаблон Федієнко</name>
-<vendorCode>978-966-429-697-4</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nush-anhliiski-propysy-shkola-kalihrafichnyi-shryft-ekspres-shablon-fediienko/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>45</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27161/nush_angliyski_propisi_shkola_kaligrafichniy_shrift_ekspres_shablon_fedi_nko.jpg</picture>
-<vendor>Школа</vendor>
-<description>
-<![CDATA[НУШ. Англійські прописи. Каліграфічний шрифт. Експрес-шаблон. Ідея посібників серії «Експрес-шаблон» – максимум користі при невеликому обсязі.   Наші зошити відрізняються високою якістю методичного наповнення та поліграфічного виконання.  Колір та товщина ліній підібрані таким чином, щоб зменшити навантаження на зір дитини та зробити навчальний процес якомога комфортнішим.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Федієнко В.</param>
-<param name="Мова">українська, англійська</param>
-<param name="Вік">6+</param>
-<param name="Тип">Прописи</param>
-<param name="Серія">Експрес-шаблон</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-966-429-697-4</param>
-<param name="Формат, розмір">210 х 165 х 5 мм</param>
-<param name="Видавництво">Школа</param></offer>
-<offer id="27162" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Англійські прописи Школа Напівдруковані та каліграфічні шрифти Федієнко</name>
-<vendorCode>978-966-429-564-9</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nush-anhliiski-propysy-shkola-napivdrukovani-ta-kalihrafichni-shryfty-fediienko/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>65</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27162/nush_angliyski_propisi_shkola_napivdrukovani_ta_kaligrafichni_shrifti_fedi_nko.jpg</picture>
-<vendor>Школа</vendor>
-<description>
-<![CDATA[НУШ Англійські прописи. Напівдруковані та каліграфічні шрифти.  Прописи, що пропонуються, допоможуть усім охочим оволодіти навичками правильного написання великих і друкованих літер англійського алфавіту. Спеціально розроблені завдання допоможуть краще засвоїти графічні образи літер і зроблять цікавішими заняття.  Посібник адресований всім, хто бажає навчитися писати англійською правильно та із задоволенням.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Федієнко В.</param>
-<param name="Мова">українська, англійська</param>
-<param name="Вік">6+</param>
-<param name="Тип">Прописи</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">56</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-966-429-564-9</param>
-<param name="Формат, розмір">210 х 165 х 4 мм</param>
-<param name="Видавництво">Школа</param></offer>
+
+
+
 <offer id="27163" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Комплект Першокласні каліграфічні прописи До всіх букварів Частина 1 та 2 Школа Федієнко</name>
 <vendorCode>9789664296424, 9789664296431</vendorCode>
@@ -47465,9 +47258,53 @@
 <param name="ISBN">978-617-7403-23-3</param>
 <param name="Формат, розмір">220х168 мм</param>
 <param name="Видавництво">Белкар-книга</param></offer>
+<offer id="29719" available="true" in_stock="true" selling_type="r" >
+<name>Зустріч з казкою Белкар-книга Казки. Читання по складах. Промінець</name>
+<vendorCode>9786177403264</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/zustrich-z-kazkoiu-belkar-knyha-kazky-chytannia-po-skladakh-prominets/</url>
+<currencyId>UAH</currencyId>
+<categoryId>140</categoryId>
+<price>180</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/29719/zustrich_z_kazkoyu_belkar_kniga_kazki_chitannya_po_skladah_prominets.png</picture>
+<vendor>Белкар-книга</vendor>
+<description>
+<![CDATA[Зустріч з казкою. Казки. Читання по складах. Промінець  Ця збірка казок - для наймолодших читачів, які роблять перші кроки в читанні. Книга призначена для набування дітьми навичок техніки читання текстів по складах. До збірки ввійшли відомі народні та авторські казки. Читаючи їх, малята навчаться відрізняти добро від зла, здійснювати гарні вчинки, бути розумними та ввічливими.  Для дошкільнят і дітей молодшого шкільного віку.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">народні та авторські казки</param>
+<param name="Мова">українська</param>
+<param name="Вік">4-7 років</param>
+<param name="Тип">книга</param>
+<param name="Серія">Промінець</param>
+<param name="Кількість сторінок">48</param>
+<param name="Тип паперу">кольоровий, крейдований</param>
+<param name="Тип обкладинки">тверда</param>
+<param name="ISBN">978-617-7403-26-4</param>
+<param name="Формат, розмір">220х168 мм</param>
+<param name="Видавництво">Белкар-книга</param></offer>
 
-
-
+<offer id="29721" available="true" in_stock="true" selling_type="r" >
+<name>Друзі Белкар-книга Оповідання. Читання по складах. Промінець</name>
+<vendorCode>9789661694780</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/druzi-belkar-knyha-opovidannia-chytannia-po-skladakh-prominets/</url>
+<currencyId>UAH</currencyId>
+<categoryId>140</categoryId>
+<price>180</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/29721/druzi_belkar_kniga_opovidannya_chitannya_po_skladah_prominets.png</picture>
+<vendor>Белкар-книга</vendor>
+<description>
+<![CDATA[Друзі. Оповідання. Читання по складах. Промінець  Ця збірка оповідань - для наймолодших читачів, які роблять перші кроки в читанні. Книга призначена для оволодіння дітьми технікою читання текстів по складах. До збірки ввійшли оповідання відомих українських авторів. Читаючи їх, малята навчаться бути ввічливими, добрими, працелюбними, поважати друзів, захищати менших, допомагати старшим, не ображати тварин.  Для дітей дошкільного та молодшого шкільного віку.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">збірка авторів</param>
+<param name="Мова">українська</param>
+<param name="Вік">4-7 років</param>
+<param name="Тип">книга</param>
+<param name="Серія">Промінець</param>
+<param name="Кількість сторінок">48</param>
+<param name="Тип паперу">кольоровий, крейдований</param>
+<param name="Тип обкладинки">тверда</param>
+<param name="ISBN">978-966-1694-78-0</param>
+<param name="Формат, розмір">220х168 мм</param>
+<param name="Видавництво">Белкар-книга</param></offer>
 <offer id="29722" available="true" in_stock="true" selling_type="r" >
 <name>Пан Коцький Белкар-книга Казки. Читання по складах. Промінець</name>
 <vendorCode>9789661694575</vendorCode>
@@ -64780,7 +64617,7 @@
 <vendorCode>1210150</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/komplekt-velykyi-trenazher-ula-matematyka-1-4-klasy-zadachi-tablytsia-mnozhennia-i-dilennia-dodavannia-i-vidnimannia-bahatotsyfrovykh-chysel/</url>
 <currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
+<categoryId>11</categoryId>
 <price>240</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31652/komplekt_velikiy_trenazher_ula_matematika_1_4_klasi_zadachi_tablitsya_mnozhennya_i_dilennya_dodavannya_i_vidnimannya_bagatotsifrovih_chisel.jpg</picture>
 <vendor>УЛА</vendor>
@@ -70248,78 +70085,9 @@
 <param name="ISBN">9786170041036</param>
 <param name="Формат, розмір">209х145 мм</param>
 <param name="Видавництво">Основа</param></offer>
-<offer id="32004" available="true" in_stock="true" selling_type="r" >
-<name>Маленькі історії по складах Торсінг Найкращий подарунок (Тетяна Клапчук)</name>
-<vendorCode>9786175244340</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/malenki-istorii-po-skladakh-torsinh-naikrashchyi-podarunok-tetiana-klapchuk/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>41</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/32004/malenki_istori_po_skladah_torsing_naykrashchiy_podarunok_tetyana_klapchuk.jpg</picture>
-<vendor>Торсінг</vendor>
-<description>
-<![CDATA[Маленькі історії по складах. Найкращий подарунок  Книга призначена для формування й вдосконалення навичок читання по складах як важливого компонента мовленнєвого розвитку дітей. Невеликі за обсягом тексти, герої яких потрапляють у цікаві пригоди, спонукатимуть до розвитку пізнавального та читацького інтересу малюків. А виховний зміст історій сприятиме виявленню моральних якостей маленьких читачів.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Клапчук Тетяна</param>
-<param name="Мова">українська</param>
-<param name="Вік">5-7 років</param>
-<param name="Тип">книга для читання</param>
-<param name="Серія">Маленькі історії по складах</param>
-<param name="Кількість сторінок">12</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-617-524-434-0</param>
-<param name="Формат, розмір">225x225 мм</param>
-<param name="Видавництво">Торсiнг</param></offer>
-<offer id="32005" available="true" in_stock="true" selling_type="r" >
-<name>Маленькі історії по складах Торсінг Горішки для друзів (Тетяна Клапчук)</name>
-<vendorCode>9786175244333</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/malenki-istorii-po-skladakh-torsinh-horishky-dlia-druziv-tetiana-klapchuk/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>41</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/32005/malenki_istori_po_skladah_torsing_gorishki_dlya_druziv_tetyana_klapchuk.jpg</picture>
-<vendor>Торсінг</vendor>
-<description>
-<![CDATA[Маленькі історії по складах. Горішки для друзів  Книга призначена для формування й вдосконалення навичок читання по складах як важливого компонента мовленнєвого розвитку дітей. Невеликі за обсягом тексти, герої яких потрапляють у цікаві пригоди, спонукатимуть до розвитку пізнавального та читацького інтересу малюків. А виховний зміст історій сприятиме виявленню моральних якостей маленьких читачів.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Клапчук Тетяна</param>
-<param name="Мова">українська</param>
-<param name="Вік">5-7 років</param>
-<param name="Тип">книга для читання</param>
-<param name="Серія">Маленькі історії по складах</param>
-<param name="Кількість сторінок">12</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-617-524-433-3</param>
-<param name="Формат, розмір">225x225 мм</param>
-<param name="Видавництво">Торсiнг</param></offer>
-<offer id="32006" available="true" in_stock="true" selling_type="r" >
-<name>Маленькі історії по складах Торсінг Гойдалка для друга (Тетяна Клапчук)</name>
-<vendorCode>9786175244357</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/malenki-istorii-po-skladakh-torsinh-hoidalka-dlia-druha-tetiana-klapchuk/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>41</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/32006/malenki_istori_po_skladah_torsing_goydalka_dlya_druga_tetyana_klapchuk.jpg</picture>
-<vendor>Торсінг</vendor>
-<description>
-<![CDATA[Маленькі історії по складах. Гойдалка для друга  Книга призначена для формування й вдосконалення навичок читання по складах як важливого компонента мовленнєвого розвитку дітей. Невеликі за обсягом тексти, герої яких потрапляють у цікаві пригоди, спонукатимуть до розвитку пізнавального та читацького інтересу малюків. А виховний зміст історій сприятиме виявленню моральних якостей маленьких читачів.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Клапчук Тетяна</param>
-<param name="Мова">українська</param>
-<param name="Вік">5-7 років</param>
-<param name="Тип">книга для читання</param>
-<param name="Серія">Маленькі історії по складах</param>
-<param name="Кількість сторінок">12</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-617-524-435-7</param>
-<param name="Формат, розмір">225x225 мм</param>
-<param name="Видавництво">Торсiнг</param></offer>
+
+
+
 
 
 
