@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-10-09 12:00">
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-10-10 12:00">
 <shop>
 <url>https://knigovan.com/</url>
 <name>Книгован</name>
@@ -228,7 +228,7 @@
 <vendorCode>9789660720770</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dovidnyk-z-nimetskoi-movy-dlia-uchniv-pochatkovykh-klasiv/</url>
 <currencyId>UAH</currencyId>
-<categoryId>33</categoryId>
+<categoryId>35</categoryId>
 <price>80</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/23915/dovidnik_z_nimetsko_movi_dlya_uchniv_pochatkovih_klasiv.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -440,7 +440,7 @@
 <vendorCode>9789662840230</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dovidnyk-shkoliara-anhlo-ukrainskyi-slovnyk-1-4-klas/</url>
 <currencyId>UAH</currencyId>
-<categoryId>33</categoryId>
+<categoryId>35</categoryId>
 <price>75</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/23942/dovidnik_shkolyara_anglo_ukra_nskiy_slovnik_1_4_klas.jpg</picture>
 <vendor>УЛА</vendor>
@@ -504,7 +504,7 @@
 <vendorCode>9789662840292</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dovidnyk-shkoliara-anhliiska-mova-1-4-klas/</url>
 <currencyId>UAH</currencyId>
-<categoryId>33</categoryId>
+<categoryId>35</categoryId>
 <price>75</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/23946/dovidnik_shkolyara_angliyska_mova_1_4_klas.jpg</picture>
 <vendor>УЛА</vendor>
@@ -691,7 +691,7 @@
 <vendorCode>9789669397096</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/tablytsi-ta-skhemy-anhliiska-hramatyka-5-11-klasy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>73</categoryId>
+<categoryId>76</categoryId>
 <price>86</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/23957/tablitsi_ta_shemi_angliyska_gramatika_5_11_klasi.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -838,7 +838,7 @@
 <vendorCode>9789662654080</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/zhyvi-pravyla-chytannia-anhliiskoi-movy-ukr-riven-1-yuliia-ivanova-jim-whalen/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>187</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/23967/zhivi_pravila_chitannya_angliysko_movi_ukr_riven_1_yuliya_ivanova_jim_whalen.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -859,7 +859,7 @@
 <vendorCode>9789662654264, 9786177728312</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/zhyvi-frazy-i-dialohy-anhliiskoi-movy-ukr-riven-1-yuliia-ivanova-jim-whalen/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>187</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/23969/zhivi_frazi_i_dialogi_angliysko_movi_ukr_riven_1_yuliya_ivanova_jim_whalen.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -880,7 +880,7 @@
 <vendorCode>9789662654189, 9786177728534</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/zhyva-hramatyka-anhliiskoi-movy-ukr-riven-2-yuliia-ivanova-jim-whalen/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>215</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/23971/zhiva_gramatika_angliysko_movi_ukr_riven_2_yuliya_ivanova_jim_whalen.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -902,7 +902,7 @@
 <vendorCode>9789662654547</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/zhyvi-nepravylni-diieslova-anhliiskoi-movy-riven-1-ukr/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>215</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/23972/zhivi_nepravilni_di_slova_angliysko_movi_riven_1_ukr.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -966,7 +966,7 @@
 <vendorCode>9789662654172</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/bingo-knyha-dlia-vchytelia-riven-1-ros/</url>
 <currencyId>UAH</currencyId>
-<categoryId>2</categoryId>
+<categoryId>35</categoryId>
 <price>122</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/23978/bingo_kniga_dlya_vchitelya_riven_1_ros.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -986,7 +986,7 @@
 <vendorCode>9789662654134</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/bingo-knyha-dlia-vchytelia-anhliiskoi-movy-riven-1-ukr/</url>
 <currencyId>UAH</currencyId>
-<categoryId>2</categoryId>
+<categoryId>35</categoryId>
 <price>122</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/23979/bingo_kniga_dlya_vchitelya_angliysko_movi_riven_1_ukr.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -1007,7 +1007,7 @@
 <vendorCode>9789662654035</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/bingo-knyha-dlia-uchytelia-anhliiskoi-movy-riven-2-yuliia-ivanova-rus/</url>
 <currencyId>UAH</currencyId>
-<categoryId>2</categoryId>
+<categoryId>35</categoryId>
 <price>122</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/23981/bingo_kniga_dlya_uchitelya_angliysko_movi_riven_2_yuliya_ivanova_rus.png</picture>
 <vendor>Нью Тайм</vendor>
@@ -1050,7 +1050,7 @@
 <vendorCode>9789662654240</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/anhliiska-hramota-povnyi-dovidnyk-dlia-pochatkovoi-shkoly-yuliia-ivanova-jim-whalen-ukr/</url>
 <currencyId>UAH</currencyId>
-<categoryId>33</categoryId>
+<categoryId>35</categoryId>
 <price>275</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/23985/angliyska_gramota_povniy_dovidnik_dlya_pochatkovo_shkoli_yuliya_ivanova_jim_whalen_ukr.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -1063,7 +1063,7 @@
 <vendorCode>9789662654226, 9786177728220</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/zhyvi-pravyla-chytannia-frantsuzkoi-movy-ukr-riven-1/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>196</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/23986/zhivi_pravila_chitannya_frantsuzko_movi_ukr_riven_1.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -1630,7 +1630,7 @@
 <vendorCode>9789660727229</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/tablytsi-ta-skhemy-pidruchnyky-i-posibnyky-nimetska-mova-pochatkovyi-i-serednii-rivni/</url>
 <currencyId>UAH</currencyId>
-<categoryId>33</categoryId>
+<categoryId>35</categoryId>
 <price>75</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24040/tablitsi_ta_shemi_pidruchniki_i_posibniki_nimetska_mova_pochatkoviy_i_seredniy_rivni.png</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -1701,7 +1701,7 @@
 <vendorCode>9789662654448, 9786177728398</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/zhyva-hramatyka-anhliiskoi-movy-ukr-riven-3-yuliia-ivanova-jim-whalen/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>215</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24047/zhiva_gramatika_angliysko_movi_ukr_riven_3_yuliya_ivanova_jim_whalen.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -1726,7 +1726,7 @@
 <vendorCode>9786177728190</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/anhliiskyi-supertrenazher-diieslovo-to-be-ukr/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>100</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24051/angliyskiy_supertrenazher_di_slovo_to_be_ukr.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -1745,7 +1745,7 @@
 <vendorCode>9789662654424</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/nimetska-mova-zhyvi-pravyla-chytannia-ukr/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>165</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24052/nimetska_mova_zhivi_pravila_chitannya_ukr.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -2471,7 +2471,7 @@
 <vendorCode>9789662654509, 9786177728473</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/anhliiskyi-supertrenazher-present-continuous-ukr/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>75</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24154/angliyskiy_supertrenazher_present_continuous_ukr.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -2492,7 +2492,7 @@
 <vendorCode>9786177728039</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/anhliiskyi-supertrenazher-past-simple-ukr/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>75</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24155/angliyskiy_supertrenazher_past_simple_ukr.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -2515,7 +2515,7 @@
 <vendorCode>9789662654608, 9786177728510</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/anhliiskyi-supertrenazher-nepravylni-diieslova-ukr/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>75</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24158/angliyskiy_supertrenazher_nepravilni_di_slova_ukr.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -2536,7 +2536,7 @@
 <vendorCode>9786177728091, 9786177728480</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/anhliiskyi-supertrenazher-present-perfect-ukr/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>75</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24159/angliyskiy_supertrenazher_present_perfect_ukr.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -2558,7 +2558,7 @@
 <vendorCode>9786177728237</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/frantsuzka-hramota-niu-taim-povnyi-dovidnyk-dlia-pochatkivtsiv-mariia-zhyl-artem-lukashov-nicol-duval/</url>
 <currencyId>UAH</currencyId>
-<categoryId>33</categoryId>
+<categoryId>35</categoryId>
 <price>275</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24161/frantsuzka_gramota_nyu_taym_povniy_dovidnik_dlya_pochatkivtsiv_mariya_zhil_artem_lukashov_nicol_duval.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -2580,7 +2580,7 @@
 <vendorCode>9786177728213</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nimetska-hramota-niu-taim-povnyi-dovidnyk-dlia-pochatkivtsiv-dariia-holts-lukas-werner/</url>
 <currencyId>UAH</currencyId>
-<categoryId>33</categoryId>
+<categoryId>35</categoryId>
 <price>275</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24162/nimetska_gramota_nyu_taym_povniy_dovidnik_dlya_pochatkivtsiv_dariya_golts_lukas_werner.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -2869,7 +2869,7 @@
 <vendorCode>9789662843590</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/dovidnyk-v-tablytsiakh-anhliiska-mova-7-11-klas/</url>
 <currencyId>UAH</currencyId>
-<categoryId>73</categoryId>
+<categoryId>76</categoryId>
 <price>49</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24193/dovidnik_v_tablitsyah_angliyska_mova_7_11_klas.jpg</picture>
 <vendor>УЛА</vendor>
@@ -3041,7 +3041,7 @@
 <vendorCode>9789660729094</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/dovidnyky-1/ukrainskyi-pravopys-iliustrovanyi-dovidnyk-shkoliara/</url>
 <currencyId>UAH</currencyId>
-<categoryId>33</categoryId>
+<categoryId>73</categoryId>
 <price>210</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24203/ukra_nskiy_pravopis_ilyustrovaniy_dovidnik_shkolyara.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -3522,7 +3522,7 @@
 <vendorCode>9789662841404</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/zoshyt-slovnychok-dlia-zapysu-anhliiskykh-sliv-5-9-klasy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>74</categoryId>
+<categoryId>76</categoryId>
 <price>46</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24262/zoshit_slovnichok_dlya_zapisu_angliyskih_sliv_5_9_klasi.jpg</picture>
 <vendor>УЛА</vendor>
@@ -4287,7 +4287,27 @@
 <param name="ISBN">978-966-429-560-1</param>
 <param name="Формат, розмір">210 х 165 х 4 мм</param>
 <param name="Видавництво">Школа</param></offer>
-
+<offer id="24337" available="true" in_stock="true" selling_type="r" >
+<name>Зошит-словничок для запису англійських слів. 1–4 класи</name>
+<vendorCode>9789662841398</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/zoshyt-slovnychok-dlia-zapysu-anhliiskykh-sliv-1-4-klasy/</url>
+<currencyId>UAH</currencyId>
+<categoryId>35</categoryId>
+<price>40</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/24337/zoshit_slovnichok_dlya_zapisu_angliyskih_sliv_1_4_klasi.jpg</picture>
+<vendor>УЛА</vendor>
+<description>
+<![CDATA[Зошит-словничок для запису англійських слів — це індивідуальний зошит школяра, до якого він записує нові слова з транскрипцією та перекладом з кожної вивченої теми. За допомогою цього зошита учень зможе повторити вивчені слова та словосполучення. Наприкінці року дитина матиме змогу переглянути свій власний лексичний запас та використати словничок для майбутніх занять.]]></description>
+<quantity_in_stock>99</quantity_in_stock>
+<param name="Автор">Зиновьева Л.А.</param>
+<param name="Мова">англійська</param>
+<param name="Вік">начальная школа</param>
+<param name="Тип">Рабочая тетрадь</param>
+<param name="Серія">Справочная литература</param>
+<param name="Кількість сторінок">48</param>
+<param name="Тип паперу">офсет</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9789662841398</param></offer>
 <offer id="24338" available="true" in_stock="true" selling_type="r" >
 <name>Довідник в таблицях. Математика 1-4 клас</name>
 <vendorCode>9789662844337</vendorCode>
@@ -4338,7 +4358,7 @@
 <vendorCode>9789662844320</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dovidnyk-v-tablytsiakh-anhliiska-mova-1-4-klasy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>33</categoryId>
+<categoryId>35</categoryId>
 <price>49</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24341/dovidnik_v_tablitsyah_angliyska_mova_1_4_klasi.jpg</picture>
 <vendor>УЛА</vendor>
@@ -4383,7 +4403,7 @@
 <vendorCode>9789662654707</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/zhyva-hramatyka-polskoi-movy-riven-1-ukr/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>185</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24343/zhiva_gramatika_polsko_movi_riven_1_ukr.gif</picture>
 <vendor>Нью Тайм</vendor>
@@ -4713,7 +4733,7 @@
 <vendorCode>9786177728183</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/anhliiskyi-supertrenazher-porivniannia-chasiv-diiesliv-ukr/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>75</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24360/angliyskiy_supertrenazher_porivnyannya_chasiv_di_sliv_ukr.gif</picture>
 <vendor>Нью Тайм</vendor>
@@ -4737,7 +4757,7 @@
 <vendorCode>9789662654660</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/anhliiskyi-supertrenazher-uzghodzhennia-chasiv-ukr/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>75</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24363/angliyskiy_supertrenazher_uzgodzhennya_chasiv_ukr.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -5201,7 +5221,7 @@
 <vendorCode>9786177312702</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/trenazher-orfohrafichnyi-m-iakyi-znak-pravyla-perenosu/</url>
 <currencyId>UAH</currencyId>
-<categoryId>7</categoryId>
+<categoryId>32</categoryId>
 <price>21</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24460/trenazher_orfografichniy_m_yakiy_znak_pravila_perenosu.jpg</picture>
 <vendor>АССА</vendor>
@@ -5222,7 +5242,7 @@
 <vendorCode>9786177312719</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/trenazher-orfohrafichnyi-pravopys-apostrofa-velyka-litera/</url>
 <currencyId>UAH</currencyId>
-<categoryId>7</categoryId>
+<categoryId>32</categoryId>
 <price>21</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24461/trenazher_orfografichniy_pravopis_apostrofa_velika_litera.jpg</picture>
 <vendor>АССА</vendor>
@@ -5309,7 +5329,7 @@
 <vendorCode>9786177385195</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/stikerbuk-anhliiska-mova-1-4-klasy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>33</categoryId>
+<categoryId>35</categoryId>
 <price>85</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24466/stikerbuk_angliyska_mova_1_4_klasi.jpg</picture>
 <vendor>АССА</vendor>
@@ -5330,7 +5350,7 @@
 <vendorCode>9786177385256</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/stikerbuk-chasy-anhliiskoi-movy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>85</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24467/stikerbuk_chasi_angliysko_movi.jpg</picture>
 <vendor>АССА</vendor>
@@ -5351,7 +5371,7 @@
 <vendorCode>9786177385263</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/stikerbuk-anhliiska-mova-nepravylni-diieslova/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>85</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24468/stikerbuk_angliyska_mova_nepravilni_di_slova.jpg</picture>
 <vendor>АССА</vendor>
@@ -5569,7 +5589,7 @@
 <vendorCode>9789662654721, 9786177728367</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/anhliiska-supertrenazher-modalni-diieslova-ukr/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>75</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24484/angliyska_supertrenazher_modalni_di_slova_ukr.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -5591,7 +5611,7 @@
 <vendorCode>9789662654684</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/anhliiskyi-supertrenazher-pasyvnyi-stan-ukr/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>75</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24485/angliyskiy_supertrenazher_pasivniy_stan_ukr.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -5613,7 +5633,7 @@
 <vendorCode>9786177728251</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/anhliiskyi-supertrenazher-conditionals-yuliia-ivanova-ukr/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>75</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24487/angliyskiy_supertrenazher_conditionals_yuliya_ivanova_ukr.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -5634,7 +5654,7 @@
 <vendorCode>9786177728282</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/anhliiskyi-supertrenazher-vchymosia-peredavaty-maibutnie-yuliia-ivanova-ukr/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>100</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24488/angliyskiy_supertrenazher_vchimosya_peredavati_maybutn_yuliya_ivanova_ukr.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -5655,7 +5675,7 @@
 <vendorCode>9789662654837</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/anhliiskyi-supertrenazher-vchymosia-peredavaty-maibutnie-yuliia-ivanova-ros/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>75</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24489/angliyskiy_supertrenazher_vchimosya_peredavati_maybutn_yuliya_ivanova_ros.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -5676,7 +5696,7 @@
 <vendorCode>9789662654790</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/anhliiskyi-supertrenazher-vchymosia-stavyty-zapytannia-yuliia-ivanova-ros/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>75</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24490/angliyskiy_supertrenazher_vchimosya_staviti_zapitannya_yuliya_ivanova_ros.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -5697,7 +5717,7 @@
 <vendorCode>9789662654783, 9786177728350</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/anhliiskyi-supertrenazher-vchymosia-stavyty-zapytannia-yuliia-ivanova-ukr/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>75</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24491/angliyskiy_supertrenazher_vchimosya_staviti_zapitannya_yuliya_ivanova_ukr.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -5722,7 +5742,29 @@
 
 
 
-
+<offer id="24500" available="true" in_stock="true" selling_type="r" >
+<name>Словничок Весна Англійська мова 1400 слів для початкової школи 1-4 класи + пустографка</name>
+<vendorCode>978-617-686-489-9</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/slovnychok-vesna-anhliiska-mova-1400-sliv-dlia-pochatkovoi-shkoly-1-4-klasy-pustohrafka/</url>
+<currencyId>UAH</currencyId>
+<categoryId>35</categoryId>
+<price>50</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/24500/slovnichok_vesna_angliyska_mova_1400_sliv_dlya_pochatkovo_shkoli_1_4_klasi_pustografka.jpg</picture>
+<vendor>Весна</vendor>
+<description>
+<![CDATA[Словничок. Англійська мова 1400 слів (пустографка) 2019  Видання укладено відповідно до оновленої програми з англійської мови для учнів 1—4 класів загальноосвітніх навчальних закладів. Посібник містить 1400 англійських слів із транскрипцією.  Словник укладено за  принципом тематичного групування, тобто слова подано по темам: «Подорож. Види транспорту», «Свійські тварини», «Свята і традиції». Кожне слово має свій порядковий номер. Перелік слів відповідає двом підручникам — Алли Несвіт та Оксани Карп’юк. Для зручності користування подано алфавітні покажчики слів — англійсько-український та українсько-англійський. У кінці словничка подано «Граматичний словничок», зібрані у ньому правила будуть корисними під час перекладу англійських  текстів.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Ходаковська О. О.</param>
+<param name="Мова">українська, англійська</param>
+<param name="Вік">початкова школа</param>
+<param name="Тип">Посiбник для учня</param>
+<param name="Серія">Словники</param>
+<param name="Кількість сторінок">128</param>
+<param name="Тип паперу">офсет</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-617-686-489-9</param>
+<param name="Формат, розмір">140х210 мм.</param>
+<param name="Видавництво">Весна</param></offer>
 
 
 
@@ -6097,7 +6139,7 @@
 <vendorCode>9789660732254</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dovidnychok-z-polskoi-movy-dlia-uchniv-1-4-roky-vyvchennia/</url>
 <currencyId>UAH</currencyId>
-<categoryId>33</categoryId>
+<categoryId>35</categoryId>
 <price>80</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24558/dovidnichok_z_polsko_movi_dlya_uchniv_1_4_roki_vivchennya.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -6262,7 +6304,7 @@
 <vendorCode>2005000000430</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/shchodennyk-z-kalynoiu/</url>
 <currencyId>UAH</currencyId>
-<categoryId>7</categoryId>
+<categoryId>32</categoryId>
 <price>45</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24584/shchodennik_z_kalinoyu.jpg</picture>
 <vendor>Богдан</vendor>
@@ -6354,7 +6396,7 @@
 <vendorCode>9789662845136</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/anhliiska-mova-bazova-leksyka-1-4-klasy-dovidnyk-shkoliara/</url>
 <currencyId>UAH</currencyId>
-<categoryId>33</categoryId>
+<categoryId>35</categoryId>
 <price>17</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24595/angliyska_mova_bazova_leksika_1_4_klasi_dovidnik_shkolyara.jpg</picture>
 <vendor>УЛА</vendor>
@@ -6376,7 +6418,7 @@
 <vendorCode>9789662845143</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/anhliiska-mova-rozmovni-temy-ta-dialohy-2-4-klasy-dovidnyk-shkoliara/</url>
 <currencyId>UAH</currencyId>
-<categoryId>33</categoryId>
+<categoryId>35</categoryId>
 <price>17</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24596/angliyska_mova_rozmovni_temi_ta_dialogi_2_4_klasi_dovidnik_shkolyara.jpg</picture>
 <vendor>УЛА</vendor>
@@ -6429,7 +6471,7 @@
 <vendorCode>9789660732278</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/nimetsko-ukrainskyi-ukrainsko-nimetskyi-slovnyk/</url>
 <currencyId>UAH</currencyId>
-<categoryId>74</categoryId>
+<categoryId>76</categoryId>
 <price>95</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24613/nimetsko_ukra_nskiy_ukra_nsko_nimetskiy_slovnik.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -6500,7 +6542,7 @@
 <vendorCode>9789660731905</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dovidnychok-z-anhliiskoi-movy-dlia-uchniv-pochatkovykh-klasiv/</url>
 <currencyId>UAH</currencyId>
-<categoryId>33</categoryId>
+<categoryId>35</categoryId>
 <price>90</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24629/dovidnichok_z_angliysko_movi_dlya_uchniv_pochatkovih_klasiv.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -6881,7 +6923,7 @@
 <vendorCode>97811234567897</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/anhliiskyi-supertrenazher-vchymosia-peredavaty-mynule-yuliia-ivanova-ros/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>75</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24703/angliyskiy_supertrenazher_vchimosya_peredavati_minule_yuliya_ivanova_ros.gif</picture>
 <vendor>Нью Тайм</vendor>
@@ -6902,7 +6944,7 @@
 <vendorCode>9789662654929</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nimetskyi-supertrenazher-teperishnii-chas-1-oksana-kurash-ukr/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>80</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24704/nimetskiy_supertrenazher_teperishniy_chas_1_oksana_kurash_ukr.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -6924,7 +6966,7 @@
 <vendorCode>9789662654882</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/polskyi-supertrenazher-teperishnii-chas-ukr/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>80</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24706/polskiy_supertrenazher_teperishniy_chas_ukr.gif</picture>
 <vendor>Нью Тайм</vendor>
@@ -6944,7 +6986,7 @@
 <vendorCode>9789662654899</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/polskyi-supertrenazher-dokonanyi-i-nedokonanyi-vyd-diiesliv-ukr/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>80</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24707/polskiy_supertrenazher_dokonaniy_i_nedokonaniy_vid_di_sliv_ukr.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -6964,7 +7006,7 @@
 <vendorCode>9789660732711</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/anhliiska-mova-tablytsi-ta-skhemy-pochatkovyi-riven/</url>
 <currencyId>UAH</currencyId>
-<categoryId>33</categoryId>
+<categoryId>35</categoryId>
 <price>55</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24708/angliyska_mova_tablitsi_ta_shemi_pochatkoviy_riven.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -6991,7 +7033,7 @@
 <vendorCode>9789660732810</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/anhliiska-mova-tablytsi-ta-skhemy-serednii-riven/</url>
 <currencyId>UAH</currencyId>
-<categoryId>73</categoryId>
+<categoryId>76</categoryId>
 <price>60</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24713/angliyska_mova_tablitsi_ta_shemi_seredniy_riven.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -8142,7 +8184,7 @@
 <vendorCode>9789660733275</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nush-anhliiska-mova-1-klas-zoshyt-z-pysma-do-pidruchnyka-hunko/</url>
 <currencyId>UAH</currencyId>
-<categoryId>7</categoryId>
+<categoryId>35</categoryId>
 <price>55</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24815/nush_angliyska_mova_1_klas_zoshit_z_pisma_do_pidruchnika_gunko.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -8231,7 +8273,7 @@
 <vendorCode>9786177385782</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/stikerbuk-polska-mova-pochatkovyi-riven/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>85</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24821/stikerbuk_polska_mova_pochatkoviy_riven.jpg</picture>
 <vendor>АССА</vendor>
@@ -10359,7 +10401,7 @@
 <vendorCode>9786170913531</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nush-zoshyt-shablon-dlia-pochatkovoi-shkoly-english-1-2-klasy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>7</categoryId>
+<categoryId>35</categoryId>
 <price>90</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25115/nush_zoshit_shablon_dlya_pochatkovo_shkoli_english_1_2_klasi.jpg</picture>
 <vendor>Ранок</vendor>
@@ -10589,7 +10631,7 @@
 <vendorCode>9786170036131</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/dodatkova-literatura/nush-ya-vyvchaiu-vidsotky-robochyi-zoshyt-dlia-uchniv-5-11-klasiv/</url>
 <currencyId>UAH</currencyId>
-<categoryId>46</categoryId>
+<categoryId>75</categoryId>
 <price>60</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25152/nush_ya_vivchayu_vidsotki_robochiy_zoshit_dlya_uchniv_5_11_klasiv.jpg</picture>
 <vendor>Основа</vendor>
@@ -10714,7 +10756,7 @@
 <vendorCode>9786170914149</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nush-zoshyt-shablon-dlia-pochatkovoi-shkoly-deutsch-1-2-klasy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>7</categoryId>
+<categoryId>35</categoryId>
 <price>90</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25193/nush_zoshit_shablon_dlya_pochatkovo_shkoli_deutsch_1_2_klasi.jpg</picture>
 <vendor>Ранок</vendor>
@@ -11613,7 +11655,7 @@
 <vendorCode>9786177728077</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/shvydka-dopomoha-z-nulia-anhliiska-repetytor-bez-dyska-ukrainskoiu/</url>
 <currencyId>UAH</currencyId>
-<categoryId>33</categoryId>
+<categoryId>35</categoryId>
 <price>199</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25310/shvidka_dopomoga_z_nulya_angliyska_repetitor_bez_diska_ukra_nskoyu.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -12509,7 +12551,7 @@
 <vendorCode>9789662861587</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/materialy-dlia-pidhotovky-do-zno-2020-simfoniia-forte-modernizovani-tablytsi-z-ukrainskoi-literatury/</url>
 <currencyId>UAH</currencyId>
-<categoryId>70</categoryId>
+<categoryId>73</categoryId>
 <price>165</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25451/materiali_dlya_pidgotovki_do_zno_2020_simfoniya_forte_modernizovani_tablitsi_z_ukra_nsko_literaturi.jpg</picture>
 <vendor>Сімфонія-форте</vendor>
@@ -13219,7 +13261,7 @@
 <vendorCode>978-617-686-560-5</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/interaktyvnyi-dovidnyk-vesna-anhliiska-mova-5-11-klas-onlain-testy-tuchyna/</url>
 <currencyId>UAH</currencyId>
-<categoryId>73</categoryId>
+<categoryId>76</categoryId>
 <price>90</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25512/interaktivniy_dovidnik_vesna_angliyska_mova_5_11_klas_onlayn_testi_tuchina.jpg</picture>
 <vendor>Весна</vendor>
@@ -13877,7 +13919,7 @@
 <vendorCode>9789660735637</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/konspekty-urokiv/nush-kalendarno-tematychne-planuvannia-lohopedychnykh-zaniat-1-4-klasy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>2</categoryId>
+<categoryId>32</categoryId>
 <price>55</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25627/nush_kalendarno_tematichne_planuvannya_logopedichnih_zanyat_1_4_klasi.png</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -13945,29 +13987,7 @@
 <param name="ISBN">9789660735767</param>
 <param name="Формат, розмір">В5 (180*250 мм)</param>
 <param name="Видавництво">Підручники і посібники</param></offer>
-<offer id="25636" available="true" in_stock="true" selling_type="r" >
-<name>НУШ. Універсальний комплексний словник-довідник молодшого школяра</name>
-<vendorCode>9786170911360</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/slovnyky/nush-universalnyi-kompleksnyi-slovnyk-dovidnyk-molodshoho-shkoliara/</url>
-<currencyId>UAH</currencyId>
-<categoryId>33</categoryId>
-<price>180</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/25636/nush_universalniy_kompleksniy_slovnik_dovidnik_molodshogo_shkolyara.jpg</picture>
-<vendor>Ранок</vendor>
-<description>
-<![CDATA[Посібник "НУШ. Універсальний комплексний словник-довідник молодшого школяра  "  містить такі словники: тлумачний, орфографічний, орфоепічний, наголосів, словотвірний, синонімів і антонімів, омонімів, етимологічний, фразеологічний, народознавчий, іншомовних слів, імен, а також короткий довідник з української мови. За допомогою цього збірника учень зможе поповнити свій словниковий запас, навчиться доречно вживати слова у своєму мовленні, розрізняти синоніми, антоніми й омоніми, виконувати словотвірний аналіз слова, повторити всі орфограми з курсу української мови, підготуватися до контрольної роботи.   Посібник призначений для учнів 1–4 класів, їхніх батьків та вчителів початкової школи.]]></description>
-<quantity_in_stock>1000</quantity_in_stock>
-<param name="Автор">Воскресенська Н.О.</param>
-<param name="Мова">українська</param>
-<param name="Вік">1 клас</param>
-<param name="Тип">Посібник для учня</param>
-<param name="Серія">Нова українська школа</param>
-<param name="Кількість сторінок">464</param>
-<param name="Тип паперу">офсет, газетна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786170911360</param>
-<param name="Формат, розмір">140*210 мм.</param>
-<param name="Видавництво">Ранок</param></offer>
+
 <offer id="25637" available="true" in_stock="true" selling_type="r" >
 <name>Український правопис з коментарями та примітками до нової редакції</name>
 <vendorCode>9786170960986</vendorCode>
@@ -14360,7 +14380,7 @@
 <vendorCode>9786177661350</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/stikerbuk-anhliiska-mova-pryimennyky/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>85</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25721/stikerbuk_angliyska_mova_priymenniki.jpg</picture>
 <vendor>АССА</vendor>
@@ -15556,7 +15576,7 @@
 <vendorCode>4823038200084</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/shchodennyk-uchnia-leleka-z-kalynoiu/</url>
 <currencyId>UAH</currencyId>
-<categoryId>7</categoryId>
+<categoryId>32</categoryId>
 <price>54</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25909/shchodennik_uchnya_leleka_z_kalinoyu.jpg</picture>
 <vendor>Богдан</vendor>
@@ -18009,191 +18029,15 @@
 <param name="ISBN">9786170039774</param>
 <param name="Формат, розмір">А4 (210*280 мм)</param>
 <param name="Видавництво">Основа</param></offer>
-<offer id="26174" available="true" in_stock="true" selling_type="r" >
-<name>Знайди та покажи УЛА Таємничий ліс</name>
-<vendorCode>978-966-284-924-0</vendorCode>
-<url>https://knigovan.com/dozvillia-ihry/znaidy-ta-pokazhy-ula-taiemnychyi-lis/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>54</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/26174/znaydi_ta_pokazhi_ula_ta_mnichiy_lis.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Знайди та покажи УЛА Таємничий ліс.  Це видання познайомить дитину з мешканцями таємничого лісу. Виконуючи завдання, маленький розумник розвине уяву, потренує пам’ять та увагу, навчиться міркувати, творчо підходити до вирішення різних завдань і зможе відчути себе справжнім слідопитом! Кожен розворот книжки містить велику барвисту ілюстрацію з безліччю різноманітних кумедних персонажів і запитання, що підкажуть, які несподіванки потрібно шукати на картинці.    Видання призначене для дітей віком від шести років.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Смірнова К. В.</param>
-<param name="Мова">українська</param>
-<param name="Вік">від 6 років</param>
-<param name="Тип">Розвивальні книжки для дітей</param>
-<param name="Серія">Знайди та покажи</param>
-<param name="Кількість сторінок">12</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="ISBN">978-966-284-924-0</param>
-<param name="Формат, розмір">21×30,5 см</param>
-<param name="Видавництво">УЛА</param></offer>
-<offer id="26175" available="true" in_stock="true" selling_type="r" >
-<name>Знайди та покажи УЛА Чарівні принцеси</name>
-<vendorCode>978-966-284-925-7</vendorCode>
-<url>https://knigovan.com/dozvillia-ihry/znaidy-ta-pokazhy-ula-charivni-pryntsesy/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>54</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/26175/znaydi_ta_pokazhi_ula_charivni_printsesi.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Це видання познайомить дитину із чарівним світом принцес. Виконуючи завдання, маленький розумник розвине уяву, потренує пам’ять та увагу, навчиться міркувати, творчо підходити до вирішення різних завдань і зможе відчути себе справжнім слідопитом! Кожен розворот книжки містить велику барвисту ілюстрацію з безліччю різноманітних кумедних персонажів і запитання, що підкажуть, які несподіванки потрібно шукати на картинці.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Смірнова К. В.</param>
-<param name="Мова">українська</param>
-<param name="Вік">від 6 років</param>
-<param name="Тип">Розвивальні книжки для дітей</param>
-<param name="Серія">Знайди та покажи</param>
-<param name="Кількість сторінок">12</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="ISBN">978-966-284-925-7</param>
-<param name="Формат, розмір">21×30,5 см</param>
-<param name="Видавництво">УЛА</param></offer>
-<offer id="26176" available="true" in_stock="true" selling_type="r" >
-<name>Знайди та покажи УЛА Підводний світ</name>
-<vendorCode>978-966-284-923-3</vendorCode>
-<url>https://knigovan.com/dozvillia-ihry/znaidy-ta-pokazhy-ula-pidvodnyi-svit/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>54</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/26176/znaydi_ta_pokazhi_ula_pidvodniy_svit.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Знайди та покажи УЛА Підводний світ. Це видання познайомить дитину з мешканцями підводного світу. Виконуючи завдання, маленький розумник розвине уяву, потренує пам’ять та увагу, навчиться міркувати, творчо підходити до вирішення різних завдань і зможе відчути себе справжнім слідопитом! Кожен розворот книжки містить велику барвисту ілюстрацію з безліччю різноманітних кумедних персонажів і запитання, що підкажуть, які несподіванки потрібно шукати на картинці.    Видання призначене для дітей віком від шести років.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Смірнова К. В.</param>
-<param name="Мова">українська</param>
-<param name="Вік">від 6 років</param>
-<param name="Тип">Розвивальні книжки для дітей</param>
-<param name="Серія">Знайди та покажи</param>
-<param name="Кількість сторінок">12</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="ISBN">978-966-284-923-3</param>
-<param name="Формат, розмір">21×30,5 см</param>
-<param name="Видавництво">УЛА</param></offer>
-<offer id="26177" available="true" in_stock="true" selling_type="r" >
-<name>Знайди та покажи УЛА  Кумедна ферма</name>
-<vendorCode>978-966-284-922-6</vendorCode>
-<url>https://knigovan.com/dozvillia-ihry/znaidy-ta-pokazhy-ula-kumedna-ferma/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>54</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/26177/znaydi_ta_pokazhi_ula_kumedna_ferma.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Знайди та покажи УЛА Кумедна ферма. Це видання познайомить дитину з кумедними мешканцями ферми. Виконуючи завдання, маленький розумник розвине уяву, потренує пам’ять та увагу, навчиться міркувати, творчо підходити до вирішення різних завдань і зможе відчути себе справжнім слідопитом! Кожен розворот книжки містить велику барвисту ілюстрацію з безліччю різноманітних кумедних персонажів і запитання, що підкажуть, які несподіванки потрібно шукати на картинці.    Видання призначене для дітей віком від шести років.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Смірнова К. В.</param>
-<param name="Мова">українська</param>
-<param name="Вік">від 6 років</param>
-<param name="Тип">Розвивальні книжки для дітей</param>
-<param name="Серія">Знайди та покажи</param>
-<param name="Кількість сторінок">12</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="ISBN">978-966-284-922-6</param>
-<param name="Формат, розмір">21×30,5 см</param>
-<param name="Видавництво">УЛА</param></offer>
 
-<offer id="26179" available="true" in_stock="true" selling_type="r" >
-<name>Знайди та покажи УЛА Загадковий космос</name>
-<vendorCode>978-966-284-921-9</vendorCode>
-<url>https://knigovan.com/dozvillia-ihry/znaidy-ta-pokazhy-ula-zahadkovyi-kosmos/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>54</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/26179/znaydi_ta_pokazhi_ula_zagadkoviy_kosmos.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Знайди та покажи УЛА Загадковий космос. Це видання познайомить дитину із загадковим світом космосу. Виконуючи завдання, маленький розумник розвине уяву, потренує пам’ять та увагу, навчиться міркувати, творчо підходити до вирішення різних завдань і зможе відчути себе справжнім слідопитом! Кожен розворот книжки містить велику барвисту ілюстрацію з безліччю різноманітних кумедних персонажів і запитання, що підкажуть, які несподіванки потрібно шукати на картинці.    Видання призначене для дітей віком від шести років.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Смірнова К. В.</param>
-<param name="Мова">українська</param>
-<param name="Вік">від 6 років</param>
-<param name="Тип">Розвивальні книжки для дітей</param>
-<param name="Серія">Знайди та покажи</param>
-<param name="Кількість сторінок">12</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="ISBN">978-966-284-921-9</param>
-<param name="Формат, розмір">21×30,5 см</param>
-<param name="Видавництво">УЛА</param></offer>
-<offer id="26180" available="true" in_stock="true" selling_type="r" >
-<name>Знайди та покажи УЛА Дивовижні джунглі</name>
-<vendorCode>978-966-284-920-2</vendorCode>
-<url>https://knigovan.com/dozvillia-ihry/znaidy-ta-pokazhy-ula-dyvovyzhni-dzhunhli/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>54</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/26180/znaydi_ta_pokazhi_ula_divovizhni_dzhungli.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Знайди та покажи УЛА Дивовижні джунглі. Це видання познайомить дитину з дивовижним світом джунглів. Виконуючи завдання, маленький розумник розвине уяву, потренує пам’ять та увагу, навчиться міркувати, творчо підходити до вирішення різних завдань і зможе відчути себе справжнім слідопитом! Кожен розворот книжки містить велику барвисту ілюстрацію з безліччю різноманітних кумедних персонажів і запитання, що підкажуть, які несподіванки потрібно шукати на картинці.    Видання призначене для дітей віком від шести років.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Смірнова К. В.</param>
-<param name="Мова">українська</param>
-<param name="Вік">від 6 років</param>
-<param name="Тип">Розвивальні книжки для дітей</param>
-<param name="Серія">Знайди та покажи</param>
-<param name="Кількість сторінок">12</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="ISBN">978-966-284-920-2</param>
-<param name="Формат, розмір">21×30,5 см</param>
-<param name="Видавництво">УЛА</param></offer>
-<offer id="26181" available="true" in_stock="true" selling_type="r" >
-<name>Знайди та покажи УЛА Веселий зоопарк</name>
-<vendorCode>978-966-284-919-6</vendorCode>
-<url>https://knigovan.com/dozvillia-ihry/znaidy-ta-pokazhy-ula-veselyi-zoopark/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>54</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/26181/znaydi_ta_pokazhi_ula_veseliy_zoopark.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Знайди та покажи УЛА Веселий зоопарк. Це видання познайомить дитину з веселими тваринами зоопарку. Виконуючи завдання, маленький розумник розвине уяву, потренує пам’ять та увагу, навчиться міркувати, творчо підходити до вирішення різних завдань і зможе відчути себе справжнім слідопитом! Кожен розворот книжки містить велику барвисту ілюстрацію з безліччю різноманітних кумедних персонажів і запитання, що підкажуть, які несподіванки потрібно шукати на картинці.    Видання призначене для дітей віком від шести років.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Смірнова К. В.</param>
-<param name="Мова">українська</param>
-<param name="Вік">від 6 років</param>
-<param name="Тип">Розвивальні книжки для дітей</param>
-<param name="Серія">Знайди та покажи</param>
-<param name="Кількість сторінок">12</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="ISBN">978-966-284-919-6</param>
-<param name="Формат, розмір">21×30,5 см</param>
-<param name="Видавництво">УЛА</param></offer>
-<offer id="26182" available="true" in_stock="true" selling_type="r" >
-<name>Знайди та покажи УЛА Велике місто</name>
-<vendorCode>978-966-284-918-9</vendorCode>
-<url>https://knigovan.com/dozvillia-ihry/znaidy-ta-pokazhy-ula-velyke-misto/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>54</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/26182/znaydi_ta_pokazhi_ula_velike_misto.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Знайди та покажи УЛА Велике місто. Це видання познайомить дитину із захопливим великим містом. Виконуючи завдання, маленький розумник розвине уяву, потренує пам’ять та увагу, навчиться міркувати, творчо підходити до вирішення різних завдань і зможе відчути себе справжнім слідопитом! Кожен розворот книжки містить велику барвисту ілюстрацію з безліччю різноманітних кумедних персонажів і запитання, що підкажуть, які несподіванки потрібно шукати на картинці.    Видання призначене для дітей віком від шести років.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Смірнова К. В.</param>
-<param name="Мова">українська</param>
-<param name="Вік">від 6 років</param>
-<param name="Тип">Розвивальні книжки для дітей</param>
-<param name="Серія">Знайди та покажи</param>
-<param name="Кількість сторінок">12</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="ISBN">978-966-284-918-9</param>
-<param name="Формат, розмір">21×30,5 см</param>
-<param name="Видавництво">УЛА</param></offer>
+
+
+
+
+
+
+
+
 
 <offer id="26184" available="true" in_stock="true" selling_type="r" >
 <name>Найкращий довідник Торсінг Історія України в таблицях і схемах 5-11 класи</name>
@@ -20712,7 +20556,7 @@
 <vendorCode>9786170039743</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dovidnyky/vizualizovanyi-dovidnyk-osnova-tsikavi-domashni-doslidy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>32</categoryId>
+<categoryId>33</categoryId>
 <price>280</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26377/vizualizovaniy_dovidnik_osnova_tsikavi_domashni_doslidi.jpg</picture>
 <vendor>Основа</vendor>
@@ -20907,7 +20751,7 @@
 <vendorCode>9789662849967</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/panoramka-navchalka-ula-anhliiska-mova-1-4-klasy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>33</categoryId>
+<categoryId>35</categoryId>
 <price>30</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26390/panoramka_navchalka_ula_angliyska_mova_1_4_klasi.jpg</picture>
 <vendor>УЛА</vendor>
@@ -21028,7 +20872,7 @@
 <vendorCode>9789662849578</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/dovidnyk-u-tablytsiakh-ula-anhliiska-mova-5-6-klasy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>73</categoryId>
+<categoryId>76</categoryId>
 <price>49</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26395/dovidnik_u_tablitsyah_ula_angliyska_mova_5_6_klasi.jpg</picture>
 <vendor>УЛА</vendor>
@@ -21668,7 +21512,7 @@
 <vendorCode>978-617-686-677-0</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nush-diahnostyka-na-vidminno-vesna-shparhalka-z-anhliiskoi-movy-pochatkova-shkola-1-4-klas/</url>
 <currencyId>UAH</currencyId>
-<categoryId>33</categoryId>
+<categoryId>35</categoryId>
 <price>65</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26529/nush_diagnostika_na_vidminno_vesna_shpargalka_z_angliysko_movi_pochatkova_shkola_1_4_klas.jpg</picture>
 <vendor>Весна</vendor>
@@ -22127,7 +21971,7 @@
 <vendorCode>9789669398390</vendorCode>
 <url>https://knigovan.com/novorichni-sviata/vykhovannia-kazkoiu-torsinh-novorichne-sviato-dlia-zviriat/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>140</categoryId>
 <price>69</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26591/vihovannya_kazkoyu_torsing_novorichne_svyato_dlya_zviryat.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -24151,54 +23995,8 @@
 
 
 
-<offer id="26803" available="true" in_stock="true" selling_type="r" >
-<name>Лабиринтики УЛА Приключения Говорунчика 6+</name>
-<vendorCode>9786175440209</vendorCode>
-<url>https://knigovan.com/dozvillia-ihry/holovolomky-krosvordy-labirynty/labyryntyky-ula-prykliuchenyia-hovorunchyka-6/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>36</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/26803/labirintiki_ula_priklyucheniya_govorunchika_6.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Лабіринтики – Пригоди Говорунчика 6+.  Говорунчик запрошує дітей на пошуки пригод! Разом з ним вони подорожуватимуть морями й океанами, літатимуть серед кульок, питимуть смачний чай, шукаючи правильний шлях у кожному лабіринті.  Яскраві малюнки, великі наліпки та цікаві завдання допоможуть малюкам розвинути увагу, логічне мислення, фантазію та дрібну моторику пальців рук.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Сікора Ю.О.</param>
-<param name="Мова">українська</param>
-<param name="Вік">6+</param>
-<param name="Тип">Ігри з наліпками</param>
-<param name="Серія">Лабіринтики</param>
-<param name="Кількість сторінок">16</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786175440209</param>
-<param name="Формат, розмір">17×23,5 см</param>
-<param name="Видавництво">Ула</param></offer>
-<offer id="26804" available="true" in_stock="true" selling_type="r" >
-<name>Лабиринтики УЛА Приключения Рудика 6+</name>
-<vendorCode>9786175440216</vendorCode>
-<url>https://knigovan.com/dozvillia-ihry/holovolomky-krosvordy-labirynty/labyryntyky-ula-prykliuchenyia-rudyka-6/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>36</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/26804/labirintiki_ula_priklyucheniya_rudika_6.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Лабіринтики – Пригоди Рудика 6+.  Рудик запрошує дітей на пошуки пригод! Разом з ним вони створюватимуть снігові скульптури, кататимуться на автодромі, відпочиватимуть у дитячому таборі, шукаючи правильний шлях у кожному лабіринті.  Яскраві малюнки, великі наліпки та цікаві завдання допоможуть малюкам розвинути увагу, логічне мислення, фантазію та дрібну моторику пальців рук.]]></description>
-<quantity_in_stock>99</quantity_in_stock>
-<param name="Автор">Сікора Ю.О.</param>
-<param name="Мова">українська</param>
-<param name="Вік">6+</param>
-<param name="Тип">Ігри з наліпками</param>
-<param name="Серія">Лабіринтики</param>
-<param name="Кількість сторінок">16</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786175440216</param>
-<param name="Формат, розмір">17×23,5 см</param>
-<param name="Видавництво">Ула</param></offer>
+
+
 
 
 
@@ -26184,7 +25982,7 @@
 <vendorCode>9786177673025</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/rozrobky-urokiv/komplekt-kartok-soniashnyk-ukrainska-literatura-8-9-klas-dlia-urokiv-ta-pidhotovky-do-zno/</url>
 <currencyId>UAH</currencyId>
-<categoryId>38</categoryId>
+<categoryId>75</categoryId>
 <price>72</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27035/komplekt_kartok_sonyashnik_ukra_nska_literatura_8_9_klas_dlya_urokiv_ta_pidgotovki_do_zno.jpg</picture>
 <vendor>Соняшник</vendor>
@@ -26208,30 +26006,7 @@
 
 
 
-<offer id="27041" available="true" in_stock="true" selling_type="r" >
-<name>Сучасна література рідного краю Соняшник 5-7 класи Шкільна бібліотека Юрій Морщавка</name>
-<vendorCode>9786177673544</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/dodatkova-literatura/suchasna-literatura-ridnoho-kraiu-soniashnyk-5-7-klasy-shkilna-biblioteka-yurii-morshchavka/</url>
-<currencyId>UAH</currencyId>
-<categoryId>75</categoryId>
-<price>204</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27041/suchasna_literatura_ridnogo_krayu_sonyashnik_5_7_klasi_shkilna_biblioteka_yuriy_morshchavka.jpg</picture>
-<vendor>Соняшник</vendor>
-<description>
-<![CDATA[Посібник «Сучасна література рідного краю» серії «Шкільна бібліотека» для 5–7 класів закладів загальної середньої освіти охоплює навчальний матеріал, передбачений навчальною програмою в шкільному курсі української літератури, для обов’язкового / додаткового (самостійного / позакласного) читання. Структура посібника має певну послідовність у розміщенні художніх творів — від фольклору до літературних творів (епічних, ліричних) — для кожного регіону України. Анкета «Цікаві факти…», яку можна відкрити за допомогою QR-кодів, розміщених поруч із прізвищами письменників, розкриває цікаві факти з життя авторів, а компетентнісні запитання після кожного блоку творів допомагають учнівству поглибити та перевірити свої знання сучасного літературного процесу в Україні. Посібник може використовуватись під час вивчення літератури, культури та фольклору України на уроках та в позаурочний час у закладах загальної середньої освіти.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Автор">Юрій Морщавка</param>
-<param name="Мова">українська</param>
-<param name="Вік">5-7 класи</param>
-<param name="Тип">Посібник для вчителя та учня</param>
-<param name="Серія">Шкільна бібліотека</param>
-<param name="Кількість сторінок">336</param>
-<param name="Рік видання">2020</param>
-<param name="Тип паперу">офсет</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786177673544</param>
-<param name="Формат, розмір">16,5х24 см</param>
-<param name="Видавництво">Соняшник</param></offer>
+
 <offer id="27042" available="true" in_stock="true" selling_type="r" >
 <name>Книга для вчителя Соняшник Українська література 9 клас І семестр</name>
 <vendorCode>9786177673612</vendorCode>
@@ -26256,36 +26031,13 @@
 <param name="ISBN">9786177673612</param>
 <param name="Формат, розмір">20,5х26 см</param>
 <param name="Видавництво">Соняшник</param></offer>
-<offer id="27043" available="true" in_stock="true" selling_type="r" >
-<name>Антологія Соняшник Казка в шкільному курсі літератури 5-6 клас</name>
-<vendorCode>9786177673261</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/dodatkova-literatura/antolohiia-soniashnyk-kazka-v-shkilnomu-kursi-literatury-5-6-klas/</url>
-<currencyId>UAH</currencyId>
-<categoryId>75</categoryId>
-<price>138</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27043/antologiya_sonyashnik_kazka_v_shkilnomu_kursi_literaturi_5_6_klas.jpg</picture>
-<vendor>Соняшник</vendor>
-<description>
-<![CDATA[Антологія. Казка в шкільному курсі літератури. 5-6 клас.  «Антологія. Казка в шкільному курсі літератури» посібник серії «Шкільна бібліотека» для 5–6 класів закладів загальної середньої освіти охоплює навчальний матеріал українською мовою, передбачений навчальними програмами в шкільному курсі літератури (української, зарубіжної, національних меншин), для обов’язкового/додаткового (самостійного/позакласного) читання. Посібник містить українські народні казки та казки українських письменників, казки народів світу та казки представників етнічних спільнот, які проживають на території України. Словнички, наведені на сторінках книги, пояснюють маловідомі чи діалектні слова у творах, а також розкривають символізм окремих елементів казок у різних культурних традиціях. Антологія може використовуватись під час вивчення літератури, культур різних народів, їх фольклору на уроках та в позаурочний час у закладах загальної середньої освіти.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Автор">Юрій Морщавка</param>
-<param name="Мова">українська</param>
-<param name="Вік">5-6 клас</param>
-<param name="Тип">Посiбник для учня</param>
-<param name="Серія">Шкільна бібліотека</param>
-<param name="Кількість сторінок">304</param>
-<param name="Рік видання">2019</param>
-<param name="Тип паперу">офсет</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786177673261</param>
-<param name="Формат, розмір">17х24 см</param>
-<param name="Видавництво">Соняшник</param></offer>
+
 <offer id="27044" available="true" in_stock="true" selling_type="r" >
 <name>Компетентнісні завдання Соняшник Міжнародний досвід PISA й український досвід Геліантусу</name>
 <vendorCode>9786177673407</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/kompetentnisni-zavdannia-soniashnyk-mizhnarodnyi-dosvid-pisa-y-ukrainskyi-dosvid-heliantusu/</url>
 <currencyId>UAH</currencyId>
-<categoryId>38</categoryId>
+<categoryId>75</categoryId>
 <price>102</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27044/kompetentnisni_zavdannya_sonyashnik_mizhnarodniy_dosvid_pisa_y_ukra_nskiy_dosvid_geliantusu.jpg</picture>
 <vendor>Соняшник</vendor>
@@ -26633,7 +26385,7 @@
 <vendorCode>9789669392084</vendorCode>
 <url>https://knigovan.com/novorichni-sviata/vykhovannia-kazkoiu-torsinh-darunky-sviatoho-mykolaia/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>140</categoryId>
 <price>69</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27115/vihovannya_kazkoyu_torsing_darunki_svyatogo_mikolaya.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -26657,7 +26409,7 @@
 <vendorCode>9789669396716</vendorCode>
 <url>https://knigovan.com/novorichni-sviata/vykhovannia-kazkoiu-torsinh-rizdviane-dyvo/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>140</categoryId>
 <price>69</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27116/vihovannya_kazkoyu_torsing_rizdvyane_divo.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -27566,7 +27318,30 @@
 <param name="ISBN">978-617-686-747-0</param>
 <param name="Формат, розмір">140х200 мм</param>
 <param name="Видавництво">Весна</param></offer>
-
+<offer id="27172" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Англо-український візуальний словник в малюнках Весна для початкової школи з транслітерацією Красікова</name>
+<vendorCode>978-617-686-676-3</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nush-anhlo-ukrainskyi-vizualnyi-slovnyk-v-maliunkakh-vesna-dlia-pochatkovoi-shkoly-z-transliteratsiieiu-krasikova/</url>
+<currencyId>UAH</currencyId>
+<categoryId>35</categoryId>
+<price>250</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27172/nush_anglo_ukra_nskiy_vizualniy_slovnik_v_malyunkah_vesna_dlya_pochatkovo_shkoli_z_transliteratsi_yu_krasikova.jpg</picture>
+<vendor>Весна</vendor>
+<description>
+<![CDATA[Англо-український візуальний словник містить близько 2000 слів і словосполучень із 68 лексичних тем. Для кращого засвоєння мовного матеріалу пропоновані слова і сполучення слів проілюстровані малюнками. лексичний матеріал підібрано відповідно до чинних програм з іноземних мов нової української школи. Правила читання, таблиця неправильних дієслів і транскрипція (запис вимови англійських слів українськими буквами) значно полегшать вивчення англійської мови. Призначений для учнів початкових класів, їхніх батьків і вчителів.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Красікова О.О.</param>
+<param name="Мова">українська, англійська</param>
+<param name="Вік">1-4 класи</param>
+<param name="Тип">Посiбник для учня</param>
+<param name="Серія">Словники НУШ</param>
+<param name="Кількість сторінок">208</param>
+<param name="Рік видання">2023</param>
+<param name="Тип паперу">офсет</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-617-686-676-3</param>
+<param name="Формат, розмір">165х235 мм.</param>
+<param name="Видавництво">Весна</param></offer>
 
 
 <offer id="27175" available="true" in_stock="true" selling_type="r" >
@@ -27655,7 +27430,7 @@
 <vendorCode>9786170900685</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/hramatychnyi-praktykum-ranok-anhliiska-mova-i-riven-3-6-klasy-kniazieva/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>345</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27186/gramatichniy_praktikum_ranok_angliyska_mova_i_riven_3_6_klasi_knyaz_va.jpg</picture>
 <vendor>Ранок</vendor>
@@ -33109,7 +32884,7 @@
 <offer id="27752" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Самостійні та контрольні роботи Оріон Математика 5 клас Ніна Тарасенкова</name>
 <vendorCode>978-966-991-155-1</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/5-klas-1/nush-samostiini-ta-kontrolni-roboty-orion-matematyka-5-klas-nina-tarasenkova/</url>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/nush-samostiini-ta-kontrolni-roboty-orion-matematyka-5-klas-nina-tarasenkova/</url>
 <currencyId>UAH</currencyId>
 <categoryId>47</categoryId>
 <price>85</price>
@@ -33123,9 +32898,9 @@
 <param name="Вік">5 клас</param>
 <param name="Тип">Зошит для контролю знань</param>
 <param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">96</param>
+<param name="Кількість сторінок">80</param>
 <param name="Рік видання">2022</param>
-<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип паперу">офсет, чорно-білий</param>
 <param name="Тип обкладинки">м&apos;яка</param>
 <param name="ISBN">978-966-991-155-1</param>
 <param name="Видавництво">Оріон</param></offer>
@@ -33377,7 +33152,7 @@
 <vendorCode>9786177995141</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dovidnyky/poradnyk-yunykh-ukraintsiv-vydannia-2022-assa-nazar-rozlutskyi/</url>
 <currencyId>UAH</currencyId>
-<categoryId>32</categoryId>
+<categoryId>33</categoryId>
 <price>420</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27792/poradnik_yunih_ukra_ntsiv_vidannya_2022_assa_nazar_rozlutskiy.jpg</picture>
 <vendor>АССА</vendor>
@@ -33541,7 +33316,7 @@
 <vendorCode>9789664982365</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/slovnyky-1/slovnyk-polsko-ukrainskyi-ukrainsko-polskyi-100-tys-sliv-arii-talanov-o-s/</url>
 <currencyId>UAH</currencyId>
-<categoryId>74</categoryId>
+<categoryId>76</categoryId>
 <price>288</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27822/slovnik_polsko_ukra_nskiy_ukra_nsko_polskiy_100_tis_sliv_ariy_talanov_o_s.jpg</picture>
 <vendor>АРІЙ</vendor>
@@ -33565,7 +33340,7 @@
 <vendorCode>9789664984444</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/slovnyky-1/slovnyk-polsko-ukrainskyi-ukrainsko-polskyi-35-tys-sliv-arii-andrushchenko-i-v/</url>
 <currencyId>UAH</currencyId>
-<categoryId>74</categoryId>
+<categoryId>76</categoryId>
 <price>100</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27824/slovnik_polsko_ukra_nskiy_ukra_nsko_polskiy_35_tis_sliv_ariy_andrushchenko_i_v.jpg</picture>
 <vendor>АРІЙ</vendor>
@@ -34571,7 +34346,30 @@
 <param name="Формат, розмір">84х108/16</param>
 <param name="Видавництво">Абетка</param></offer>
 
-
+<offer id="27891" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Smart Vocabulary for Kids Абетка Англійський словник. 1-4 класи. І. В. Доценко, О. В. Євчук</name>
+<vendorCode>978-617-539-329-1</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nush-smart-vocabulary-for-kids-abetka-anhliiskyi-slovnyk-1-4-klasy-i-v-dotsenko-o-v-yevchuk/</url>
+<currencyId>UAH</currencyId>
+<categoryId>35</categoryId>
+<price>130</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27891/nush_smart_vocabulary_for_kids_abetka_angliyskiy_slovnik_1_4_klasi_i_v_dotsenko_o_v_vchuk.jpg</picture>
+<vendor>Абетка</vendor>
+<description>
+<![CDATA[НУШ Smart Vocabulary for Kids. Англійський словник. 1-4 класи. І. В. Доценко, О. В. Євчук  Посібник містить тематичну лексику (1100 англійських слів із транскрипцією та відповідними ілюстраціями), підібрану відповідно до Загальноєвропейських Рекомендацій з мовної освіти та розподілену відповідно до Типових програм вивчення англійської мови у 1-4 класах.   Для учнів закладів загальної середньої освіти, учителів та батьків. Кількість сторінок: 112 Формат: 70х100/16    ISBN 978-617-539-329-1.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Доценко І.В. Євчук О.В.</param>
+<param name="Мова">українська, англійська</param>
+<param name="Вік">1-4 класи</param>
+<param name="Тип">Словник</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">112</param>
+<param name="Рік видання">2020</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-617-539-329-1</param>
+<param name="Формат, розмір">70х100/16</param>
+<param name="Видавництво">Абетка</param></offer>
 <offer id="27892" available="true" in_stock="true" selling_type="r" >
 <name>Початкова школа Торсінг Математика. Вчимося обчислювати усно. 1-4 класи</name>
 <vendorCode>9789669392251</vendorCode>
@@ -34621,7 +34419,30 @@
 <param name="ISBN">9789669394682</param>
 <param name="Формат, розмір">26х20 см</param>
 <param name="Видавництво">Торсiнг</param></offer>
-
+<offer id="27894" available="true" in_stock="true" selling_type="r" >
+<name>Початкова школа Торсінг Англо-український словник. 1-4 класи</name>
+<vendorCode>9789669396181</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/slovnyky/pochatkova-shkola-torsinh-anhlo-ukrainskyi-slovnyk-1-4-klasy/</url>
+<currencyId>UAH</currencyId>
+<categoryId>35</categoryId>
+<price>60</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27894/pochatkova_shkola_torsing_anglo_ukra_nskiy_slovnik_1_4_klasi.jpg</picture>
+<vendor>Торсінг</vendor>
+<description>
+<![CDATA[Початкова школа. Англо-український словник   Англо-український словник для учнів початкових класів містить базові слова англійської мови та їх переклад українською. У ньому охоплюється лексика різноманітної тематики, що відповідає чинній програмі з іноземних мов. Видання стане в нагоді учням 1-4 класів на заняттях з англійської мови незалежно від того, за яким підручником вона викладається.]]></description>
+<quantity_in_stock>99</quantity_in_stock>
+<param name="Автор">Фісіна А.О.</param>
+<param name="Мова">українська, англійська</param>
+<param name="Вік">1-4 класс</param>
+<param name="Тип">Словник</param>
+<param name="Серія">Початкова школа</param>
+<param name="Кількість сторінок">64</param>
+<param name="Рік видання">2019</param>
+<param name="Тип паперу">офсет, двоколірна</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9789669396181</param>
+<param name="Формат, розмір">23,5х16,5 см</param>
+<param name="Видавництво">Торсiнг</param></offer>
 <offer id="27895" available="true" in_stock="true" selling_type="r" >
 <name>Початкова школа Торсінг Тренажер з читання 1-4 класи</name>
 <vendorCode>9789669390035</vendorCode>
@@ -34851,7 +34672,7 @@
 <vendorCode>9789660741126</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/rozrobky-urokiv/zbirnyk-dyktantiv-i-perekaziv-pidruchnyky-i-posibnyky-ukrainska-mova-5-6-klasy-panchuk/</url>
 <currencyId>UAH</currencyId>
-<categoryId>38</categoryId>
+<categoryId>75</categoryId>
 <price>70</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/27912/zbirnik_diktantiv_i_perekaziv_pidruchniki_i_posibniki_ukra_nska_mova_5_6_klasi_panchuk.png</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -34916,98 +34737,10 @@
 <param name="Тип обкладинки">м&apos;яка</param>
 <param name="ISBN">9786178229115</param>
 <param name="Видавництво">АССА</param></offer>
-<offer id="27915" available="true" in_stock="true" selling_type="r" >
-<name>Знайди! Прочитай! Полічи! УЛА Пори року 42 наліпки</name>
-<vendorCode>9786175441398</vendorCode>
-<url>https://knigovan.com/dozvillia-ihry/znaidy-prochytai-polichy-ula-pory-roku-42-nalipky/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>45</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27915/znaydi_prochitay_polichi_ula_pori_roku_42_nalipki.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Знайди! Прочитай! Полічи! — Пори року   На сторінках книжки «Пори року» дитина зможе пригадати всі пори року та свята, які дарують щастя, забави й гарний настрій. У виданні на маленького дослідника чекають цікаві завдання, для виконання яких потрібно бути уважним і спостережливим. Малюк матиме змогу пошукати різні предмети, почитати, полічити, наклеїти наліпки й дізнатися безліч цікавих пізнавальних фактів. Книжка допоможе дитині розширити кругозір і словниковий запас, покращити навички читання та лічби, потренувати увагу й пам’ять   Видання призначене для спільної роботи дорослих з дітьми дошкільного віку.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Сікора Ю. О.</param>
-<param name="Мова">українська</param>
-<param name="Тип">Книга з наліпками</param>
-<param name="Серія">Знайди! Прочитай! Полічи!</param>
-<param name="Кількість сторінок">12</param>
-<param name="Рік видання">2023</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786175441398</param>
-<param name="Формат, розмір">21×30,5 см</param>
-<param name="Видавництво">Ула</param></offer>
-<offer id="27916" available="true" in_stock="true" selling_type="r" >
-<name>Знайди! Прочитай! Полічи! УЛА Веселий вікенд 42 наліпки</name>
-<vendorCode>9786175441381</vendorCode>
-<url>https://knigovan.com/dozvillia-ihry/znaidy-prochytai-polichy-ula-veselyi-vikend-42-nalipky/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>45</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27916/znaydi_prochitay_polichi_ula_veseliy_vikend_42_nalipki.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Знайди! Прочитай! Полічи! — Веселий вікенд   На сторінках книжки «Веселий вікенд» дитина зможе захопливо провести вікенди в місті та за його межами. У виданні на маленького дослідника чекають цікаві завдання, для виконання яких потрібно бути уважним і спостережливим. Малюк матиме змогу пошукати різні предмети, почитати, полічити, наклеїти наліпки й дізнатися безліч цікавих пізнавальних фактів. Книжка допоможе дитині розширити кругозір і словниковий запас, покращити навички читання та лічби, потренувати увагу й пам’ять.   Видання призначене для спільної роботи дорослих з дітьми дошкільного віку.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Сікора Ю. О.</param>
-<param name="Мова">українська</param>
-<param name="Тип">Книга з наліпками</param>
-<param name="Серія">Знайди! Прочитай! Полічи!</param>
-<param name="Кількість сторінок">12</param>
-<param name="Рік видання">2023</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786175441381</param>
-<param name="Формат, розмір">21×30,5 см</param>
-<param name="Видавництво">Ула</param></offer>
-<offer id="27917" available="true" in_stock="true" selling_type="r" >
-<name>Знайди! Прочитай! Полічи! УЛА Лісова родина 42 наліпки</name>
-<vendorCode>9786175441374</vendorCode>
-<url>https://knigovan.com/dozvillia-ihry/znaidy-prochytai-polichy-ula-lisova-rodyna-42-nalipky/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>45</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27917/znaydi_prochitay_polichi_ula_lisova_rodina_42_nalipki.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Знайди! Прочитай! Полічи! — Лісова родина   На сторінках книжки «Лісова родина» дитина зможе прогулятися мальовничими стежками лісу та познайомитися з його мешканцями. У виданні на маленького дослідника чекають цікаві завдання, для виконання яких потрібно бути уважним і спостережливим. Малюк матиме змогу пошукати різні предмети, почитати, полічити, наклеїти наліпки й дізнатися безліч цікавих пізнавальних фактів. Книжка допоможе дитині розширити кругозір і словниковий запас, покращити навички читання та лічби, потренувати увагу й пам’ять.   Видання призначене для спільної роботи дорослих з дітьми дошкільного віку.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Сіліч С. О.</param>
-<param name="Мова">українська</param>
-<param name="Тип">Книга з наліпками</param>
-<param name="Серія">Знайди! Прочитай! Полічи!</param>
-<param name="Кількість сторінок">12</param>
-<param name="Рік видання">2023</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786175441374</param>
-<param name="Формат, розмір">21×30,5 см</param>
-<param name="Видавництво">Ула</param></offer>
-<offer id="27918" available="true" in_stock="true" selling_type="r" >
-<name>Знайди! Прочитай! Полічи! УЛА Захоплива експедиція 42 наліпки</name>
-<vendorCode>9786175441367</vendorCode>
-<url>https://knigovan.com/dozvillia-ihry/znaidy-prochytai-polichy-ula-zakhoplyva-ekspedytsiia-42-nalipky/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>45</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27918/znaydi_prochitay_polichi_ula_zahopliva_ekspeditsiya_42_nalipki.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Знайди! Прочитай! Полічи! — Захоплива експедиція   На сторінках книжки «Захоплива експедиція» дитина зможе помандрувати різними куточками світу, споглядаючи його красу. У виданні на маленького дослідника чекають цікаві завдання, для виконання яких потрібно бути уважним і спостережливим. Малюк матиме змогу пошукати різні предмети, почитати, полічити, наклеїти наліпки й дізнатися безліч цікавих пізнавальних фактів. Книжка допоможе дитині розширити кругозір і словниковий запас, покращити навички читання та лічби, потренувати увагу й пам’ять.    Видання призначене для спільної роботи дорослих з дітьми дошкільного віку.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Сіліч С. О.</param>
-<param name="Мова">українська</param>
-<param name="Тип">Книга з наліпками</param>
-<param name="Серія">Знайди! Прочитай! Полічи!</param>
-<param name="Кількість сторінок">12</param>
-<param name="Рік видання">2023</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786175441367</param>
-<param name="Формат, розмір">21×30,5 см</param>
-<param name="Видавництво">Ула</param></offer>
+
+
+
+
 <offer id="27919" available="true" in_stock="true" selling_type="r" >
 <name>Каліграфія для відмінника УЛА Чистописання</name>
 <vendorCode>9786175441268</vendorCode>
@@ -35678,7 +35411,7 @@
 <vendorCode>978-966-945-360-0, 978-966-945-361-7</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nush-trenazher-z-chytannia-anhliiskoiu-movoiu-we-can-read-part-1-part-2-litera-komplekt/</url>
 <currencyId>UAH</currencyId>
-<categoryId>7</categoryId>
+<categoryId>35</categoryId>
 <price>290</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28038/nush_trenazher_z_chitannya_angliyskoyu_movoyu_we_can_read_part_1_part_2_litera_komplekt.jpg</picture>
 <vendor>Літера</vendor>
@@ -36752,7 +36485,7 @@
 <vendorCode>9786170041531</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/vau-matematyka-dlia-ditei-6-7-rokiv-osnova-lomyholovky-labirynty-ihry-poshukanky-chyslovi-rebusy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>32</categoryId>
+<categoryId>135</categoryId>
 <price>80</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28183/vau_matematika_dlya_ditey_6_7_rokiv_osnova_lomigolovki_labirinti_igri_poshukanki_chislovi_rebusi.jpg</picture>
 <vendor>Основа</vendor>
@@ -38218,7 +37951,7 @@
 <vendorCode>9786175241394</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/lehko-ta-zrozumilo-torsinh-anhliiska-mova-zruchnyi-dovidnyk-1-4-klasy-yaremchuk/</url>
 <currencyId>UAH</currencyId>
-<categoryId>33</categoryId>
+<categoryId>35</categoryId>
 <price>64</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28302/legko_ta_zrozumilo_torsing_angliyska_mova_zruchniy_dovidnik_1_4_klasi_yaremchuk.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -38493,7 +38226,7 @@
 <vendorCode>9786170041821</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/vau-matematyka-dlia-ditei-8-9-rokiv-osnova-lomyholovky-labirynty-ihry-poshukanky-chyslovi-rebusy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>32</categoryId>
+<categoryId>135</categoryId>
 <price>80</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28318/vau_matematika_dlya_ditey_8_9_rokiv_osnova_lomigolovki_labirinti_igri_poshukanki_chislovi_rebusi.jpg</picture>
 <vendor>Основа</vendor>
@@ -38518,7 +38251,7 @@
 <vendorCode>9786170041753</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/vau-matematyka-dlia-ditei-7-8-rokiv-osnova-lomyholovky-labirynty-ihry-poshukanky-chyslovi-rebusy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>32</categoryId>
+<categoryId>135</categoryId>
 <price>80</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28319/vau_matematika_dlya_ditey_7_8_rokiv_osnova_lomigolovki_labirinti_igri_poshukanki_chislovi_rebusi.jpg</picture>
 <vendor>Основа</vendor>
@@ -38644,7 +38377,7 @@
 <vendorCode>9786170041562</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/literatura-vid-6-rokiv/veselyi-trenazher-chytanka-strashylka-iz-zavdanniamy-6-7-rokiv-osnova-rozhevi-kaloshi-ta-opudalo-z-knyzhkovoi-shafy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
+<categoryId>141</categoryId>
 <price>220</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28352/veseliy_trenazher_chitanka_strashilka_iz_zavdannyami_6_7_rokiv_osnova_rozhevi_kaloshi_ta_opudalo_z_knizhkovo_shafi.jpg</picture>
 <vendor>Основа</vendor>
@@ -38767,7 +38500,7 @@
 <vendorCode>9786170041524</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/rozrobky-urokiv/vykhovuiemo-hromadianyna-patriota-ukrainy-5-11-klasy-osnova/</url>
 <currencyId>UAH</currencyId>
-<categoryId>38</categoryId>
+<categoryId>75</categoryId>
 <price>160</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28385/vihovu_mo_gromadyanina_patriota_ukra_ni_5_11_klasi_osnova.jpg</picture>
 <vendor>Основа</vendor>
@@ -38791,7 +38524,7 @@
 <vendorCode>9786170041340</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/vykhovuiemo-hromadianyna-patriota-ukrainy-1-4-klasy-osnova/</url>
 <currencyId>UAH</currencyId>
-<categoryId>2</categoryId>
+<categoryId>32</categoryId>
 <price>160</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28386/vihovu_mo_gromadyanina_patriota_ukra_ni_1_4_klasi_osnova.jpg</picture>
 <vendor>Основа</vendor>
@@ -39421,7 +39154,7 @@
 <vendorCode>9786170041807</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/dodatkova-literatura/zbirnyk-dyktantiv-i-perekaziv-osnova-ukrainska-mova-7-9-klasy-parashchych/</url>
 <currencyId>UAH</currencyId>
-<categoryId>38</categoryId>
+<categoryId>75</categoryId>
 <price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28448/zbirnik_diktantiv_i_perekaziv_osnova_ukra_nska_mova_7_9_klasi_parashchich.jpg</picture>
 <vendor>Основа</vendor>
@@ -39674,7 +39407,7 @@
 <vendorCode>9786177728275</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/anhliiskyi-supertrenazher-prykmetnyky-ta-pryslivnyky-niu-taim-yu-ivanova/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>75</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28476/angliyskiy_supertrenazher_prikmetniki_ta_prislivniki_nyu_taym_yu_ivanova.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -39902,7 +39635,7 @@
 <vendorCode>9786170041760</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nush-bibliotechka-shkoliara-osnova-anhliiska-tse-kruto-vizualizovanyi-dovidnyk-3-4-klasy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>33</categoryId>
+<categoryId>35</categoryId>
 <price>300</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28498/nush_bibliotechka_shkolyara_osnova_angliyska_tse_kruto_vizualizovaniy_dovidnik_3_4_klasi.jpg</picture>
 <vendor>Основа</vendor>
@@ -39926,7 +39659,7 @@
 <vendorCode>9786170041609</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nush-bibliotechka-shkoliara-osnova-anhliiska-tse-kruto-vizualizovanyi-dovidnyk-1-2-klasy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>33</categoryId>
+<categoryId>35</categoryId>
 <price>300</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28499/nush_bibliotechka_shkolyara_osnova_angliyska_tse_kruto_vizualizovaniy_dovidnik_1_2_klasi.jpg</picture>
 <vendor>Основа</vendor>
@@ -40203,7 +39936,7 @@
 <vendorCode>9786170982131</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/rozrobky-urokiv/vybir-suchasnoho-vchytelia-ranok-alhebra-tekstovi-zadachi-7-9-klasy-panchenko/</url>
 <currencyId>UAH</currencyId>
-<categoryId>38</categoryId>
+<categoryId>75</categoryId>
 <price>85</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28552/vibir_suchasnogo_vchitelya_ranok_algebra_tekstovi_zadachi_7_9_klasi_panchenko.jpg</picture>
 <vendor>Ранок</vendor>
@@ -40885,11 +40618,10 @@
 <offer id="28603" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Самостійні та контрольні роботи Оріон Математика 6 клас Ніна Тарасенкова</name>
 <vendorCode>9789669912299</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/nush-samostiini-ta-kontrolni-roboty-orion-matematyka-6-klas-nina-tarasenkova/</url>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/nush-samostiini-ta-kontrolni-roboty-orion-matematyka-6-klas-nina-tarasenkova/</url>
 <currencyId>UAH</currencyId>
 <categoryId>48</categoryId>
 <price>85</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/28603/nush_samostiyni_ta_kontrolni_roboti_orion_matematika_6_klas_nina_tarasenkova.jpg</picture>
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[Математика 6 клас Самостійні та контрольні роботи НУШ. Ніна Тарасенкова.  Самостійні та контрольні роботи з математики. 6 клас - Ніна Тарасенкова, Ірина Богатирьова, Оксана Коломієць, Зоя Сердюк, Юлія Рудніцька.]]></description>
@@ -40901,7 +40633,7 @@
 <param name="Серія">Нова українська школа (НУШ)</param>
 <param name="Кількість сторінок">64</param>
 <param name="Рік видання">2023</param>
-<param name="Тип паперу">офсет</param>
+<param name="Тип паперу">офсет, чорно-білий</param>
 <param name="Тип обкладинки">м&apos;яка</param>
 <param name="ISBN">9789669912299</param>
 <param name="Формат, розмір">160х240 мм</param>
@@ -41448,7 +41180,7 @@
 <vendorCode>9789664987346</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/samovchytel-nimetskoi-movy-arii-noskov/</url>
 <currencyId>UAH</currencyId>
-<categoryId>73</categoryId>
+<categoryId>76</categoryId>
 <price>220</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28666/samovchitel_nimetsko_movi_ariy_noskov.jpg</picture>
 <vendor>АРІЙ</vendor>
@@ -41558,7 +41290,7 @@
 <offer id="28736" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Експрес-контроль Оріон Математика 6 клас Частина 1 Тарасенкова</name>
 <vendorCode>9789669912275</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/nush-ekspres-kontrol-orion-matematyka-6-klas-chastyna-1-tarasenkova/</url>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/nush-ekspres-kontrol-orion-matematyka-6-klas-chastyna-1-tarasenkova/</url>
 <currencyId>UAH</currencyId>
 <categoryId>48</categoryId>
 <price>60</price>
@@ -41572,16 +41304,16 @@
 <param name="Вік">6 клас</param>
 <param name="Тип">контроль знань</param>
 <param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">32</param>
+<param name="Кількість сторінок">96</param>
 <param name="Рік видання">2023</param>
-<param name="Тип паперу">офсет</param>
+<param name="Тип паперу">офсет, чорно-білий</param>
 <param name="Тип обкладинки">м&apos;яка</param>
 <param name="ISBN">9789669912275</param>
 <param name="Видавництво">Оріон</param></offer>
 <offer id="28737" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Експрес-контроль Оріон Математика 6 клас Частина 2 Тарасенкова</name>
 <vendorCode>9789669912282</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/nush-ekspres-kontrol-orion-matematyka-6-klas-chastyna-2-tarasenkova/</url>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/nush-ekspres-kontrol-orion-matematyka-6-klas-chastyna-2-tarasenkova/</url>
 <currencyId>UAH</currencyId>
 <categoryId>48</categoryId>
 <price>60</price>
@@ -41595,9 +41327,9 @@
 <param name="Вік">6 клас</param>
 <param name="Тип">контроль знань</param>
 <param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">32</param>
+<param name="Кількість сторінок">96</param>
 <param name="Рік видання">2023</param>
-<param name="Тип паперу">офсет</param>
+<param name="Тип паперу">офсет, чорно-білий</param>
 <param name="Тип обкладинки">м&apos;яка</param>
 <param name="ISBN">9789669912282</param>
 <param name="Видавництво">Оріон</param></offer>
@@ -41931,8 +41663,54 @@
 
 
 
-
-
+<offer id="28803" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Німецько-український візуальний словник в малюнках Весна для початкової школи (с транслітерацією) Зебницька</name>
+<vendorCode>978-617-686-723-4</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nush-nimetsko-ukrainskyi-vizualnyi-slovnyk-v-maliunkakh-vesna-dlia-pochatkovoi-shkoly-s-transliteratsiieiu-zebnytska/</url>
+<currencyId>UAH</currencyId>
+<categoryId>35</categoryId>
+<price>250</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/28803/nush_nimetsko_ukra_nskiy_vizualniy_slovnik_v_malyunkah_vesna_dlya_pochatkovo_shkoli_s_transliteratsi_yu_zebnitska.jpg</picture>
+<vendor>Весна</vendor>
+<description>
+<![CDATA[Німецько-український візуальний словник в малюнках для початкової школи (с транслітерацією) Зебницька О. О.  Німецько-український візуальний словник містить близько 2000 слів і словосполучень із 68 лексичних тем. Для кращого засвоєння мовного матеріалу пропоновані слова і сполучення слів проілюстровані малюнками. лексичний матеріал підібрано відповідно до чинних програм з іноземних мов нової української школи. Правила читання, таблиця неправильних дієслів і транскрипція (запис вимови німецьких слів українськими буквами) значно полегшать вивчення німецької мови.    Призначений для учнів початкових класів, їхніх батьків і вчителів.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Зебницька О. О.</param>
+<param name="Мова">українська, німецька</param>
+<param name="Вік">1-4 класи</param>
+<param name="Тип">Посiбник для учня</param>
+<param name="Серія">Словники НУШ</param>
+<param name="Кількість сторінок">208</param>
+<param name="Рік видання">2023</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-617-686-723-4</param>
+<param name="Формат, розмір">165х235 мм.</param>
+<param name="Видавництво">Весна</param></offer>
+<offer id="28804" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Польсько-український візуальний словник Весна для початкової школи Копко</name>
+<vendorCode>978-617-686-724-1</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nush-polsko-ukrainskyi-vizualnyi-slovnyk-vesna-dlia-pochatkovoi-shkoly-kopko/</url>
+<currencyId>UAH</currencyId>
+<categoryId>35</categoryId>
+<price>250</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/28804/nush_polsko_ukra_nskiy_vizualniy_slovnik_vesna_dlya_pochatkovo_shkoli_kopko.jpg</picture>
+<vendor>Весна</vendor>
+<description>
+<![CDATA[Польсько-український візуальний словник Весна для початкової школи Копко М.   Польско-український візуальний словник містить близько 2000 слів і словосполучень із 68 лексичних тем. Для кращого засвоєння мовного матеріалу пропоновані слова і сполучення слів проілюстровані малюнками. лексичний матеріал підібрано відповідно до чинних програм з іноземних мов нової української школи. Правила читання, таблиця неправильних дієслів і транскрипція (запис вимови польских слів українськими буквами) значно полегшать вивчення польскої мови.    Призначений для учнів початкових класів, їхніх батьків і вчителів.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Копко М.</param>
+<param name="Мова">українська, польська</param>
+<param name="Вік">1-4 класи</param>
+<param name="Тип">Посiбник для учня</param>
+<param name="Серія">Словники НУШ</param>
+<param name="Кількість сторінок">208</param>
+<param name="Рік видання">2023</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-617-686-724-1</param>
+<param name="Формат, розмір">165х235 мм.</param>
+<param name="Видавництво">Весна</param></offer>
 
 
 
@@ -41974,7 +41752,7 @@
 <vendorCode>9786177728626</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/zhyva-hramatyka-nimetskoi-movy-riven-2-dariia-holts-niu-taim/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>275</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28819/zhiva_gramatika_nimetsko_movi_riven_2_dariya_golts_nyu_taym.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -41997,7 +41775,7 @@
 <vendorCode>9786177728015</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/zhyva-hramatyka-nimetskoi-movy-riven-1-dariia-holts-niu-taim/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>275</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28820/zhiva_gramatika_nimetsko_movi_riven_1_dariya_golts_nyu_taym.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -42020,7 +41798,7 @@
 <vendorCode>9786177728657</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/anhliiskyi-repetytor-niu-taim-hramatyka-zrozumilo-riven-v1-1-audio-yuliia-ivanova/</url>
 <currencyId>UAH</currencyId>
-<categoryId>73</categoryId>
+<categoryId>76</categoryId>
 <price>285</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28821/angliyskiy_repetitor_nyu_taym_gramatika_zrozumilo_riven_v1_1_audio_yuliya_ivanova.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -42042,7 +41820,7 @@
 <vendorCode>9786177728343</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/polskyi-repetytor-niu-taim-prostyi-samovchytel-dlia-doroslykh-audio-kateryna-sukhovieienko-yeva-kovalska/</url>
 <currencyId>UAH</currencyId>
-<categoryId>73</categoryId>
+<categoryId>76</categoryId>
 <price>317</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28822/polskiy_repetitor_nyu_taym_prostiy_samovchitel_dlya_doroslih_audio_katerina_suhov_nko_va_kovalska.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -42064,7 +41842,7 @@
 <vendorCode>9786177728596</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/frantsuzkyi-supertrenazher-niu-taim-vchymosia-peredavaty-maibutnie-yuliia-ivanova/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>93</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28823/frantsuzkiy_supertrenazher_nyu_taym_vchimosya_peredavati_maybutn_yuliya_ivanova.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -42088,7 +41866,7 @@
 <vendorCode>9786177728619</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/frantsuzkyi-supertrenazher-niu-taim-zaimennyky-yuliia-ivanova/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>93</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28824/frantsuzkiy_supertrenazher_nyu_taym_zaymenniki_yuliya_ivanova.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -42112,7 +41890,7 @@
 <vendorCode>9786177728589</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/frantsuzkyi-supertrenazher-niu-taim-vchymosia-peredavaty-mynule-yuliia-ivanova/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>93</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28825/frantsuzkiy_supertrenazher_nyu_taym_vchimosya_peredavati_minule_yuliya_ivanova.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -42136,7 +41914,7 @@
 <vendorCode>9786177728572</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/frantsuzkyi-supertrenazher-niu-taim-pass-compos-yuliia-ivanova/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>93</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28826/frantsuzkiy_supertrenazher_nyu_taym_pass_compos_yuliya_ivanova.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -42159,7 +41937,7 @@
 <vendorCode>9786177728633</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nimetskyi-supertrenazher-niu-taim-mnozhyna-imennykiv-dariia-holts/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>80</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28827/nimetskiy_supertrenazher_nyu_taym_mnozhina_imennikiv_dariya_golts.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -42183,7 +41961,7 @@
 <vendorCode>9786177728060</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nimetskyi-supertrenazher-niu-taim-vidminiuvannia-dariia-holts/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>85</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28828/nimetskiy_supertrenazher_nyu_taym_vidminyuvannya_dariya_golts.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -42676,7 +42454,7 @@
 <vendorCode>9786170955517</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/polska-mova-styslyi-kurs-hramatyky-ranok-lobas-n-p/</url>
 <currencyId>UAH</currencyId>
-<categoryId>73</categoryId>
+<categoryId>76</categoryId>
 <price>195</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/28981/polska_mova_stisliy_kurs_gramatiki_ranok_lobas_n_p.jpg</picture>
 <vendor>Ранок</vendor>
@@ -43299,7 +43077,7 @@
 <vendorCode>9789664984260</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/slovnyky-1/nimetsko-ukrainskyi-ukrainsko-nimetskyi-slovnyk-100-tys-sliv-arii-shevchenko-derhach/</url>
 <currencyId>UAH</currencyId>
-<categoryId>74</categoryId>
+<categoryId>76</categoryId>
 <price>285</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29116/nimetsko_ukra_nskiy_ukra_nsko_nimetskiy_slovnik_100_tis_sliv_ariy_shevchenko_dergach.jpg</picture>
 <vendor>АРІЙ</vendor>
@@ -43495,7 +43273,7 @@
 <vendorCode>9786177660254</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nush-naochnyi-dovidnyk-assa-anhliiska-mova-1-4-klasy-olha-zhukova/</url>
 <currencyId>UAH</currencyId>
-<categoryId>33</categoryId>
+<categoryId>35</categoryId>
 <price>70</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29129/nush_naochniy_dovidnik_assa_angliyska_mova_1_4_klasi_olga_zhukova.jpg</picture>
 <vendor>АССА</vendor>
@@ -43686,29 +43464,7 @@
 <param name="ISBN">9789660742390</param>
 <param name="Формат, розмір">А4 (210*300 мм)</param>
 <param name="Видавництво">Підручники і посібники</param></offer>
-<offer id="29141" available="true" in_stock="true" selling_type="r" >
-<name>Цікаві саморобки Зимова казка Підручники та посібники Готуємося до свята</name>
-<vendorCode>9789660742451</vendorCode>
-<url>https://knigovan.com/dozvillia-ihry/tsikavi-samorobky-zymova-kazka-pidruchnyky-ta-posibnyky-hotuiemosia-do-sviata/</url>
-<currencyId>UAH</currencyId>
-<categoryId>129</categoryId>
-<price>65</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/29141/tsikavi_samorobki_zimova_kazka_pidruchniki_ta_posibniki_gotu_mosya_do_svyata.jpg</picture>
-<vendor>Пiдручники i посiбники</vendor>
-<description>
-<![CDATA[Готуємося до свята. Цікаві саморобки “Зимова казка”   Любі друзі!  Наближаються улюблені всіма свята – Різдво та Новий рік Святкову атмосферу в домі доповнять вироби, виготовлені власноруч. Створені зі старанням, творчістю та фантазією, вони подарують радість, тепло та затишок. У цьому альбомі подано зображення, викрійки та розгортки цікавих саморобок і схеми, фото та опис послідовності їх виготовлення. Це допоможе самостійно й легко виготовити саморобки, а робота над їх створенням принесе радість і задоволення.  Веселих свят і творчого натхнення!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Демчак С., Чернявська Т.</param>
-<param name="Мова">українська</param>
-<param name="Тип">аплікації, саморобки</param>
-<param name="Серія">Готуємося до свята</param>
-<param name="Кількість сторінок">24</param>
-<param name="Рік видання">2023</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">м&apos;яка, ламінована</param>
-<param name="ISBN">9789660742451</param>
-<param name="Формат, розмір">А4 (210*300 мм)</param>
-<param name="Видавництво">Підручники і посібники</param></offer>
+
 
 
 
@@ -44297,7 +44053,7 @@
 <vendorCode>9789661061025</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/nimetska-mova-za-4-tyzhni-bohdan-intensyvnyi-kurs-nimetskoi-movy-z-elektronnym-audiododatkom/</url>
 <currencyId>UAH</currencyId>
-<categoryId>73</categoryId>
+<categoryId>76</categoryId>
 <price>349</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29280/nimetska_mova_za_4_tizhni_bogdan_intensivniy_kurs_nimetsko_movi_z_elektronnim_audiododatkom.jpg</picture>
 <vendor>Богдан</vendor>
@@ -44319,7 +44075,7 @@
 <vendorCode>9789661061445</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/nimetska-mova-za-4-tyzhni-bohdan-intensyvnyi-kurs-nimetskoi-movy-z-elektronnym-audiododatkom-riven-2/</url>
 <currencyId>UAH</currencyId>
-<categoryId>73</categoryId>
+<categoryId>76</categoryId>
 <price>349</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29281/nimetska_mova_za_4_tizhni_bogdan_intensivniy_kurs_nimetsko_movi_z_elektronnim_audiododatkom_riven_2.jpg</picture>
 <vendor>Богдан</vendor>
@@ -44341,7 +44097,7 @@
 <vendorCode>9789661061049</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/anhliiska-mova-za-4-tyzhni-bohdan-intensyvnyi-kurs-anhliiskoi-movy-movy-z-elektronnym-audiododatkom/</url>
 <currencyId>UAH</currencyId>
-<categoryId>73</categoryId>
+<categoryId>76</categoryId>
 <price>349</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29282/angliyska_mova_za_4_tizhni_bogdan_intensivniy_kurs_angliysko_movi_movi_z_elektronnim_audiododatkom.jpg</picture>
 <vendor>Богдан</vendor>
@@ -44363,7 +44119,7 @@
 <vendorCode>9789661061438</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/anhliiska-mova-za-4-tyzhni-bohdan-intensyvnyi-kurs-anhliiskoi-movy-movy-z-elektronnym-audiododatkom-riven-2/</url>
 <currencyId>UAH</currencyId>
-<categoryId>73</categoryId>
+<categoryId>76</categoryId>
 <price>349</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29283/angliyska_mova_za_4_tizhni_bogdan_intensivniy_kurs_angliysko_movi_movi_z_elektronnim_audiododatkom_riven_2.jpg</picture>
 <vendor>Богдан</vendor>
@@ -44385,7 +44141,7 @@
 <vendorCode>9789661064347</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/frantsuzka-za-4-tyzhni-bohdan-intensyvnyi-kurs-frantsuzkoi-movy-movy-z-elektronnym-audiododatkom/</url>
 <currencyId>UAH</currencyId>
-<categoryId>73</categoryId>
+<categoryId>76</categoryId>
 <price>349</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29284/frantsuzka_za_4_tizhni_bogdan_intensivniy_kurs_frantsuzko_movi_movi_z_elektronnim_audiododatkom.jpg</picture>
 <vendor>Богдан</vendor>
@@ -44407,7 +44163,7 @@
 <vendorCode>9789661064354</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/frantsuzka-za-4-tyzhni-riven-2-bohdan-intensyvnyi-kurs-frantsuzkoi-movy-movy-z-elektronnym-audiododatkom/</url>
 <currencyId>UAH</currencyId>
-<categoryId>73</categoryId>
+<categoryId>76</categoryId>
 <price>349</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29285/frantsuzka_za_4_tizhni_riven_2_bogdan_intensivniy_kurs_frantsuzko_movi_movi_z_elektronnim_audiododatkom.jpg</picture>
 <vendor>Богдан</vendor>
@@ -44429,7 +44185,7 @@
 <vendorCode>9789661061001</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/polska-mova-za-4-tyzhni-bohdan-intensyvnyi-kurs-polskoi-movy-movy-z-elektronnym-audiododatkom/</url>
 <currencyId>UAH</currencyId>
-<categoryId>73</categoryId>
+<categoryId>76</categoryId>
 <price>349</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29286/polska_mova_za_4_tizhni_bogdan_intensivniy_kurs_polsko_movi_movi_z_elektronnim_audiododatkom.jpg</picture>
 <vendor>Богдан</vendor>
@@ -44451,7 +44207,7 @@
 <vendorCode>9789661059930</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/polska-mova-za-4-tyzhni-riven-2-bohdan-intensyvnyi-kurs-polskoi-movy-movy-z-elektronnym-audiododatkom/</url>
 <currencyId>UAH</currencyId>
-<categoryId>73</categoryId>
+<categoryId>76</categoryId>
 <price>349</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29287/polska_mova_za_4_tizhni_riven_2_bogdan_intensivniy_kurs_polsko_movi_movi_z_elektronnim_audiododatkom.jpg</picture>
 <vendor>Богдан</vendor>
@@ -44473,7 +44229,7 @@
 <vendorCode>9789661061452</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/italiiska-mova-za-4-tyzhni-bohdan-intensyvnyi-kurs-italiiskoi-movy-movy-z-elektronnym-audiododatkom/</url>
 <currencyId>UAH</currencyId>
-<categoryId>73</categoryId>
+<categoryId>76</categoryId>
 <price>349</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29288/italiyska_mova_za_4_tizhni_bogdan_intensivniy_kurs_italiysko_movi_movi_z_elektronnim_audiododatkom.jpg</picture>
 <vendor>Богдан</vendor>
@@ -44495,7 +44251,7 @@
 <vendorCode>9789661061469</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/italiiska-mova-za-4-tyzhni-riven-2-bohdan-intensyvnyi-kurs-italiiskoi-movy-movy-z-elektronnym-audiododatkom/</url>
 <currencyId>UAH</currencyId>
-<categoryId>73</categoryId>
+<categoryId>76</categoryId>
 <price>349</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29289/italiyska_mova_za_4_tizhni_riven_2_bogdan_intensivniy_kurs_italiysko_movi_movi_z_elektronnim_audiododatkom.jpg</picture>
 <vendor>Богдан</vendor>
@@ -44762,54 +44518,8 @@
 
 
 
-<offer id="29357" available="true" in_stock="true" selling_type="r" >
-<name>Прописи для маленьких українців УЛА 6+ Сікора</name>
-<vendorCode>9786175442487</vendorCode>
-<url>https://knigovan.com/dozvillia-ihry/patriotychni-knyzhky/propysy-dlia-malenkykh-ukraintsiv-ula-6-sikora/</url>
-<currencyId>UAH</currencyId>
-<categoryId>32</categoryId>
-<price>50</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/29357/propisi_dlya_malenkih_ukra_ntsiv_ula_6_sikora.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Прописи для маленьких українців — для дітей від 6-ти років. Сікора Ю. О.  Серія «Прописи для маленьких українців» допоможе дітям в ігровій формі набути базових графічних навичок, потренувати пам’ять, розвинути логічне мислення та виховати посидючість. Цікаві завдання на українську тематику та яскраві наліпки урізноманітнять роботу з книжками й зроблять її ще більш захопливою. Книжка «6+» стане гарним помічником для дитини, адже матеріал підібрано з урахуванням її вікових можливостей. На кожній сторінці потрібно виконати завдання, навести лінії по пунктиру й розфарбувати картинку.    Видання призначене для спільної роботи дорослих із дітьми молодшого шкільного віку.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Сікора Ю. О.</param>
-<param name="Мова">українська</param>
-<param name="Вік">6+</param>
-<param name="Тип">Прописи для малюків</param>
-<param name="Серія">Прописи для маленьких українців</param>
-<param name="Кількість сторінок">16</param>
-<param name="Рік видання">2023</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786175442487</param>
-<param name="Формат, розмір">200х260 мм</param>
-<param name="Видавництво">Ула</param></offer>
-<offer id="29358" available="true" in_stock="true" selling_type="r" >
-<name>Прописи для маленьких українців УЛА 7+ Сікора</name>
-<vendorCode>9786175442494</vendorCode>
-<url>https://knigovan.com/dozvillia-ihry/patriotychni-knyzhky/propysy-dlia-malenkykh-ukraintsiv-ula-7-sikora/</url>
-<currencyId>UAH</currencyId>
-<categoryId>32</categoryId>
-<price>50</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/29358/propisi_dlya_malenkih_ukra_ntsiv_ula_7_sikora.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Прописи для маленьких українців — для дітей від 7-ми років. Сікора Ю. О.  Серія «Прописи для маленьких українців» допоможе дітям в ігровій формі набути базових графічних навичок, потренувати пам’ять, розвинути логічне мислення та виховати посидючість. Цікаві завдання на українську тематику та яскраві наліпки урізноманітнять роботу з книжками й зроблять її ще більш захопливою. Книжка «7+» стане гарним помічником для дитини, адже матеріал підібрано з урахуванням її вікових можливостей. На кожній сторінці потрібно виконати завдання, навести лінії по пунктиру й розфарбувати картинку.    Видання призначене для спільної роботи дорослих із дітьми молодшого шкільного віку.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Сікора Ю. О.</param>
-<param name="Мова">українська</param>
-<param name="Вік">7+</param>
-<param name="Тип">Прописи для малюків</param>
-<param name="Серія">Прописи для маленьких українців</param>
-<param name="Кількість сторінок">16</param>
-<param name="Рік видання">2023</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786175442494</param>
-<param name="Формат, розмір">200х260 мм</param>
-<param name="Видавництво">Ула</param></offer>
+
+
 
 
 
@@ -44820,7 +44530,7 @@
 <vendorCode>9789666721313</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/hramatychnyi-praktykum-ranok-nimetska-mova-i-riven-3-6-klasy-bida/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>345</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29364/gramatichniy_praktikum_ranok_nimetska_mova_i_riven_3_6_klasi_bida.jpg</picture>
 <vendor>Ранок</vendor>
@@ -45407,7 +45117,7 @@
 <vendorCode>9789661023689</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/lohopedychnyi-zoshyt-bohdan-zvuky-s-z-s-s-z-z-dlia-uchniv-2-4-klasiv-diachenko-kateryna/</url>
 <currencyId>UAH</currencyId>
-<categoryId>7</categoryId>
+<categoryId>32</categoryId>
 <price>80</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29505/logopedichniy_zoshit_bogdan_zvuki_s_z_s_s_z_z_dlya_uchniv_2_4_klasiv_dyachenko_katerina.jpg</picture>
 <vendor>Богдан</vendor>
@@ -45428,7 +45138,7 @@
 <vendorCode>9789661023696</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/lohopedychnyi-zoshyt-bohdan-zvuky-p-b-f-v-h-k-kh-dlia-uchniv-2-4-klasiv-diachenko-kateryna/</url>
 <currencyId>UAH</currencyId>
-<categoryId>7</categoryId>
+<categoryId>32</categoryId>
 <price>80</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29506/logopedichniy_zoshit_bogdan_zvuki_p_b_f_v_g_k_h_dlya_uchniv_2_4_klasiv_dyachenko_katerina.jpg</picture>
 <vendor>Богдан</vendor>
@@ -45449,7 +45159,7 @@
 <vendorCode>9789661023702</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/lohopedychnyi-zoshyt-bohdan-zvuky-r-l-l-l-r-r-dlia-uchniv-2-4-klasiv-diachenko-kateryna/</url>
 <currencyId>UAH</currencyId>
-<categoryId>7</categoryId>
+<categoryId>32</categoryId>
 <price>80</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29507/logopedichniy_zoshit_bogdan_zvuki_r_l_l_l_r_r_dlya_uchniv_2_4_klasiv_dyachenko_katerina.jpg</picture>
 <vendor>Богдан</vendor>
@@ -45470,7 +45180,7 @@
 <vendorCode>9789661023733</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/lohopedychnyi-zoshyt-bohdan-zvuky-sh-zh-s-sh-z-zh-ts-shch-dlia-uchniv-2-4-klasiv-diachenko-kateryna/</url>
 <currencyId>UAH</currencyId>
-<categoryId>7</categoryId>
+<categoryId>32</categoryId>
 <price>80</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29508/logopedichniy_zoshit_bogdan_zvuki_sh_zh_s_sh_z_zh_ts_shch_dlya_uchniv_2_4_klasiv_dyachenko_katerina.jpg</picture>
 <vendor>Богдан</vendor>
@@ -45491,7 +45201,7 @@
 <vendorCode>9789661023726</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/lohopedychnyi-zoshyt-bohdan-zvuky-ch-ts-ts-ts-s-ts-s-ch-dlia-uchniv-2-4-klasiv-diachenko-kateryna/</url>
 <currencyId>UAH</currencyId>
-<categoryId>7</categoryId>
+<categoryId>32</categoryId>
 <price>80</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29509/logopedichniy_zoshit_bogdan_zvuki_ch_ts_ts_ts_s_ts_s_ch_dlya_uchniv_2_4_klasiv_dyachenko_katerina.jpg</picture>
 <vendor>Богдан</vendor>
@@ -45512,7 +45222,7 @@
 <vendorCode>9789661023719</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/lohopedychnyi-zoshyt-bohdan-zvuky-t-d-d-d-t-t-dlia-uchniv-2-4-klasiv-diachenko-kateryna/</url>
 <currencyId>UAH</currencyId>
-<categoryId>7</categoryId>
+<categoryId>32</categoryId>
 <price>80</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29510/logopedichniy_zoshit_bogdan_zvuki_t_d_d_d_t_t_dlya_uchniv_2_4_klasiv_dyachenko_katerina.jpg</picture>
 <vendor>Богдан</vendor>
@@ -47352,7 +47062,29 @@
 <param name="ISBN">978-966-1694-58-2</param>
 <param name="Формат, розмір">220х168 мм</param>
 <param name="Видавництво">Белкар-книга</param></offer>
-
+<offer id="29717" available="true" in_stock="true" selling_type="r" >
+<name>Лапка-помічник Белкар-книга Оповідання. Читання по складах. Промінець</name>
+<vendorCode>9786177403332</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/lapka-pomichnyk-belkar-knyha-opovidannia-chytannia-po-skladakh-prominets/</url>
+<currencyId>UAH</currencyId>
+<categoryId>138</categoryId>
+<price>180</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/29717/lapka_pomichnik_belkar_kniga_opovidannya_chitannya_po_skladah_prominets.jpg</picture>
+<vendor>Белкар-книга</vendor>
+<description>
+<![CDATA[Лапка-помічник. Оповідання. Читання по складах. Промінець  Ця збірка для наймолодших читачів, які роблять перші кроки в читанні. Книга призначена для вироблення в дітей навичок техніки читання текстів по складах. До збірки ввійшли гумористичні оповідання і казки відомих авторів. Читаючи їх, малята навчаться бути ввічливими, добрими, працелюбними, поважати друзів, захищати менших, допомагати старшим, не ображати тварин.  Для дітей дошкільного віку.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">збірка авторів</param>
+<param name="Мова">українська</param>
+<param name="Вік">4-7 років</param>
+<param name="Тип">книга</param>
+<param name="Серія">Промінець</param>
+<param name="Кількість сторінок">48</param>
+<param name="Тип паперу">кольоровий, крейдований</param>
+<param name="Тип обкладинки">тверда</param>
+<param name="ISBN">978-617-7403-33-2</param>
+<param name="Формат, розмір">220х168 мм</param>
+<param name="Видавництво">Белкар-книга</param></offer>
 <offer id="29718" available="true" in_stock="true" selling_type="r" >
 <name>Цікавинки про тваринок Белкар-книга Міні-енциклопедія для малят у віршах. Промінець Фролова</name>
 <vendorCode>9786177403233</vendorCode>
@@ -47377,11 +47109,99 @@
 <param name="Формат, розмір">220х168 мм</param>
 <param name="Видавництво">Белкар-книга</param></offer>
 
+<offer id="29720" available="true" in_stock="true" selling_type="r" >
+<name>Хитрий півень Белкар-книга Казки, оповідання. Читання по складах. Промінець</name>
+<vendorCode>9786177403219</vendorCode>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/khytryi-piven-belkar-knyha-kazky-opovidannia-chytannia-po-skladakh-prominets/</url>
+<currencyId>UAH</currencyId>
+<categoryId>138</categoryId>
+<price>180</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/29720/hitriy_piven_belkar_kniga_kazki_opovidannya_chitannya_po_skladah_prominets.png</picture>
+<vendor>Белкар-книга</vendor>
+<description>
+<![CDATA[Хитрий півень. Казки, оповідання. Читання по складах. Промінець  Ця збірка казок - для наймолодших читачів, які роблять перші кроки в читанні. Книга призначена для вироблення в дітей навичок техніки читання текстів по складах. До збірки ввійшли відомі народні та авторські казки. Читаючи їх, малята навчаться відрізняти добро від зла, здійснювати гарні вчинки - захищати менших, поважати старших.  Для дошкільнят і дітей молодшого шкільного віку.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">народні казки</param>
+<param name="Мова">українська</param>
+<param name="Вік">4-7 років</param>
+<param name="Тип">книга</param>
+<param name="Серія">Промінець</param>
+<param name="Кількість сторінок">48</param>
+<param name="Тип паперу">кольоровий, крейдований</param>
+<param name="Тип обкладинки">тверда</param>
+<param name="ISBN">978-617-7403-21-9</param>
+<param name="Формат, розмір">220х168 мм</param>
+<param name="Видавництво">Белкар-книга</param></offer>
 
-
-
-
-
+<offer id="29722" available="true" in_stock="true" selling_type="r" >
+<name>Пан Коцький Белкар-книга Казки. Читання по складах. Промінець</name>
+<vendorCode>9789661694575</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/pan-kotskyi-belkar-knyha-kazky-chytannia-po-skladakh-prominets/</url>
+<currencyId>UAH</currencyId>
+<categoryId>138</categoryId>
+<price>180</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/29722/pan_kotskiy_belkar_kniga_kazki_chitannya_po_skladah_prominets.jpg</picture>
+<vendor>Белкар-книга</vendor>
+<description>
+<![CDATA[Пан Коцький. Казки. Читання по складах. Промінець  Ця збірка казок - для наймолодших читачів, які роблять перші кроки в читанні. Книга призначена для вироблення в дітей навичок техніки читання текстів по складах. До збірки ввійшли відомі українські народні казки. Читаючи їх, малята навчаться відрізняти добро від зла, здійснювати гарні вчинки, бути добрими, справедливими, захищати менших, поважати старших.  Для дітей дошкільного та молодшого шкільного віку.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">народні казки</param>
+<param name="Мова">українська</param>
+<param name="Вік">4-7 років</param>
+<param name="Тип">книга</param>
+<param name="Серія">Промінець</param>
+<param name="Кількість сторінок">48</param>
+<param name="Тип паперу">кольоровий, крейдований</param>
+<param name="Тип обкладинки">тверда</param>
+<param name="ISBN">978-966-1694-57-5</param>
+<param name="Формат, розмір">220х168 мм</param>
+<param name="Видавництво">Белкар-книга</param></offer>
+<offer id="29723" available="true" in_stock="true" selling_type="r" >
+<name>Мій друг - казка Белкар-книга Читання по складах. Промінець</name>
+<vendorCode>9789668816635</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/mii-druh-kazka-belkar-knyha-chytannia-po-skladakh-prominets/</url>
+<currencyId>UAH</currencyId>
+<categoryId>138</categoryId>
+<price>180</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/29723/miy_drug_kazka_belkar_kniga_chitannya_po_skladah_prominets.jpg</picture>
+<vendor>Белкар-книга</vendor>
+<description>
+<![CDATA[Мій друг - казка. Читання по складах. Промінець  Ця збірка казок - для наймолодших читачів, які роблять перші кроки в читанні. Книга призначена для вироблення в дітей навичок техніки читання текстів по складах. До збірки ввійшли відомі народні казки. Читаючи їх, малята навчаться відрізняти добро від зла, здійснювати гарні вчинки - захищати маленьких, поважати старших.  Для дітей дошкільного та молодшого шкільного віку.]]></description>
+<quantity_in_stock>99</quantity_in_stock>
+<param name="Автор">народні казки</param>
+<param name="Мова">українська</param>
+<param name="Вік">4-7 років</param>
+<param name="Тип">книга</param>
+<param name="Серія">Промінець</param>
+<param name="Кількість сторінок">48</param>
+<param name="Тип паперу">кольоровий, крейдований</param>
+<param name="Тип обкладинки">тверда</param>
+<param name="ISBN">978-966-8816-63-5</param>
+<param name="Формат, розмір">220х168 мм</param>
+<param name="Видавництво">Белкар-книга</param></offer>
+<offer id="29724" available="true" in_stock="true" selling_type="r" >
+<name>Подорож у казку Белкар-книга Казки. Читання по складах. Промінець</name>
+<vendorCode>9789668816864</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/podorozh-u-kazku-belkar-knyha-kazky-chytannia-po-skladakh-prominets/</url>
+<currencyId>UAH</currencyId>
+<categoryId>138</categoryId>
+<price>180</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/29724/podorozh_u_kazku_belkar_kniga_kazki_chitannya_po_skladah_prominets.jpg</picture>
+<vendor>Белкар-книга</vendor>
+<description>
+<![CDATA[Подорож у казку. Казки. Читання по складах. Промінець  Ця збірка казок - для наймолодших читачів, які роблять перші кроки в читанні. Книга призначена для вироблення в дітей навичок техніки читання текстів по складах. До збірки ввійшли відомі народні та авторські казки. Читаючи їх, малята навчаться відрізняти добро від зла, здійснювати гарні вчинки - захищати менших, поважати старших.  Для дітей дошкільного та молодшого шкільного віку.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">народні казки</param>
+<param name="Мова">українська</param>
+<param name="Вік">4-7 років</param>
+<param name="Тип">книга</param>
+<param name="Серія">Промінець</param>
+<param name="Кількість сторінок">48</param>
+<param name="Тип паперу">кольоровий, крейдований</param>
+<param name="Тип обкладинки">тверда</param>
+<param name="ISBN">978-966-8816-86-4</param>
+<param name="Формат, розмір">220х168 мм</param>
+<param name="Видавництво">Белкар-книга</param></offer>
 <offer id="29725" available="true" in_stock="true" selling_type="r" >
 <name>Дванадцять місяців Белкар-книга Вірші, казки, оповідання. Промінець</name>
 <vendorCode>9786177403110</vendorCode>
@@ -47475,7 +47295,29 @@
 <param name="ISBN">978-966-1694-50-6</param>
 <param name="Формат, розмір">220х168 мм</param>
 <param name="Видавництво">Белкар-книга</param></offer>
-
+<offer id="29730" available="true" in_stock="true" selling_type="r" >
+<name>Мишача рада Белкар-книга Українські народні казки. Читання по складах. Промінець</name>
+<vendorCode>9789661694384</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/myshacha-rada-belkar-knyha-ukrainski-narodni-kazky-chytannia-po-skladakh-prominets/</url>
+<currencyId>UAH</currencyId>
+<categoryId>138</categoryId>
+<price>180</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/29730/mishacha_rada_belkar_kniga_ukra_nski_narodni_kazki_chitannya_po_skladah_prominets.jpg</picture>
+<vendor>Белкар-книга</vendor>
+<description>
+<![CDATA[Мишача рада. Українські народні казки. Читання по складах. Промінець  Ця збірка казок - для наймолодших читачів, які роблять перші кроки в читанні. Книга призначена для вироблення в дітей навичок техніки читання текстів по складах. До збірки ввійшли відомі українські народні казки. Читаючи їх, малята навчаться відрізняти добро від зла, здійснювати гарні вчинки, бути добрими, справедливими, захищати менших, поважати старших.  Для дітей дошкільного та молодшого шкільного віку.]]></description>
+<quantity_in_stock>99</quantity_in_stock>
+<param name="Автор">народні казки</param>
+<param name="Мова">українська</param>
+<param name="Вік">4-8 років</param>
+<param name="Тип">книга</param>
+<param name="Серія">Промінець</param>
+<param name="Кількість сторінок">48</param>
+<param name="Тип паперу">кольоровий, крейдований</param>
+<param name="Тип обкладинки">тверда</param>
+<param name="ISBN">978-966-1694-38-4</param>
+<param name="Формат, розмір">220х168 мм</param>
+<param name="Видавництво">Белкар-книга</param></offer>
 <offer id="29731" available="true" in_stock="true" selling_type="r" >
 <name>Малечі про цікаві речі Белкар-книга Промінець</name>
 <vendorCode>9789668816895</vendorCode>
@@ -47616,29 +47458,7 @@
 <param name="Формат, розмір">220х147 мм</param>
 <param name="Видавництво">Белкар-книга</param></offer>
 
-<offer id="29739" available="true" in_stock="true" selling_type="r" >
-<name>Що?Де?Як? Белкар-книга Пізнаємо світ разом</name>
-<vendorCode>9789661694391</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/entsyklopedii/shcho-de-iak-belkar-knyha-piznaiemo-svit-razom/</url>
-<currencyId>UAH</currencyId>
-<categoryId>137</categoryId>
-<price>150</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/29739/shcho_de_yak_belkar_kniga_pizna_mo_svit_razom.jpg</picture>
-<vendor>Белкар-книга</vendor>
-<description>
-<![CDATA[Що?Де?Як? Пізнаємо світ разом   Читаючи разом з батьками цю книгу, малюки в доступній і цікавій формі познайомляться з навколишнім світом. Вони дізнаються багато цікавого про нашу планету Земля, про Сонце та Сонячну систему, про те, хто такі динозаври, як ростуть рослини, про різних дивовижних тварин. Книжка розповість про те, з чого складається наш організм, коли з’явилися санчата, лижі, велосипед, автомобіль тощо. Одним словом, малюкам відкриється багато див світу.    Для дітей молодшого шкільного віку.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">збірка авторів</param>
-<param name="Мова">українська</param>
-<param name="Вік">5-10 років</param>
-<param name="Тип">книга</param>
-<param name="Серія">Пізнаємо світ разом</param>
-<param name="Кількість сторінок">64</param>
-<param name="Тип паперу">кольоровий, крейдований</param>
-<param name="Тип обкладинки">тверда</param>
-<param name="ISBN">978-966-1694-39-1</param>
-<param name="Формат, розмір">220х147 мм</param>
-<param name="Видавництво">Белкар-книга</param></offer>
+
 <offer id="29740" available="true" in_stock="true" selling_type="r" >
 <name>Незвичайні пригоди і таємниці Белкар-книга Скарбничка школяра Костецький</name>
 <vendorCode>9789668816499</vendorCode>
@@ -47861,55 +47681,8 @@
 
 
 
-<offer id="29763" available="true" in_stock="true" selling_type="r" >
-<name>Шкільний словничок 3 в 1 УЛА 1-4 класи Орфографічний словник. Розбір слова за будовою. Синоніми. Антоніми</name>
-<vendorCode>9786175442678</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/dovidnyky/shkilnyi-slovnychok-3-v-1-ula-1-4-klasy-orfohrafichnyi-slovnyk-rozbir-slova-za-budovoiu-synonimy-antonimy/</url>
-<currencyId>UAH</currencyId>
-<categoryId>33</categoryId>
-<price>85</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/29763/shkilniy_slovnichok_3_v_1_ula_1_4_klasi_orfografichniy_slovnik_rozbir_slova_za_budovoyu_sinonimi_antonimi.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Шкільний словничок 3 в 1. 1-4 класи.  Лексика, орфограми та морфемний аналіз.  Цей словник містить розділи «Орфографічний словник», «Розбір слова за будовою» і «Синоніми. Антоніми». Користуючись виданням, школярі збагатять свій словниковий запас та поглиблять знання з української мови.    Видання розраховано на учнів 1–4 класів загальноосвітніх шкіл, їхніх батьків і вчителів.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Сікора Ю. О., Терещенко В. М., Собчук О. С.</param>
-<param name="Мова">українська</param>
-<param name="Вік">1-4 класи</param>
-<param name="Тип">Посібник для учня</param>
-<param name="Серія">Шкільний словничок</param>
-<param name="Кількість сторінок">136</param>
-<param name="Рік видання">2024</param>
-<param name="Тип паперу">офсет</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-617-544-269-2</param>
-<param name="Формат, розмір">16,5×23,5 см.</param>
-<param name="Видавництво">Ула</param></offer>
-<offer id="29764" available="true" in_stock="true" selling_type="r" >
-<name>Шкільний довідничок 3 в 1 УЛА 1-4 класи Математика. Українська мова. Англійська мова</name>
-<vendorCode>9786175442661</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/dovidnyky/shkilnyi-dovidnychok-3-v-1-ula-1-4-klasy-matematyka-ukrainska-mova-anhliiska-mova/</url>
-<currencyId>UAH</currencyId>
-<categoryId>33</categoryId>
-<price>85</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/29764/shkilniy_dovidnichok_3_v_1_ula_1_4_klasi_matematika_ukra_nska_mova_angliyska_mova.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Шкільний довідничок 3 в 1. 1-4 класи. Математика. Українська мова. Англійська мова.  Правила та визначення з прикладами.  Цей довідник містить теоретичну частину та багато прикладів, що допоможе систематизувати й поглибити знання з математики, української та англійської мов, підготуватися до самостійних і контрольних робіт, а також ДПА.    Видання розраховано на учнів 1–4 класів загальноосвітніх шкіл, їхніх батьків і вчителів.]]></description>
-<quantity_in_stock>99</quantity_in_stock>
-<param name="Автор">Сікора Ю. О., Терещенко В. М., Зінов’єва Л. О.</param>
-<param name="Предмет">Математика</param>
-<param name="Мова">українська</param>
-<param name="Вік">1-4 класи</param>
-<param name="Тип">Посібник для учня</param>
-<param name="Серія">Шкільний довідничок</param>
-<param name="Кількість сторінок">136</param>
-<param name="Рік видання">2024</param>
-<param name="Тип паперу">офсет</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-617-544-266-1</param>
-<param name="Формат, розмір">16,5×23,5 см.</param>
-<param name="Видавництво">Ула</param></offer>
+
+
 
 
 
@@ -48468,29 +48241,7 @@
 
 
 
-<offer id="29908" available="true" in_stock="true" selling_type="r" >
-<name>Корисні навички Основа Дітям про фінанси Activity Book 8-10 років Чуб Наталія</name>
-<vendorCode>9786170042293</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/finansova-hramotnist-dlia-ditei/korysni-navychky-osnova-ditiam-pro-finansy-activity-book-8-10-rokiv-chub-nataliia/</url>
-<currencyId>UAH</currencyId>
-<categoryId>137</categoryId>
-<price>350</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/29908/korisni_navichki_osnova_dityam_pro_finansi_activity_book_8_10_rokiv_chub_nataliya.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[Корисні навички. Дітям про фінанси. Activity Book. 8-10 років. Чуб Наталія. 4MAMAS  Що таке гроші? Навіщо вони потрібні? І взагалі, яку роль вони відіграють у житті людини? Пропонований зошит допоможе дітям 8—10 років отримати міцну основу для будування фундаменту фінансової грамотності. На сторінках чекають цікаві завдання та запитання для роздумів, які допоможуть навчитися:    планувати витрати та вести фінансовий щоденник; заощаджувати та бути свідомими споживачами та покупцями; зберігати гроші та вигідно їх вкладати й примножувати.    Ми підготували чек-листи, таблиці та фінансові схеми якими зручно користуватися у щоденній практиці: відвідуванні крамниці та кав’ярні, плануванні сімейного бюджету, пошуку подарунків для друзів та рідних тощо. Фінансова грамотність — це знання, що допоможуть досягати цілей та здійснювати мрії за допомогою розумного використання грошей. Нехай цей зошит стане якісною інвестицією в успішне майбутнє дитини!]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Автор">Чуб Наталія</param>
-<param name="Мова">українська</param>
-<param name="Вік">8-10 рокiв</param>
-<param name="Тип">Книга</param>
-<param name="Серія">Корисні навички</param>
-<param name="Кількість сторінок">80</param>
-<param name="Рік видання">2024</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">тверда</param>
-<param name="ISBN">9786170042293</param>
-<param name="Видавництво">Основа / MAMAS</param></offer>
+
 <offer id="29909" available="true" in_stock="true" selling_type="r" >
 <name>Зошит-практикум Торсінг Магістр математики 1 клас О.Г. Алліна</name>
 <vendorCode>9786175241684</vendorCode>
@@ -48644,54 +48395,8 @@
 
 
 
-<offer id="29925" available="true" in_stock="true" selling_type="r" >
-<name>Фінансова грамотність для дітей 8–10 років Основа Другий крок до мільйона з наліпками Анна Гресь</name>
-<vendorCode>9786170042286</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/finansova-hramotnist-dlia-ditei/finansova-hramotnist-dlia-ditei-8-10-rokiv-osnova-druhyi-krok-do-miliona-z-nalipkamy-anna-hres/</url>
-<currencyId>UAH</currencyId>
-<categoryId>137</categoryId>
-<price>390</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/29925/finansova_gramotnist_dlya_ditey_8_10_rokiv_osnova_drugiy_krok_do_milyona_z_nalipkami_anna_gres.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[Фінансова грамотність для дітей. 8–10 років. Другий крок до мільйона КНН039. Анна Гресь  Тема грошей для сучасних дітей дуже цікава. Однак мало хто з них розуміє: звідки беруть гроші батьки, як працює банківська система, що таке благодійність та інвестиції. Нам здається, що діти не готові до такої складної інформації. Та насправді немає нічого складного в тому, щоб пояснити дитині: як і навіщо придумали гроші, як працює світ фінансів. Ця книга допоможе сформувати в неї основу економічних знань у захопливій формі — у грі, у серії коротких, але цікавих завдань. Призначено для сумісного користування батьків і дітей. У виданні ви знайдете набір наліпок, який зробить виконання завдань цікавішим.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Автор">Анна Гресь</param>
-<param name="Мова">українська</param>
-<param name="Вік">8-10 рокiв</param>
-<param name="Тип">Розвиваючi книги</param>
-<param name="Серія">Корисні навички</param>
-<param name="Кількість сторінок">48</param>
-<param name="Рік видання">2024</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">тверда</param>
-<param name="ISBN">9786170042286</param>
-<param name="Формат, розмір">А-4</param>
-<param name="Видавництво">Основа / MAMAS</param></offer>
-<offer id="29926" available="true" in_stock="true" selling_type="r" >
-<name>Фінансова грамотність для дітей 5–7 років Основа Перший крок до мільйона Анна Гресь з наліпками</name>
-<vendorCode>9786170042279</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/finansova-hramotnist-dlia-ditei/finansova-hramotnist-dlia-ditei-5-7-rokiv-osnova-pershyi-krok-do-miliona-anna-hres-z-nalipkamy/</url>
-<currencyId>UAH</currencyId>
-<categoryId>137</categoryId>
-<price>390</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/29926/finansova_gramotnist_dlya_ditey_5_7_rokiv_osnova_pershiy_krok_do_milyona_anna_gres_z_nalipkami.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[Фінансова грамотність для дітей. 5–7 років. Перший крок до мільйона КНН038. Анна Гресь  Звідки беруться гроші? Чому вони закінчуються? Чому не можна купувати все, що заманеться? Ці питання постають у дітей дуже рано. Батькам важливо не лише пояснити про фінансову сферу життя, але й формувати в дитини правильне ставлення до грошей. За допомогою цієї книги ви зможете допомогти їй побудувати здорове, свідоме та раціональне ставлення до фінансів. Видання містить прості й зрозумілі поради, завдяки яким малюки засвоять основи економічних знань. До кожної теми запропоновано інструкцію для батьків, завдання та запитання для дитини, тематичну історію. Наприкінці міститься набір наліпок, з яким вивчати фінансову грамотність буде значно цікавіше.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
-<param name="Автор">Анна Гресь</param>
-<param name="Мова">українська</param>
-<param name="Вік">5-7 рокiв</param>
-<param name="Тип">Розвиваючi книги</param>
-<param name="Серія">Корисні навички</param>
-<param name="Кількість сторінок">48</param>
-<param name="Рік видання">2024</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">тверда</param>
-<param name="ISBN">9786170042279</param>
-<param name="Формат, розмір">А-4</param>
-<param name="Видавництво">Основа / MAMAS</param></offer>
+
+
 
 
 
@@ -48750,7 +48455,30 @@
 <param name="Формат, розмір">130х190 мм</param>
 <param name="Видавництво">АССА</param></offer>
 
-
+<offer id="29939" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Ілюстрований англо-український словник 1-4 класи Ранок Погарська, Нєвєрова (2025 рік)</name>
+<vendorCode>9789666724574</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/slovnyky/nush-iliustrovanyi-anhlo-ukrainskyi-slovnyk-1-4-klasy-ranok-poharska-nievierova-2025-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>35</categoryId>
+<price>175</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/29939/nush_ilyustrovaniy_anglo_ukra_nskiy_slovnik_1_4_klasi_ranok_pogarska_n_v_rova_2025_rik.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[НУШ Ілюстрований англо-український словник. 1-4 класи Англо-український словник містить близько 3000 англійських слів і словосполучень. У ньому досить широко охоплюється лексика різної тематики, що відповідає чинним типовим освітнім програмам з іноземних мов. Багате ілюстративне наповнення словника спрямоване на задоволення потреби дітей молодшого шкільного віку в наочному сприйнятті для більш продуктивного засвоєння навчального матеріалу. Видання укладене за принципами концепції Нової української школи.    Для учнів 1—4 класів закладів загальної середньої освіти, вчителів англійської мови та всіх, хто вивчає англійську у школі й самостійно.]]></description>
+<quantity_in_stock>3</quantity_in_stock>
+<param name="Автор">Погарська Т.В. Нєвєрова Л.В. Нєфьодова Г.В.</param>
+<param name="Мова">англійська</param>
+<param name="Вік">1 клас</param>
+<param name="Тип">Словник</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">224</param>
+<param name="Рік видання">2025</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9789666724574</param>
+<param name="Формат, розмір">170х240</param>
+<param name="Видавництво">Ранок</param></offer>
 <offer id="29940" available="true" in_stock="true" selling_type="r" >
 <name>Хлопчики та дівчатка: як розвивається сексуальність. Від 0 до 19 років. Ґайд для батьків Основа</name>
 <vendorCode>9786170042187</vendorCode>
@@ -49025,7 +48753,7 @@
 <vendorCode>9786177728671</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/zhyva-hramatyka-frantsuzkoi-movy-riven-2-yuliia-ivanova-niu-taim/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>240</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29976/zhiva_gramatika_frantsuzko_movi_riven_2_yuliya_ivanova_nyu_taym.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -49106,7 +48834,7 @@
 <vendorCode>9786177728664</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nimetskyi-supertrenazher-niu-taim-diieslova-z-vidokremliuvanymy-prefiksamy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>85</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29987/nimetskiy_supertrenazher_nyu_taym_di_slova_z_vidokremlyuvanimi_prefiksami.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -49130,7 +48858,7 @@
 <vendorCode>9786177728602</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nimetskyi-supertrenazher-niu-taim-vchymosia-peredavaty-mynule/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>85</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29988/nimetskiy_supertrenazher_nyu_taym_vchimosya_peredavati_minule.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -49154,7 +48882,7 @@
 <vendorCode>9786177728640</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/frantsuzkyi-supertrenazher-niu-taim-subjonctif-yuliia-ivanova/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>100</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29989/frantsuzkiy_supertrenazher_nyu_taym_subjonctif_yuliya_ivanova.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -49178,7 +48906,7 @@
 <vendorCode>9789662654981</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/frantsuzkyi-supertrenazher-niu-taim-teperishnii-chas-2-yuliia-ivanova/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>85</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29990/frantsuzkiy_supertrenazher_nyu_taym_teperishniy_chas_2_yuliya_ivanova.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -49368,7 +49096,7 @@
 <vendorCode>9789660742581</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/rozrobky-urokiv/zbirnyk-dyktantiv-i-perekaziv-pidruchnyky-i-posibnyky-ukrainska-mova-7-9-klasy-panchuk/</url>
 <currencyId>UAH</currencyId>
-<categoryId>38</categoryId>
+<categoryId>75</categoryId>
 <price>90</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30021/zbirnik_diktantiv_i_perekaziv_pidruchniki_i_posibniki_ukra_nska_mova_7_9_klasi_panchuk.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
@@ -49535,7 +49263,7 @@
 <vendorCode>9786170945525</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/art-tablytsia-mnozhennia-zbirnyk-zavdan-ranok/</url>
 <currencyId>UAH</currencyId>
-<categoryId>7</categoryId>
+<categoryId>32</categoryId>
 <price>189</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30091/art_tablitsya_mnozhennya_zbirnik_zavdan_ranok.jpg</picture>
 <vendor>Ранок</vendor>
@@ -51717,7 +51445,7 @@
 <vendorCode>9786170042712</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/dodatkova-literatura/zbirnyk-vprav-i-zavdan-osnova-ukrainska-mova-8-9-klasy-parashchych-zahoruiko/</url>
 <currencyId>UAH</currencyId>
-<categoryId>38</categoryId>
+<categoryId>75</categoryId>
 <price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30292/zbirnik_vprav_i_zavdan_osnova_ukra_nska_mova_8_9_klasi_parashchich_zagoruyko.jpg</picture>
 <vendor>Основа</vendor>
@@ -52243,7 +51971,7 @@
 <vendorCode>978-617-686-725-8</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/nush-diahnostyka-na-vidminno-vesna-shparhalka-z-nimetskoi-movy-1-4-klas-pochatkova-shkola-zebnytska/</url>
 <currencyId>UAH</currencyId>
-<categoryId>33</categoryId>
+<categoryId>35</categoryId>
 <price>70</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30368/nush_diagnostika_na_vidminno_vesna_shpargalka_z_nimetsko_movi_1_4_klas_pochatkova_shkola_zebnitska.jpg</picture>
 <vendor>Весна</vendor>
@@ -52267,7 +51995,7 @@
 <vendorCode>978-617-686-726-5</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/nush-diahnostyka-na-vidminno-vesna-shparhalka-z-polskoi-movy-1-4-klas-pochatkova-shkola-kopko/</url>
 <currencyId>UAH</currencyId>
-<categoryId>33</categoryId>
+<categoryId>35</categoryId>
 <price>70</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30369/nush_diagnostika_na_vidminno_vesna_shpargalka_z_polsko_movi_1_4_klas_pochatkova_shkola_kopko.jpg</picture>
 <vendor>Весна</vendor>
@@ -53249,7 +52977,7 @@
 <vendorCode>9789662654363</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/zhyva-hramatyka-frantsuzkoi-movy-riven-1-niu-taim-mariia-zhyl-artem-lukashov-nicole-duval/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>240</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30455/zhiva_gramatika_frantsuzko_movi_riven_1_nyu_taym_mariya_zhil_artem_lukashov_nicole_duval.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -55272,50 +55000,8 @@
 
 
 
-<offer id="30651" available="true" in_stock="true" selling_type="r" >
-<name>Мотивувальні наліпки УЛА У тебе все вийде!</name>
-<vendorCode>9786175443620</vendorCode>
-<url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/motyvuvalni-nalipky-ula-u-tebe-vse-vyide/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>40</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/30651/motivuvalni_nalipki_ula_u_tebe_vse_viyde.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Мотивувальні наліпки - У тебе все вийде!  Серія "Мотивувальні наліпки" містить понад 100 яскравих стікерів, які можна використовувати як для навчання, так і під час ігор. Наліпки мають привабливий дизайн і містять різні мотивувальні фрази, символи успіху й емодзі, якими можна відзначити персональні досягнення дитини, підтримати її зусилля, підвищити рівень самооцінки й заохотити до подальших перемог!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Мова">українська</param>
-<param name="Тип">Наліпки</param>
-<param name="Серія">Мотивувальні наліпки</param>
-<param name="Кількість сторінок">112 наліпок</param>
-<param name="Рік видання">2024</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786175443620</param>
-<param name="Формат, розмір">16х23 см</param>
-<param name="Видавництво">Ула</param></offer>
-<offer id="30652" available="true" in_stock="true" selling_type="r" >
-<name>Мотивувальні наліпки УЛА Ти зможеш усе!</name>
-<vendorCode>9786175443613</vendorCode>
-<url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/motyvuvalni-nalipky-ula-ty-zmozhesh-use/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>40</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/30652/motivuvalni_nalipki_ula_ti_zmozhesh_use.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Мотивувальні наліпки - Ти зможеш усе!  Серія "Мотивувальні наліпки" містить понад 100 яскравих стікерів, які можна використовувати як для навчання, так і під час ігор. Наліпки мають привабливий дизайн і містять різні мотивувальні фрази, символи успіху й емодзі, якими можна відзначити персональні досягнення дитини, підтримати її зусилля, підвищити рівень самооцінки й заохотити до подальших перемог!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Мова">українська</param>
-<param name="Тип">Наліпки</param>
-<param name="Серія">Мотивувальні наліпки</param>
-<param name="Кількість сторінок">112 наліпок</param>
-<param name="Рік видання">2024</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786175443613</param>
-<param name="Формат, розмір">16х23 см</param>
-<param name="Видавництво">Ула</param></offer>
+
+
 
 
 
@@ -57078,7 +56764,7 @@
 <vendorCode>9786175242704</vendorCode>
 <url>https://knigovan.com/novorichni-sviata/vykhovannia-kazkoiu-torsinh-snihovyi-hist-klapchuk/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>140</categoryId>
 <price>69</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30920/vihovannya_kazkoyu_torsing_snigoviy_gist_klapchuk.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -57179,7 +56865,7 @@
 <vendorCode>9786170992598</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/pershi-kroky-prohramuvannia-movoiu-java-ranok-rudenko-zhuhastrov/</url>
 <currencyId>UAH</currencyId>
-<categoryId>73</categoryId>
+<categoryId>75</categoryId>
 <price>100</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30928/pershi_kroki_programuvannya_movoyu_java_ranok_rudenko_zhugastrov.jpg</picture>
 <vendor>Ранок</vendor>
@@ -57224,7 +56910,7 @@
 <vendorCode>9786170992772</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/nush-osnovy-alhorytmizatsii-i-prohramuvannia-movoiu-python-ranok-rudenko-zhuhastrov/</url>
 <currencyId>UAH</currencyId>
-<categoryId>73</categoryId>
+<categoryId>75</categoryId>
 <price>125</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30951/nush_osnovi_algoritmizatsi_i_programuvannya_movoyu_python_ranok_rudenko_zhugastrov.jpg</picture>
 <vendor>Ранок</vendor>
@@ -58845,29 +58531,7 @@
 
 
 
-<offer id="31128" available="true" in_stock="true" selling_type="r" >
-<name>Ваш малюк зможе все! Від народження до 3 років Пiдручники i посiбники Кухарук</name>
-<vendorCode>9789660729186</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/dlia-turbotlyvykh-batkiv/vash-maliuk-zmozhe-vse-vid-narodzhennia-do-3-rokiv-pidruchnyky-i-posibnyky-kukharuk/</url>
-<currencyId>UAH</currencyId>
-<categoryId>137</categoryId>
-<price>70</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/31128/vash_malyuk_zmozhe_vse_vid_narodzhennya_do_3_rokiv_pidruchniki_i_posibniki_kuharuk.jpg</picture>
-<vendor>Пiдручники i посiбники</vendor>
-<description>
-<![CDATA[Ваш малюк зможе все! Від народження до 3 років Пропонована книга надає корисні поради батькам, як за допомогою захоплюючої гри з перших днів життя малюка розвивати його фізичну активність і розумові здібності. Щоденне спілкування з дорослими, виконання простих завдань, використання сучасних іграшок сприятимуть формуванню в дитини логічного мислення, уміння аналізувати, порівнювати, узагальнювати, робити прості умовиводи. За допомогою тестів батьки мають змогу зорієнтуватися, чи відповідає нормі рівень розвитку малюка. Книга стане надійним помічником та порадником для дбайливих батьків.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Кухарук С.</param>
-<param name="Мова">українська</param>
-<param name="Вік">0-3 роки</param>
-<param name="Тип">Книга</param>
-<param name="Кількість сторінок">88</param>
-<param name="Рік видання">2016</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789660729186</param>
-<param name="Формат, розмір">А4 (210*300 мм)</param>
-<param name="Видавництво">Підручники і посібники</param></offer>
+
 
 
 
@@ -59442,7 +59106,7 @@
 <vendorCode>9786170993694</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/nush-informatyka-vyvchaiemo-java-u-shkoli-7-11-klas-ranok-rudenko-zhuhastrov/</url>
 <currencyId>UAH</currencyId>
-<categoryId>73</categoryId>
+<categoryId>75</categoryId>
 <price>100</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31210/nush_informatika_vivcha_mo_java_u_shkoli_7_11_klas_ranok_rudenko_zhugastrov.jpg</picture>
 <vendor>Ранок</vendor>
@@ -60377,7 +60041,7 @@
 <vendorCode>9789661061483</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/ispanska-za-4-tyzhni-riven-2-bohdan-intensyvnyi-kurs-ispanskoi-movy-z-elektronnym-audiododatkom/</url>
 <currencyId>UAH</currencyId>
-<categoryId>73</categoryId>
+<categoryId>76</categoryId>
 <price>349</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31278/ispanska_za_4_tizhni_riven_2_bogdan_intensivniy_kurs_ispansko_movi_z_elektronnim_audiododatkom.jpg</picture>
 <vendor>Богдан</vendor>
@@ -60399,7 +60063,7 @@
 <vendorCode>9789661061476</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/ispanska-za-4-tyzhni-bohdan-intensyvnyi-kurs-ispanskoi-movy-z-elektronnym-audiododatkom/</url>
 <currencyId>UAH</currencyId>
-<categoryId>73</categoryId>
+<categoryId>76</categoryId>
 <price>349</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31279/ispanska_za_4_tizhni_bogdan_intensivniy_kurs_ispansko_movi_z_elektronnim_audiododatkom.jpg</picture>
 <vendor>Богдан</vendor>
@@ -61222,7 +60886,7 @@
 <vendorCode>9786177728305</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/kazkovi-pryhody-z-anhliiskoiu-wimmelbuch-5-9-rokiv-anhliiska-prossto-hraiuchy-niu-taim-yuliia-ivanova/</url>
 <currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
+<categoryId>9</categoryId>
 <price>159</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31378/kazkovi_prigodi_z_angliyskoyu_wimmelbuch_5_9_rokiv_angliyska_prossto_grayuchi_nyu_taym_yuliya_ivanova.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -61245,7 +60909,7 @@
 <vendorCode>9786177728329</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/kazkovi-pryhody-z-anhliiskoiu-robochyi-zoshyt-5-9-rokiv-anhliiska-prossto-hraiuchy-niu-taim-yuliia-ivanova/</url>
 <currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
+<categoryId>9</categoryId>
 <price>125</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31379/kazkovi_prigodi_z_angliyskoyu_robochiy_zoshit_5_9_rokiv_angliyska_prossto_grayuchi_nyu_taym_yuliya_ivanova.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -62182,30 +61846,7 @@
 <param name="ISBN">9786170043740</param>
 <param name="Формат, розмір">237х169 мм</param>
 <param name="Видавництво">Основа</param></offer>
-<offer id="31497" available="true" in_stock="true" selling_type="r" >
-<name>20 важливих навичок, що допоможуть дитині в житті Основа Для турботливих батьків (Лана Гарт)</name>
-<vendorCode>9786170043665</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/dlia-turbotlyvykh-batkiv/20-vazhlyvykh-navychok-shcho-dopomozhut-dytyni-v-zhytti-osnova-dlia-turbotlyvykh-batkiv-lana-hart/</url>
-<currencyId>UAH</currencyId>
-<categoryId>137</categoryId>
-<price>250</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/31497/20_vazhlivih_navichok_shcho_dopomozhut_ditini_v_zhitti_osnova_dlya_turbotlivih_batkiv_lana_gart.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[20 важливих навичок, що допоможуть дитині в житті. Серія: Для турботливих батьків Часто у процесі виховання дітей батьки ставлять запитання — ЯК? Ви здивуєтесь, але відповідь на це доволі проста — власним прикладом.  Книга «20 важливих навичок, що допоможуть дитині в житті» побудована на концепції спільного виховання — усе, чого ви навчатимете дитину, ви будете вдосконалювати і в собі, а саме:    впевненість у своїх силах; самостійність в ухваленні рішень; уміння казати «ні»; відповідальність тощо.  Кожен розділ книжки присвячений окремій навичці. Задля їх формування наведено:    життєву ситуацію з виховним змістом; рекомендації та корисні поради від психолога; питання для аналізування; місця для нотаток для роботи над собою та із дитиною.   Розгортайте книжку і здобувайте нові знання, дізнавайтеся дієві підказки та поради, як ростити щасливу дитину і бути щасливими дорослими! Психологиня Лана Гарт сертифікована фахівчиня в галузі психоаналізу, піскової терапії та символдрами. Понад 12 років практичної роботи з батьками й дітьми. Керівниця психологічного онлайн-центру «Психосвіта». Авторка програм і тренінгів для батьків, зокрема щодо протидії булінгу. Мама дівчинки-підлітка.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Лана Гарт</param>
-<param name="Мова">українська</param>
-<param name="Вік">0+</param>
-<param name="Тип">енциклопедія</param>
-<param name="Серія">Для турботливих батьків</param>
-<param name="Кількість сторінок">96</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">тверда</param>
-<param name="ISBN">9786170043665</param>
-<param name="Формат, розмір">А-5</param>
-<param name="Видавництво">Основа / MAMAS</param></offer>
+
 <offer id="31498" available="true" in_stock="true" selling_type="r" >
 <name>НУШ-2 Робочий зошит Пiдручники i посiбники Я досліджую світ 1 клас Частина 1 до підручника Жаркової (2025 рік)</name>
 <vendorCode>9789660743687</vendorCode>
@@ -63738,30 +63379,7 @@
 
 
 
-<offer id="31590" available="true" in_stock="true" selling_type="r" >
-<name>9 місяців до зустрічі Основа Добра книжка для майбутньої матусі. Для турботливих батьків (Катріна Волошина)</name>
-<vendorCode>9786170043757</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/dlia-turbotlyvykh-batkiv/9-misiatsiv-do-zustrichi-osnova-dobra-knyzhka-dlia-maibutnoi-matusi-dlia-turbotlyvykh-batkiv-katrina-voloshyna/</url>
-<currencyId>UAH</currencyId>
-<categoryId>137</categoryId>
-<price>390</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/31590/9_misyatsiv_do_zustrichi_osnova_dobra_knizhka_dlya_maybutno_matusi_dlya_turbotlivih_batkiv_katrina_voloshina.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[9 місяців до зустрічі: добра книжка для майбутньої матусі. Серія: Для турботливих батьків. 9 місяців до зустрічі з малюком сповнені емоцій, почуттів, турбот і радості, очікування, тривог і безмежної любові. Авторка, прагнучи підтримати майбутніх мам, ділиться своїм досвідом: детально розповідає про кожен місяць вагітності, його виклики та важливі процеси, спираючись на доказову медицину. Вона розвіює поширені міфи, дає практичні поради та робить це в оригінальний спосіб – з погляду малюка Маркуса, який із нетерпінням чекає на зустріч із матусею і спостерігає її дивовижний світ вагітності. Ця книжка у форматі художньої розповіді допоможе майбутнім мамам краще зрозуміти зміни, які відбуваються в їхньому тілі та свідомості, а також ґрунтовно підготуватися до народження малюка.  Ви дізнаєтеся відповіді на запитання:    Як прийняти змінене тіло та доглядати за собою в цей час? Як упоратися з емоційними гойдалками і стресами? Як харчуватися, щоб зменшити дискомфорт? Як знайти «свого» лікаря та обрати надійний пологовий будинок? Як зробити пологи комфортними й безпечними? Як подбати про себе і малюка після народження?    Ця книга – ваш надійний супутник у найпрекраснішій подорожі до материнства, що допоможе відчувати спокій, упевненість і радість у кожен із 9 місяців очікування.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Катріна Волошина</param>
-<param name="Мова">українська</param>
-<param name="Вік">0+</param>
-<param name="Тип">Книга для батьків</param>
-<param name="Серія">Для турботливих батьків</param>
-<param name="Кількість сторінок">160</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">тверда</param>
-<param name="ISBN">9786170043757</param>
-<param name="Формат, розмір">А-5</param>
-<param name="Видавництво">Основа / MAMAS</param></offer>
+
 
 
 <offer id="31593" available="true" in_stock="true" selling_type="r" >
@@ -64579,7 +64197,29 @@
 <param name="Формат, розмір">260х200 мм</param>
 <param name="Видавництво">Основа</param></offer>
 
-
+<offer id="31641" available="true" in_stock="true" selling_type="r" >
+<name>Абетка. Кумедні вірші, чистомовки, скоромовки, плутанки й нісенітниці Основа Читанки (Геннадій Меламед)</name>
+<vendorCode>9786170043788</vendorCode>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-virshykiv-opovidan/abetka-kumedni-virshi-chystomovky-skoromovky-plutanky-y-nisenitnytsi-osnova-chytanky-hennadii-melamed/</url>
+<currencyId>UAH</currencyId>
+<categoryId>139</categoryId>
+<price>400</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31641/abetka_kumedni_virshi_chistomovki_skoromovki_plutanki_y_nisenitnitsi_osnova_chitanki_gennadiy_melamed.jpg</picture>
+<vendor>Основа</vendor>
+<description>
+<![CDATA[Абетка. Кумедні вірші, чистомовки, скоромовки, плутанки й нісенітниці. Серія: Читанки    Вивчаймо українську абетку цікаво й весело!     Ця книжка сповнена гумору, а кожна її сторінка ознайомлює маленьких читачів з курйозними ситуаціями, у які потрапили не характерні для цього жанру герої: алігатор Анатолій і горила Гертруда, дятел Ден і білка Діна, єнот Єгорка й жирафа Жанетта та інші Також на сторінках «Абетки» на малечу чекають:      кумедні авторські вірші й веселі барвисті ілюстрації; плутанки й нісенітниці — чистомовки та скоромовки; творчі завдання на вибір певної букви або буквосполучення на позначення звуків, що зазвичай спричиняють утруднення у вимові.      Зміст видання дібрано для зацікавлення дітей віком 4–6 років вивченням української абетки, формування в них навичок читання, правильної вимови, розширення їхнього словникового запасу тощо.    Тож читайте, декламуйте, скоромовте, розглядайте, фантазуйте, обговорюйте, пустуйте й усміхайтеся залюбки!     Автор видання – дитячий письменник і поет Геннадій Меламед.  Ілюстрації Анастасії Грищенко]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Геннадій Меламед</param>
+<param name="Мова">українська</param>
+<param name="Вік">5-6 рокiв</param>
+<param name="Тип">книга</param>
+<param name="Серія">Читанки</param>
+<param name="Кількість сторінок">48</param>
+<param name="Рік видання">2025</param>
+<param name="Тип паперу">кольорова</param>
+<param name="ISBN">9786170043788</param>
+<param name="Формат, розмір">267x206 мм</param>
+<param name="Видавництво">Основа</param></offer>
 
 
 <offer id="31644" available="true" in_stock="true" selling_type="r" >
@@ -65778,7 +65418,7 @@
 <vendorCode>4848366988893</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/otsinky-nalipky-ranok-dlia-vykhovateliv-ta-vchyteliv-molodshykh-klasiv-4-arkushi-158-nalipok-biriuzovi/</url>
 <currencyId>UAH</currencyId>
-<categoryId>7</categoryId>
+<categoryId>32</categoryId>
 <price>63</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31724/otsinki_nalipki_ranok_dlya_vihovateliv_ta_vchiteliv_molodshih_klasiv_4_arkushi_158_nalipok_biryuzovi.jpg</picture>
 <vendor>Ранок</vendor>
@@ -65800,7 +65440,7 @@
 <vendorCode>4849266988846</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/otsinky-nalipky-ranok-dlia-vykhovateliv-ta-vchyteliv-molodshykh-klasiv-4-arkushi-158-nalipok-zeleni/</url>
 <currencyId>UAH</currencyId>
-<categoryId>7</categoryId>
+<categoryId>32</categoryId>
 <price>63</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31725/otsinki_nalipki_ranok_dlya_vihovateliv_ta_vchiteliv_molodshih_klasiv_4_arkushi_158_nalipok_zeleni.jpg</picture>
 <vendor>Ранок</vendor>
@@ -65974,7 +65614,7 @@
 <vendorCode>9786178370732</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/dodatkova-literatura/nush-zbirnyk-zadach-z-parametramy-osnovni-typy-i-vydy-7-9-klas-heneza-ister-2025-rik/</url>
 <currencyId>UAH</currencyId>
-<categoryId>38</categoryId>
+<categoryId>46</categoryId>
 <price>150</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31746/nush_zbirnik_zadach_z_parametrami_osnovni_tipi_i_vidi_7_9_klas_geneza_ister_2025_rik.jpg</picture>
 <vendor>Генеза</vendor>
@@ -66197,7 +65837,7 @@
 <vendorCode>9786175244012</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/navchalno-rozvazhalnyi-trenazher-torsinh-zavdannia-na-dilennia-allina/</url>
 <currencyId>UAH</currencyId>
-<categoryId>7</categoryId>
+<categoryId>32</categoryId>
 <price>49</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31756/navchalno_rozvazhalniy_trenazher_torsing_zavdannya_na_dilennya_allina.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -66221,7 +65861,7 @@
 <vendorCode>9786175243992</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/navchalno-rozvazhalnyi-trenazher-torsinh-zavdannia-na-vidnimannia-allina/</url>
 <currencyId>UAH</currencyId>
-<categoryId>7</categoryId>
+<categoryId>32</categoryId>
 <price>49</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31757/navchalno_rozvazhalniy_trenazher_torsing_zavdannya_na_vidnimannya_allina.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -66245,7 +65885,7 @@
 <vendorCode>9786175244005</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/navchalno-rozvazhalnyi-trenazher-torsinh-zavdannia-na-mnozhennia-allina/</url>
 <currencyId>UAH</currencyId>
-<categoryId>7</categoryId>
+<categoryId>32</categoryId>
 <price>49</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31758/navchalno_rozvazhalniy_trenazher_torsing_zavdannya_na_mnozhennya_allina.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -66269,7 +65909,7 @@
 <vendorCode>9786175243985</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/navchalno-rozvazhalnyi-trenazher-torsinh-zavdannia-na-dodavannia-allina/</url>
 <currencyId>UAH</currencyId>
-<categoryId>7</categoryId>
+<categoryId>32</categoryId>
 <price>49</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31759/navchalno_rozvazhalniy_trenazher_torsing_zavdannya_na_dodavannya_allina.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -66365,7 +66005,7 @@
 <vendorCode>9789669453198</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/zbirnyk-dyktantiv-i-vprav-z-ukrainskoi-movy-dlia-uchniv-2-4-klasiv-litera-movchun/</url>
 <currencyId>UAH</currencyId>
-<categoryId>2</categoryId>
+<categoryId>32</categoryId>
 <price>290</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31765/zbirnik_diktantiv_i_vprav_z_ukra_nsko_movi_dlya_uchniv_2_4_klasiv_litera_movchun.jpg</picture>
 <vendor>Літера</vendor>
@@ -70231,7 +69871,7 @@
 <vendorCode>9786170044105</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/dodatkova-literatura/nush-zbirnyk-zadach-osnova-matematyka-5-6-klasy-panchenko-hrozyk-cherpak-2025-rik/</url>
 <currencyId>UAH</currencyId>
-<categoryId>38</categoryId>
+<categoryId>75</categoryId>
 <price>190</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32003/nush_zbirnik_zadach_osnova_matematika_5_6_klasi_panchenko_grozik_cherpak_2025_rik.jpg</picture>
 <vendor>Основа</vendor>
@@ -70814,7 +70454,7 @@
 <vendorCode>9786170044099</vendorCode>
 <url>https://knigovan.com/novorichni-sviata/zymovi-dyva-ukrainski-rizdviano-novorichni-tradytsii-5-osnova-dytiacha-khudozhnia-literatura-iuliia-dvoretska/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>141</categoryId>
 <price>350</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32065/zimovi_diva_ukra_nski_rizdvyano_novorichni_traditsi_5_osnova_dityacha_hudozhnya_literatura_yuliya_dvoretska.jpg</picture>
 <vendor>Основа</vendor>
@@ -70838,7 +70478,7 @@
 <vendorCode>9786170043986</vendorCode>
 <url>https://knigovan.com/novorichni-sviata/zymovi-opovidky-3-osnova-dytiacha-khudozhnia-literatura-anna-pashkevych/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>139</categoryId>
 <price>350</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32066/zimovi_opovidki_3_osnova_dityacha_hudozhnya_literatura_anna_pashkevich.jpg</picture>
 <vendor>Основа</vendor>
@@ -71246,7 +70886,29 @@
 <param name="Формат, розмір">200х260 мм</param>
 <param name="Видавництво">Ранок</param></offer>
 
-
+<offer id="32101" available="true" in_stock="true" selling_type="r" >
+<name>Словничок молодшого школяра. My dictionary Торсінг (Рубцова Е.П.)</name>
+<vendorCode>9786175244364</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/slovnychok-molodshoho-shkoliara-my-dictionary-torsinh-rubtsova-e-p/</url>
+<currencyId>UAH</currencyId>
+<categoryId>35</categoryId>
+<price>52</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/32101/slovnichok_molodshogo_shkolyara_my_dictionary_torsing_rubtsova_e_p.jpg</picture>
+<vendor>Торсінг</vendor>
+<description>
+<![CDATA[Словничок молодшого школяра. My dictionary Словничок складається з двох частин: англо-українського тематичного словника і зошита з друкованою основою для самостійного запису учнями вивчених англійських слів, їхньої транскрипції та перекладу.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Рубцова Е.П.</param>
+<param name="Мова">українська, англійська</param>
+<param name="Вік">молодший шкільний</param>
+<param name="Тип">Словник</param>
+<param name="Кількість сторінок">64</param>
+<param name="Рік видання">2025</param>
+<param name="Тип паперу">офсет, двоколірна</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786175241387</param>
+<param name="Формат, розмір">165х215 мм.</param>
+<param name="Видавництво">Торсiнг</param></offer>
 <offer id="32102" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Альбом Генеза Мистецтво 8клас (Гайдамака О. та ін.)</name>
 <vendorCode>9786178370900</vendorCode>
@@ -71596,29 +71258,7 @@
 
 
 
-<offer id="32135" available="true" in_stock="true" selling_type="r" >
-<name>Історія України. Путівник для найменших АССА Альона Пуляєва</name>
-<vendorCode>9786178387686</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/entsyklopedii/istoriia-ukrainy-putivnyk-dlia-naimenshykh-assa-alona-puliaieva/</url>
-<currencyId>UAH</currencyId>
-<categoryId>137</categoryId>
-<price>330</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/32135/istoriya_ukra_ni_putivnik_dlya_naymenshih_assa_alona_pulya_va.jpg</picture>
-<vendor>АССА</vendor>
-<description>
-<![CDATA[Історія України. Путівник для найменших | Альона Пуляєва  Мандрівка в минуле України для найменших читачів!  Як утворилася планета Земля? Хто мешкав на теренах нашої країни мільйони років тому? Звідки походять українці та як вони будували свою державу? На ці та безліч інших запитань дає відповіді книжка «Історія України. Путівник для найменших». Наче машина часу, кожен з її розгортів переносить маленьких читачів у давнину. І крок за кроком знайомить із різними періодами історії нашої Батьківщини!  Книга містить розділи:     Що таке історія? Як усе почалося? Перші люди на українських землях Хто жив на українських землях у давні часи? Хто такі слов’яни? Як утворилася Русь-Україна? Русь-Україна – могутня середньовічна держава Королівство Руське Русько-Литовська доба Звідки взялися козаки? Українська козацька держава Україна у складі двох імперій Українські землі у 20 столітті Відновлення незалежності Лінія часу України.     Чому варто прочитати:  Книга «Історія України. Путівник для найменших» створена для знайомства дитини з історією її Батьківщини. Видання містить…    доступні та прості тексти, завдяки яким у дітлахів формується цілісне уявлення про минуле нашої держави; яскраві, історично точні ілюстрації, які занурюють маленьких читачів у різні епохи; зручний великий формат, що дає змогу роздивитися кожну деталь.     Авторка:  Альона Пуляєва – авторка низки видань для навчання й розвитку дітей, філологиня української мови та літератури. Основне джерело її натхнення – маленька донечка Ася, яка і є першою читачкою та рецензенткою маминих рукописів. ]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Альона Пуляєва</param>
-<param name="Мова">українська</param>
-<param name="Вік">6+</param>
-<param name="Тип">Книга</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">тверда</param>
-<param name="ISBN">978-617-8387-68-6</param>
-<param name="Формат, розмір">200x280 мм</param>
-<param name="Видавництво">АССА</param></offer>
+
 <offer id="32136" available="true" in_stock="true" selling_type="r" >
 <name>Коти-вояки АССА Знамення Зореклану Книга 6. Остання надія (Ерін Гантер)</name>
 <vendorCode>9786178387914</vendorCode>
@@ -72804,7 +72444,7 @@
 <vendorCode>1210178</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/pidhotovka-do-zno-ta-nmt/komplekt-tablytsi-ta-skhemy-torsinh-5-11-klasy-dopomoha-v-pidhotovtsi-do-zno-ta-dpa-10-posibnykiv-podarunok/</url>
 <currencyId>UAH</currencyId>
-<categoryId>70</categoryId>
+<categoryId>73</categoryId>
 <price>860</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32215/komplekt_tablitsi_ta_shemi_torsing_5_11_klasi_dopomoga_v_pidgotovtsi_do_zno_ta_dpa_10_posibnikiv_podarunok.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -73213,7 +72853,7 @@
 <vendorCode>1210187</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/komplekt-posibnykiv-4-sht-bez-repetytora-anhliiska-mova-hramatyka-chytannia-slovnychok-z-10-rokiv-5-6-klas-torsinh/</url>
 <currencyId>UAH</currencyId>
-<categoryId>46</categoryId>
+<categoryId>76</categoryId>
 <price>240</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32238/komplekt_posibnikiv_4_sht_bez_repetitora_angliyska_mova_gramatika_chitannya_slovnichok_z_10_rokiv_5_6_klas_torsing.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -75495,7 +75135,7 @@
 <vendorCode>9786170044334</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/matematyka-vyvchaiu-tablytsiu-mnozhennia-osnova/</url>
 <currencyId>UAH</currencyId>
-<categoryId>7</categoryId>
+<categoryId>32</categoryId>
 <price>95</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32455/matematika_vivchayu_tablitsyu_mnozhennya_osnova.jpg</picture>
 <vendor>Основа</vendor>
@@ -75860,7 +75500,7 @@
 <vendorCode>9786175244494</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/dytiachyi-hamanets-torsinh-rakhuiemo-hroshi-obchysliuiemo-v-mezhakh-1000-l-kiienko/</url>
 <currencyId>UAH</currencyId>
-<categoryId>7</categoryId>
+<categoryId>32</categoryId>
 <price>49</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32519/dityachiy_gamanets_torsing_rahu_mo_groshi_obchislyu_mo_v_mezhah_1000_l_ki_nko.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -75884,7 +75524,7 @@
 <vendorCode>9786175244470</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/dytiachyi-hamanets-torsinh-hrosheniata-ta-maliata-obchysliuiemo-v-mezhakh-100-l-kiienko/</url>
 <currencyId>UAH</currencyId>
-<categoryId>7</categoryId>
+<categoryId>32</categoryId>
 <price>49</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32520/dityachiy_gamanets_torsing_groshenyata_ta_malyata_obchislyu_mo_v_mezhah_100_l_ki_nko.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -75908,7 +75548,7 @@
 <vendorCode>9786175244487</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/dytiachyi-hamanets-torsinh-vyvchaiemo-hroshi-obchysliuiemo-v-mezhakh-100-l-kiienko/</url>
 <currencyId>UAH</currencyId>
-<categoryId>7</categoryId>
+<categoryId>32</categoryId>
 <price>49</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32521/dityachiy_gamanets_torsing_vivcha_mo_groshi_obchislyu_mo_v_mezhah_100_l_ki_nko.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -75963,7 +75603,7 @@
 <vendorCode>9786178290306</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/nush-posibnyk-linhvist-prepare-for-ukraine-nush-around-english-speaking-countries-anhliiska-mova-a-robinson/</url>
 <currencyId>UAH</currencyId>
-<categoryId>75</categoryId>
+<categoryId>76</categoryId>
 <price>205</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32530/nush_posibnik_lingvist_prepare_for_ukraine_nush_around_english_speaking_countries_angliyska_mova_a_robinson.jpg</picture>
 <vendor>Лінгвіст</vendor>
@@ -75986,7 +75626,7 @@
 <vendorCode>9786178002954</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/inozemni-movy-5-11-klasy/nush-posibnyk-linhvist-prepare-for-ukraine-nush-around-the-world-anhliiska-mova-a-robinson/</url>
 <currencyId>UAH</currencyId>
-<categoryId>75</categoryId>
+<categoryId>76</categoryId>
 <price>205</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32531/nush_posibnik_lingvist_prepare_for_ukraine_nush_around_the_world_angliyska_mova_a_robinson.jpg</picture>
 <vendor>Лінгвіст</vendor>
@@ -76946,7 +76586,30 @@
 <param name="Формат, розмір">205х290 мм</param>
 <param name="Видавництво">Богдан</param></offer>
 
-
+<offer id="32593" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Англо-український візуальний словник в малюнках Весна для початкової школи з транслітерацією Красікова понад 1000 слів</name>
+<vendorCode>9786176867760</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nush-anhlo-ukrainskyi-vizualnyi-slovnyk-v-maliunkakh-vesna-dlia-pochatkovoi-shkoly-z-transliteratsiieiu-krasikova-ponad-1000-sliv/</url>
+<currencyId>UAH</currencyId>
+<categoryId>35</categoryId>
+<price>110</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/32593/nush_anglo_ukra_nskiy_vizualniy_slovnik_v_malyunkah_vesna_dlya_pochatkovo_shkoli_z_transliteratsi_yu_krasikova_ponad_1000_sliv.jpg</picture>
+<vendor>Весна</vendor>
+<description>
+<![CDATA[Англо-український візуальний словник містить близько 1000 слів і словосполучень із 48 лексичних тем. Для кращого засвоєння мовного матеріалу пропоновані слова і сполучення слів проілюстровані малюнками. лексичний матеріал підібрано відповідно до чинних програм з іноземних мов нової української школи. Правила читання, таблиця неправильних дієслів і транскрипція (запис вимови англійських слів українськими буквами) значно полегшать вивчення англійської мови. Призначений для учнів початкових класів, їхніх батьків і вчителів.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Красікова О.О.</param>
+<param name="Мова">українська, англійська</param>
+<param name="Вік">1-4 класи</param>
+<param name="Тип">Посiбник для учня</param>
+<param name="Серія">Словники НУШ</param>
+<param name="Кількість сторінок">98</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786176867760</param>
+<param name="Формат, розмір">165х235 мм.</param>
+<param name="Видавництво">Весна</param></offer>
 
 <offer id="32595" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Схеми і таблиці Весна Математика Початкова школа 1-4 клас С.В.Баришполь</name>
@@ -77387,7 +77050,7 @@
 <vendorCode>9789662654714</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/polskyi-supertrenazher-niu-taim-mnozhyna-imennykiv-i-prykmetnykiv-k-sukhovieienko-ye-kovalska/</url>
 <currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
+<categoryId>76</categoryId>
 <price>80</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32617/polskiy_supertrenazher_nyu_taym_mnozhina_imennikiv_i_prikmetnikiv_k_suhov_nko_kovalska.jpg</picture>
 <vendor>Нью Тайм</vendor>
@@ -78718,7 +78381,7 @@
 <vendorCode>9786178510121</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/litni-zoshyty/litnia-knyha-rozvah-assa-ihry-ta-zavdannia-na-shchoden-alona-puliaieva/</url>
 <currencyId>UAH</currencyId>
-<categoryId>7</categoryId>
+<categoryId>22</categoryId>
 <price>200</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32854/litnya_kniga_rozvag_assa_igri_ta_zavdannya_na_shchoden_alona_pulya_va.jpg</picture>
 <vendor>АССА</vendor>
@@ -82749,7 +82412,30 @@
 <param name="Тип обкладинки">м&apos;яка</param>
 <param name="ISBN">978-617-8524-23-4</param>
 <param name="Видавництво">Генеза</param></offer>
-
+<offer id="33194" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Ілюстрований німецько-український словник 1-4 класи Погарська Т.В. 2026 рік</name>
+<vendorCode>9786170932242</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nush-iliustrovanyi-nimetsko-ukrainskyi-slovnyk-1-4-klasy-poharska-tv-2026-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>35</categoryId>
+<price>199</price>
+<picture>https://knigovan.com/image/catalog/products/33194/nush-lyustrovaniy-anglo-ukra-nskiy-slovnik-1-4-klasi-ranok-pogarska-n-v-rova-2025-r-k-1.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[НУШ Ілюстрований німецько-український словник. 1-4 класи Ілюстрований німецько-український словник допоможе дітям молодшого шкільного віку у вивченні німецької мови. У словнику подається близько 3000 німецьких слів із візуальними опорами, транскрипціями й перекладом українською.  За допомогою словника діти з легкістю зможуть:   навчитися правильно вимовляти німецькі звуки завдяки чарівній звуковій ромашці; вивчити близько 3000 німецьких слів різної тематики за методом візуалізації; знайти будь-яке слово, його транскрипцію та переклад завдяки алфавітному покажчику; вивчити форми німецьких дієслів, що змінюються не за загальними правилами; запам’ятати, як правильно пишуться географічні назви й імена людей.]]></description>
+<quantity_in_stock>5</quantity_in_stock>
+<param name="Автор">Погарська Т.В.</param>
+<param name="Мова">англійська</param>
+<param name="Вік">1-4 класи</param>
+<param name="Тип">Словник</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">224</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786170932242</param>
+<param name="Формат, розмір">170х240 мм</param>
+<param name="Видавництво">Ранок</param></offer>
 <offer id="33195" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Робочий зошит Ранок Хімія 9 клас до підручника Григоровича, Недоруба 2026 рік</name>
 <vendorCode>9786178933395</vendorCode>
@@ -83245,7 +82931,7 @@
 <vendorCode>9789666824168</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nush-mii-putivnyk-anhliiskoiu-movoiu-abetka-fonetyka-hramatyka-dovidnyk-molodshoho-shkoliara-mi-ostrovska/</url>
 <currencyId>UAH</currencyId>
-<categoryId>33</categoryId>
+<categoryId>35</categoryId>
 <price>270</price>
 <picture>https://knigovan.com/image/catalog/products/33236/nush-m-y-put-vnik-angl-yskoyu-movoyu-abetka-fonetika-gramatika-dov-dnik-molodshogo-shkolyara-m-y-ostrovska-1.jpg</picture>
 <vendor>Абетка</vendor>
@@ -87917,7 +87603,7 @@
 <vendorCode>9786178524357</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/nush-zbirnyk-zadach-z-parametramy-osnovni-typy-i-vydy-10-12-klasy-heneza-oleksandr-ister-2026-rik/</url>
 <currencyId>UAH</currencyId>
-<categoryId>38</categoryId>
+<categoryId>46</categoryId>
 <price>150</price>
 <picture>https://knigovan.com/image/catalog/products/33529/nush-zb-rnik-zadach-z-parametrami-osnovn-tipi-vidi-7-9-klas-geneza-ster-2025-r-k-1.jpeg</picture>
 <vendor>Генеза</vendor>
@@ -88368,7 +88054,30 @@
 
 
 
-
+<offer id="33560" available="true" in_stock="true" selling_type="r" >
+<name>Матусина бібліотечка Основа Фокус-покус – власноруч! Прості й цікаві домашні досліди та експерименти для малюків, Ю. Пеліхова</name>
+<vendorCode>9786170044983</vendorCode>
+<url>https://knigovan.com/dozvillia-ihry/holovolomky-krosvordy-labirynty/matusyna-bibliotechka-osnova-fokus-pokus-vlasnoruch-prosti-i-tsikavi-domashni-doslidy-ta-eksperymenty-dlia-maliukiv-iu-pelikhova/</url>
+<currencyId>UAH</currencyId>
+<categoryId>135</categoryId>
+<price>250</price>
+<picture>https://knigovan.com/image/catalog/products/33560/v-rshenyata-pro-zimov-svyata-2-4-roki-osnova-matusina-b-bl-otechka-yul-ya-pel-hova-1.jpg</picture>
+<vendor>Основа</vendor>
+<description>
+<![CDATA[Матусина бібліотечка. Фокус-покус — власноруч! Прості й цікаві домашні досліди та експерименти для малюків. На сторінках цього видання на вас очікують справжні дива: щось несподівано з’являється, зникає, перетворюється, переміщується та навіть оживає! Усе це відбувається за законами різних наук. Але для допитливих малюків віком 2+ років будь-яка дивина — це фокус-покус, створений власноруч! Кожен із 22 розгортів книжки містить: простий дослід або експеримент, який можна провести вдома; перелік необхідних матеріалів (доступних і безпечних для дітей); покрокову інструкцію щодо виконання досліду або експерименту; яскраву ілюстрацію, що допомагає візуалізувати послідовність і результат дій; рекомендації щодо того, як пояснити дитині, чому так відбувається, та веселий віршик. Для батьків ця книжка — готовий сценарій цікавих пізнавальних ігор удома, які розвивають допитливість, мовлення та спостережливість дитини, а також допомагають налагодити емоційний зв’язок під час спільного читання та корисного дозвілля.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Юлія Пеліхова</param>
+<param name="Мова">українська</param>
+<param name="Вік">2-4 роки</param>
+<param name="Тип">книга</param>
+<param name="Серія">Матусина бібліотечка</param>
+<param name="Кількість сторінок">48</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">кольорова</param>
+<param name="Тип обкладинки">тверда</param>
+<param name="ISBN">9786170044983</param>
+<param name="Формат, розмір">165х165 мм</param>
+<param name="Видавництво">Основа / 4MAMAS</param></offer>
 <offer id="33561" available="true" in_stock="true" selling_type="r" >
 <name>НУШ-2 Робочий зошит Пiдручники i посiбники Англійська мова 2 клас до підручника Г. Пухти, 2026 рік</name>
 <vendorCode>9789660745261</vendorCode>
@@ -88578,4 +88287,55 @@
 <param name="Тип паперу">офсет, чорно-білий</param>
 <param name="Тип обкладинки">м&apos;яка</param>
 <param name="ISBN">1210240, 9789669914194</param>
-<param name="Видавництво">Оріон</param></offer></offers></shop></yml_catalog>
+<param name="Видавництво">Оріон</param></offer>
+<offer id="33570" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Комплект Оріон: Самостійні та контрольні роботи + Експрес-контроль в 2 частинах Математика 5 клас, Ніна Тарасенкова</name>
+<vendorCode>1210243</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/5-klas-1/nush-komplekt-orion-samostiini-ta-kontrolni-roboty-ekspres-kontrol-v-2-chastynakh-matematyka-5-klas-nina-tarasenkova/</url>
+<currencyId>UAH</currencyId>
+<categoryId>47</categoryId>
+<price>205</price>
+<picture>https://knigovan.com/image/catalog/products/33570/nush-samost-yn-ta-kontroln-roboti-or-on-matematika-5-klas-n-na-tarasenkova-1.jpg</picture>
+<vendor>Оріон</vendor>
+<description>
+<![CDATA[НУШ Комплект Математика 5 клас: Самостійні та контрольні роботи + Експрес-контроль в 2 частинах, Ніна Тарасенкова  1. НУШ Самостійні та контрольні роботи Оріон Математика 5 клас Ніна Тарасенкова  Посібник "Математика 5 клас: Самостійні та контрольні роботи (Тарасенкова) Оріон" містить добірку самостійних, тематичних діагностичних (контрольних), семестрових та підсумкової письмових робіт для перевірки й оцінювання результатів навчання, зміст яких відповідає модельній навчальній програмі. У передмові надано роз’яснення щодо формату робіт, типів включених до них тестових завдань та рівнів їхньої складності, а також запропоновано методичні рекомендації щодо проведення, перевірки та оцінювання робіт. Призначено для учнів 5-х класів НУШ, вчителів математики ЗЗСО та методистів ІППО.  2. НУШ 5 клас. Математика. Експрес-контроль. Частина 1. Н. Тарасенкова  Матеріали посібника відповідають модельній навчальній програмі з математики для 5 класу ЗЗСО С. О. Сквор-цової і Н. А. Тарасенкової та підручнику з математики для 5 класів НУШ Н. А. Тарасенкової, І. М. Богатирьової, О. М. Коломієць, 3. О. Сердюк, Ю. В. Рудніцької. Посібник призначений для організації формувального оцінювання на кожному уроці та підведення підсумків уроку. Частина 1.  3. НУШ 5 клас. Математика. Експрес-контроль. Частина 2. Н. Тарасенкова  Матеріали посібника відповідають модельній навчальній програмі з математики для 5 класу ЗЗСО С. О. Сквор-цової і Н. А. Тарасенкової та підручнику з математики для 5 класів НУШ Н. А. Тарасенкової, І. М. Богатирьової, О. М. Коломієць, 3. О. Сердюк, Ю. В. Рудніцької. Посібник призначений для організації формувального оцінювання на кожному уроці та підведення підсумків уроку. Частина 2.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Ніна Тарасенкова</param>
+<param name="Предмет">Математика</param>
+<param name="Мова">українська</param>
+<param name="Вік">5 клас</param>
+<param name="Тип">Зошит для контролю знань, комплект</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">80+96+88</param>
+<param name="Рік видання">2022</param>
+<param name="Тип паперу">офсет, чорно-білий</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9789669911551, 9789669911568, 9789669911575</param>
+<param name="Видавництво">Оріон</param></offer>
+<offer id="33571" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Комплект Оріон: Самостійні та контрольні роботи + Експрес-контроль в 2 частинах Математика 6 клас, Ніна Тарасенкова</name>
+<vendorCode>1210244</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/6-klas-1/nush-komplekt-orion-samostiini-ta-kontrolni-roboty-ekspres-kontrol-v-2-chastynakh-matematyka-6-klas-nina-tarasenkova/</url>
+<currencyId>UAH</currencyId>
+<categoryId>48</categoryId>
+<price>205</price>
+<picture>https://knigovan.com/image/catalog/products/33571/nush-komplekt-or-on-samost-yn-ta-kontroln-roboti-ekspres-kontrol-v-2-chastinah-matematika-5-klas-n-na-tarasenkova-1.jpg</picture>
+<vendor>Оріон</vendor>
+<description>
+<![CDATA[НУШ Комплект "Математика 6 клас": Самостійні та контрольні роботи + Експрес-контроль в 2 частинах, Ніна Тарасенкова  1. Самостійні та контрольні роботи Оріон Математика 6 клас  Тарасенкова Н.А. НУШ  Самостійні та контрольні роботи з математики. 6 клас - Ніна Тарасенкова, Ірина Богатирьова, Оксана Коломієць, Зоя Сердюк, Юлія Рудніцька.  2. Експрес-контроль з математики. 6 клас. Частина 1. Тарасенкова Н.А. НУШ  Схвалено для використання в освітньому процесі (рішення експертної комісії з математики протокол № 7 від 20.07 2023 р., зареєстровано в Каталозі надання грифів навчальній літературі та навчальним програмам за № 3.044-2023). Матеріали посібника відповідають модельній навчальній програмі з математики для 6 класу ЗЗСО С. О. Скворцової і Н. А. Тарасенкової та підручнику з математики для 6 класів НУШ Н. А. Тарасенкової, І. М. Богатирьової, О. М. Коломієць, 3. О. Сердюк, Ю. В. Рудніцької. Посібник призначений для організації формувального оцінювання на кожному уроці та підведення підсумків уроку. Кожна робота оцінюється до 12 балів. Для виконання окремої роботи потрібно до 5 хвилин. Інший варіант перевірочної роботи, який учень/учениця не виконував/не виконувала в класі, доцільно включати в домашнє завдання.  3. Експрес-контроль з математики. 6 клас. Частина 2. Тарасенкова Н.А. НУШ  Схвалено для використання в освітньому процесі (рішення експертної комісії з математики протокол № 7 від 20.07 2023 р., зареєстровано в Каталозі надання грифів навчальній літературі та навчальним програмам за № 3.044-2023). Матеріали посібника відповідають модельній навчальній програмі з математики для 6 класу ЗЗСО С. О. Скворцової і Н. А. Тарасенкової та підручнику з математики для 6 класів НУШ Н. А. Тарасенкової, І. М. Богатирьової, О. М. Коломієць, 3. О. Сердюк, Ю. В. Рудніцької. Посібник призначений для організації формувального оцінювання на кожному уроці та підведення підсумків уроку. Кожна робота оцінюється до 12 балів. Для виконання окремої роботи потрібно до 5 хвилин. Інший варіант перевірочної роботи, який учень/учениця не виконував/не виконувала в класі, доцільно включати в домашнє завдання.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Ніна Тарасенкова</param>
+<param name="Предмет">Математика</param>
+<param name="Мова">українська</param>
+<param name="Вік">6 клас</param>
+<param name="Тип">Зошит для контролю знань, комплект</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">64+96+96</param>
+<param name="Рік видання">2023</param>
+<param name="Тип паперу">офсет, чорно-білий</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9789669912299, 9789669912275, 9789669912282</param>
+<param name="Видавництво">Оріон</param></offer>
+
+
+</offers></shop></yml_catalog>
