@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-10-18 12:00">
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-10-19 12:00">
 <shop>
 <url>https://knigovan.com/</url>
 <name>Книгован</name>
@@ -1416,7 +1416,26 @@
 <param name="ISBN">9789669397379</param>
 <param name="Формат, розмір">А5 (150*210 мм)</param>
 <param name="Видавництво">Торсiнг</param></offer>
-
+<offer id="24015" available="true" in_stock="true" selling_type="r" >
+<name>НУШ My first copy-book Торсінг Прописи з англійської мови універсальні Котик</name>
+<vendorCode>9789669396174</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/1-klas-1/nush-my-first-copy-book-torsinh-propysy-z-anhliiskoi-movy-universalni-kotyk/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>54</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/24015/nush_my_first_copy_book_torsing_propisi_z_angliysko_movi_universalni_kotik.jpg</picture>
+<vendor>Торсінг</vendor>
+<description>
+<![CDATA[НУШ My first copy-book Прописи з англійської мови універсальні Котик.   Прописи з англійської мови можуть застосовуватися до будь-якого підручника. Універсальні прописи підходять для учнів 1-2 класів.      телефони: +38 (050) 843-90-47    +38 (067) 138-15-99]]></description>
+<quantity_in_stock>51</quantity_in_stock>
+<param name="Автор">Фісіна А.О</param>
+<param name="Мова">українська, англійська</param>
+<param name="Вік">1-2 класи</param>
+<param name="Тип">НУШ</param>
+<param name="Кількість сторінок">48</param>
+<param name="Тип паперу">офсет</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9789669396174</param></offer>
 <offer id="24016" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Українська мова Торсінг Прописи Каліграфічний тренажер</name>
 <vendorCode>9789669397386</vendorCode>
@@ -27205,10 +27224,102 @@
 <param name="ISBN">978-617-686-690-9</param>
 <param name="Формат, розмір">165×208 мм.</param>
 <param name="Видавництво">Весна</param></offer>
-
-
-
-
+<offer id="27167" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Журнал спостережень за навчальною діяльністю учнів та результатами їхнього навчання Весна 2 клас</name>
+<vendorCode>978-617-686-695-4</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/konspekty-urokiv/2-klas/nush-zhurnal-sposterezhen-za-navchalnoiu-diialnistiu-uchniv-ta-rezultatamy-yikhnoho-navchannia-vesna-2-klas/</url>
+<currencyId>UAH</currencyId>
+<categoryId>4</categoryId>
+<price>70</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27167/nush_zhurnal_sposterezhen_za_navchalnoyu_diyalnistyu_uchniv_ta_rezultatami_hnogo_navchannya_vesna_2_klas.jpg</picture>
+<vendor>Весна</vendor>
+<description>
+<![CDATA["Журнал спостережень за навчальною діяльністю учнів та результатами їхнього навчання 2 клас НУШ" - допомагає вчителю здійснювати та фіксувати рівень розвитку учнів, динаміку формування певних навичок та особистих досягнень учнів 2 класу.   Журнал допоможе:    вчасно виявити проблеми учня й запобігти їхньому нашаруванню; побачити, коли дитина вже досягла визначеному результату; здійсніти корегування освітнього процессу на різних етапах; порівняти досягнення учня з попередніми його результатами; надати батькам більш певну картину опису навчальних досягнень учнів; оперативно заповнити “Свідоцтва досягнень”  Фіксувати рівень досягнень кожного учня учитель може в довільній формі. Учитель може фіксувати результати кілька разів на місяць,або рідше одного разу на місяць.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Гребенькова Л.О.</param>
+<param name="Мова">українська</param>
+<param name="Вік">2 клас</param>
+<param name="Тип">Посiбник для вчителя</param>
+<param name="Серія">Шкільна документація НУШ</param>
+<param name="Кількість сторінок">64</param>
+<param name="Рік видання">2021</param>
+<param name="Тип паперу">офсет</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-617-686-695-4</param>
+<param name="Формат, розмір">200х260 мм</param>
+<param name="Видавництво">Весна</param></offer>
+<offer id="27168" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Журнал спостережень за навчальною діяльністю учнів та результатами їхнього навчання Весна 4 клас</name>
+<vendorCode>978-617-686-697-8</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/konspekty-urokiv/4-klas/nush-zhurnal-sposterezhen-za-navchalnoiu-diialnistiu-uchniv-ta-rezultatamy-yikhnoho-navchannia-vesna-4-klas/</url>
+<currencyId>UAH</currencyId>
+<categoryId>6</categoryId>
+<price>70</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27168/nush_zhurnal_sposterezhen_za_navchalnoyu_diyalnistyu_uchniv_ta_rezultatami_hnogo_navchannya_vesna_4_klas.jpg</picture>
+<vendor>Весна</vendor>
+<description>
+<![CDATA["Журнал спостережень за навчальною діяльністю учнів та результатами їхнього навчання 4 клас НУШ" - допомагає вчителю здійснювати та фіксувати рівень розвитку учнів, динаміку формування певних навичок та особистих досягнень учнів 2 класу.   Журнал допоможе:    вчасно виявити проблеми учня й запобігти їхньому нашаруванню; побачити, коли дитина вже досягла визначеному результату; здійсніти корегування освітнього процессу на різних етапах; порівняти досягнення учня з попередніми його результатами; надати батькам більш певну картину опису навчальних досягнень учнів; оперативно заповнити “Свідоцтва досягнень”  Фіксувати рівень досягнень кожного учня учитель може в довільній формі.  Учитель може фіксувати результати кілька разів на місяць,або рідше одного разу на місяць.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Гребенькова Л.О.</param>
+<param name="Мова">українська</param>
+<param name="Вік">4 клас</param>
+<param name="Тип">Посiбник для вчителя</param>
+<param name="Серія">Шкільна документація НУШ</param>
+<param name="Кількість сторінок">80</param>
+<param name="Рік видання">2021</param>
+<param name="Тип паперу">офсет</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-617-686-697-8</param>
+<param name="Формат, розмір">200х260 мм</param>
+<param name="Видавництво">Весна</param></offer>
+<offer id="27169" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Журнал спостережень за навчальною діяльністю учнів та результатами їхнього навчання Весна 3 клас</name>
+<vendorCode>978-617-686-696-1</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/konspekty-urokiv/3-klas/nush-zhurnal-sposterezhen-za-navchalnoiu-diialnistiu-uchniv-ta-rezultatamy-yikhnoho-navchannia-vesna-3-klas/</url>
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<price>70</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27169/nush_zhurnal_sposterezhen_za_navchalnoyu_diyalnistyu_uchniv_ta_rezultatami_hnogo_navchannya_vesna_3_klas.jpg</picture>
+<vendor>Весна</vendor>
+<description>
+<![CDATA["Журнал спостережень за навчальною діяльністю учнів та результатами їхнього навчання 3 клас. НУШ." допомагає вчителю здійснювати та фіксувати рівень розвитку учнів, динаміку формування певних навичок та особистих досягнень учнів 3 класу.   Журнал допоможе:    вчасно виявити проблеми учня й запобігти їхньому нашаруванню; побачити, коли дитина вже досягла визначеному результату; здійсніти корегування освітнього процессу на різних етапах; порівняти досягнення учня з попередніми його результатами; надати батькам більш певну картину опису навчальних досягнень учнів; оперативно заповнити “Свідоцтва досягнень”  Фіксувати рівень досягнень кожного учня учитель може в довільній формі. Учитель може фіксувати результати кілька разів на місяць,або рідше одного разу на місяць.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Гребенькова Л.О.</param>
+<param name="Мова">українська</param>
+<param name="Вік">3 клас</param>
+<param name="Тип">Посiбник для вчителя</param>
+<param name="Серія">Шкільна документація НУШ</param>
+<param name="Кількість сторінок">80</param>
+<param name="Рік видання">2021</param>
+<param name="Тип паперу">офсет</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-617-686-696-1</param>
+<param name="Формат, розмір">200х260 мм</param>
+<param name="Видавництво">Весна</param></offer>
+<offer id="27170" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Журнал спостережень за навчальною діяльністю учнів та результатами їхнього навчання Весна 1 клас</name>
+<vendorCode>978-617-686-694-7</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/konspekty-urokiv/1-klas/nush-zhurnal-sposterezhen-za-navchalnoiu-diialnistiu-uchniv-ta-rezultatamy-yikhnoho-navchannia-vesna-1-klas/</url>
+<currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<price>70</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27170/nush_zhurnal_sposterezhen_za_navchalnoyu_diyalnistyu_uchniv_ta_rezultatami_hnogo_navchannya_vesna_1_klas.jpg</picture>
+<vendor>Весна</vendor>
+<description>
+<![CDATA["Журнал спостережень за навчальною діяльністю учнів та результатами їхнього навчання 1 клас НУШ" - допомагає вчителю здійснювати та фіксувати рівень розвитку учнів, динаміку формування певних навичок та особистих досягнень учнів 1 класу.   Журнал допоможе:    вчасно виявити проблеми учня й запобігти їхньому нашаруванню; побачити, коли дитина вже досягла визначеному результату; здійсніти корегування освітнього процессу на різних етапах; порівняти досягнення учня з попередніми його результатами; надати батькам більш певну картину опису навчальних досягнень учнів; оперативно заповнити “Свідоцтва досягнень”.  Фіксувати рівень досягнень кожного учня учитель може в довільній формі.  Учитель може фіксувати результати кілька разів на місяць,або рідше одного разу на місяць.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Гребенькова Л.О.</param>
+<param name="Мова">українська</param>
+<param name="Вік">1 клас</param>
+<param name="Тип">Посiбник для вчителя</param>
+<param name="Серія">Шкільна документація НУШ</param>
+<param name="Кількість сторінок">64</param>
+<param name="Рік видання">2021</param>
+<param name="Тип паперу">офсет</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-617-686-694-7</param>
+<param name="Формат, розмір">200х260 мм</param>
+<param name="Видавництво">Весна</param></offer>
 <offer id="27171" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Інтегрований cловник-довідник Весна Українська мова Початкова школа 2025</name>
 <vendorCode>978-617-686-747-0</vendorCode>
@@ -48061,7 +48172,7 @@
 <vendorCode>9786176702893</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/atlas-ukrainoznavstvo-9-11-klas-kartohrafiia/</url>
 <currencyId>UAH</currencyId>
-<categoryId>53</categoryId>
+<categoryId>59</categoryId>
 <price>148</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29864/atlas_ukra_noznavstvo_9_11_klas_kartografiya.jpg</picture>
 <vendor>Картографія</vendor>
@@ -51153,7 +51264,7 @@
 <vendorCode>9786175443279</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/2-klas-1/nush-kreatyvna-matematyka-ula-mnozhennia-i-dilennia-60-nalipok/</url>
 <currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
+<categoryId>9</categoryId>
 <price>75</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30289/nush_kreativna_matematika_ula_mnozhennya_i_dilennya_60_nalipok.jpg</picture>
 <vendor>УЛА</vendor>
@@ -63899,7 +64010,7 @@
 <vendorCode>1210149</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/komplekt-velykyi-trenazher-ula-ukrainska-mova-2-4-klasy-orfohrafichni-zavdannia-leksyka-ta-vidminiuvannia-chastyny-movy/</url>
 <currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
+<categoryId>9</categoryId>
 <price>240</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31651/komplekt_velikiy_trenazher_ula_ukra_nska_mova_2_4_klasi_orfografichni_zavdannya_leksika_ta_vidminyuvannya_chastini_movi.jpg</picture>
 <vendor>УЛА</vendor>
@@ -63924,7 +64035,7 @@
 <vendorCode>1210150</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/komplekt-velykyi-trenazher-ula-matematyka-1-4-klasy-zadachi-tablytsia-mnozhennia-i-dilennia-dodavannia-i-vidnimannia-bahatotsyfrovykh-chysel/</url>
 <currencyId>UAH</currencyId>
-<categoryId>10</categoryId>
+<categoryId>11</categoryId>
 <price>240</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31652/komplekt_velikiy_trenazher_ula_matematika_1_4_klasi_zadachi_tablitsya_mnozhennya_i_dilennya_dodavannya_i_vidnimannya_bagatotsifrovih_chisel.jpg</picture>
 <vendor>УЛА</vendor>
@@ -63973,7 +64084,7 @@
 <vendorCode>9786175444634, 9786175444665</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/komplekt-nush-zoshyt-repetytor-iz-matematyky-ula-dodavannia-i-vidnimannia-v-mezhakh-100-1-2-klas-tablytsia-mnozhennia-2-3-klas/</url>
 <currencyId>UAH</currencyId>
-<categoryId>10</categoryId>
+<categoryId>8</categoryId>
 <price>68</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31654/komplekt_nush_zoshit_repetitor_iz_matematiki_ula_dodavannya_i_vidnimannya_v_mezhah_100_1_2_klas_tablitsya_mnozhennya_2_3_klas.jpg</picture>
 <vendor>УЛА</vendor>
@@ -81199,7 +81310,7 @@
 <vendor>Ранок</vendor>
 <description>
 <![CDATA[НМТ 2027 Історія України. Повний курс (Оксана Святокум, Світлана Коніщева) Посібник створено з метою якісної та ефективної підготовки до проходження НМТ з історії України. Довідник допоможе систематизувати й поглибити теоретичні знання з історії України, потренуватися у виконанні завдань на зразок тестів у форматі НМТ. Посібник має електронну підтримку на платформі ІЗЗІ. Користувачі можуть виконати в онлайн-режимі тренувальні тести, пройти пробне тестування. Посібник має електронну підтримку на платформі ІЗЗІ. Користувачі можуть виконати в онлайн-режимі тренувальні тести, пройти пробне тестування.  Призначено для учнів закладів загальної середньої освіти, абітурієнтів і вчителів історії.]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Автор">Оксана Святокум, Світлана Коніщева</param>
 <param name="Предмет">Історія України</param>
 <param name="Мова">українська</param>
@@ -81349,7 +81460,7 @@
 <vendor>Ранок</vendor>
 <description>
 <![CDATA[НМТ 2027. Біологія. Повний курс підготовки (Ольга Тагліна) Видання створено з метою якісної та ефективної підготовки до складання НМТ з біології. У довіднику подається теоретичний матеріал, вправи, тести до кожної теми, а також тренувальні тести. За цим посібником учні та учениці можуть готуватись як самостійно, так і на шкільних уроках або заняттях із репетитором.  Для всіх учасників та учасниць освітнього процесу, хто прагне здобути й удосконалити знання з біології.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>9</quantity_in_stock>
 <param name="Автор">Ольга Тагліна</param>
 <param name="Предмет">Біологія</param>
 <param name="Мова">українська</param>
