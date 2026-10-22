@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-10-21 12:00">
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-10-22 12:00">
 <shop>
 <url>https://knigovan.com/</url>
 <name>Книгован</name>
@@ -1304,16 +1304,16 @@
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/literatura-vid-6-rokiv/podarunkovyi-komplekt-z-chotyrokh-knyh-serii-usi-dyvovyzhni-pryhody-v-lisovii-shkoli-shkola-vsevolod-nestaiko/</url>
 <currencyId>UAH</currencyId>
 <categoryId>141</categoryId>
-<price>1600</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/23998/podarunkoviy_komplekt_z_chotiroh_knig_seri_usi_divovizhni_prigodi_v_lisoviy_shkoli_shkola_vsevolod_nestayko.jpg</picture>
+<price>1800</price>
+<picture>https://knigovan.com/image/catalog/products/23998/podarunkoviy-komplekt-z-chotiroh-knig-ser-us-divovizhn-prigodi-v-l-sov-y-shkol-shkola-vsevolod-nestayko-1.jpeg</picture>
 <vendor>Школа</vendor>
 <description>
-<![CDATA[Подарунковий комплект з чотирьох книг серії Усі Дивовижні пригоди в лісовій школі Всеволод Нестайко  Найкращий подарунок — це гарні книжки. А коли це книжки видатного дитячого письменника Всеволода Нестайка, це ще цікавіше та радісніше. До нового комплекту входять усі історії із серії «Дивовижні пригоди в лісовій школі». Ваша дитина буде у захваті від такого подарунку. Книги В. Нестайка, найулюбленішого письменника багатьох поколінь, уже стали класикою української дитячої літератури. Серія «Дивовижні пригоди в лісовій школі» була нагороджена дипломом Дитячої книжкової премії «Левеня» 29 квітня 2012 року за перше місце в номінації «Видання сучасної художньої літератури українських авторів. Молодші школярі».  Порядок книжечок в серії:      «Сонце серед ночі. Пригоди в Павутинії»  « Секрет Васі Кицина. Енелолик, Уфа і Жахоб'як»  «Загадковий Яшка. Сонячний зайчик і Сонячний вовк»  «Таємний агент Порча і козак Морозенко. Таємниці Лісею "Кондор"»]]></description>
+<![CDATA[Подарунковий комплект з чотирьох книг серії Усі Дивовижні пригоди в лісовій школі Всеволод Нестайко Найкращий подарунок — це гарні книжки. А коли це книжки видатного дитячого письменника Всеволода Нестайка, це ще цікавіше та радісніше. До нового комплекту входять усі історії із серії «Дивовижні пригоди в лісовій школі». Ваша дитина буде у захваті від такого подарунку. Книги В. Нестайка, найулюбленішого письменника багатьох поколінь, уже стали класикою української дитячої літератури. Серія «Дивовижні пригоди в лісовій школі» була нагороджена дипломом Дитячої книжкової премії «Левеня» 29 квітня 2012 року за перше місце в номінації «Видання сучасної художньої літератури українських авторів. Молодші школярі».  Порядок книжечок в серії:      «Сонце серед ночі. Пригоди в Павутинії»  « Секрет Васі Кицина. Енелолик, Уфа і Жахоб'як»  «Загадковий Яшка. Сонячний зайчик і Сонячний вовк»  «Таємний агент Порча і козак Морозенко. Таємниці Лісею "Кондор"»]]></description>
 <quantity_in_stock>10</quantity_in_stock>
 <param name="Автор">Всеволод Нестайко</param>
 <param name="Мова">українська</param>
 <param name="Вік">6+</param>
-<param name="Тип">комплект</param>
+<param name="Тип">Книги, комплект</param>
 <param name="Серія">Дитячий бестселер. Дивовижні пригоди в лісовій школі</param>
 <param name="Тип обкладинки">тверда</param>
 <param name="ISBN">978-966-429-166-5</param>
@@ -4936,7 +4936,7 @@
 <vendor>Сімфонія-форте</vendor>
 <description>
 <![CDATA[Матеріали для підготовки до ЗНО з української літератури. Довідковий матеріал М.В. Шпільчак видавництва "Симфонія форте"   Посібник "Українська література в таблицях. Матеріали для підготовки до ЗНО" призначений для цілеспрямованої тренувальної роботи з метою ґрунтовної підготовки випускників загальноосвітніх шкіл до зовнішнього незалежного оцінювання з української літератури.   Для старшокласників, вступників до вищих навчальних закладів, вчителів.   Хороша підготовка до ЗНО - запорука успішного і впевненого вступу до вузу.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Автор">Шпiльчак М.В.</param>
 <param name="Мова">українська</param>
 <param name="Вік">11 клас</param>
@@ -5657,7 +5657,7 @@
 <vendor>Сімфонія-форте</vendor>
 <description>
 <![CDATA[Посібник «Матеріали для підготовки до ЗНО з української літератури. Тематичні тестові завдання» є доповненням до посібника «Матеріали для підготовки до ЗНО з української літератури (у двох частинах). Частина І. Довідковий матеріал. Частина ІІ. Тестові завдання».   Матеріали збірника укладено згідно з чинною програмою ЗНО з української літератури, що вміщена на початку посібника.   Книжка "ЗНО з української літератури. Тематичні тестові завдання" містить систему тестових завдань, які погруповані відповідно до зміступрограмного літературного матеріалу (письменники, твори). Завдання до кожної теми, що передбачають перевірку отриманих знань і розуміння основних положень навчального матеріалу, мають закриту форму і поділені на дві групи: тестові завдання з вибором однієї правильної відповіді та на встановлення відповідності. Для виконання цих завдань учень повинен орієнтуватися в найважливіших моментах біографії письменника, знати автора, назвуопрацьованого твору, його зміст, персонажів, тему, ідею, розумітися на літературознавчих термінах, встановлювати причинно-наслідкові зв'язки, виявляти навички аналізу тексту, співвідносити твір та рік його написання з певною епохою, авторською світоглядною позицією тощо.   Як показує досвід попередніх років, у тесті ЗНО є багато завдань, які містять цитатний матеріал, чи вказує на те, що потрібно обов'язково знати зовнішні і внутрішні характеристики літературних героїв, їхні найбільш яскраві репліки. Треба звертати увагу й на вислови митців і літературознавців про письменників, адже в тестах ЗНО є завдання на впізнавання митця за цитатним матеріалом про нього.   У посібнику підбір тестів здійснено за класичною схемою зошита ЗНО (серед них і завдання попередніх років зовнішнього незалежного оцінювання).   Збірник якнайкраще допоможе учням підготуватися до ЗНО. Можна його такожвикористовувати і на уроках української літератури під час вивчення чи повторення творчості письменника, у позаурочний час. Книжка стане в пригоді як учням 9-11 класів (посібник містить значну кількість завдань, виконання яких дасть можливість набути практичних умінь і навичок з Української лiтератури). Так і вчителям, які можуть використовувати матеріали збірника пiд час проведення урокiв для навчального тестування, тематичних контрольних робіт, а також для додаткової самостійної роботи учнів у позаурочний час.    Хороша підготовка до ЗНО - запорука успішного і впевненого вступу до вузу.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Автор">Шпiльчак М.В.</param>
 <param name="Мова">українська</param>
 <param name="Вік">Старша школа</param>
@@ -12683,7 +12683,7 @@
 <vendor>Сімфонія-форте</vendor>
 <description>
 <![CDATA[Матеріали для підготовки до ЗНО з української літератури. Довідковий матеріал М.В. Шпільчак видавництва "Симфонія форте"   Посібник "Модернізовані таблиці з української літератури. Матеріали для підготовки до ЗНО 2020  " призначений для цілеспрямованої тренувальної роботи з метою ґрунтовної підготовки випускників загальноосвітніх шкіл до зовнішнього незалежного оцінювання з української літератури.   Посібник містить узагальнювальні таблиці, які допоможуть закріпити та систематизувати набуті в школі знання.   Схвалено для використання в загальноосвітніх навчальних закладах комісією з української літератури Науково-методичної ради з питань освіти Міністерства освіти і науки України.   Матеріали посібника укладено згідно з вимогами чинної програми зовнішнього незалежного оцінювання з української літератури.   Видання призначене для підготовки випускників до зовнішнього незалежного оцінювання з української літератури.   Хороша підготовка до ЗНО - запорука успішного і впевненого вступу до вузу.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Автор">Шпiльчак М.В.</param>
 <param name="Мова">українська</param>
 <param name="Вік">11 клас</param>
@@ -16252,7 +16252,7 @@
 <vendor>Сімфонія-форте</vendor>
 <description>
 <![CDATA[Збірник "Вчимося за тестами ЗНО Тематичні тестові завдання з математики (2006-2019)  " містить тестові завдання з математики всіх років ЗНО (2006-2019 рр.), які розподілено за відповідними розділами та темами чинної програми. Посібник призначений для тренувальної роботи з метою ґрунтовної підготовки випускників загальноосвітніх шкіл, студентів ВНЗ І-ІІ рівнів акредитації, які отримують базову загальну середню освіту, до зовнішнього незалежного оцінювання з математики, державної підсумкової атестації в тестовій формі.    Для вчителів-математиків, студентів, учнів, а також для всіх тих, хто прагне поглибити свої знання з математики.    Упорядник Шпільчак М. В.                         Глущенко Т.В.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Автор">Шпiльчак М.В., Глущенко Т.В</param>
 <param name="Мова">українська</param>
 <param name="Вік">старша школа</param>
@@ -17302,7 +17302,7 @@
 <vendor>Сімфонія-форте</vendor>
 <description>
 <![CDATA[Матеріали для підготовки до ЗНО з української мови М.В. Шпільчак видавництва "Симфонія форте"        Посібник "Готуємось до ЗНО  Українська мова Тестові завдання для перевірки знань" призначено для цілеспрямованої тренувальної роботи з метою ґрунтовної підготовки випускників загальноосвітніх шкіл до зовнішнього незалежного оцінювання з української мови.        Для старшокласників, вступників до вищих навчальних закладів, вчителів.        Хороша підготовка до ЗНО - запорука успішного і впевненого вступу до вузу.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Автор">Шпiльчак М.В.</param>
 <param name="Мова">українська</param>
 <param name="Вік">11 клас</param>
@@ -17325,7 +17325,7 @@
 <vendor>Сімфонія-форте</vendor>
 <description>
 <![CDATA[Книжка "Готуємось до ЗНО  Літературні диктанти з української літератури  " містить систему тестових завдань, які погруповані відповідно до змісту   програмного літературного матеріалу (письменники, твори). Завдання до кожної теми, що передбачають перевірку отриманих знань і розуміння основних положень навчального матеріалу, мають закриту форму і поділені на дві групи: тестові завдання з вибором однієї правильної відповіді та на встановлення відповідності. Для виконання цих завдань учень повинен орієнтуватися в найважливіших моментах біографії письменника, знати автора, назвуопрацьованого твору, його зміст, персонажів, тему, ідею, розумітися на літературознавчих термінах, встановлювати причинно-наслідкові зв'язки, виявляти навички аналізу тексту, співвідносити твір та рік його написання з певною епохою, авторською світоглядною позицією тощо.   Як показує досвід попередніх років, у тесті ЗНО є багато завдань, які містять цитатний матеріал, чи вказує на те, що потрібно обов'язково знати зовнішні і внутрішні характеристики літературних героїв, їхні найбільш яскраві репліки. Треба звертати увагу й на вислови митців і літературознавців про письменників, адже в тестах ЗНО є завдання на впізнавання митця за цитатним матеріалом про нього.   У посібнику підбір тестів здійснено за класичною схемою зошита ЗНО (серед них і завдання попередніх років зовнішнього незалежного оцінювання).   Збірник якнайкраще допоможе учням підготуватися до ЗНО. Можна його такожвикористовувати і на уроках української літератури під час вивчення чи повторення творчості письменника, у позаурочний час. Книжка стане в пригоді як учням 9-11 класів (посібник містить значну кількість завдань, виконання яких дасть можливість набути практичних умінь і навичок з Української лiтератури). Так і вчителям, які можуть використовувати матеріали збірника пiд час проведення урокiв для навчального тестування, тематичних контрольних робіт, а також для додаткової самостійної роботи учнів у позаурочний час.    Хороша підготовка до ЗНО - запорука успішного і впевненого вступу до вузу.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Автор">Шпiльчак М.В.</param>
 <param name="Мова">українська</param>
 <param name="Вік">Старша школа</param>
@@ -23640,7 +23640,7 @@
 <vendor>Ранок</vendor>
 <description>
 <![CDATA[НУШ Комплект Робочий зошит + альбом. Мистецтво 3 клас до підручника Т. Рублі, І. Мед, Т. Щеглової.   Робочий зошит: до підручника Тетяни Рублі, Ірини Мед, Тетяни Щеглової є частиною навчально-методичного комплекту «Мистецтво» для 3 класу закладів загальної середньої освіти авторів Тетяни Рублі, Ірини Мед, Тетяни Щеглової. У ньому представлені запитання та завдання за темами підручника «Мистецтво. 3 клас» (автори Тетяна Рубля, Ірина Мед, Тетяна Щеглова).Робота із зошитом навчить третьокласників сприймати музичні твори, відчувати характер і настрій музики, створювати та виконувати прості ритмічні супроводи; розвине  художній смак та любов до українського музичного мистецтва. Рекомендовано використовувати разом із альбомом «Мистецтво» для 3 класу закладів загальної середньої освіти авторів Тетяни Рублі, Ірини Мед, Тетяни Щеглової, 32 с.  Альбом є частиною навчально-методичного комплекту «Мистецтво» для 3 класу закладів загальної середньої освіти авторів Тетяни Рублі, Ірини Мед, Тетяни Щеглової.  Він містить практичний матеріал і реалізує компетентнісний підхід до освітнього процесу в початковій школі. У посібнику представлені вправи, завдання і творчі роботи за темами підручника «Мистецтво. 3 клас» (автори Тетяна Рубля, Ірина Мед, Тетяна Щеглова). Альбом допоможе розвинути в дітей спостережливість, уяву, фантазію, графічні навички. Рекомендовано використовувати разом із робочим зошитом «Мистецтво» для 3 класу закладів загальної середньої освіти авторів Тетяни Рублі, Ірини Мед, Тетяни Щеглової. 56 с.]]></description>
-<quantity_in_stock>20</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Рубля Т. Щеглова Т. Мед І.</param>
 <param name="Мова">українська</param>
 <param name="Вік">3 клас</param>
@@ -24957,7 +24957,7 @@
 <vendor>Сімфонія-форте</vendor>
 <description>
 <![CDATA[Матеріали для підготовки до ЗНО. Українська література Тести для перевірки знань та вмінь.  Матеріали посібника укладено згідно з вимогами чинної програми зовнішнього незалежного оцінювання з української літератури. Пропонований посібник стане надійним помічником та ефективним тренажером у процесі підготовки до виконання тесту ЗНО з української літератури. Тестові завдання складено відповідно до вимог чинної програми ЗНО з української літератури.  Підбір тестів здійснено за класичною схемою зошита ЗНО.    Для учнів 9, 10, 11 класів, вступників до вищих навчальних закладів, учителів.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Автор">Шпiльчак М.В.</param>
 <param name="Мова">українська</param>
 <param name="Вік">9-11 клас</param>
@@ -34764,98 +34764,10 @@
 
 
 
-<offer id="27919" available="true" in_stock="true" selling_type="r" >
-<name>Каліграфія для відмінника УЛА Чистописання</name>
-<vendorCode>9786175441268</vendorCode>
-<url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafiia-dlia-vidminnyka-ula-chystopysannia/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>44</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27919/kaligrafiya_dlya_vidminnika_ula_chistopisannya.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Каліграфія для відмінника — Чистописання   Цей зошит допоможе дитині закріпити навички письма букв та їхніх поєднань у словах. На кожній сторінці — обов’язковий зразок і пунктирні шаблони для відшліфування навички. Цікаві завдання доведуть каліграфію дитини до позначки «відмінно», а наліпки для самооцінювання урізноманітнять роботу із зошитом.      Видання призначене для дітей старшого дошкільного та молодшого шкільного віку.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Сіліч С. О.</param>
-<param name="Мова">українська</param>
-<param name="Тип">посібник для дітей</param>
-<param name="Серія">Каліграфія для відмінника</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2023</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786175441367</param>
-<param name="Формат, розмір">17×23 см</param>
-<param name="Видавництво">Ула</param></offer>
-<offer id="27920" available="true" in_stock="true" selling_type="r" >
-<name>Каліграфія для відмінника УЛА Прописи для лівші</name>
-<vendorCode>9786175441251</vendorCode>
-<url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafiia-dlia-vidminnyka-ula-propysy-dlia-livshi/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>44</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27920/kaligrafiya_dlya_vidminnika_ula_propisi_dlya_livshi.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Каліграфія для відмінника — Прописи для лівші    Цей зошит розроблено для творчого малюка, що пише лівою. Усі зразки розміщено праворуч, щоб їх було видно під час роботи. Пунктирні шаблони цифр, математичних знаків, фігур, букв і слів подано на кожній сторінці для відшліфування навички письма. Цікаві завдання і приклади допоможуть довести каліграфію дитини до позначки «відмінно», а наліпки для самооцінювання урізноманітнять роботу із зошитом.      Видання призначене для дітей старшого дошкільного та молодшого шкільного віку.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Сіліч С. О.</param>
-<param name="Мова">українська</param>
-<param name="Тип">посібник для дітей</param>
-<param name="Серія">Каліграфія для відмінника</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2023</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786175441251</param>
-<param name="Формат, розмір">17×23 см</param>
-<param name="Видавництво">Ула</param></offer>
-<offer id="27921" available="true" in_stock="true" selling_type="r" >
-<name>Каліграфія для відмінника УЛА Математичні прописи</name>
-<vendorCode>9786175441244</vendorCode>
-<url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafiia-dlia-vidminnyka-ula-matematychni-propysy/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>44</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27921/kaligrafiya_dlya_vidminnika_ula_matematichni_propisi.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Каліграфія для відмінника — Математичні прописи    Цей зошит допоможе дитині закріпити навички письма цифр, математичних знаків, чисел, малювання фігур і візерунків. На кожній сторінці — обов’язковий зразок і пунктирні шаблони для відшліфування навички. Цікаві завдання і приклади допоможуть довести каліграфію дитини до позначки «відмінно», а наліпки для самооцінювання урізноманітнять роботу із зошитом.      Видання призначене для дітей старшого дошкільного та молодшого шкільного віку.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Сіліч С. О.</param>
-<param name="Мова">українська</param>
-<param name="Тип">посібник для дітей</param>
-<param name="Серія">Каліграфія для відмінника</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2023</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786175441244</param>
-<param name="Формат, розмір">17×23 см</param>
-<param name="Видавництво">Ула</param></offer>
-<offer id="27922" available="true" in_stock="true" selling_type="r" >
-<name>Каліграфія для відмінника УЛА Виправлення почерку</name>
-<vendorCode>9786175441237</vendorCode>
-<url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafiia-dlia-vidminnyka-ula-vypravlennia-pocherku/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>44</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27922/kaligrafiya_dlya_vidminnika_ula_vipravlennya_pocherku.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Каліграфія для відмінника — Виправлення почерку    Цей зошит допоможе дитині потренувати дрібну моторику пальців рук, закріпити навички письма літер та їхніх поєднань у словах, потренувати пам’ять й увагу в процесі списування речень і тексту, поданих прописними та друкованими літерами. Цікаві завдання доведуть каліграфію дитини до позначки «відмінно», а наліпки для самооцінювання урізноманітнять роботу із зошитом.      Видання призначене для дітей старшого дошкільного та молодшого шкільного віку.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Сіліч С. О.</param>
-<param name="Мова">українська</param>
-<param name="Тип">посібник для дітей</param>
-<param name="Серія">Каліграфія для відмінника</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2023</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786175441237</param>
-<param name="Формат, розмір">17×23 см</param>
-<param name="Видавництво">Ула</param></offer>
+
+
+
+
 
 
 
@@ -42644,7 +42556,7 @@
 <vendor>АССА</vendor>
 <description>
 <![CDATA[Тренажер. Комплексний з математики. 5-9 клас | Н.Ф. Риндіна, О.М. Титаренко      ВІДПОВІДАЄ ЧИННІЙ НАВЧАЛЬНІЙ ПРОГРАМІ МОН.    «Тренажер. Комплексний з математики. 5-9 клас» — справжній скарб для всіх, хто бажає повторити курс математики за 5-9 класи, надолужити пропущене, поглибити набуті знання та позбутися найбільш поширених помилок.     У тренажері ви  знайдете:       стислий довідковий матеріал з усіх тем курсу математики за 5-9 класи; 1500 тренувальних завдань та вправ до усіх розділів шкільного курсу у форматі «Читай, розв’язуй, пиши, перевіряй», який сприяє глибшому та більш швидкому засвоєнню матеріалу; завдання підвищеної складності; 17 тематичних тестів, які допоможуть перевірити рівень знань; розв’язання та відповіді до всіх завдань.      Цей посібник містить усе необхідне для повторення і засвоєння курсу математики середньої школи.      Чому варто придбати:     «Тренажер. Комплексний з математики. 5-9 клас» — надійний помічник у світі математики. Посібник містить розв’язання та відповіді до всіх завдань, завдяки чому учні зможуть перевірити себе, а у разі потреби розібратися, де зроблено помилку і як її позбавитися. Зошит можна використовувати в поєднанні з будь-яким підручником математики, як основний або додатковий дидактичний матеріал для роботи на уроках та вдома.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Автор">Н.Ф. Риндіна, О.М. Титаренко</param>
 <param name="Мова">українська</param>
 <param name="Вік">5-9 класи</param>
@@ -50200,10 +50112,10 @@
 <offer id="30142" available="true" in_stock="true" selling_type="r" >
 <name>Книга Вистрибеньки сонячних зайчиків. Маґура Дара Корній</name>
 <vendorCode>9786178177010</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/knyha-vystrybenky-soniachnykh-zaichykiv-magura-dara-kornii/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyha-vystrybenky-soniachnykh-zaichykiv-magura-dara-kornii/</url>
 <currencyId>UAH</currencyId>
 <categoryId>138</categoryId>
-<price>385</price>
+<price>420</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30142/kniga_vistribenki_sonyachnih_zaychikiv_ma_ura_dara_korniy.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -50223,10 +50135,10 @@
 <offer id="30143" available="true" in_stock="true" selling_type="r" >
 <name>Мері Казкова повість Маґура Сашко Дерманський</name>
 <vendorCode>9786178177003</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/literatura-dlia-pidlitkiv/meri-kazkova-povist-magura-sashko-dermanskyi/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/meri-kazkova-povist-magura-sashko-dermanskyi/</url>
 <currencyId>UAH</currencyId>
 <categoryId>142</categoryId>
-<price>510</price>
+<price>600</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30143/meri_kazkova_povist_ma_ura_sashko_dermanskiy.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -54228,10 +54140,10 @@
 <offer id="30524" available="true" in_stock="true" selling_type="r" >
 <name>Пухнасті казочки Маґура Збірка казок Віталія Савченко</name>
 <vendorCode>9786178177102</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/pukhnasti-kazochky-magura-zbirka-kazok-vitaliia-savchenko/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/pukhnasti-kazochky-magura-zbirka-kazok-vitaliia-savchenko/</url>
 <currencyId>UAH</currencyId>
 <categoryId>138</categoryId>
-<price>385</price>
+<price>420</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30524/puhnasti_kazochki_ma_ura_zbirka_kazok_vitaliya_savchenko.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -54251,10 +54163,10 @@
 <offer id="30525" available="true" in_stock="true" selling_type="r" >
 <name>Маляка - принцеса Драконії. Книга 1 Маґура Сашко Дерманський</name>
 <vendorCode>9786178177058</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/maliaka-pryntsesa-drakonii-knyha-1-magura-sashko-dermanskyi/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/maliaka-pryntsesa-drakonii-knyha-1-magura-sashko-dermanskyi/</url>
 <currencyId>UAH</currencyId>
 <categoryId>138</categoryId>
-<price>410</price>
+<price>460</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30525/malyaka_printsesa_drakoni_kniga_1_ma_ura_sashko_dermanskiy.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -54275,10 +54187,10 @@
 <offer id="30526" available="true" in_stock="true" selling_type="r" >
 <name>Маляка і Навіжений дракон. Книга 2 Маґура Сашко Дерманський</name>
 <vendorCode>9786178177065</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/maliaka-i-navizhenyi-drakon-knyha-2-magura-sashko-dermanskyi/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/maliaka-i-navizhenyi-drakon-knyha-2-magura-sashko-dermanskyi/</url>
 <currencyId>UAH</currencyId>
 <categoryId>138</categoryId>
-<price>410</price>
+<price>460</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30526/malyaka_i_navizheniy_drakon_kniga_2_ma_ura_sashko_dermanskiy.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -54299,10 +54211,10 @@
 <offer id="30527" available="true" in_stock="true" selling_type="r" >
 <name>Маляка і Гаплик. Книга 3 Маґура Сашко Дерманський</name>
 <vendorCode>9786178177041</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/maliaka-i-haplyk-knyha-3-magura-sashko-dermanskyi/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/maliaka-i-haplyk-knyha-3-magura-sashko-dermanskyi/</url>
 <currencyId>UAH</currencyId>
 <categoryId>138</categoryId>
-<price>410</price>
+<price>460</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30527/malyaka_i_gaplik_kniga_3_ma_ura_sashko_dermanskiy.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -54324,10 +54236,10 @@
 <offer id="30529" available="true" in_stock="true" selling_type="r" >
 <name>Жменька тепла для мами Маґура Сашко Дерманський</name>
 <vendorCode>9786178177133</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/literatura-dlia-pidlitkiv/zhmenka-tepla-dlia-mamy-magura-sashko-dermanskyi/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zhmenka-tepla-dlia-mamy-magura-sashko-dermanskyi/</url>
 <currencyId>UAH</currencyId>
 <categoryId>142</categoryId>
-<price>440</price>
+<price>490</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30529/zhmenka_tepla_dlya_mami_ma_ura_sashko_dermanskiy.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -54347,10 +54259,10 @@
 <offer id="30530" available="true" in_stock="true" selling_type="r" >
 <name>Стонадцять халеп Остапа Квіточки Маґура Сашко Дерманський</name>
 <vendorCode>9786178177126</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/stonadtsiat-khalep-ostapa-kvitochky-magura-sashko-dermanskyi/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/stonadtsiat-khalep-ostapa-kvitochky-magura-sashko-dermanskyi/</url>
 <currencyId>UAH</currencyId>
 <categoryId>138</categoryId>
-<price>520</price>
+<price>610</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30530/stonadtsyat_halep_ostapa_kvitochki_ma_ura_sashko_dermanskiy.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -54370,10 +54282,10 @@
 <offer id="30531" available="true" in_stock="true" selling_type="r" >
 <name>День усіх білок Маґура Ірена Карпа</name>
 <vendorCode>9786178177119</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/den-usikh-bilok-magura-irena-karpa/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/den-usikh-bilok-magura-irena-karpa/</url>
 <currencyId>UAH</currencyId>
 <categoryId>138</categoryId>
-<price>510</price>
+<price>585</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30531/den_usih_bilok_ma_ura_irena_karpa.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -54393,10 +54305,10 @@
 <offer id="30532" available="true" in_stock="true" selling_type="r" >
 <name>Ночі бісів Маґура Катержіна Шардіцька</name>
 <vendorCode>9786178177034</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/literatura-dlia-pidlitkiv/nochi-bisiv-magura-katerzhina-sharditska/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/nochi-bisiv-magura-katerzhina-sharditska/</url>
 <currencyId>UAH</currencyId>
 <categoryId>142</categoryId>
-<price>460</price>
+<price>500</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30532/nochi_bisiv_ma_ura_katerzhina_sharditska.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -54501,7 +54413,7 @@
 <vendor>Ранок</vendor>
 <description>
 <![CDATA[​НУШ Мій маленький трудівничок. Альбом-посібник з дизайну і технологій. 3 клас Альбом-посібник із творчими завданнями для організації занять з трудового навчання (дизайну і технологій) для учнів 3 класів. Видання впорядковано згідно з вимогами Типових освітніх програм  НУШ-1 і НУШ-2 та схвалено для використання в освітньому процесі. Використання наявних різноманітних творчих завдань сприяє розвитку уваги та дрібної моторики, творчому розвитку, а також удосконаленню логічного мислення школярів.   До кожного завдання запропоновано:      друковану основу; перелік необхідних матеріалів - ножиці, клей, олівці, кольоровий папір, пластилін, природні матеріали; невеликі теоретичні блоки - цікаву інформацію для розширення світогляду дитини; алгоритм покрокового виконання кожної роботи; QR-коди з переходом на відеосупровід уроків та поради щодо організації занять вдома.    У альбомі надано QR-код для вчителів, за яким можна завантажити календарне планування!]]></description>
-<quantity_in_stock>30</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Павленко О.</param>
 <param name="Мова">українська</param>
 <param name="Вік">3 клас</param>
@@ -58019,98 +57931,10 @@
 
 
 
-<offer id="30990" available="true" in_stock="true" selling_type="r" >
-<name>Каліграфічний тренажер УЛА Розвиваємо навички письма. Прописи. Завдання. Наліпки</name>
-<vendorCode>9786175443750</vendorCode>
-<url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafichnyi-trenazher-ula-rozvyvaiemo-navychky-pysma-propysy-zavdannia-nalipky/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>46</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/30990/kaligrafichniy_trenazher_ula_rozviva_mo_navichki_pisma_propisi_zavdannya_nalipki.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Каліграфічний тренажер — Розвиваємо навички письма  Це видання створене, щоб допомогти дитині розвинути навички письма. У книзі подано пунктиром різні лінії, малюнки, фігури й візерунки, а також підібрано цікаві ігрові завдання з наліпками, що сприятимуть закріпленню вивченого матеріалу. Зошит допоможе покращити якість почерку, потренувати пам’ять та увагу, розвинути уяву та мислення, адже на його сторінках дитина буде одночасно писати обома руками, штрихувати, проходити лабіринти, доповнювати логічні послідовності, шукати відмінності й розфарбовувати.    Видання призначене для дітей старшого дошкільного й молодшого шкільного віку.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Мова">українська</param>
-<param name="Вік">старший дошкільний, молодший шкільний</param>
-<param name="Тип">Посiбник для дітей</param>
-<param name="Серія">Каліграфічний тренажер</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2024</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-617-544-375-0</param>
-<param name="Формат, розмір">165×230 мм</param>
-<param name="Видавництво">Ула</param></offer>
-<offer id="30991" available="true" in_stock="true" selling_type="r" >
-<name>Каліграфічний тренажер УЛА  Вправи для гарного почерку. Прописи. Завдання. Наліпки</name>
-<vendorCode>9786175443743</vendorCode>
-<url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafichnyi-trenazher-ula-vpravy-dlia-harnoho-pocherku-propysy-zavdannia-nalipky/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>46</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/30991/kaligrafichniy_trenazher_ula_vpravi_dlya_garnogo_pocherku_propisi_zavdannya_nalipki.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Каліграфічний тренажер — Вправи для гарного почерку  Це видання створене, щоб допомогти дитині відпрацювати навички гарного письма. У книзі є сторінки в косу лінію, клітинку й лінію, на яких подано пунктиром різні лінії, фігури й візерунки, а також підібрано цікаві ігрові завдання з наліпками, що сприятимуть закріпленню вивченого матеріалу. Зошит допоможе покращити якість почерку, потренувати пам’ять та увагу, розвинути уяву та мислення, адже на його сторінках дитина буде одночасно писати обома руками, домальовувати малюнки, проходити лабіринти, шукати відмінності й розфарбовувати.    Видання призначене для дітей старшого дошкільного й молодшого шкільного віку.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Мова">українська</param>
-<param name="Вік">старший дошкільний, молодший шкільний</param>
-<param name="Тип">Посiбник для дітей</param>
-<param name="Серія">Каліграфічний тренажер</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2024</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-617-544-374-3</param>
-<param name="Формат, розмір">165×230 мм</param>
-<param name="Видавництво">Ула</param></offer>
-<offer id="30992" available="true" in_stock="true" selling_type="r" >
-<name>Каліграфічний тренажер УЛА Пишемо цифри й обчислюємо. Прописи. Завдання. Наліпки</name>
-<vendorCode>9786175443736</vendorCode>
-<url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafichnyi-trenazher-ula-pyshemo-tsyfry-y-obchysliuiemo-propysy-zavdannia-nalipky/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>46</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/30992/kaligrafichniy_trenazher_ula_pishemo_tsifri_y_obchislyu_mo_propisi_zavdannya_nalipki.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Каліграфічний тренажер — Пишемо цифри й обчислюємо  Це видання створене, щоб допомогти дитині навчитися писати цифри, співвідносити їх із певною кількістю та потренуватися обчислювати вирази. У книзі подано пунктиром елементи цифр, цифри й математичні знаки, а також підібрано тематичні ігрові завдання з наліпками, що сприятимуть закріпленню матеріалу. Зошит допоможе розвинути дрібну моторику, уяву та мислення, потренувати пам’ять та увагу, адже на його сторінках дитина буде обчислювати вирази, працювати з нерівностями та складати їх самостійно за малюнками, малювати фігури та розфарбовувати.    Видання призначене для дітей старшого дошкільного й молодшого шкільного віку.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Мова">українська</param>
-<param name="Вік">старший дошкільний, молодший шкільний</param>
-<param name="Тип">Посiбник для дітей</param>
-<param name="Серія">Каліграфічний тренажер</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2024</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-617-544-373-6</param>
-<param name="Формат, розмір">165×230 мм</param>
-<param name="Видавництво">Ула</param></offer>
-<offer id="30993" available="true" in_stock="true" selling_type="r" >
-<name>Каліграфічний тренажер УЛА Пишемо букви й слова. Прописи. Завдання. Наліпки</name>
-<vendorCode>9786175443729</vendorCode>
-<url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafichnyi-trenazher-ula-pyshemo-bukvy-y-slova-propysy-zavdannia-nalipky/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>46</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/30993/kaligrafichniy_trenazher_ula_pishemo_bukvi_y_slova_propisi_zavdannya_nalipki.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Каліграфічний тренажер — Пишемо букви й слова  Це видання створене, щоб допомогти дитині навчитися чи відпрацювати вміння писати друковані літери. У книзі подано пунктиром елементи букв, букви й прості слова по клітинках і лініях, а також підібрано тематичні ігрові завдання з наліпками, що сприятимуть закріпленню вивченого матеріалу. Зошит допоможе розвинути дрібну моторику, уяву й мислення, потренувати пам’ять та увагу, адже на його сторінках дитина буде шукати букви, поєднувати їх у слова, розфарбовувати елементи й наводити малюнки по пунктиру.    Видання призначене для дітей старшого дошкільного й молодшого шкільного віку.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Мова">українська</param>
-<param name="Вік">старший дошкільний, молодший шкільний</param>
-<param name="Тип">Посiбник для дітей</param>
-<param name="Серія">Каліграфічний тренажер</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2024</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-617-544-372-9</param>
-<param name="Формат, розмір">165×230 мм</param>
-<param name="Видавництво">Ула</param></offer>
+
+
+
+
 <offer id="30994" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Літній тренажер УЛА Українська мова. Я йду в 5 клас Царенко, Будянська</name>
 <vendorCode>9786175444146</vendorCode>
@@ -74548,10 +74372,10 @@
 <offer id="32377" available="true" in_stock="true" selling_type="r" >
 <name>Маляка і Велика Маня. Книга 4 Маґура Сашко Дерманський</name>
 <vendorCode>9786178177072</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/maliaka-i-velyka-mania-knyha-4-magura-sashko-dermanskyi/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/maliaka-i-velyka-mania-knyha-4-magura-sashko-dermanskyi/</url>
 <currencyId>UAH</currencyId>
 <categoryId>138</categoryId>
-<price>410</price>
+<price>460</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32377/malyaka_i_velika_manya_kniga_4_ma_ura_sashko_dermanskiy.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -74571,10 +74395,10 @@
 <offer id="32378" available="true" in_stock="true" selling_type="r" >
 <name>Маляка і Крококовть. Книга 5. Маґура Сашко Дерманський</name>
 <vendorCode>9786178177089</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/maliaka-i-krokokovt-knyha-5-magura-sashko-dermanskyi/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/maliaka-i-krokokovt-knyha-5-magura-sashko-dermanskyi/</url>
 <currencyId>UAH</currencyId>
 <categoryId>138</categoryId>
-<price>410</price>
+<price>460</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32378/malyaka_i_krokokovt_kniga_5_ma_ura_sashko_dermanskiy.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -74690,10 +74514,10 @@
 <offer id="32383" available="true" in_stock="true" selling_type="r" >
 <name>Билиці й небилиці з чарівної рукавиці Маґура Віра Правоторова</name>
 <vendorCode>9786178177218</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/bylytsi-y-nebylytsi-z-charivnoi-rukavytsi-magura-vira-pravotorova/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/bylytsi-y-nebylytsi-z-charivnoi-rukavytsi-magura-vira-pravotorova/</url>
 <currencyId>UAH</currencyId>
 <categoryId>138</categoryId>
-<price>315</price>
+<price>325</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32383/bilitsi_y_nebilitsi_z_charivno_rukavitsi_ma_ura_vira_pravotorova.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -74713,10 +74537,10 @@
 <offer id="32384" available="true" in_stock="true" selling_type="r" >
 <name>Книга Акі-які-ака-я Маґура Марія Титаренко</name>
 <vendorCode>9786178177584</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/knyha-aki-iaki-aka-ia-magura-mariia-tytarenko/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyha-aki-iaki-aka-ia-magura-mariia-tytarenko/</url>
 <currencyId>UAH</currencyId>
 <categoryId>138</categoryId>
-<price>385</price>
+<price>420</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32384/kniga_aki_yaki_aka_ya_ma_ura_mariya_titarenko.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -74736,10 +74560,10 @@
 <offer id="32385" available="true" in_stock="true" selling_type="r" >
 <name>Ясоччина книжка Маґура Наталя Забіла</name>
 <vendorCode>9786178177195</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/yasochchyna-knyzhka-magura-natalia-zabila/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/yasochchyna-knyzhka-magura-natalia-zabila/</url>
 <currencyId>UAH</currencyId>
 <categoryId>138</categoryId>
-<price>510</price>
+<price>585</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32385/yasochchina_knizhka_ma_ura_natalya_zabila.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -74759,10 +74583,10 @@
 <offer id="32386" available="true" in_stock="true" selling_type="r" >
 <name>Маня і Кабаня Маґура Наталя Бурянчик</name>
 <vendorCode>9786178177249</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/mania-i-kabania-magura-natalia-burianchyk/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/mania-i-kabania-magura-natalia-burianchyk/</url>
 <currencyId>UAH</currencyId>
 <categoryId>138</categoryId>
-<price>335</price>
+<price>360</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32386/manya_i_kabanya_ma_ura_natalya_buryanchik.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -74782,10 +74606,10 @@
 <offer id="32387" available="true" in_stock="true" selling_type="r" >
 <name>Старенький трамвай пана Песика Маґура Дмитро Кузьменко</name>
 <vendorCode>9786178177416</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/starenkyi-tramvai-pana-pesyka-magura-dmytro-kuzmenko/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/starenkyi-tramvai-pana-pesyka-magura-dmytro-kuzmenko/</url>
 <currencyId>UAH</currencyId>
 <categoryId>138</categoryId>
-<price>335</price>
+<price>360</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32387/starenkiy_tramvay_pana_pesika_ma_ura_dmitro_kuzmenko.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -74805,10 +74629,10 @@
 <offer id="32388" available="true" in_stock="true" selling_type="r" >
 <name>Кицюня Настуня. Мешканці Старого Двору Маґура Роман Росіцький</name>
 <vendorCode>9786178177966</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/kytsiunia-nastunia-meshkantsi-staroho-dvoru-magura-roman-rositskyi/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/kytsiunia-nastunia-meshkantsi-staroho-dvoru-magura-roman-rositskyi/</url>
 <currencyId>UAH</currencyId>
 <categoryId>138</categoryId>
-<price>335</price>
+<price>360</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32388/kitsyunya_nastunya_meshkantsi_starogo_dvoru_ma_ura_roman_rositskiy.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -74829,10 +74653,10 @@
 <offer id="32389" available="true" in_stock="true" selling_type="r" >
 <name>Цукерки від Цукерконоша Маґура Анна Сапена</name>
 <vendorCode>9786178177386</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/tsukerky-vid-tsukerkonosha-magura-anna-sapena/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/tsukerky-vid-tsukerkonosha-magura-anna-sapena/</url>
 <currencyId>UAH</currencyId>
 <categoryId>138</categoryId>
-<price>385</price>
+<price>420</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32389/tsukerki_vid_tsukerkonosha_ma_ura_anna_sapena.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -74852,10 +74676,10 @@
 <offer id="32390" available="true" in_stock="true" selling_type="r" >
 <name>Чому потрібна кішка Маґура Галина Пустовгар</name>
 <vendorCode>9786178177522</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/chomu-potribna-kishka-magura-halyna-pustovhar/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/chomu-potribna-kishka-magura-halyna-pustovhar/</url>
 <currencyId>UAH</currencyId>
 <categoryId>138</categoryId>
-<price>385</price>
+<price>420</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32390/chomu_potribna_kishka_ma_ura_galina_pustovgar.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -74875,10 +74699,10 @@
 <offer id="32391" available="true" in_stock="true" selling_type="r" >
 <name>Чаювання велетня Маґура Надя Рибальченко</name>
 <vendorCode>9786178177683</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/chaiuvannia-veletnia-magura-nadia-rybalchenko/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/chaiuvannia-veletnia-magura-nadia-rybalchenko/</url>
 <currencyId>UAH</currencyId>
 <categoryId>138</categoryId>
-<price>385</price>
+<price>420</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32391/chayuvannya_veletnya_ma_ura_nadya_ribalchenko.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -74898,10 +74722,10 @@
 <offer id="32392" available="true" in_stock="true" selling_type="r" >
 <name>Лякачки до усміхачки Маґура Ірен Роздобудько</name>
 <vendorCode>9786178177171</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/liakachky-do-usmikhachky-magura-iren-rozdobudko/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/liakachky-do-usmikhachky-magura-iren-rozdobudko/</url>
 <currencyId>UAH</currencyId>
 <categoryId>138</categoryId>
-<price>440</price>
+<price>490</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32392/lyakachki_do_usmihachki_ma_ura_iren_rozdobudko.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -74921,10 +74745,10 @@
 <offer id="32393" available="true" in_stock="true" selling_type="r" >
 <name>Будиночок на дереві Маґура Дмитро Кузьменко</name>
 <vendorCode>9786178177638</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/budynochok-na-derevi-magura-dmytro-kuzmenko/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/budynochok-na-derevi-magura-dmytro-kuzmenko/</url>
 <currencyId>UAH</currencyId>
 <categoryId>138</categoryId>
-<price>335</price>
+<price>360</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32393/budinochok_na_derevi_ma_ura_dmitro_kuzmenko.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -74944,10 +74768,10 @@
 <offer id="32394" available="true" in_stock="true" selling_type="r" >
 <name>Хто ти насправді, Едзо Момонга? Маґура Інна Данилюк</name>
 <vendorCode>9786178177577</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/khto-ty-naspravdi-edzo-momonha-magura-inna-danyliuk/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/khto-ty-naspravdi-edzo-momonha-magura-inna-danyliuk/</url>
 <currencyId>UAH</currencyId>
 <categoryId>138</categoryId>
-<price>385</price>
+<price>420</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32394/hto_ti_naspravdi_edzo_momonga_ma_ura_inna_danilyuk.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -74967,10 +74791,10 @@
 <offer id="32395" available="true" in_stock="true" selling_type="r" >
 <name>Кращі в світі Тутка-Тамки та інші казки Маґура Таміла Тарасенко</name>
 <vendorCode>9786178177225</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/krashchi-v-sviti-tutka-tamky-ta-inshi-kazky-magura-tamila-tarasenko/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/krashchi-v-sviti-tutka-tamky-ta-inshi-kazky-magura-tamila-tarasenko/</url>
 <currencyId>UAH</currencyId>
 <categoryId>138</categoryId>
-<price>500</price>
+<price>585</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32395/krashchi_v_sviti_tutka_tamki_ta_inshi_kazki_ma_ura_tamila_tarasenko.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -74990,10 +74814,10 @@
 <offer id="32396" available="true" in_stock="true" selling_type="r" >
 <name>Хухля і нездійсненне бажання Маґура Сашко Дерманський</name>
 <vendorCode>9786178177553</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/khukhlia-i-nezdiisnenne-bazhannia-magura-sashko-dermanskyi/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/khukhlia-i-nezdiisnenne-bazhannia-magura-sashko-dermanskyi/</url>
 <currencyId>UAH</currencyId>
 <categoryId>138</categoryId>
-<price>510</price>
+<price>585</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32396/huhlya_i_nezdiysnenne_bazhannya_ma_ura_sashko_dermanskiy.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -75016,7 +74840,7 @@
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/bibika-na-prizvysko-komashka-magura-sashko-dermanskyi/</url>
 <currencyId>UAH</currencyId>
 <categoryId>138</categoryId>
-<price>510</price>
+<price>585</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32397/bibika_na_prizvisko_komashka_ma_ura_sashko_dermanskiy.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -75036,10 +74860,10 @@
 <offer id="32398" available="true" in_stock="true" selling_type="r" >
 <name>Ґрейс. Королівство, переверти й щуряче пукання Маґура Марк Дюбюіссон</name>
 <vendorCode>9786178177911</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/greis-korolivstvo-pereverty-y-shchuriache-pukannia-magura-mark-diubiuisson/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/greis-korolivstvo-pereverty-y-shchuriache-pukannia-magura-mark-diubiuisson/</url>
 <currencyId>UAH</currencyId>
 <categoryId>138</categoryId>
-<price>240</price>
+<price>235</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32398/reys_korolivstvo_pereverti_y_shchuryache_pukannya_ma_ura_mark_dyubyuisson.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -75111,7 +74935,7 @@
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/entsyklopedii/skhybleni-na-nautsi-yak-staty-matematychnym-monstrom-vid-6-rokiv-magura-linda-bertola-103-nalipky/</url>
 <currencyId>UAH</currencyId>
 <categoryId>141</categoryId>
-<price>330</price>
+<price>300</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32401/shibleni_na_nautsi_yak_stati_matematichnim_monstrom_vid_6_rokiv_ma_ura_linda_bertola_103_nalipki.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -75135,7 +74959,7 @@
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/entsyklopedii/skhybleni-na-nautsi-zavrovymiriuvannia-vid-6-rokiv-magura-fosforo-116-nalipok/</url>
 <currencyId>UAH</currencyId>
 <categoryId>141</categoryId>
-<price>330</price>
+<price>300</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32402/shibleni_na_nautsi_zavrovimiryuvannya_vid_6_rokiv_ma_ura_fosforo_116_nalipok.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -75159,7 +74983,7 @@
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/entsyklopedii/skhybleni-na-nautsi-mapy-navchysia-chytaty-mapy-y-maliuvaty-svti-vid-6-rokiv-magura-paola-mizesti-192-nalipky/</url>
 <currencyId>UAH</currencyId>
 <categoryId>141</categoryId>
-<price>330</price>
+<price>300</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32403/shibleni_na_nautsi_mapi_navchisya_chitati_mapi_y_malyuvati_svti_vid_6_rokiv_ma_ura_paola_mizesti_192_nalipki.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -75183,7 +75007,7 @@
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/entsyklopedii/skhybleni-na-nautsi-voda-vid-6-rokiv-magura-tecnoscienza-192-nalipky/</url>
 <currencyId>UAH</currencyId>
 <categoryId>141</categoryId>
-<price>330</price>
+<price>300</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32404/shibleni_na_nautsi_voda_vid_6_rokiv_ma_ura_tecnoscienza_192_nalipki.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -75207,7 +75031,7 @@
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/entsyklopedii/skhybleni-na-nautsi-mista-vid-6-rokiv-magura-paola-mizesti-192-nalipky/</url>
 <currencyId>UAH</currencyId>
 <categoryId>141</categoryId>
-<price>330</price>
+<price>300</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32405/shibleni_na_nautsi_mista_vid_6_rokiv_ma_ura_paola_mizesti_192_nalipki.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -75231,10 +75055,10 @@
 <offer id="32409" available="true" in_stock="true" selling_type="r" >
 <name>Сільський футбольний детектив Маґура Мар&apos;яна Тарнавська</name>
 <vendorCode>9786178177393</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/silskyi-futbolnyi-detektyv-magura-mariana-tarnavska/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/silskyi-futbolnyi-detektyv-magura-mariana-tarnavska/</url>
 <currencyId>UAH</currencyId>
 <categoryId>138</categoryId>
-<price>335</price>
+<price>360</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32409/silskiy_futbolniy_detektiv_ma_ura_mar_yana_tarnavska.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -75254,10 +75078,10 @@
 <offer id="32410" available="true" in_stock="true" selling_type="r" >
 <name>Директор цукрової фабрики Маґура Мар&apos;яна Тарнавська</name>
 <vendorCode>9786178177430</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/dyrektor-tsukrovoi-fabryky-magura-mariana-tarnavska/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/dyrektor-tsukrovoi-fabryky-magura-mariana-tarnavska/</url>
 <currencyId>UAH</currencyId>
 <categoryId>138</categoryId>
-<price>335</price>
+<price>360</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32410/direktor_tsukrovo_fabriki_ma_ura_mar_yana_tarnavska.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -75277,10 +75101,10 @@
 <offer id="32411" available="true" in_stock="true" selling_type="r" >
 <name>Сашко і чарівні кеди Маґура Вікторія Франко</name>
 <vendorCode>9786178177669</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/sashko-i-charivni-kedy-magura-viktoriia-franko/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/sashko-i-charivni-kedy-magura-viktoriia-franko/</url>
 <currencyId>UAH</currencyId>
 <categoryId>138</categoryId>
-<price>335</price>
+<price>360</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32411/sashko_i_charivni_kedi_ma_ura_viktoriya_franko.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -75300,10 +75124,10 @@
 <offer id="32412" available="true" in_stock="true" selling_type="r" >
 <name>Мій джин у телефоні Маґура Ольга Юровська</name>
 <vendorCode>9786178177836</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/mii-dzhyn-u-telefoni-magura-olha-yurovska/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/mii-dzhyn-u-telefoni-magura-olha-yurovska/</url>
 <currencyId>UAH</currencyId>
 <categoryId>138</categoryId>
-<price>450</price>
+<price>510</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32412/miy_dzhin_u_telefoni_ma_ura_olga_yurovska.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -75323,10 +75147,10 @@
 <offer id="32413" available="true" in_stock="true" selling_type="r" >
 <name>Павло Пікассо Маґура Катерина Лазірко</name>
 <vendorCode>9786178177652</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/pavlo-pikasso-magura-kateryna-lazirko/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/pavlo-pikasso-magura-kateryna-lazirko/</url>
 <currencyId>UAH</currencyId>
 <categoryId>138</categoryId>
-<price>335</price>
+<price>360</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32413/pavlo_pikasso_ma_ura_katerina_lazirko.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -75346,10 +75170,10 @@
 <offer id="32414" available="true" in_stock="true" selling_type="r" >
 <name>Свист крізь дірку в зубах Маґура Ірен Роздобудько</name>
 <vendorCode>9786178177201</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/svyst-kriz-dirku-v-zubakh-magura-iren-rozdobudko/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/svyst-kriz-dirku-v-zubakh-magura-iren-rozdobudko/</url>
 <currencyId>UAH</currencyId>
 <categoryId>138</categoryId>
-<price>385</price>
+<price>420</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32414/svist_kriz_dirku_v_zubah_ma_ura_iren_rozdobudko.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -75370,10 +75194,10 @@
 <offer id="32416" available="true" in_stock="true" selling_type="r" >
 <name>Зникнення у Кобилячій Голові Маґура Анна Дьоміна</name>
 <vendorCode>9786178177379</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/znyknennia-u-kobyliachii-holovi-magura-anna-domina/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/znyknennia-u-kobyliachii-holovi-magura-anna-domina/</url>
 <currencyId>UAH</currencyId>
 <categoryId>138</categoryId>
-<price>440</price>
+<price>510</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32416/zniknennya_u_kobilyachiy_golovi_ma_ura_anna_domina.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -75406,10 +75230,10 @@
 <offer id="32430" available="true" in_stock="true" selling_type="r" >
 <name>Соня шукає друзів Маґура Надія Руда</name>
 <vendorCode>9786178177409</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/sonia-shukaie-druziv-magura-nadiia-ruda/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/sonia-shukaie-druziv-magura-nadiia-ruda/</url>
 <currencyId>UAH</currencyId>
 <categoryId>138</categoryId>
-<price>490</price>
+<price>560</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32430/sonya_shuka_druziv_ma_ura_nadiya_ruda.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -75453,10 +75277,10 @@
 <offer id="32432" available="true" in_stock="true" selling_type="r" >
 <name>Острів Циклопа Маґура Леонід Закалюжний</name>
 <vendorCode>9786178177614</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/ostriv-tsyklopa-magura-leonid-zakaliuzhnyi/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/ostriv-tsyklopa-magura-leonid-zakaliuzhnyi/</url>
 <currencyId>UAH</currencyId>
 <categoryId>138</categoryId>
-<price>490</price>
+<price>560</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32432/ostriv_tsiklopa_ma_ura_leonid_zakalyuzhniy.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -75476,10 +75300,10 @@
 <offer id="32433" available="true" in_stock="true" selling_type="r" >
 <name>Нечиста сила та інші капосні історії Маґура Iван Андрусяк</name>
 <vendorCode>9786178177270</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/literatura-dlia-pidlitkiv/nechysta-syla-ta-inshi-kaposni-istorii-magura-ivan-andrusiak/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/nechysta-syla-ta-inshi-kaposni-istorii-magura-ivan-andrusiak/</url>
 <currencyId>UAH</currencyId>
 <categoryId>142</categoryId>
-<price>370</price>
+<price>380</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32433/nechista_sila_ta_inshi_kaposni_istori_ma_ura_ivan_andrusyak.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -75499,10 +75323,10 @@
 <offer id="32434" available="true" in_stock="true" selling_type="r" >
 <name>Танок чугайстра Маґура Сашко Дерманський</name>
 <vendorCode>9786178177256</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/literatura-dlia-pidlitkiv/tanok-chuhaistra-magura-sashko-dermanskyi/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/tanok-chuhaistra-magura-sashko-dermanskyi/</url>
 <currencyId>UAH</currencyId>
 <categoryId>142</categoryId>
-<price>390</price>
+<price>455</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32434/tanok_chugaystra_ma_ura_sashko_dermanskiy.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -75522,10 +75346,10 @@
 <offer id="32435" available="true" in_stock="true" selling_type="r" >
 <name>Король буків, або Таємниця Смарагдової Книги Маґура Сашко Дерманський</name>
 <vendorCode>9786178177188</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/literatura-dlia-pidlitkiv/korol-bukiv-abo-taiemnytsia-smarahdovoi-knyhy-magura-sashko-dermanskyi/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/korol-bukiv-abo-taiemnytsia-smarahdovoi-knyhy-magura-sashko-dermanskyi/</url>
 <currencyId>UAH</currencyId>
 <categoryId>142</categoryId>
-<price>490</price>
+<price>560</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32435/korol_bukiv_abo_ta_mnitsya_smaragdovo_knigi_ma_ura_sashko_dermanskiy.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -75545,10 +75369,10 @@
 <offer id="32436" available="true" in_stock="true" selling_type="r" >
 <name>Царство Яблукарство Маґура Сашко Дерманський</name>
 <vendorCode>9786178177423</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/literatura-dlia-pidlitkiv/tsarstvo-yablukarstvo-magura-sashko-dermanskyi/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/tsarstvo-yablukarstvo-magura-sashko-dermanskyi/</url>
 <currencyId>UAH</currencyId>
 <categoryId>142</categoryId>
-<price>510</price>
+<price>600</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32436/tsarstvo_yablukarstvo_ma_ura_sashko_dermanskiy.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -75568,10 +75392,10 @@
 <offer id="32437" available="true" in_stock="true" selling_type="r" >
 <name>Книга Арсен Маґура Ірен Роздобудько</name>
 <vendorCode>9786178177447</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/literatura-dlia-pidlitkiv/knyha-arsen-magura-iren-rozdobudko/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyha-arsen-magura-iren-rozdobudko/</url>
 <currencyId>UAH</currencyId>
 <categoryId>142</categoryId>
-<price>510</price>
+<price>560</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32437/kniga_arsen_ma_ura_iren_rozdobudko.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -75591,10 +75415,10 @@
 <offer id="32438" available="true" in_stock="true" selling_type="r" >
 <name>Пригоди команди смугастих Маґура Ольга Савельєва</name>
 <vendorCode>9786178177928</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/literatura-dlia-pidlitkiv/pryhody-komandy-smuhastykh-magura-olha-savelieva/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/pryhody-komandy-smuhastykh-magura-olha-savelieva/</url>
 <currencyId>UAH</currencyId>
 <categoryId>142</categoryId>
-<price>510</price>
+<price>560</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32438/prigodi_komandi_smugastih_ma_ura_olga_savel_va.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -75614,10 +75438,10 @@
 <offer id="32439" available="true" in_stock="true" selling_type="r" >
 <name>Книга Нічийні Маґура Тетяна Рубан</name>
 <vendorCode>9786178177324</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/literatura-dlia-pidlitkiv/knyha-nichyini-magura-tetiana-ruban/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyha-nichyini-magura-tetiana-ruban/</url>
 <currencyId>UAH</currencyId>
 <categoryId>142</categoryId>
-<price>335</price>
+<price>350</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32439/kniga_nichiyni_ma_ura_tetyana_ruban.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -75637,10 +75461,10 @@
 <offer id="32440" available="true" in_stock="true" selling_type="r" >
 <name>Народжена перемагати Маґура Віктор Янкевич</name>
 <vendorCode>9786178177232</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/literatura-dlia-pidlitkiv/narodzhena-peremahaty-magura-viktor-yankevych/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/narodzhena-peremahaty-magura-viktor-yankevych/</url>
 <currencyId>UAH</currencyId>
 <categoryId>142</categoryId>
-<price>490</price>
+<price>520</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32440/narodzhena_peremagati_ma_ura_viktor_yankevich.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -75660,10 +75484,10 @@
 <offer id="32441" available="true" in_stock="true" selling_type="r" >
 <name>Фортуна. Будинок для подорожніх Маґура Елізабет Жамм</name>
 <vendorCode>9786178177850</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/literatura-dlia-pidlitkiv/fortuna-budynok-dlia-podorozhnikh-magura-elizabet-zhamm/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/fortuna-budynok-dlia-podorozhnikh-magura-elizabet-zhamm/</url>
 <currencyId>UAH</currencyId>
 <categoryId>142</categoryId>
-<price>630</price>
+<price>680</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32441/fortuna_budinok_dlya_podorozhnih_ma_ura_elizabet_zhamm.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -75683,10 +75507,10 @@
 <offer id="32442" available="true" in_stock="true" selling_type="r" >
 <name>Залізний вовк Маґура Оксана Лущевська</name>
 <vendorCode>9786178177621</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/literatura-dlia-pidlitkiv/zaliznyi-vovk-magura-oksana-lushchevska/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zaliznyi-vovk-magura-oksana-lushchevska/</url>
 <currencyId>UAH</currencyId>
 <categoryId>142</categoryId>
-<price>400</price>
+<price>420</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32442/zalizniy_vovk_ma_ura_oksana_lushchevska.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -75706,10 +75530,10 @@
 <offer id="32443" available="true" in_stock="true" selling_type="r" >
 <name>Незнайомка в люстерку Маґура Наталка Ліщинська</name>
 <vendorCode>9786178177454</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/literatura-dlia-pidlitkiv/neznaiomka-v-liusterku-magura-natalka-lishchynska/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/neznaiomka-v-liusterku-magura-natalka-lishchynska/</url>
 <currencyId>UAH</currencyId>
 <categoryId>142</categoryId>
-<price>510</price>
+<price>530</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32443/neznayomka_v_lyusterku_ma_ura_natalka_lishchinska.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -75729,10 +75553,10 @@
 <offer id="32444" available="true" in_stock="true" selling_type="r" >
 <name>Янголи ніколи не сплять. Крила кольору хмар Маґура Дара Корній, Таміла Тарасенко</name>
 <vendorCode>9786178177294</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/literatura-dlia-pidlitkiv/yanholy-nikoly-ne-spliat-kryla-koloru-khmar-magura-dara-kornii-tamila-tarasenko/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/yanholy-nikoly-ne-spliat-kryla-koloru-khmar-magura-dara-kornii-tamila-tarasenko/</url>
 <currencyId>UAH</currencyId>
 <categoryId>142</categoryId>
-<price>600</price>
+<price>680</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32444/yangoli_nikoli_ne_splyat_krila_koloru_hmar_ma_ura_dara_korniy_tamila_tarasenko.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -75756,7 +75580,7 @@
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/literatura-dlia-pidlitkiv/yanholy-nikoly-ne-spliat-knyha-2-zozuliata-zymy-magura-dara-kornii-tamila-tarasenko/</url>
 <currencyId>UAH</currencyId>
 <categoryId>142</categoryId>
-<price>610</price>
+<price>680</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32445/yangoli_nikoli_ne_splyat_kniga_2_zozulyata_zimi_ma_ura_dara_korniy_tamila_tarasenko.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -75777,10 +75601,10 @@
 <offer id="32446" available="true" in_stock="true" selling_type="r" >
 <name>Заграва північна Маґура Тетяна Рубан</name>
 <vendorCode>9786178177713</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/literatura-dlia-pidlitkiv/zahrava-pivnichna-magura-tetiana-ruban/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zahrava-pivnichna-magura-tetiana-ruban/</url>
 <currencyId>UAH</currencyId>
 <categoryId>142</categoryId>
-<price>510</price>
+<price>530</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32446/zagrava_pivnichna_ma_ura_tetyana_ruban.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -75800,10 +75624,10 @@
 <offer id="32447" available="true" in_stock="true" selling_type="r" >
 <name>Піца «Гімалаї» Маґура Ірена Карпа</name>
 <vendorCode>9786178177812</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/literatura-dlia-pidlitkiv/pitsa-himalai-magura-irena-karpa/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/pitsa-himalai-magura-irena-karpa/</url>
 <currencyId>UAH</currencyId>
 <categoryId>142</categoryId>
-<price>550</price>
+<price>600</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32447/pitsa_gimala_ma_ura_irena_karpa.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -75869,10 +75693,10 @@
 <offer id="32450" available="true" in_stock="true" selling_type="r" >
 <name>Книга Я не забуду Маґура Віктор Янкевич</name>
 <vendorCode>9786178177560</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/literatura-dlia-pidlitkiv/knyha-ya-ne-zabudu-magura-viktor-yankevych/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyha-ya-ne-zabudu-magura-viktor-yankevych/</url>
 <currencyId>UAH</currencyId>
 <categoryId>142</categoryId>
-<price>410</price>
+<price>450</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32450/kniga_ya_ne_zabudu_ma_ura_viktor_yankevich.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -75892,10 +75716,10 @@
 <offer id="32451" available="true" in_stock="true" selling_type="r" >
 <name>Завтра знову Сьогодні Маґура Віталій Запека</name>
 <vendorCode>9786178177317</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/literatura-dlia-pidlitkiv/zavtra-znovu-sohodni-magura-vitalii-zapeka/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zavtra-znovu-sohodni-magura-vitalii-zapeka/</url>
 <currencyId>UAH</currencyId>
 <categoryId>142</categoryId>
-<price>410</price>
+<price>450</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32451/zavtra_znovu_sogodni_ma_ura_vitaliy_zapeka.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -75915,10 +75739,10 @@
 <offer id="32452" available="true" in_stock="true" selling_type="r" >
 <name>Герої, херої та не дуже Маґура Віталій Запека</name>
 <vendorCode>9786178177287</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/literatura-dlia-pidlitkiv/heroi-kheroi-ta-ne-duzhe-magura-vitalii-zapeka/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/heroi-kheroi-ta-ne-duzhe-magura-vitalii-zapeka/</url>
 <currencyId>UAH</currencyId>
 <categoryId>142</categoryId>
-<price>460</price>
+<price>500</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32452/gero_hero_ta_ne_duzhe_ma_ura_vitaliy_zapeka.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -75938,10 +75762,10 @@
 <offer id="32453" available="true" in_stock="true" selling_type="r" >
 <name>Коли зацвіте каштан Маґура Ярко Любич</name>
 <vendorCode>9786178177676</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/literatura-dlia-pidlitkiv/koly-zatsvite-kashtan-magura-yarko-liubych/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/koly-zatsvite-kashtan-magura-yarko-liubych/</url>
 <currencyId>UAH</currencyId>
 <categoryId>142</categoryId>
-<price>550</price>
+<price>600</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32453/koli_zatsvite_kashtan_ma_ura_yarko_lyubich.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -75961,10 +75785,10 @@
 <offer id="32454" available="true" in_stock="true" selling_type="r" >
 <name>З роси, з води і з калабані Маґура Ірена Карпа</name>
 <vendorCode>9786178177478</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/literatura-dlia-pidlitkiv/z-rosy-z-vody-i-z-kalabani-magura-irena-karpa/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/z-rosy-z-vody-i-z-kalabani-magura-irena-karpa/</url>
 <currencyId>UAH</currencyId>
 <categoryId>142</categoryId>
-<price>410</price>
+<price>450</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/32454/z_rosi_z_vodi_i_z_kalabani_ma_ura_irena_karpa.jpg</picture>
 <vendor>Магура</vendor>
 <description>
@@ -80622,27 +80446,7 @@
 
 
 
-<offer id="32975" available="true" in_stock="true" selling_type="r" >
-<name>Комплект із 6 книг Матусина бібліотечка Основа Віршенята для малят</name>
-<vendorCode>1210224</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-virshykiv-opovidan/komplekt-iz-6-knyh-matusyna-bibliotechka-osnova-virsheniata-dlia-maliat/</url>
-<currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
-<price>1500</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/32975/komplekt_iz_6_knig_matusina_bibliotechka_osnova_virshenyata_dlya_malyat.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[Комплект із 6 книг Віршенята для малят. Серія: Матусина бібліотечка   1. Віршенята-загадки для малят. 3-5 років.   «Віршенята-загадки» — це добірка коротеньких римованих текстів, що ознайомлять дітей 3–5 років з явищами природи, рослинами й тваринами, транспортними засобами, іграшками, приладдям для творчості тощо. А чудові кольорові ілюстрації допоможуть легко відгадати загадки!  Завдяки зручному формату книжки віршенята завжди будуть попідруч у матусі, супроводжуючи її з малюком удома й під час прогулянок, очікувань у черзі, подорожей тощо.  «Віршенята-загадки» — це незабутні миті теплого спілкування батьків із малюками. Нехай цих моментів буде якнайбільше!   2. Віршенята для вправних рученят. Пальчикові, будівельні та інші ігри для розвитку дрібної моторики малят. 2–3 роки   «Віршенята для вправних рученят» — це чудово ілюстрована добірка авторських віршованих ігор для розвитку дрібної моторики малюків віком 2–3 роки з рекомендаціями щодо їх проведення. Коротенькі примовки як супровід пальчикових і будівельних ігор, ігор із піском і прищіпками, малювання та ліплення, нанизування та сортування допоможуть дитині захопливо гратися, спілкуватися та досліджувати довкілля.  Завдяки зручному формату книжки віршенята завжди будуть попідруч у матусі, супроводжуючи її з малюком удома й під час прогулянок, очікувань у черзі, подорожей тощо.  «Віршенята для вправних рученят» — це незабутні миті теплого спілкування батьків із малюками. Нехай цих моментів буде якнайбільше!   3. Віршенята-гралочки Забавлянки, утішки, руханки, лічилки для малят. 0–3 роки.   «Віршенята-гралочки» — це перші забавлянки, утішки, чукикалки, руханки, лічилки та інші віршовані ігри для малюків, які допоможуть захопливо гратися, спілкуватися та досліджувати довкілля. Ба більше: дитина вдосконалюватиме дрібну моторику й вестибулярний апарат, навички лічби і правильної вимови, навчиться розподіляти ігрові ролі й миритися. Завдяки зручному формату книжки віршенята завжди будуть попідруч у матусі, супроводжуючи її з малюком удома й під час прогулянок, очікувань у черзі, подорожей тощо.  «Віршенята-гралочки» — це незабутні миті теплого спілкування батьків із малюками. Нехай цих моментів буде якнайбільше!   4. Віршенята на щодень Примовки, потішки, забавлянки, колисанки для малят. 0–3 роки.   «Віршенята на щодень» — перші примовки й потішки для малюків, які допоможуть легко прокидатися, з апетитом їсти, залюбки вдягатися на прогулянку, захопливо гратися, спілкуватися та досліджувати довкілля, а колисаночки — швидко засинати. Ба більше: віршенята мотивуватимуть малюка навчитися пити із чашки, користуватися горщиком, засинати без пустушки й швидше адаптуватися до дитячого садка!  Завдяки зручному формату книжки віршенята завжди будуть попідруч у матусі, супроводжуючи її з малюком під час щоденних ритуалів, прогулянок, очікувань у черзі, подорожей тощо.  «Віршенята на щодень» — це незабутні миті теплого спілкування батьків із малюками. Нехай цих моментів буде якнайбільше!   5.Віршенята-чистомовки Усі звуки та літери української абетки 2-4 роки.   «Віршенята-чистомовки» — це чудово ілюстрована добірка авторських віршиків — ритмічних ігор здебільшого із жартівливим сюжетом, спрямованих на тренування та розвиток артикуляційного апарату малюків віком від 3 років. Декламування чистомовок дорослими, а потому спільне промовляння та розучування з дитиною сприятимуть розрізненню певних звуків, збагаченню словникового запасу, удосконаленню пам’яті, уваги. Завдяки зручному формату книжки віршенята завжди будуть напохваті в матусі, супроводжуючи її з малюком удома й під час прогулянок, очікувань у черзі, подорожей тощо. «Віршенята-чистомовки» — це незабутні миті теплого спілкування батьків із малюками. Нехай цих моментів буде якнайбільше!   6. Віршенята-скоромовки Усі звуки та літери української абетки 2-4 роки   «Віршенята-скоромовки» — це чудово ілюстрована добірка авторських віршиків — ритмічних ігор здебільшого із жартівливим сюжетом, спрямованих на тренування та розвиток артикуляційного апарату малюків віком від 3 років. Декламування скоромовок дорослими, а потому спільне промовляння та розучування з дитиною сприятимуть розрізненню певних звуків, збагаченню словникового запасу, удосконаленню пам’яті, уваги. Завдяки зручному формату книжки віршенята завжди будуть напохваті в матусі, супроводжуючи її з малюком удома й під час прогулянок, очікувань у черзі, подорожей тощо. «Віршенята-скоромовки» — це незабутні миті теплого спілкування батьків із малюками. Нехай цих моментів буде якнайбільше!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Юлія Пеліхова, Юлія Забіяка</param>
-<param name="Мова">українська</param>
-<param name="Тип">Книга, комплект</param>
-<param name="Серія">Матусина бібліотечка</param>
-<param name="Рік видання">2025, 2026</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">тверда</param>
-<param name="ISBN">9786170043092, 9786170043313, 9786170043054, 9786170042972, 9786170044280, 9786170044327</param>
-<param name="Видавництво">Основа / 4MAMAS</param></offer>
+
 <offer id="32976" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Комплект зошитів 5000 завдань Основа Веселий тренажер 2 клас Українська мова + Математика</name>
 <vendorCode>9786170044594, 9786170043542</vendorCode>
