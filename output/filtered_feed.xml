@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-11-07 12:00">
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-11-08 12:00">
 <shop>
 <url>https://knigovan.com/</url>
 <name>Книгован</name>
@@ -7500,7 +7500,7 @@
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/pidhotovka-do-zno-ta-dpa-kompleksne-vydannia-matematyka-povnyi-povtoriuvalnyi-kurs-abetka-ister-o-s/</url>
 <currencyId>UAH</currencyId>
 <categoryId>71</categoryId>
-<price>395</price>
+<price>385</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24780/pidgotovka_do_zno_ta_dpa_kompleksne_vidannya_matematika_povniy_povtoryuvalniy_kurs_abetka_ister_o_s.jpg</picture>
 <vendor>Абетка</vendor>
 <description>
@@ -54618,7 +54618,7 @@
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/nush-mii-zoshyt-dlia-navchannia-abetka-biolohiia-7-klas-rozdil-diialnist-sobol/</url>
 <currencyId>UAH</currencyId>
 <categoryId>49</categoryId>
-<price>160</price>
+<price>150</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/30659/nush_miy_zoshit_dlya_navchannya_abetka_biologiya_7_klas_rozdil_diyalnist_sobol.jpg</picture>
 <vendor>Абетка</vendor>
 <description>
@@ -60208,7 +60208,7 @@
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/nush-shvydkochytailyk-pidruchnyky-i-posibnyky-4-klas-posibnyk-z-rozvytku-navychok-shvydkochytannia-savchuk-sapun/</url>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
-<price>75</price>
+<price>80</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31346/nush_shvidkochitaylik_pidruchniki_i_posibniki_4_klas_posibnik_z_rozvitku_navichok_shvidkochitannya_savchuk_sapun.jpg</picture>
 <vendor>Пiдручники i посiбники</vendor>
 <description>
@@ -88761,7 +88761,7 @@
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/4-klas-1/nush-2-albom-heneza-ia-doslidzhuiu-svit-4-klas-tekhnolohichna-haluz-tetiana-hilberh-2026-rik/</url>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
-<price>150</price>
+<price>130</price>
 <picture>https://knigovan.com/image/catalog/products/33611/nush-albom-geneza-ya-dosl-dzhuyu-sv-t-4-klas-tehnolog-chna-galuz-g-lberg-1.jpeg</picture>
 <vendor>Генеза</vendor>
 <description>
