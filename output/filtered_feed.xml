@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-11-11 12:00">
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-11-12 12:00">
 <shop>
 <url>https://knigovan.com/</url>
 <name>Книгован</name>
@@ -5350,12 +5350,12 @@
 
 
 <offer id="24525" available="true" in_stock="true" selling_type="r" >
-<name>Дитина народилася! (укр)</name>
+<name>Для турботливих батьків Основа Дитина народилася!  М. Малихіна</name>
 <vendorCode>9786170025456</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/dlia-turbotlyvykh-batkiv/dytyna-narodylasia-ukr/</url>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/dlia-turbotlyvykh-batkiv/dlia-turbotlyvykh-batkiv-osnova-dytyna-narodylasia-m-malykhina/</url>
 <currencyId>UAH</currencyId>
 <categoryId>137</categoryId>
-<price>250</price>
+<price>350</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24525/ditina_narodilasya_ukr.jpg</picture>
 <vendor>Основа</vendor>
 <description>
@@ -17594,52 +17594,8 @@
 <param name="Тип обкладинки">м&apos;яка</param>
 <param name="ISBN">9789669398239</param>
 <param name="Видавництво">Торсiнг</param></offer>
-<offer id="26171" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Оцінювання Основа Усі діагностичні роботи 3 клас</name>
-<vendorCode>9786170039729</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/3-klas-1/nush-otsiniuvannia-osnova-usi-diahnostychni-roboty-3-klas/</url>
-<currencyId>UAH</currencyId>
-<categoryId>10</categoryId>
-<price>120</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/26171/nush_otsinyuvannya_osnova_usi_diagnostichni_roboti_3_klas.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[НУШ Оцінювання Основа Усі діагностичні роботи 3 клас. Видання стане в пригоді вчителям початкових класів, методистам з початкового навчання.    * 11 діагностичних робіт з української мови у двох/трьох варіантах. * 15 діагностичних робіт з математики у двох варіантах. * 15 діагностичних робіт з інтегрованого курсу «Я досліджую світ» у двох варіантах. У посібнику запропоновано діагностичні роботи різного типу: диктанти, тексти для списування, комбіновані роботи,  тестові..    Передбачено місце для самооцінювання учня та коментаря вчителя.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Автор">С. Г. Мельник</param>
-<param name="Мова">українська</param>
-<param name="Вік">3 клас</param>
-<param name="Тип">Посiбник для вчителя</param>
-<param name="Серія">НУШ Оцінювання</param>
-<param name="Кількість сторінок">128</param>
-<param name="Тип паперу">офсет</param>
-<param name="Тип обкладинки">м&apos;яка, ламінована</param>
-<param name="ISBN">9786170039729</param>
-<param name="Формат, розмір">А4 (210*280 мм)</param>
-<param name="Видавництво">Основа</param></offer>
-<offer id="26172" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Оцінювання Основа Усі діагностичні роботи 2 клас</name>
-<vendorCode>9786170039583</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/2-klas-1/nush-otsiniuvannia-osnova-usi-diahnostychni-roboty-2-klas/</url>
-<currencyId>UAH</currencyId>
-<categoryId>9</categoryId>
-<price>120</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/26172/nush_otsinyuvannya_osnova_usi_diagnostichni_roboti_2_klas.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[НУШ Оцінювання Основа Усі діагностичні роботи 2 клас. Видання стане в пригоді вчителям початкових класів, методистам з початкового навчання.    * 8 діагностичних робіт з української мови у двох/трьох варіантах. * 15 діагностичних робіт з математики у двох варіантах. * 12 діагностичних робіт з інтегрованого курсу «Я досліджую світ» у двох варіантах. У посібнику запропоновано діагностичні роботи різного типу: диктанти, тексти для списування, комбіновані роботи,  тестові..    Передбачено місце для самооцінювання учня та коментаря вчителя.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Автор">С. Г. Мельник</param>
-<param name="Мова">українська</param>
-<param name="Вік">2 клас</param>
-<param name="Тип">Посiбник для вчителя</param>
-<param name="Серія">НУШ Оцінювання</param>
-<param name="Кількість сторінок">96</param>
-<param name="Тип паперу">офсет</param>
-<param name="Тип обкладинки">м&apos;яка, ламінована</param>
-<param name="ISBN">9786170039583</param>
-<param name="Формат, розмір">А4 (210*280 мм)</param>
-<param name="Видавництво">Основа</param></offer>
+
+
 
 <offer id="26174" available="true" in_stock="true" selling_type="r" >
 <name>Знайди та покажи УЛА Таємничий ліс</name>
@@ -20104,28 +20060,27 @@
 <param name="Формат, розмір">153х218 мм</param>
 <param name="Видавництво">Основа</param></offer>
 <offer id="26377" available="true" in_stock="true" selling_type="r" >
-<name>Візуалізований довідник Основа Цікаві домашні досліди</name>
-<vendorCode>9786170039743</vendorCode>
+<name>Візуалізований довідник Основа Цікаві домашні досліди для дітей 4–10 років Л. Пужайчереда, В. Карнаушенко</name>
+<vendorCode>9786170045416</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dovidnyky/vizualizovanyi-dovidnyk-osnova-tsikavi-domashni-doslidy/</url>
 <currencyId>UAH</currencyId>
 <categoryId>32</categoryId>
-<price>280</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/26377/vizualizovaniy_dovidnik_osnova_tsikavi_domashni_doslidi.jpg</picture>
+<price>350</price>
+<picture>https://knigovan.com/image/catalog/products/26377/v-zual-zovaniy-dov-dnik-osnova-ts-kav-domashn-dosl-di-1.jpg</picture>
 <vendor>Основа</vendor>
 <description>
-<![CDATA[Візуалізований довідник. Цікаві домашні досліди. ВИД005.   Запрошуємо в захопливий світ НАУКИ! Чи можна склеїти лід? Чи може вода мандрувати? Чи можна утримати мильну бульбашку на долоні? Нумо досліджувати! Книга містить 37 різноманітних, цікавих та безпечних дослідів, за допомогою яких можна стимулювати дитячу допитливість та жагу нових вражень. Досліди не потребують дорогих чи рідкісних складників, спеціального обладнання чи особливих навичок. Їх можна провести вдома з тими речовинами, які є на кухні або в портфелі. Кожний дослід описано за певною структурою: про що йдеться; перелік складників, які потрібні для його проведення; покроковий алгоритм у малюнках з коментарями і коротке пояснення процесів, які відбуваються під час досліду. Для кого ця книга? В книзі є досліди для малечі, що тільки вчиться спостерігати за явищами навколо за допомогою дорослих. А ще ми пропонуємо досліди, які діти можуть виконувати самостійно. Безпечні домашні досліди можуть стати чудовою родинною розвагою як для дітей 4–10 років, так і для їхніх батьків. Запрошуємо пліч-о-пліч зі своїми дітьми долучитися до відкриття таємниці навколишнього світу! Спілкуйтеся, досліджуйте, пізнавайте!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<![CDATA[Візуалізований довідник. Цікаві домашні досліди. ВИД015 Запрошуємо в захопливий світ НАУКИ! Чи можна склеїти лід? Чи може вода мандрувати? Чи можна утримати мильну бульбашку на долоні? Нумо досліджувати! Книга містить 37 різноманітних, цікавих та безпечних дослідів, за допомогою яких можна стимулювати дитячу допитливість та жагу нових вражень. Досліди не потребують дорогих чи рідкісних складників, спеціального обладнання чи особливих навичок. Їх можна провести вдома з тими речовинами, які є на кухні або в портфелі. Безпечні домашні досліди можуть стати чудовою родинною розвагою як для дітей 4–10 років, так і для їхніх батьків. Запрошуємо пліч-о-пліч зі своїми дітьми долучитися до відкриття таємниці навколишнього світу! Спілкуйтеся, досліджуйте, пізнавайте!]]></description>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Автор">Пужайчереда Лариса Карнаушенко Вікторiя</param>
 <param name="Мова">українська</param>
 <param name="Вік">4-10 років</param>
 <param name="Тип">Посібник для учня</param>
 <param name="Серія">Візуалізований довідник</param>
 <param name="Кількість сторінок">80</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет, кольоровий</param>
 <param name="Тип обкладинки">тверда</param>
-<param name="ISBN">9786170039743</param>
-<param name="Формат, розмір">171х236 мм</param>
+<param name="ISBN">9786170045416</param>
 <param name="Видавництво">Основа</param></offer>
 <offer id="26378" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Банк моїх досягнень 4 клас Портфоліо Робочий зошит Основа (Шелкова)</name>
@@ -20485,7 +20440,7 @@
 <vendorCode>9789662848915</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/virshyky-zahadky-ula-vyrushai-u-podorozh/</url>
 <currencyId>UAH</currencyId>
-<categoryId>139</categoryId>
+<categoryId>138</categoryId>
 <price>45</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26433/virshiki_zagadki_ula_virushay_u_podorozh.jpg</picture>
 <vendor>УЛА</vendor>
@@ -20508,7 +20463,7 @@
 <vendorCode>9789662848922</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/virshyky-zahadky-ula-nahodui-tvarynok/</url>
 <currencyId>UAH</currencyId>
-<categoryId>139</categoryId>
+<categoryId>138</categoryId>
 <price>45</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26434/virshiki_zagadki_ula_nagoduy_tvarinok.jpg</picture>
 <vendor>УЛА</vendor>
@@ -20531,7 +20486,7 @@
 <vendorCode>9789662848939</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/virshyky-zahadky-ula-upiznai-maliuka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>139</categoryId>
+<categoryId>138</categoryId>
 <price>45</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26435/virshiki_zagadki_ula_upiznay_malyuka.jpg</picture>
 <vendor>УЛА</vendor>
@@ -29370,27 +29325,7 @@
 
 
 
-<offer id="27457" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Оцінювання Основа УСІ діагностувальні роботи Математика 5 клас</name>
-<vendorCode>9786170040657</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/5-klas-1/nush-otsiniuvannia-osnova-usi-diahnostuvalni-roboty-matematyka-5-klas/</url>
-<currencyId>UAH</currencyId>
-<categoryId>47</categoryId>
-<price>120</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27457/nush_otsinyuvannya_osnova_usi_diagnostuvalni_roboti_matematika_5_klas.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[НУШ Оцінювання УСІ діагностувальні роботи. Математика. 5 клас. КЗП008  Посібник містить систему завдань, призначених для оцінювання навчальних досягнень учнів 5-го класу з усіх тем курсу відповідно до вимог нового Державного стандарту базової загальної середньої освіти, Типової освітньої програми для 5–9 класів закладів загальної середньої освіти (наказ МОН від 19.02.2021 № 235), змісту всіх чинних модельних навчальних програм «Математика. 5–6 класи» для закладів загальної середньої освіти, рекомендованих Міністерством освіти і науки України (наказ МОН від 12.07.2021 № 795). Пропоновані завдання дібрані для всіх видів оцінювання з математики, зокрема: бліцоцінювання, поточних комбінованих, тестових, підсумкових діагностувальних робіт. Усі роботи розміщені на окремих аркушах зручного формату (за варіантами), наприкінці яких відведене місце для самооцінювання здобувачів освіти та коментаря вчителя.    Для вчителів математики, учнів 5-х класів Нової української школи.]]></description>
-<quantity_in_stock>32</quantity_in_stock>
-<param name="Автор">В. А. Казакова М. В. Коновалова</param>
-<param name="Мова">українська</param>
-<param name="Вік">5 клас</param>
-<param name="Серія">Оцінювання</param>
-<param name="Кількість сторінок">80</param>
-<param name="Рік видання">2022</param>
-<param name="ISBN">9786170040664</param>
-<param name="Формат, розмір">А4</param>
-<param name="Видавництво">Основа</param></offer>
+
 
 
 
@@ -31767,7 +31702,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[НУШ. Математика. 5 клас. Бліцоцінювання БУЧ002 (Старова О. О.)  Дидактичні картки для поточного формувального оцінювання учнів складені до всіх тем курсу «Математика. 5 клас» і можуть бути використані під будь-яку модельну програму. Завдяки їм учитель зможе, не витрачаючи власного часу на підготовку, за 5–7 хвилин якісно оцінити знання учнів на будь-якому етапі уроку і вчасно скоригувати їх. Оригінальні й цікаві завдання сприятимуть тому, що стресовий для учнів процес оцінювання перетвориться на розумну розвагу. Чотири варіанти карток до кожної теми завадять списуванню.  Форматування карток дасть змогу використати їх як для копіювання для всіх учнів класу, так і для розрізання та роботи кількох учнів.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Автор">Старова О. О.</param>
 <param name="Мова">українська</param>
 <param name="Вік">5 клас</param>
@@ -33704,54 +33639,8 @@
 <param name="ISBN">9786175241264</param>
 <param name="Формат, розмір">20х14 см</param></offer>
 
-<offer id="27907" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Мій конспект Основа Пізнаємо природу 5 клас Матеріали до уроків Філончук</name>
-<vendorCode>9786170041111</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/rozrobky-urokiv/5-klas/nush-mii-konspekt-osnova-piznaiemo-pryrodu-5-klas-materialy-do-urokiv-filonchuk/</url>
-<currencyId>UAH</currencyId>
-<categoryId>39</categoryId>
-<price>220</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27907/nush_miy_konspekt_osnova_pizna_mo_prirodu_5_klas_materiali_do_urokiv_filonchuk.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[Пізнаємо природу. 5 клас. Мій конспект. Матеріали до уроків ПГР001 (Філончук З. В.)   Без стресу, швидко та якісно підготуватися до уроків за Концепцією «Нова українська школа» має на меті пропонований посібник.  Під будь-яку модельну програму курсу «Пізнаємо природу. 5 клас» Ви знайдете у ньому весь необхідний матеріал до уроків, а саме: очікувані результати навчальної діяльності, детальні методчині рекомендації для всіх етапів уроку відповідно до вимог Державного стандарту базової середньої освіти, важливі аспекти нового теоретичного матеріалу, цікаві факти. А головне — Ви отримаєте багато сучасних, креативних, цікавих інтерактивних та ігрових прийомів роботи, вправ, завдань, практичних робіт, проєктів, що дадуть змогу Вам у співпраці з учнями щоразу створювати незабутні уроки.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Автор">Філончук З. В.</param>
-<param name="Мова">українська</param>
-<param name="Вік">5 клас</param>
-<param name="Тип">Посiбник для вчителя</param>
-<param name="Серія">Мій конспект. Матеріали до уроків</param>
-<param name="Кількість сторінок">160</param>
-<param name="Рік видання">2022</param>
-<param name="Тип паперу">офсет, чорно-біла</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786170041111</param>
-<param name="Формат, розмір">А-4</param>
-<param name="Видавництво">Основа</param></offer>
-<offer id="27908" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Мій конспект Основа Інформатика 5 клас Матеріали до уроків Котляр</name>
-<vendorCode>9786170041104</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/rozrobky-urokiv/5-klas/nush-mii-konspekt-osnova-informatyka-5-klas-materialy-do-urokiv-kotliar/</url>
-<currencyId>UAH</currencyId>
-<categoryId>39</categoryId>
-<price>195</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27908/nush_miy_konspekt_osnova_informatika_5_klas_materiali_do_urokiv_kotlyar.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[Інформатика. 5 клас. Матеріали до уроків. Мій конспект ИНР001 (І. О. Котляр)   Без стресу, швидко та якісно підготуватися до уроків за Концепцією «Нова українська школа» має на меті пропонований посібник.  Під будь-яку модельну програму курсу «Інформатика. 5 клас» Ви знайдете у ньому весь необхідний матеріал до уроків, а саме: очікувані результати навчальної діяльності, детально розроблені всі етапи уроку відповідно до вимог Державного стандарту базової середньої освіти, важливі аспекти нового теоретичного матеріалу, цікаві факти. А головне – Ви дізнаєтеся про багато сучасних, креативних, цікавих інтерактивних та ігрових прийомів роботи, вправ, завдань, практичних робіт, проєктів, методичних рекомендацій, що дадуть змогу Вам у співпраці з учнями щоразу створювати незабутні уроки.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Автор">І. О. Котляр</param>
-<param name="Мова">українська</param>
-<param name="Вік">5 клас</param>
-<param name="Тип">Посiбник для вчителя</param>
-<param name="Серія">Мій конспект. Матеріали до уроків</param>
-<param name="Кількість сторінок">128</param>
-<param name="Рік видання">2022</param>
-<param name="Тип паперу">офсет, чорно-біла</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786170041104</param>
-<param name="Формат, розмір">А-4</param>
-<param name="Видавництво">Основа</param></offer>
+
+
 <offer id="27909" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Мій конспект Основа Фізична культура 5 клас Матеріали до уроків Котляр</name>
 <vendorCode>9786170041234</vendorCode>
@@ -34240,50 +34129,8 @@
 <param name="ISBN">9786170041296</param>
 <param name="Формат, розмір">А-4</param>
 <param name="Видавництво">Основа</param></offer>
-<offer id="27966" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Оцінювання Основа Усі діагностувальні роботи Пізнаємо природу 5 клас Філончук</name>
-<vendorCode>9786170041265</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/5-klas-1/nush-otsiniuvannia-osnova-usi-diahnostuvalni-roboty-piznaiemo-pryrodu-5-klas-filonchuk/</url>
-<currencyId>UAH</currencyId>
-<categoryId>47</categoryId>
-<price>120</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27966/nush_otsinyuvannya_osnova_usi_diagnostuvalni_roboti_pizna_mo_prirodu_5_klas_filonchuk.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[Пізнаємо природу. Усі діагностувальні роботи. 5 клас (Філончук З. В.) НУШ КЗП007  Посібник містить варіанти діагностувальних робіт, призначених для оцінювання результатів навчання учнів 5-го класу з курсу «Пізнаємо природу». Розрахований на вчителів інтегрованого курсу «Пізнаємо природу», а також учителів окремих природничих дисциплін, студентів природничих спеціальностей педагогічних закладів вищої освіти.  ЗМІСТ:  Передмова . . . 3 Комбінована діагностувальна робота №1. Для чого досліджувати природу . . 4 Комбінована діагностувальна робота №2. Як бути природослідником . . . . 6 Тестова діагностувальна робота №1. Вчимося досліджувати природу . . . 10 Діагностувальний мініпроєкт. Прилади для дослідження природи. Термометр . . . . 14 Комбінована діагностувальна робота №3. Досліджуємо тіла, речовини, явища . . . . . 16 Тестова діагностувальна робота №2. Досліджуємо тіла, речовини, явища . . . 20 Комбінована діагностувальна робота №4. Земля у Всесвіті. Будова Землі. Зображення Землі . . .. 24 Тестова діагностувальна робота №3. Земля у Всесвіті. Будова Землі. Зображення Землі . . . .  28 Комбінована діагностувальна робота №5. Повітряна і водна оболонки Землі . . . . . . . . 32 Тестова діагностувальна робота №4. Повітряна і водна оболонки Землі . . . . 36 Комбінована діагностувальна робота №6. Вивчаємо живу природу Землі . . . . 40 Тестова діагностувальна робота №5. Вивчаємо живу природу Землі . . . . 44 Комбінована діагностувальна робота №7. Пізнаємо організм людини . . . . 48 Тестова діагностувальна робота №6. Пізнаємо організм людини . . . . . 52 Комбінована діагностувальна робота №8. Вчимося в природи й дбаємо про її збереження . . . . 56 Тестова діагностувальна робота №7. Вчимося в природи й дбаємо про її збереження . . . 60.]]></description>
-<quantity_in_stock>7</quantity_in_stock>
-<param name="Автор">Філончук З. В.</param>
-<param name="Мова">українська</param>
-<param name="Вік">5 клас</param>
-<param name="Серія">Оцінювання</param>
-<param name="Кількість сторінок">64</param>
-<param name="Рік видання">2023</param>
-<param name="Тип паперу">офсет, чорно-біла</param>
-<param name="ISBN">9786170041265</param>
-<param name="Формат, розмір">А4</param>
-<param name="Видавництво">Основа</param></offer>
-<offer id="27967" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Оцінювання Основа Усі діагностувальні роботи Вступ до історії України та громадянської освіти 5 клас Поліщук</name>
-<vendorCode>9786170041272</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/5-klas-1/nush-otsiniuvannia-osnova-usi-diahnostuvalni-roboty-vstup-do-istorii-ukrainy-ta-hromadianskoi-osvity-5-klas-polishchuk/</url>
-<currencyId>UAH</currencyId>
-<categoryId>47</categoryId>
-<price>120</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27967/nush_otsinyuvannya_osnova_usi_diagnostuvalni_roboti_vstup_do_istori_ukra_ni_ta_gromadyansko_osviti_5_klas_polishchuk.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[Вступ до історії України та громадянської освіти. Усі діагностувальні роботи. 5 клас (Поліщук О. Л.) КЗП009  Посібник містить різноманітні види та форми дігностувальних робіт, призначених для оцінювання якості навчання, досягнень кожної дитини й самооцінювання учнів 5-го класу з тем курсу. Для вчителів історії та громадянської освіти, учнів 5-х класів Нової української школи.  ЗМІСТ:  Передмова . . . 3 Комбінована діагностувальна робота №1. Для чого вивчають історію і громадянську освіту . . . 4 Формувальна діагностувальна робота №1. Чим особлива людина . . . . 6 Діагностувальний мініпроєкт №1. Як через особистий розвиток досягти самореалізації . . . 8 Формувальна діагностувальна робота №2. Яке значення родини в житті людини . . . . . . . . . . 10 Тестова діагностувальна робота №1. Як людина і людство існують у часі . . . . 12 Комбінована діагностувальна робота №2. Як людина і людство існують у просторі . . . 14 Формувальна діагностувальна робота №3. Як зображали Україну на картах у різні історичні часи . . . . . 16 Діагностувальний мініпроєкт №2. Як через комунікацію та медіа поширюється інформація . . . . . . 18 Формувальна діагностувальна робота №4. Дотримання прав людини . . . . . . . 20 Тестова діагностувальна робота №2. Україна — погляд крізь час . . . . . 22 Комбінована діагностувальна робота №3. Український спорт . . . . . . 24 Формувальна діагностувальна робота №5. Українське мистецтво . . 26 Діагностувальний мініпроєкт №3. Світові винаходи та Україна . . . . . 28 Формувальна діагностувальна робота №6. Відомі вихідці з України . . 30 Тестова діагностувальна робота №3. Русь-Україна . . . . . . . 32 Комбінована діагностувальна робота №4. Козаччина . . . 34 Формувальна діагностувальна робота №7. Україна імперська . . . 36 Діагностувальний мініпроєкт №4. Україна у складі СРСР . . . . . . . 38 Діагностувальний мініпрєкт №5. Україна незалежна . . . . . . . 40 Тестова діагностувальна робота №4. Людина та довкілля протягом історії . . . . . . . . 42 Комбінована діагностувальна робота №5. Взаємодія людей у спільнотах . . . 44 Формувальна діагностувальна робота №8. Правила взаємодії в суспільстві . . . . . . 46]]></description>
-<quantity_in_stock>7</quantity_in_stock>
-<param name="Автор">Поліщук О. Л.</param>
-<param name="Мова">українська</param>
-<param name="Вік">5 клас</param>
-<param name="Серія">Оцінювання</param>
-<param name="Кількість сторінок">48</param>
-<param name="Рік видання">2023</param>
-<param name="Тип паперу">офсет, чорно-біла</param>
-<param name="ISBN">9786170041272</param>
-<param name="Формат, розмір">А4</param>
-<param name="Видавництво">Основа</param></offer>
+
+
 <offer id="27968" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Словник Лінгвіст Smart Dictionary Англійська мова 1 клас до підручника Smart Junior 1 Мітчелл</name>
 <vendorCode>9786177713271</vendorCode>
@@ -35095,50 +34942,8 @@
 <param name="ISBN">9789669254290</param>
 <param name="Формат, розмір">177*217 мм</param>
 <param name="Видавництво">ПЕТ</param></offer>
-<offer id="28141" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Оцінювання Основа УСІ діагностувальні роботи Математика 6 клас</name>
-<vendorCode>9786170041333</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/nush-otsiniuvannia-osnova-usi-diahnostuvalni-roboty-matematyka-6-klas/</url>
-<currencyId>UAH</currencyId>
-<categoryId>48</categoryId>
-<price>120</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/28141/nush_otsinyuvannya_osnova_usi_diagnostuvalni_roboti_matematika_6_klas.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[УСІ діагностувальні роботи. Математика. 6 клас. КЗП013  Посібник містить систему завдань, призначених для оцінювання навчальних досягнень учнів 6-го класу з усіх тем курсу відповідно до вимог нового Державного стандарту базової загальної середньої освіти, Типової освітньої програми для 5–9 класів закладів загальної середньої освіти (наказ МОН від 19.02.2021 № 235), змісту всіх чинних модельних навчальних програм «Математика. 5–6 класи» для закладів загальної середньої освіти, рекомендованих Міністерством освіти і науки України (наказ МОН від 12.07.2021 № 795). Пропоновані завдання дібрані для всіх видів оцінювання з математики, зокрема: бліцоцінювання, поточних комбінованих, тестових, підсумкових діагностувальних робіт. Усі роботи розміщені на окремих аркушах зручного формату (за варіантами), наприкінці яких відведене місце для самооцінювання здобувачів освіти та коментаря вчителя.    Для вчителів математики, учнів 6-х класів Нової української школи.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
-<param name="Автор">О. О. Старова</param>
-<param name="Мова">українська</param>
-<param name="Вік">6 клас</param>
-<param name="Тип">Зошит для оцінювання учнів</param>
-<param name="Серія">Оцінювання</param>
-<param name="Кількість сторінок">64</param>
-<param name="Рік видання">2023</param>
-<param name="ISBN">9786170041333</param>
-<param name="Формат, розмір">А4</param>
-<param name="Видавництво">Основа</param></offer>
-<offer id="28142" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Оцінювання Основа УСІ діагностувальні роботи Українська мова 6 клас</name>
-<vendorCode>9786170041494</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/nush-otsiniuvannia-osnova-usi-diahnostuvalni-roboty-ukrainska-mova-6-klas/</url>
-<currencyId>UAH</currencyId>
-<categoryId>48</categoryId>
-<price>120</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/28142/nush_otsinyuvannya_osnova_usi_diagnostuvalni_roboti_ukra_nska_mova_6_klas.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[УСІ діагностувальні роботи. Українська мова. 6 клас. КЗП014  Посібник містить систему різнорівневих завдань, призначених для оцінювання навчальних досягнень учнів 6-го класу з усіх тем курсу відповідно до основних модельних навчальних програм Державного стандарту базової загальної середньої освіти: «Українська мова. 5—6 класи» для закладів загальної середньої освіти (авт. Голуб Н. Б., Горошкіна О. М.) та «Українська мова. 5—6 класи» для закладів загальної середньої освіти (авт. Заболотний О. В., Заболотний В. В., Лавринчук В. П., Плівачук К. В., Попова Т. Д.), рекомендованих Міністерством освіти і науки України (наказ Міністерства освіти і науки України від 12.07.2021 № 795). Пропоновані завдання дібрані для всіх видів оцінювання з української мови, зокрема: бліцоцінювання, поточних, комбінованих, підсумкових діагностувальних робіт та оцінювання різних видів мовленнєвої діяльності. Усі роботи розміщені на окремих аркушах зручного формату (за варіантами), наприкінці яких відведено місце для самооцінювання здобувачів освіти та коментаря вчителя.    Для вчителів української мови, учнів 6-х класів Нової української школи.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
-<param name="Автор">Коновалова М. В., Фефілова Г. Є.</param>
-<param name="Мова">українська</param>
-<param name="Вік">6 клас</param>
-<param name="Тип">Зошит для оцінювання учнів</param>
-<param name="Серія">Оцінювання</param>
-<param name="Кількість сторінок">80</param>
-<param name="Рік видання">2023</param>
-<param name="ISBN">9786170041494</param>
-<param name="Формат, розмір">А4</param>
-<param name="Видавництво">Основа</param></offer>
+
+
 <offer id="28143" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Оцінювання Основа УСІ діагностувальні роботи Пізнаємо природу 6 клас</name>
 <vendorCode>9786170041432</vendorCode>
@@ -35150,7 +34955,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[УСІ діагностувальні роботи. Пізнаємо природу. 6 клас. КЗП015  Посібник містить систему завдань для оцінювання навчальних досягнень учнів 6-го класу з усіх основних тем курсу відповідно до вимог нового Державного стандарту базової загальної середньої освіти, Типової освітньої програми для 5–9-х класів закладів загальної середньої освіти (наказ МОН від 19.02.2021 № 235), змісту чинних модельних навчальних програм інтегрованого курсу природничої освітньої галузі «Пізнаємо природу. 5–6 класи» для закладів загальної середньої освіти (авт. Коршевнюк Т. В.; Біда Д. Д. та ін.; Шаламов Р. В. та ін.), рекомендованих Міністерством освіти і науки України (наказ МОН від 12.07.2021 № 795). Завдання дібрано для всіх видів оцінювання з інтегрованого курсу «Пізнаємо природу», зокрема: комбінованих діагностувальних робіт, тестових діагностувальних робіт та бліцоцінювання. Роботи розміщено на окремих аркушах за варіантами, наприкінці яких відведено місце для самооцінювання здобувачів освіти та коментаря вчителя.    Для вчителів, які викладають курси природничої освітньої галузі, учнів 6-х класів Нової української школи.]]></description>
-<quantity_in_stock>8</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Автор">Коновалова М. В., Фефілова Г. Є.</param>
 <param name="Мова">українська</param>
 <param name="Вік">6 клас</param>
@@ -35647,30 +35452,7 @@
 <param name="ISBN">9786170041364</param>
 <param name="Формат, розмір">А4 (210*300 мм)</param>
 <param name="Видавництво">Основа</param></offer>
-<offer id="28192" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Бліцоцінювання Основа Пізнаємо природу 5 клас Зайцева</name>
-<vendorCode>9786170041227</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/5-klas-1/nush-blitsotsiniuvannia-osnova-piznaiemo-pryrodu-5-klas-zaitseva/</url>
-<currencyId>UAH</currencyId>
-<categoryId>47</categoryId>
-<price>120</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/28192/nush_blitsotsinyuvannya_osnova_pizna_mo_prirodu_5_klas_zaytseva.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[Пізнаємо природу. 5 клас. Бліцоцінювання. НУШ. БУЧ004 (Автор: Зайцева О. А)  Посібник містить 120 дидактичних карток до курсу «Пізнаємо природу» (5 клас), призначених для поточного формувального експрес-оцінювання знань учнів на різних етапах уроку, зокрема на етапі актуалізації чи закріплення знань. Може бути використаний під основні теми різних модельних програм (автори: Біда Д. Д., Гільберг Т. Г., Колісник Я. І.; Коршевнюк Т. В.). У чому переваги видання?    Відповідає концепції НУШ. Оригінальні й цікаві завдання для аналізу знань учнів усього за 5—7 хвилин. 4 варіанти карток за кожною темою. Зручний формат для копіювання.    Купуйте посібник, що допоможе швидко та якісно оцінити і вчасно скоригувати знання учнів, зекономивши час на підготовку завдань!]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Автор">Зайцева О. А</param>
-<param name="Мова">українська</param>
-<param name="Вік">5 класс</param>
-<param name="Тип">Зошит для оцінювання учнів</param>
-<param name="Серія">Бліцоцінювання</param>
-<param name="Кількість сторінок">64</param>
-<param name="Рік видання">2023</param>
-<param name="Тип паперу">офсет, чорно-біла</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786170041227</param>
-<param name="Формат, розмір">А4 (210*300 мм)</param>
-<param name="Видавництво">Основа</param></offer>
+
 <offer id="28193" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Бліцоцінювання Основа Досліджуємо історію і суспільство 6 клас Поліщук</name>
 <vendorCode>9786170041357</vendorCode>
@@ -35695,30 +35477,7 @@
 <param name="ISBN">9786170041357</param>
 <param name="Формат, розмір">А4 (210*300 мм)</param>
 <param name="Видавництво">Основа</param></offer>
-<offer id="28194" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Бліцоцінювання Основа Українська мова 6 клас Дерманюк</name>
-<vendorCode>9786170041371</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/6-klas-1/nush-blitsotsiniuvannia-osnova-ukrainska-mova-6-klas-dermaniuk/</url>
-<currencyId>UAH</currencyId>
-<categoryId>48</categoryId>
-<price>120</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/28194/nush_blitsotsinyuvannya_osnova_ukra_nska_mova_6_klas_dermanyuk.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[Українська мова. 6 клас. Бліцоцінювання. НУШ. БУЧ010 (Автор: Дерманюк І. М.)  Посібник містить 120 дидактичних карток до курсу «Українська мова. 6 клас», призначених для поточного формувального експрес-оцінювання знань учнів на різних етапах уроку, зокрема на етапі актуалізації чи закріплення знань. Може бути використаний під усі модельні програми (автори: Голуб Н. Б., Горошкіна О. М.; Заболотний О. В., Заболотний В. В. та ін.).  У чому переваги видання?     Відповідає концепції НУШ. Оригінальні й цікаві завдання для аналізу знань учнів усього за 5—7 хвилин. 4 варіанти карток за кожною темою. Зручний формат для копіювання.    Купуйте посібник, що допоможе швидко та якісно оцінити і вчасно скоригувати знання учнів, зекономивши час на підготовку завдань!]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Автор">Дерманюк І. М.</param>
-<param name="Мова">українська</param>
-<param name="Вік">6 класс</param>
-<param name="Тип">Зошит для оцінювання учнів</param>
-<param name="Серія">Бліцоцінювання</param>
-<param name="Кількість сторінок">64</param>
-<param name="Рік видання">2023</param>
-<param name="Тип паперу">офсет, чорно-біла</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786170041371</param>
-<param name="Формат, розмір">А4 (210*300 мм)</param>
-<param name="Видавництво">Основа</param></offer>
+
 <offer id="28195" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Робочий зошит Богдан Українська мова 5 клас Частина 1 (за програмою Заболотного)</name>
 <vendorCode>9789661068871</vendorCode>
@@ -35871,7 +35630,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Усі діагностувальні роботи. Географія. 6 клас. НУШ. КЗП020   Посібник містить систему завдань, призначених для діагностування та оцінювання якості навчання, досягнень кожної дитини й самооцінювання учнів 6-го класу з усіх тем курсу відповідно до вимог нового Державного стандарту базової загальної середньої освіти, Типової освітньої програми для 5–9-х класів закладів загальної середньої освіти (наказ МОН від 19.02.2021 № 235), змісту всіх чинних модельних навчальних програм курсу «Географія» для 6-го класу для закладів загальної середньої освіти (автори: Кобернік С. Г., Коваленко Р. Р. та ін.; Запотоцький С. П., Карпюк Г. І. та ін.), рекомендованих Міністерством освіти і науки України (наказ МОН від 12.07.2021 № 795, у редакції від 09.02.2022 № 143 та 11.04.2022 № 324). Усі роботи розміщені на окремих аркушах зручного формату (за варіантами), наприкінці яких відведене місце для самооцінювання здобувачів освіти та коментаря вчителя.    Для вчителів географії, учнів 6-х класів Нової української школи.]]></description>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Автор">З. В. Філончук</param>
 <param name="Мова">українська</param>
 <param name="Вік">6 класс</param>
@@ -35908,30 +35667,7 @@
 <param name="ISBN">9786170041616</param>
 <param name="Формат, розмір">А4 (210*300 мм)</param>
 <param name="Видавництво">Основа</param></offer>
-<offer id="28224" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Оцінювання Основа УСІ діагностувальні роботи Зарубіжна література 5 клас Коновалова, Фефілова</name>
-<vendorCode>9786170041593</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/5-klas-1/nush-otsiniuvannia-osnova-usi-diahnostuvalni-roboty-zarubizhna-literatura-5-klas-konovalova-fefilova/</url>
-<currencyId>UAH</currencyId>
-<categoryId>47</categoryId>
-<price>120</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/28224/nush_otsinyuvannya_osnova_usi_diagnostuvalni_roboti_zarubizhna_literatura_5_klas_konovalova_fefilova.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[Усі діагностувальні роботи. Зарубіжна література. 5 клас КЗП023   Посібник містить систему різнорівневих завдань, призначених для оцінювання навчальних досягнень учнів 5-го класу з усіх тем курсу відповідно до основних модельних навчальних програм Державного стандарту базової загальної середньої освіти: «Модельна навчальна програма «Зарубіжна література. 5—6 класи» для закладів загальної середньої освіти (автори: Ніколенко О. М., Ісаєва О. О., Клименко Ж. В., Мацевко-Бекерська Л. В., Юлдашева Л. П., Рудніцька Н. П., Туряниця В. Г., Тіхоненко С. О., Вітко М. І., Джангобекова Т. А.)»; «Модельна навчальна програма «Зарубіжна література. 5—6 класи» для закладів загальної середньої освіти (автор: Волощук Є. В.)», рекомендовані Міністерством освіти і науки України (наказ Міністерства освіти і науки України від 12.07.2021 № 795).  Посібник має зручну форму зошита, що містить завдання для всіх видів оцінювання із зарубіжної літератури за 6-й клас, зокрема:    бліцопитування (теоретичний матеріал та матеріали на знання тексту); поточні діагностувальні роботи; комбіновані діагностувальні роботи (тестування, різнорівневі практичні завдання).    Усі роботи розміщені на окремих аркушах (за варіантами) наприкінці яких відведено місце для самооцінювання здобувачів освіти та коментаря вчителя.    Для вчителів зарубіжної літератури, учнів 5-х класів Нової української школи.]]></description>
-<quantity_in_stock>8</quantity_in_stock>
-<param name="Автор">М. В. Коновалова, Г. Є. Фефілова</param>
-<param name="Мова">українська</param>
-<param name="Вік">5 класс</param>
-<param name="Тип">Зошит для оцінювання учнів</param>
-<param name="Серія">Оцінювання</param>
-<param name="Кількість сторінок">80</param>
-<param name="Рік видання">2023</param>
-<param name="Тип паперу">офсет, чорно-біла</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786170041593</param>
-<param name="Формат, розмір">А4 (210*300 мм)</param>
-<param name="Видавництво">Основа</param></offer>
+
 <offer id="28225" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Оцінювання Основа УСІ діагностувальні роботи Українська літератур 6 клас Фефілова, Коновалова</name>
 <vendorCode>9786170041630</vendorCode>
@@ -35943,7 +35679,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Усі діагностувальні роботи. Українська література. 6 клас. НУШ. КЗП021   Посібник містить систему різнорівневих завдань, призначених для оцінювання навчальних досягнень учнів 6-го класу з усіх тем курсу відповідно до чинної модельної програми Державного стандарту базової загальної середньої освіти: «Модельна навчальна програма «Українська література. 5—6 класи» для закладів загальної середньої освіти (автори: Яценко Т. О., Качак Т. Б., Кизилова В. В., Пахаренко В. І., Дячок С. О., Овдійчук Л. М., Слижук О. А., Макаренко В. М., Тригуб І. А.), рекомендована Міністерством освіти і науки України (наказ Міністерства освіти і науки України від 12.07.2021 № 795). Посібник має зручну форму зошита, що містить завдання для всіх видів оцінювання із української літератури за 6-й клас, зокрема:    бліцопитування (теоретичний матеріал та матеріали на знання тексту); поточні діагностувальні роботи; комбіновані діагностувальні роботи (тестування, різнорівневі практичні завдання).    Усі роботи розміщені на окремих аркушах (за варіантами) наприкінці яких відведено місце для самооцінювання здобувачів освіти та коментаря вчителя.    Для вчителів української літератури, учнів 6-х класів Нової української школи.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Автор">Г. Є. Фефілова, М. В. Коновалова</param>
 <param name="Мова">українська</param>
 <param name="Вік">6 класс</param>
@@ -36758,7 +36494,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Усі діагностувальні роботи. Українська література. 6 клас. КЗП019  Посібник містить диференційовані, творчі завдання, діагностувальні роботи для учнів 6-го класу з усіх тем курсу української літератури модельної навчальної програми «Українська література. 5—6 класи» для закладів загальної середньої освіти. Автори: Архипова В. П., Січкар С. І., Шило С. Б. (Рекомендовано Міністерством освіти і науки України, наказ Міністерства освіти і науки України від 12.07.2021 № 795).  Завдання дібрано для всіх видів оцінювання, зокрема:    бліцопитування (теоретичний матеріал і матеріали на знання тексту); поточні діагностувальні роботи; комбіновані діагностувальні роботи (тестування, різнорівневі практичні завдання).    Роботи розміщено на окремих аркушах (за варіантами), наприкінці яких відведено місце для самооцінювання здобувачів освіти й коментаря вчителя. Для вчителів української літератури, учнів 6-х класів Нової української школи.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Автор">Г. Є. Фефілова, М. В. Коновалова</param>
 <param name="Мова">українська</param>
 <param name="Вік">6 класс</param>
@@ -36771,28 +36507,7 @@
 <param name="ISBN">9786170041722</param>
 <param name="Формат, розмір">А4 (210*300 мм)</param>
 <param name="Видавництво">Основа</param></offer>
-<offer id="28270" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Оцінювання Основа УСІ діагностувальні роботи Українська література 6 клас Коновалова, Фефілова</name>
-<vendorCode>9786170041678</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/nush-otsiniuvannia-osnova-usi-diahnostuvalni-roboty-ukrainska-literatura-6-klas-konovalova-fefilova/</url>
-<currencyId>UAH</currencyId>
-<categoryId>48</categoryId>
-<price>120</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/28270/nush_otsinyuvannya_osnova_usi_diagnostuvalni_roboti_ukra_nska_literatura_6_klas_konovalova_fefilova.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[Усі діагностувальні роботи. Українська література. 5 клас. КЗП022  Посібник містить диференційовані, творчі завдання, діагностувальні роботи для учнів 5-го класу з усіх тем курсу української літератури, що відповідає основним чинним програмам, рекомендованим Міністерством освіти і науки України (наказ Міністерства освіти і науки України від 12.07.2021 № 795).  Завдання дібрано для всіх видів оцінювання, зокрема:    бліцопитування (теоретичний матеріал і матеріали на знання тексту); поточні діагностувальні роботи; комбіновані діагностувальні роботи (тестування, різнорівневі практичні завдання).    Роботи розміщено на окремих аркушах (за варіантами), наприкінці яких відведено місце для самооцінювання здобувачів освіти й коментаря вчителя. Для вчителів української літератури, учнів 5-х класів Нової української школи]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Автор">Коновалова М. В., Фефілова Г. Є.</param>
-<param name="Мова">українська</param>
-<param name="Вік">5 клас</param>
-<param name="Тип">Зошит для оцінювання учнів</param>
-<param name="Серія">Оцінювання</param>
-<param name="Кількість сторінок">80</param>
-<param name="Рік видання">2023</param>
-<param name="ISBN">9786170041678</param>
-<param name="Формат, розмір">А4</param>
-<param name="Видавництво">Основа</param></offer>
+
 
 <offer id="28272" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Збірник вправ з граматики Лінгвіст Prepare for Ukraine 6 Grammar Англійська мова 6 клас до підручника Д. Коста М. Вільямс</name>
@@ -38246,7 +37961,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Зарубіжна література. Усі діагностувальні роботи. 6 клас. КЗП017  Посібник містить систему різнорівневих завдань, призначених для оцінювання навчальних досягнень учнів 6-го класу з усіх тем курсу відповідно до основних модельних навчальних програм Державного стандарту базової загальної середньої освіти: «Модельна навчальна програма «Зарубіжна література. 5—6 класи» для закладів загальної середньої освіти (автори: Ніколенко О. М., Ісаєва О. О., Клименко Ж. В., Мацевко-Бекерська Л. В., Юлдашева Л. П., Рудніцька Н. П., Туряниця В. Г., Тіхоненко С. О., Вітко М. І., Джангобекова Т. А.)»; «Модельна навчальна програма «Зарубіжна література. 5—6 класи» для закладів загальної середньої освіти, автор Волощук Є. В.», рекомендовані Міністерством освіти і науки України (наказ Міністерства освіти і науки України від 12.07.2021 № 795).  Посібник має зручну форму зошита, що містить завдання для всіх видів оцінювання із зарубіжної літератури за 6-й клас, зокрема:    бліцопитування (теоретичний матеріал та матеріали на знання тексту); поточні діагностувальні роботи; комбіновані діагностувальні роботи (тестування, різнорівневі практичні завдання).    Усі роботи розміщені на окремих аркушах (за варіантами) наприкінці яких відведено місце для самооцінювання здобувачів освіти та коментаря вчителя.    Для вчителів зарубіжної літератури, учнів 6-х класів Нової української школи.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Автор">Коновалова М. В., Фефілова Г. Є.</param>
 <param name="Мова">українська</param>
 <param name="Вік">6 клас</param>
@@ -38268,7 +37983,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Досліджуємо історію і суспільство. Усі діагностувальні роботи. 6 клас КЗП016  Посібник містить систему завдань, призначених для оцінювання навчальних досягнень учнів 6-го класу з усіх тем курсу відповідно до вимог нового Державного стандарту базової загальної середньої освіти, Типової освітньої програми для 5–9 класів закладів загальної середньої освіти (наказ МОН від 19.02.2021 № 235), змісту трьох чинних модельних навчальних програм «Досліджуємо історію і суспільство. 5–6 класи (інтегрований курс)» для закладів загальної середньої освіти (автори: Гісем О. В. та ін.; Пометун О. І. та ін.; Васильків І. Д. та ін.). Пропоновані завдання дібрано для всіх видів оцінювання, зокрема: бліцоцінювання, тестових, комбінованих діагностувальних робіт. Усі роботи розміщено на окремих аркушах зручного формату (за варіантами), наприкінці яких відведене місце для самооцінювання здобувачів освіти та коментаря вчителя.    Для вчителів історії, учнів 6-х класів Нової української школи.]]></description>
-<quantity_in_stock>93</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Автор">О. В. Савко, О. В. Ладані</param>
 <param name="Мова">українська</param>
 <param name="Вік">6 клас</param>
@@ -38832,30 +38547,7 @@
 <param name="Формат, розмір">А-4</param>
 <param name="Видавництво">Основа</param></offer>
 
-<offer id="28496" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Мій конспект Основа Здоров&apos;я, безпека та добробут 6 клас Матеріали до уроків</name>
-<vendorCode>9786170041937</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/rozrobky-urokiv/nush-mii-konspekt-osnova-zdorovia-bezpeka-ta-dobrobut-6-klas-materialy-do-urokiv/</url>
-<currencyId>UAH</currencyId>
-<categoryId>40</categoryId>
-<price>150</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/28496/nush_miy_konspekt_osnova_zdorov_ya_bezpeka_ta_dobrobut_6_klas_materiali_do_urokiv.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[Здоров'я, безпека та добробут. 6 клас Мій конспект. Матеріали до уроків ПОР002  «Мій конспект» — серія №1 серед педагогів України! Пропонований посібник допоможе швидко та якісно підготуватися до уроків інтегрованого курсу «Здоров’я, безпека та добробут» у 6-му класі за Концепцією «Нова українська школа». Структура методичного видання складена в результаті поглибленого вивчення й аналізу п’яти модельних програм курсу, рекомендованих Міністерством освіти і науки України: 1. Програма Василенко С. В., Коваль Я. Ю., Колотій Л. П. 2. Програма Воронцова Т. В., Пономаренко В. С. та ін. 3. Програма Гущина Н. І., Василашко І. П. 4. Програма Хитра З. М., Романенко О. А. 5. Програма Шиян О., Волощенко О., Гриньова М. та ін. На початку кожного розділу розміщено таблицю, де зазначено місце використання пропонованого інструментарію за програмою авторів, яку вчитель обрав для роботи.  У чому переваги посібника:     містить необхідний матеріал до уроків; розроблені дидактичні матеріали до нових тем у всіх модельних програмах; введено актуальний розділ – психостабілізаційні вправи, які можуть використовувати у своїй роботі педагоги без спеціального відповідного навчання. + Додаткові матеріали за QR-кодом у виданні: шаблон технологічної карти уроку, доповнивши яку, швидко і зручно створюватимете документ планів уроків.    Купуйте посібник, що допоможе проводити якісні уроки, зекономивши час на їх підготовку!]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Автор">Жадан О. М.</param>
-<param name="Мова">українська</param>
-<param name="Вік">6 клас</param>
-<param name="Тип">Посiбник для вчителя</param>
-<param name="Серія">Мій конспект. Матеріали до уроків</param>
-<param name="Кількість сторінок">80</param>
-<param name="Рік видання">2023</param>
-<param name="Тип паперу">офсет, чорно-біла</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786170041937</param>
-<param name="Формат, розмір">А-4</param>
-<param name="Видавництво">Основа</param></offer>
+
 
 <offer id="28498" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Бібліотечка школяра Основа Англійська - це круто! Візуалізований довідник 3-4 класи</name>
@@ -48116,7 +47808,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Чаросвіт. Казки українських письменників (Чабанова)   Ласкаво просимо завітати у світ казок українських письменників! Це четверта книга серії «Чаросвіт». Ми вже знайомили вас із казками народів України, теплими зимовими казками і захопливими історіями країн Європи та Азії. Цього разу пропонуємо поринути у вирій пригод із казками українських авторів. На вас чекають 11 неймовірних казок від відомих українських письменників: Лесі Українки, Григорія Квітки-Основʼяненка, Івана Франка, Василя-Королева Старого, Івана Липи, Грицька Григоренка й Олени Пчілки.  Ми зібрали не лише маловідомі казки, а й ті, які знайомі кожному, бо вони родом із дитинства:     «Коза-дереза»; «Журавель та чапля»; «Фарбований лис» тощо.    Ми створили «Чаросвіт» для затишного сімейного читання. Маємо надію, що дорослі поринуть у вирій казкових пригод разом із дітьми. Нехай ваша подорож буде в насолоду!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Автор">Чабанова О.О.</param>
 <param name="Мова">українська</param>
 <param name="Вік">5-8 рокiв</param>
@@ -49834,7 +49526,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Географія. Материки та океани. Усі діагностувальні роботи. 7 клас. КЗП028  Усі діагностувальні роботи з усіх тем курсу «Географія. Материки та океани» в одному посібнику! Посібник підготовлений відповідно до вимог нового Державного стандарту базової загальної середньої освіти, Типової освітньої програми для 5–9-х класів закладів загальної середньої освіти, змісту всіх чинних модельних навчальних програм курсу «Географія» для 7-го класу для закладів загальної середньої освіти (автори: Кобернік С. Г., Коваленко Р. Р. та ін.; Запотоцький С. П., Карпюк Г. І. та ін.), рекомендованих Міністерством освіти і науки України.  У чому переваги посібника:     завдяки виконаним роботам можна швидко й якісно діагностувати та оцінити досягнення кожної дитини з усіх тем курсу; завдання сформульовані таким чином, щоб додатково ознайомити дитину з новою цікавою інформацією; усі роботи розміщені на окремих аркушах зручного формату (за варіантами), мають місце для самооцінювання здобувачів освіти та коментаря вчителя.    Купуйте посібник, що допоможе зекономити час на підготовку до уроків!]]></description>
-<quantity_in_stock>99</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Автор">Л. І. Подрушняк А. В. Даушкіна Л. А. Івченко</param>
 <param name="Мова">українська</param>
 <param name="Вік">7 клас</param>
@@ -49858,7 +49550,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Зарубіжна література. Усі діагностувальні роботи. 7 клас. КЗП026  Посібник містить диференційовані, творчі завдання, діагностувальні роботи для учнів 7-го класу до модельної навчальної програми «Зарубіжна література. 5–9 класи» для закладів загальної середньої освіти (у редакції 2023 року) (автори Ніколенко О. М., Ісаєва О. О., Клименко Ж. В., Мацевко-Бекерська Л. В., Юлдашева Л. П., Рудніцька Н. П., Туряниця В. Г., Тіхоненко С. О., Вітко М. І., Джангобекова Т. А.). Завдання дібрано для всіх видів оцінювання, зокрема: бліцопитування (теоретичний матеріал і матеріали на знання тексту); поточні діагностувальні роботи; комбіновані діагностувальні роботи (тестування, різнорівневі практичні завдання). Роботи розміщено на окремих аркушах (за варіантами), наприкінці яких відведено місце для самооцінювання здобувачів освіти й коментаря вчителя.    Для вчителів зарубіжної літератури, учнів 7-х класів Нової української школи.]]></description>
-<quantity_in_stock>80</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Автор">М. В. Коновалова Г. Є. Фефілова</param>
 <param name="Мова">українська</param>
 <param name="Вік">7 клас</param>
@@ -49882,7 +49574,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Алгебра. Геометрія. Усі діагностувальні роботи. 7 клас. КЗП024  Посібник містить систему завдань, призначених для оцінювання навчальних досягнень учнів 7-го класу з усіх тем курсу відповідно до вимог нового Державного стандарту базової загальної середньої освіти, Типової освітньої програми для 5–9-х класів закладів загальної середньої освіти (наказ МОН від 19.02.2021 № 235), змісту всіх чинних модельних навчальних програм «Алгебра. 7–9 класи», «Геометрія. 7–9 класи», «Математика. 7–9 класи» (автори: Бурда М. І. та ін.; Василишин М. С. та ін.; Істер О. С.; Мерзляк А. Г. та ін., Панченко С. Ю.) для закладів загальної середньої освіти, рекомендованих Міністерством освіти і науки України (наказ МОН від 12.07.2021 № 795). Пропоновані завдання дібрано для всіх видів оцінювання з математики (алгебри й геометрії), зокрема: бліцоцінювання, поточних комбінованих, тестових, підсумкових діагностувальних робіт. Усі роботи розміщені на окремих аркушах зручного формату (за варіантами), наприкінці яких відведено місце для самооцінювання здобувачів освіти та коментаря вчителя.    Для вчителів математики (алгебри й геометрії), учнів 7-х класів Нової української школи.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Автор">О. О. Старова</param>
 <param name="Мова">українська</param>
 <param name="Вік">7 клас</param>
@@ -50080,7 +49772,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Пригоди Єви та її друзів. Читанка-лабіринт із завданнями. ЧИТ001 Знайомтеся, це - Єва, допитлива й непосидюча героїня серії читанок. На сторінках книжок на читачів чекають оповідання про захопливі пригоди дівчинки та її друзів, поруч з якими живуть, діють, спілкуються, подорожують, ображаються і радіють персонажі з паралельного Світу Речей: юні Окулярики, Смугаста Шапочка, Лавандова Свічка та інші герої. Кожна з трьох читанок містить 8 захопливих історій, які можна читати в довільному порядку. Наприкінці кожної історії дібрано цікаві запитання і творчі завдання для вдумливих читачів і читачок. Серія книжок про пригоди Єви стане в пригоді дітям віком 7–10 років, щоб удосконалити навички усвідомленого читання; сприятиме розвитку критичного мислення, уяви, розширенню кругозору, поповненню активного словникового запасу. А прихований авторкою між рядками виховний зміст історій допоможе пройти лабіринтом, уміщеним на кольоровому розвороті видання, та дістатися чарівних Палаців Чеснот.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Автор">Анна Кричун</param>
 <param name="Мова">українська</param>
 <param name="Вік">7-10 років</param>
@@ -50511,7 +50203,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Українська література. Усі діагностувальні роботи. 7 клас КЗП027  У виданні наведено систему різнорівневих завдань, призначених для оцінювання навчальних досягнень учнів 7-го класу з української літератури відповідно до Державного стандарту базової загальної середньої освіти та модельних навчальних програм «Українська література. 7—9 класи» для закладів загальної середньої освіти (автори: Заболотний О. В., Слоньовська О. В., Ярмульська І. В.), рекомендованої Міністерством освіти і науки України» (наказ Міністерства освіти і науки України від 01 грудня 2023 року No 1466) та «Українська література. 7—9 класи» для закладів загальної середньої освіти (автори: Яценко Т. О., Пахаренко В. І., Слижук О. А., Тригуб І. А.), рекомендованої Міністерством освіти і науки України» (наказ Міністерства освіти і науки України від 24.07.2023 No 883). Посібник містить диференційовані, творчі завдання, діагностувальні, комбіновані діагностувальні роботи (тестування, різнорівневі практичні завдання) для учнів 7-го класу з усіх тем курсу української літератури. Усі роботи розміщено на окремих аркушах (за варіантами), наприкінці діагностувальних робіт відведено місце для самооцінювання здобувачів освіти та коментаря вчителя.]]></description>
-<quantity_in_stock>99</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Автор">О. Г. Куцінко</param>
 <param name="Мова">українська</param>
 <param name="Вік">7 клас</param>
@@ -50739,7 +50431,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Збірник вправ і завдань. Українська мова. 8–9 класи ЗБК012 Збірник вправ і завдань для учнів 8–9-х класів, укладений відповідно до Державного стандарту базової і повної загальної середньої освіти (Постанова Кабінету Міністрів України від 30. 09. 2020 р. № 898) та освітньої програми «Українська мова. 5–9 класи», рекомендованої Міністерством освіти і науки України (Наказ Міністерства освіти і науки України від 07. 06. 2017 р. № 804). Матеріали для вивчення синтаксису й пунктуації залишаться актуальними під час впрвадження реформи Нової української школи у 8–9-х класах. Посібник пропонує різноманітні вправи, завдання й тести, переважно аналітико-синтетичні, творчі, різнорівневі за ступенем складності, з урахуванням вимог ЗНО та НМТ. Учителеві він стане в пригоді під час пошуку сучасних, наближених до реального життя прикладів з мови, учням може знадобитися для самостійної підготовки, адже до кожної теми запропоновані короткі правила-нагадування та відповіді до завдань.     Для вчителів української мови та літератури, керівників методичних об’єднань, студентів вищих навчальних закладів і поціновувачів української мови.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Автор">В. В. Паращич, О. Я. Загоруйко</param>
 <param name="Мова">українська</param>
 <param name="Вік">8-9 клас</param>
@@ -51116,7 +50808,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Вони візуалізували код української нації. Розповіді для дітей  Книжка містить низку ілюстрованих оповідань про видатних українськіх митців, чию творчість можна побачити. Художники, архітектори, дізайнери, мультиплікатори, кінорежисери та інші діячі візуального мистецтва — герої розповідей. Перша художниця, яка мала прижиттєву виставку у найкрутішому музеї світу, Луврі, — українка. Модельєрка, яка отримала «Оскар» за костюми для голлівудських фільмів, — українка. Засновник кубізму (стилю мистецтва) в архітектурі — українець. Автор «Чорного квадрата», однієї з наймістичніших у світі картин, — українець. І таких прикладів без ліку. Книжка відкриє багато таємниць мистецтва, допоможе вчитися цінувати творче надбання нашого народу й пишатися розумними, неординарними, кмітливими, волелюбними українцями.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Автор">Поліщук О.Л.</param>
 <param name="Мова">українська</param>
 <param name="Вік">від 9 років</param>
@@ -51230,30 +50922,7 @@
 
 
 
-<offer id="30367" available="true" in_stock="true" selling_type="r" >
-<name>Чаросвіт Основа Казки на 5 хвилин для добрих сновидінь  Чабанова дітям від 3 років</name>
-<vendorCode>9786170042453</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/charosvit-osnova-kazky-na-5-khvylyn-dlia-dobrykh-snovydin-chabanova-ditiam-vid-3-rokiv/</url>
-<currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
-<price>390</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/30367/charosvit_osnova_kazki_na_5_hvilin_dlya_dobrih_snovidin_chabanova_dityam_vid_3_rokiv.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[Казки на 5 хвилин для добрих сновидінь ЧАР005. Чаросвіт Час перед сном — чарівний момент, коли реальність поєднується з фантазією. Для дітей це особливий час, коли можна поринути в теплі й захопливі подорожі разом з улюбленими героями. Ця збірка казок увібрала в себе добрі історії про сміливих героїв, кмітливих героїнь та кумедних тварин. Ми зібрали оповідки, створені за мотивами відомих казок європейських авторів, українських письменників та народні українські казки:    «Попелюшка»; «Аладдін»; «Пан Коцький»; «Лисичка і Журавель» тощо.    Казки скорочені та адаптовані для читання разом із дітьми від 3 років. А головне: достатньо усього 5 хвилин, щоб прочитати малюкові казку й допомогти йому поринути у світ сновидінь. Добрих вам снів!    Книга призначена для читання дорослими дітям від 3 років.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">О. О. Чабанова</param>
-<param name="Мова">українська</param>
-<param name="Вік">від 3 років</param>
-<param name="Тип">книга</param>
-<param name="Серія">Чаросвіт</param>
-<param name="Кількість сторінок">144</param>
-<param name="Рік видання">2024</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">тверда</param>
-<param name="ISBN">9786170042453</param>
-<param name="Формат, розмір">А5</param>
-<param name="Видавництво">Основа</param></offer>
+
 <offer id="30368" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Діагностика на відмінно Весна Шпаргалка з німецької мови 1-4 клас Початкова школа Зебницька</name>
 <vendorCode>978-617-686-725-8</vendorCode>
@@ -55212,7 +54881,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Оповідання для реготання. ДТЛ001  Відома дитяча польська письменниця Рената Пьонтковська з гумором розповідає історії хлопчика Томека, який ходить до старшої групи садочка. Навіть у таких буденних дитячих справах як взування, гра у футбол чи малювання з героєм оповідань трапляються надзвичайно кумедні випадки. Оповідання, сповнені відчуття любові та взаєморозуміння, допоможуть вашій дитині познайомитись з різними людськими чеснотами, а всій родині отримати добрячу порцію здорового сміху!    Для читання дітям дошкільного і молодшого шкільного віку.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Автор">Рената Пьонтковська</param>
 <param name="Мова">українська</param>
 <param name="Вік">дошкiльний, молодший шкільний</param>
@@ -55703,29 +55372,7 @@
 
 
 
-<offer id="30846" available="true" in_stock="true" selling_type="r" >
-<name>Як насправді працює Санта Основа Дитяча художня література Алан Сноу</name>
-<vendorCode>9786170042958</vendorCode>
-<url>https://knigovan.com/novorichni-sviata/novorichni-knyzhky/yak-naspravdi-pratsiuie-santa-osnova-dytiacha-khudozhnia-literatura-alan-snou/</url>
-<currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
-<price>350</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/30846/yak_naspravdi_pratsyu_santa_osnova_dityacha_hudozhnya_literatura_alan_snou.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[Як насправді працює Санта. Усім-усім, хто любить отримувати від Санти подарунки на новорічні свята! Усі-усі секрети Санти в одній книжці!  Ви дізнаєтеся:  Звідки Санта знає хто про що мріє? Де він бере подарунки і як організоване їх доправлення? Хто у складі команди Санти і як до неї долучитися? Діти та дорослі, розгортайте книжку, зазирайте під товщу снігу й потрапляйте до великої та гомінкої резиденції Санти!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Алан Сноу</param>
-<param name="Мова">українська</param>
-<param name="Вік">дошкiльний, молодший шкільний</param>
-<param name="Тип">книга</param>
-<param name="Серія">Дитяча художня література</param>
-<param name="Кількість сторінок">40</param>
-<param name="Рік видання">2024</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="ISBN">9786170042958</param>
-<param name="Формат, розмір">275х273 мм</param>
-<param name="Видавництво">Основа</param></offer>
+
 
 
 
@@ -56091,7 +55738,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Читанка ЧОМУчка 7+ Запрошуємо вас у світ захопливого читання разом із «Читанкою-чомучкою»! Ця книжка допоможе маленьким читачам від 7 років покращити читацькі навички, стати впевненими читачами та розширити словниковий запас у веселій і цікавій формі!  Усередині ви знайдете 30 коротеньких ілюстрованих історій з різних тем:  - природу і навколишній світ; - історію та цікаві факти про Україну; - будову тіла та здоров’я тощо. А наприкінці кожної історії на дітей чекають запитання та завдання, що сприятимуть закріпленню навичок та заохотять до самостійного читання. Відкрийте радість від кожної сторінки й розвивайте дитячу любов до читання разом із захопливими історіями "Читанки-чомучки"!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Автор">Еліна Заржицька</param>
 <param name="Мова">українська</param>
 <param name="Вік">7+</param>
@@ -56104,50 +55751,8 @@
 <param name="ISBN">9786170043030</param>
 <param name="Формат, розмір">237х169 мм</param>
 <param name="Видавництво">Основа</param></offer>
-<offer id="30906" available="true" in_stock="true" selling_type="r" >
-<name>Унікальні українські речі, що подолали час. Розповіді для дітей Основа Ярина Паславська</name>
-<vendorCode>9786170043009</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-virshykiv-opovidan/unikalni-ukrainski-rechi-shcho-podolaly-chas-rozpovidi-dlia-ditei-osnova-yaryna-paslavska/</url>
-<currencyId>UAH</currencyId>
-<categoryId>139</categoryId>
-<price>320</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/30906/unikalni_ukra_nski_rechi_shcho_podolali_chas_rozpovidi_dlya_ditey_osnova_yarina_paslavska.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[Унікальні українські речі, що подолали час. Розповіді для дітей Книжка містить низку ілюстрованих оповідань про речі наших пращурів з багатовіковою, а то й тисячолітньою історією. Попри такий поважний вік, вони мають безмежний потенціал залишатись модними, корисними, технологічними, розумними завжди. Ви дізнаєтесь про секрети створення кулінарних шедеврів, магічних оберегів, іграшок, прикрас, музичних інструментів, елементів дизайну й інших надзвичайно корисних виробів. І хто знає, може саме ваша фантазія і бажання наповнять спадок предків новим життям, стануть вашим стартапом чи основою власного бренду. Розгортайте книжку, пізнавайте скарби минулого і творіть майбутнє!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Ольга Журенко</param>
-<param name="Мова">українська</param>
-<param name="Вік">9+</param>
-<param name="Серія">Це наше, українське</param>
-<param name="Кількість сторінок">80</param>
-<param name="Рік видання">2024</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="ISBN">9786170043009</param>
-<param name="Формат, розмір">237х169 мм</param>
-<param name="Видавництво">Основа</param></offer>
-<offer id="30907" available="true" in_stock="true" selling_type="r" >
-<name>Видатні українки. Розповіді для дітей про відвагу, здійснення мрій та віру в себе Основа Марія Франкова</name>
-<vendorCode>9786170042880</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-virshykiv-opovidan/vydatni-ukrainky-rozpovidi-dlia-ditei-pro-vidvahu-zdiisnennia-mrii-ta-viru-v-sebe-osnova-mariia-frankova/</url>
-<currencyId>UAH</currencyId>
-<categoryId>139</categoryId>
-<price>320</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/30907/vidatni_ukra_nki_rozpovidi_dlya_ditey_pro_vidvagu_zdiysnennya_mriy_ta_viru_v_sebe_osnova_mariya_frankova.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[Видатні українки. Розповіді для дітей про відвагу, здійснення мрій та віру в себе Ви прочитаєте 15 історій про визначних українок, їхню силу, мрії, віру в себе, героїзм, незламність. Книжка складається з історії старшої сестри Олесі, які вона розказуватиме молодшій сестрі Даринці. Разом ви дізнаєтеся про першу офіцерку, першу капітанку дальнього плавання, силачку, яка виступала разом з Іваном Піддубним та інших. Історія кожної героїні унікальна, та об’єднує їх одне: вони йшли до своїх мрій, попри будь-які перешкоди! Запрошуємо дізнатися про українських жінок, які здійснювали неймовірні подвиги, потрапляли в цікаві пригоди й змінювали світ навколо себе! Серія книг «Це наше, українське» створена, щоб занурити дітей та дорослих у світ культури, спадщини, цінностей та усього, що формує українську націю.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Марія Франкова</param>
-<param name="Мова">українська</param>
-<param name="Вік">8+</param>
-<param name="Серія">Це наше, українське</param>
-<param name="Кількість сторінок">80</param>
-<param name="Рік видання">2024</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="ISBN">9786170042880</param>
-<param name="Формат, розмір">237х168 мм</param>
-<param name="Видавництво">Основа</param></offer>
+
+
 
 
 
@@ -56595,7 +56200,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Дитяча художня література. Ніколи не нудно.  Відома дитяча польська письменниця Рената Пьонтковська розповідає історії хлопчика Мачека, який ходить до третього класу школи. Навіть почавшись сіро і звичайно, його день ніколи не залишається нудним. Сприяють цьому і Оливка, молодша сестричка нашого героя, і всі члени родини, і однокласники. Кожна з 20 історій навчає взаєморозуміння, любові, терплячості, доброти, співчуття та інших людських чеснот. Ця книжка ідеально підходить для сімейного читання разом із дітьми дошкільного і молодшого шкільного віку. Добрі та дотепні оповідання не дадуть нудитися, а ще точно змусять не раз розреготатися!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Автор">Рената Пьонтковська</param>
 <param name="Мова">українська</param>
 <param name="Вік">6+</param>
@@ -57699,30 +57304,7 @@
 <param name="Видавництво">Ранок</param></offer>
 
 
-<offer id="31121" available="true" in_stock="true" selling_type="r" >
-<name>Гарні манери для дітей. Родина Вафельок Основа Дитяча художня література Йоанна Кшижанек</name>
-<vendorCode>9786170043061</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/literatura-vid-6-rokiv/harni-manery-dlia-ditei-rodyna-vafelok-osnova-dytiacha-khudozhnia-literatura-yoanna-kshyzhanek/</url>
-<currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
-<price>380</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/31121/garni_maneri_dlya_ditey_rodina_vafelok_osnova_dityacha_hudozhnya_literatura_yoanna_kshizhanek.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[Гарні манери для дітей. Родина Вафельок. Дитяча художня література  Познайомтесь із веселою родиною Вафельок! На сторінках цієї книжки на вас чекають не тільки смішні пригоди, але й корисні поради щодо гарних манер. Вафельки допоможуть дітям дізнатися:    - Хто повинен першим подавати руку під час зустрічі? - Скільки шоколадок можна з’їсти на Дні народження у друга? - Які телефонні номери обов’язково потрібно знати? - Чому в кінотеатрі не можна розмовляти?    Книжка сповнена гумору, доброти та важливих уроків про ввічливість та гарні манери для маленьких читачів.    Рекомендовано для дітей від 5 років.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Йоанна Кшижанек</param>
-<param name="Мова">українська</param>
-<param name="Вік">5+</param>
-<param name="Тип">книга</param>
-<param name="Серія">Дитяча художня література</param>
-<param name="Кількість сторінок">144</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">тверда</param>
-<param name="ISBN">9786170043061</param>
-<param name="Формат, розмір">165х235 мм</param>
-<param name="Видавництво">Основа</param></offer>
+
 <offer id="31122" available="true" in_stock="true" selling_type="r" >
 <name>Поради щодо дитячих справ. Родина Вафельок Основа Дитяча художня література Йоанна Кшижанек</name>
 <vendorCode>9786170043016</vendorCode>
@@ -57758,7 +57340,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[12 дитячих викликів. Як долати життєві труднощі. Дитяча художня література  Дванадцятеро авторів написало дванадцять історій про життєві виклики. Зображаючи яскравих персонажів та їхні повсякденні переживання, вони намагалися відповісти на питання, як навчитися долати труднощі. До книжки ввійшли оповідання про самооцінку, агресію, толерантність, небезпеку, яка чатує на дітей в інтернеті, зосередженість, захоплення, зловживання мобільними пристроями, суперництво, маніпуляцію, надчутливість, соціальний тиск і сором’язливість. Ця книжка заохочуватиме дітей розповідати про ситуації, які могли з ними трапитися, та допоможе в процесі дорослішання навчитися справлятися з життєвими викликами.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Автор">Без автора</param>
 <param name="Мова">українська</param>
 <param name="Вік">6-14 років</param>
@@ -57782,7 +57364,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[12 способів бути щасливими. Дитяча художня література  Група авторів і авторок написала дванадцять оповідань про те, як навчитись насолоджуватися кожним днем. Адже щастя — це не лише здійснення найзаповітніших мрій. Воно також приховане у дрібницях. У книжці зібрано оповідання про родинні ритуали, єдність, розвиток свого хобі, радість від дрібниць, суперздібності, допомогу іншим, стосунки з рідними та друзями, здійснення мрій, досягнення мети та вдячність. Спільне читання вдома або в школі оповідань, схожих на повсякденне життя, може стати чудовим приводом для розмов про щастя і для налагодження контакту з дитиною.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Автор">Без автора</param>
 <param name="Мова">українська</param>
 <param name="Вік">6-14 років</param>
@@ -57950,7 +57532,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Час до садочка. Серія: Дитяча художня література  «ЧАС ДО САДОЧКА» — це оповідання, які допоможуть дітям переступити поріг дитячого садочка і чудово проводити час у групі однолітків. Це ще й відповіді на важливі питання:    Чи варто ходити до садочка? Чи треба боятися чудовиськ? Як стати Дуже Сміливою Людиною? Чи варто бути занадто впертим? Чи мамі можна розповідати все? Як не запізнюватися? Деякі інші.     «ЧАС ДО САДОЧКА» — це книжка-психолог. Вона делікатно допомагає подолати страхи малюків та їхніх батьків, пов’язані з виходом дитини з дому у «великий світ», а також розповідає, як переживати дитсадівські пригоди. Книжка доводить, що дитячий садочок — це місце, сповнене несподіванок і нових друзів. Місце, де можна навчитися багатьох цікавих і важливих речей.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Автор">Анна Суйка</param>
 <param name="Мова">українська</param>
 <param name="Вік">3-6 років</param>
@@ -58205,7 +57787,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Читанка-Ч0МУчка 8+ Запрошуємо у подорож світом захопливого читання разом із серією «Читанок-чомучок»! Ця книжка допоможе читачам від 8 років покращити читацькі навички, стати впевненими читачами та розширити словниковий запас у веселій і цікавій формі!  Усередині ви знайдете 30 коротеньких ілюстрованих історій з різних тем:     життя тварин і навколишній світ; цікаві факти про Україну; історію і винаходи людства.    А наприкінці кожної історії на дітей чекають запитання, що сприятимуть закріпленню навичок та заохотять до самостійного читання. Відкрийте радість від кожної сторінки й розвивайте дитячу любов до читання разом із захопливими історіями серії книжок "Читанки-чомучки"!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Автор">Еліна Заржицька</param>
 <param name="Мова">українська</param>
 <param name="Вік">8+</param>
@@ -58993,7 +58575,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Мрія Сірка. Оповідання для дітей про людяність, сміливість і здійснення мрій  «Мрія Сірка» — це художня книжка для дітей, яка розповідає про сім’ю українського хлопчика Боді, звичне життя якої змінилося з початком повномасштабної війни. Бодя і його хатній улюбленець Сірко розповідають кожен свою, однак спільну історію про еміграцію, розлуку і повернення, складні випробування для усіх поколінь людей і тварин під час окупації, завчасне дорослішання малюка й самотність дорослих. «Мрія Сірка» — це історія багатьох родин, які вимушені були змінити своє звичне життя, ухвалити складне рішення рушити назустріч невідомості. Це історія про силу й людяність, про сміливість і надію, а ще про мрії, які неодмінно здійсняться. Головне — вірити, триматися разом і не боятися нових випробувань.    Для дітей від 8 років.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Автор">Катерина Дубойська</param>
 <param name="Мова">українська</param>
 <param name="Вік">8+</param>
@@ -59211,7 +58793,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Віршенята-загадки для малят. 3-5 років. Серія: Матусина бібліотечка «Віршенята-загадки» — це добірка коротеньких римованих текстів, що ознайомлять дітей 3–5 років з явищами природи, рослинами й тваринами, транспортними засобами, іграшками, приладдям для творчості тощо. А чудові кольорові ілюстрації допоможуть легко відгадати загадки! Завдяки зручному формату книжки віршенята завжди будуть попідруч у матусі, супроводжуючи її з малюком удома й під час прогулянок, очікувань у черзі, подорожей тощо. «Віршенята-загадки» — це незабутні миті теплого спілкування батьків із малюками. Нехай цих моментів буде якнайбільше!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Автор">Юлія Пеліхова</param>
 <param name="Мова">українська</param>
 <param name="Вік">3-5 років</param>
@@ -59235,7 +58817,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Віршенята для вправних рученят. Пальчикові, будівельні та інші ігри для розвитку дрібної моторики малят. 2–3 роки «Віршенята для вправних рученят» — це чудово ілюстрована добірка авторських віршованих ігор для розвитку дрібної моторики малюків віком 2–3 роки з рекомендаціями щодо їх проведення. Коротенькі примовки як супровід пальчикових і будівельних ігор, ігор із піском і прищіпками, малювання та ліплення, нанизування та сортування допоможуть дитині захопливо гратися, спілкуватися та досліджувати довкілля. Завдяки зручному формату книжки віршенята завжди будуть попідруч у матусі, супроводжуючи її з малюком удома й під час прогулянок, очікувань у черзі, подорожей тощо. «Віршенята для вправних рученят» — це незабутні миті теплого спілкування батьків із малюками. Нехай цих моментів буде якнайбільше!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Автор">Юлія Пеліхова</param>
 <param name="Мова">українська</param>
 <param name="Вік">2-3 роки</param>
@@ -59964,126 +59546,11 @@
 <param name="ISBN">978-617-8387-26-6</param>
 <param name="Формат, розмір">125х200 мм.</param>
 <param name="Видавництво">АССА</param></offer>
-<offer id="31356" available="true" in_stock="true" selling_type="r" >
-<name>Як восьминіжка Чакі сумував Основа Матусина бібліотечка Наталія Чуб</name>
-<vendorCode>9786170043085</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/yak-vosmynizhka-chaki-sumuvav-osnova-matusyna-bibliotechka-nataliia-chub/</url>
-<currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
-<price>200</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/31356/yak_vosminizhka_chaki_sumuvav_osnova_matusina_bibliotechka_nataliya_chub.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[Як восьминіжка Чакі сумував. Серія: Матусина бібліотечка. Восьминіжка Чакі переживає різні емоції. Він радіє, сумує, злиться, дивується, боїться. Знайомиться зі своїми почуттями й намагається керувати ними. Разом із Чакі маленькі читачі також дізнаватимуться про різні емоції та вчитимуться приймати їх і давати собі раду. Сьогодні Чакі сумує… Адже він так хотів прокинутися і побачити велике жовтогаряче сонечко, проте ранок видався похмурим, і настрій восьминіжки зіпсувався. Хто чи що зможе його поліпшити? Авторка книжок — психологиня і дитяча письменниця Наталія Чуб. Кожна книжка серії містить історію, присвячену певній емоції, та декілька цікавих запитань і завдань наприкінці.  Читайте разом з малюком інші видання серії:     Як восьминіжка Чакі злився. Як восьминіжка Чакі радів. Як восьминіжка Чакі дивувався. Як восьминіжка Чакі злякався.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Чуб Наталія</param>
-<param name="Мова">українська</param>
-<param name="Вік">3+</param>
-<param name="Тип">книга</param>
-<param name="Серія">Матусина бібліотечка</param>
-<param name="Кількість сторінок">24</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">тверда</param>
-<param name="ISBN">9786170043085</param>
-<param name="Формат, розмір">167х167 мм</param>
-<param name="Видавництво">Основа</param></offer>
-<offer id="31357" available="true" in_stock="true" selling_type="r" >
-<name>Як восьминіжка Чакі злився Основа Матусина бібліотечка Наталія Чуб</name>
-<vendorCode>9786170043245</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/yak-vosmynizhka-chaki-zlyvsia-osnova-matusyna-bibliotechka-nataliia-chub/</url>
-<currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
-<price>200</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/31357/yak_vosminizhka_chaki_zlivsya_osnova_matusina_bibliotechka_nataliya_chub.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[Як восьминіжка Чакі злився. Серія: Матусина бібліотечка. Восьминіжка Чакі переживає різні емоції. Він радіє, сумує, злиться, дивується, боїться. Знайомиться зі своїми почуттями й намагається керувати ними. Разом із Чакі маленькі читачі також дізнаватимуться про різні емоції та вчитимуться приймати їх і давати собі раду. Сьогодні Чакі неабияк розсердився… Адже він старанно будував нову печеру, а незграбні підводні мешканці звели його зусилля нанівець, і настрій восьминіжки зіпсувався. Хто чи що зможе його поліпшити? Авторка книжок — психологиня і дитяча письменниця Наталія Чуб.    Кожна книжка серії містить історію, присвячену певній емоції, та декілька цікавих запитань і завдань наприкінці.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Чуб Наталія</param>
-<param name="Мова">українська</param>
-<param name="Вік">3+</param>
-<param name="Тип">книга</param>
-<param name="Серія">Матусина бібліотечка</param>
-<param name="Кількість сторінок">24</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">тверда</param>
-<param name="ISBN">9786170043245</param>
-<param name="Формат, розмір">167х167 мм</param>
-<param name="Видавництво">Основа</param></offer>
-<offer id="31358" available="true" in_stock="true" selling_type="r" >
-<name>Як восьминіжка Чакі радів Основа Матусина бібліотечка Наталія Чуб</name>
-<vendorCode>9786170043337</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/yak-vosmynizhka-chaki-radiv-osnova-matusyna-bibliotechka-nataliia-chub/</url>
-<currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
-<price>200</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/31358/yak_vosminizhka_chaki_radiv_osnova_matusina_bibliotechka_nataliya_chub.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[Як восьминіжка Чакі радів. Серія: Матусина бібліотечка. Восьминіжка Чакі переживає різні емоції. Він радіє, сумує, злиться, дивується, боїться. Знайомиться зі своїми почуттями й намагається керувати ними. Разом із Чакі маленькі читачі також дізнаватимуться про різні емоції та вчитимуться приймати їх і давати собі раду. Сьогодні ввечері втомлений, але щасливий восьминіжка засинав із усмішкою. Від приємних вражень та очікування ОСОБЛИВОГО дня. Хто чи що перетворить цей день на особливий? Чому радітиме Чакі? Авторка книжок — психологиня і дитяча письменниця Наталія Чуб. Кожна книжка серії містить історію, присвячену певній емоції, та декілька цікавих запитань і завдань наприкінці.  Читайте разом з малюком інші видання серії:     Як восьминіжка Чакі сумував. Як восьминіжка Чакі злився. Як восьминіжка Чакі дивувався. Як восьминіжка Чакі злякався.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Чуб Наталія</param>
-<param name="Мова">українська</param>
-<param name="Вік">3+</param>
-<param name="Тип">книга</param>
-<param name="Серія">Матусина бібліотечка</param>
-<param name="Кількість сторінок">24</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">тверда</param>
-<param name="ISBN">9786170043337</param>
-<param name="Формат, розмір">167х167 мм</param>
-<param name="Видавництво">Основа</param></offer>
-<offer id="31359" available="true" in_stock="true" selling_type="r" >
-<name>Як восьминіжка Чакі дивувався Основа Матусина бібліотечка Наталія Чуб</name>
-<vendorCode>9786170043399</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/yak-vosmynizhka-chaki-dyvuvavsia-osnova-matusyna-bibliotechka-nataliia-chub/</url>
-<currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
-<price>200</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/31359/yak_vosminizhka_chaki_divuvavsya_osnova_matusina_bibliotechka_nataliya_chub.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[Як восьминіжка Чакі дивувався. Серія: Матусина бібліотечка. Восьминіжка Чакі переживає різні емоції. Він радіє, сумує, злиться, дивується, боїться. Знайомиться зі своїми почуттями й намагається керувати ними. Разом із Чакі маленькі читачі також дізнаватимуться про різні емоції та вчитимуться приймати їх і давати собі раду. Сьогодні допитливий восьминіжка захопливо спостерігав за підводними мешканцями. А в морі є чому дивуватися! Яку дивину він відшукав посеред заростів коралів? І хто здивував Чакі найбільше? Авторка книжок — психологиня і дитяча письменниця Наталія Чуб. Кожна книжка серії містить історію, присвячену певній емоції, та декілька цікавих запитань і завдань наприкінці.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Чуб Наталія</param>
-<param name="Мова">українська</param>
-<param name="Вік">3+</param>
-<param name="Тип">книга</param>
-<param name="Серія">Матусина бібліотечка</param>
-<param name="Кількість сторінок">24</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">тверда</param>
-<param name="ISBN">9786170043399</param>
-<param name="Формат, розмір">167х167 мм</param>
-<param name="Видавництво">Основа</param></offer>
-<offer id="31360" available="true" in_stock="true" selling_type="r" >
-<name>Як восьминіжка Чакі злякався Основа Матусина бібліотечка Наталія Чуб</name>
-<vendorCode>9786170043450</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/yak-vosmynizhka-chaki-zliakavsia-osnova-matusyna-bibliotechka-nataliia-chub/</url>
-<currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
-<price>200</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/31360/yak_vosminizhka_chaki_zlyakavsya_osnova_matusina_bibliotechka_nataliya_chub.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[Як восьминіжка Чакі злякався. Серія: Матусина бібліотечка. Восьминіжка Чакі переживає різні емоції. Він радіє, сумує, злиться, дивується, боїться. Знайомиться зі своїми почуттями й намагається керувати ними. Разом із Чакі маленькі читачі також дізнаватимуться про різні емоції та вчитимуться приймати їх і давати собі раду. Сьогодні восьминіжка ховався на морському дні. З переляку малюк навіть не міг поворушити жодним щупальцем! Кого боявся Чакі? І хто допоміг йому впоратися зі страхом? Авторка книжок — психологиня і дитяча письменниця Наталія Чуб. Кожна книжка серії містить історію, присвячену певній емоції, та декілька цікавих запитань і завдань наприкінці.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Чуб Наталія</param>
-<param name="Мова">українська</param>
-<param name="Вік">3+</param>
-<param name="Тип">книга</param>
-<param name="Серія">Матусина бібліотечка</param>
-<param name="Кількість сторінок">24</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">тверда</param>
-<param name="ISBN">9786170043450</param>
-<param name="Формат, розмір">167х167 мм</param>
-<param name="Видавництво">Основа</param></offer>
+
+
+
+
+
 <offer id="31361" available="true" in_stock="true" selling_type="r" >
 <name>12 важливих історій. Що таке життєві цінності Основа Дитяча художня література</name>
 <vendorCode>9786170043382</vendorCode>
@@ -60095,7 +59562,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[12 важливих історій. Що таке життєві цінності.  Дванадцять авторів написали 12 оповідань, у яких є все, що подобається дітям, і все, на що очікують дорослі. Історії порушують украй важливу проблему цінностей, про які батькам і вчителям непросто розмовляти з дітьми. Завдяки кумедним текстам складні теми стають простими й зрозумілими.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Автор">Без автора</param>
 <param name="Мова">українська</param>
 <param name="Вік">6-12 років</param>
@@ -60989,7 +60456,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Читанка-ЧОМУчка. 9+ Запрошуємо у подорож світом захопливого читання разом із серією «Читанок-ЧОМУчок»! Скільки носів у равлика?Хто й коли вигадав сало?Чи існують на землі дракони? Ця книжка допоможе дітям від 9 років удосконалити читацькі навички, стати впевненими читачами та розширити словниковий запас у веселій і цікавій формі!  Усередині ви знайдете 30 коротеньких ілюстрованих історій з різних тем:     життя тварин і довкілля; цікаві факти про Україну та світ; історія і винаходи людства.    А наприкінці кожної історії на дітей чекають запитання, що сприятимуть закріпленню навичок та заохотять до самостійного читання. Відчуйте радість від кожної сторінки й розвивайте дитячу любов до читання разом із захопливими історіями серії книжок «Читанки-ЧОМУчки»!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Автор">Еліна Заржицька</param>
 <param name="Мова">українська</param>
 <param name="Вік">9+</param>
@@ -61013,7 +60480,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[20 важливих навичок, що допоможуть дитині в житті. Серія: Для турботливих батьків Часто у процесі виховання дітей батьки ставлять запитання — ЯК? Ви здивуєтесь, але відповідь на це доволі проста — власним прикладом.  Книга «20 важливих навичок, що допоможуть дитині в житті» побудована на концепції спільного виховання — усе, чого ви навчатимете дитину, ви будете вдосконалювати і в собі, а саме:    впевненість у своїх силах; самостійність в ухваленні рішень; уміння казати «ні»; відповідальність тощо.  Кожен розділ книжки присвячений окремій навичці. Задля їх формування наведено:    життєву ситуацію з виховним змістом; рекомендації та корисні поради від психолога; питання для аналізування; місця для нотаток для роботи над собою та із дитиною.   Розгортайте книжку і здобувайте нові знання, дізнавайтеся дієві підказки та поради, як ростити щасливу дитину і бути щасливими дорослими! Психологиня Лана Гарт сертифікована фахівчиня в галузі психоаналізу, піскової терапії та символдрами. Понад 12 років практичної роботи з батьками й дітьми. Керівниця психологічного онлайн-центру «Психосвіта». Авторка програм і тренінгів для батьків, зокрема щодо протидії булінгу. Мама дівчинки-підлітка.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Автор">Лана Гарт</param>
 <param name="Мова">українська</param>
 <param name="Вік">0+</param>
@@ -62591,7 +62058,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[9 місяців до зустрічі: добра книжка для майбутньої матусі. Серія: Для турботливих батьків. 9 місяців до зустрічі з малюком сповнені емоцій, почуттів, турбот і радості, очікування, тривог і безмежної любові. Авторка, прагнучи підтримати майбутніх мам, ділиться своїм досвідом: детально розповідає про кожен місяць вагітності, його виклики та важливі процеси, спираючись на доказову медицину. Вона розвіює поширені міфи, дає практичні поради та робить це в оригінальний спосіб – з погляду малюка Маркуса, який із нетерпінням чекає на зустріч із матусею і спостерігає її дивовижний світ вагітності. Ця книжка у форматі художньої розповіді допоможе майбутнім мамам краще зрозуміти зміни, які відбуваються в їхньому тілі та свідомості, а також ґрунтовно підготуватися до народження малюка.  Ви дізнаєтеся відповіді на запитання:    Як прийняти змінене тіло та доглядати за собою в цей час? Як упоратися з емоційними гойдалками і стресами? Як харчуватися, щоб зменшити дискомфорт? Як знайти «свого» лікаря та обрати надійний пологовий будинок? Як зробити пологи комфортними й безпечними? Як подбати про себе і малюка після народження?    Ця книга – ваш надійний супутник у найпрекраснішій подорожі до материнства, що допоможе відчувати спокій, упевненість і радість у кожен із 9 місяців очікування.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Автор">Катріна Волошина</param>
 <param name="Мова">українська</param>
 <param name="Вік">0+</param>
@@ -63284,7 +62751,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Алгебра. Геометрія. Усі діагностувальні роботи. 8 клас  Посібник містить систему завдань, призначених для оцінювання навчальних досягнень учнів 8-го класу з усіх тем курсу відповідно до вимог нового Державного стандарту базової загальної середньої освіти, Типової освітньої програми для 5–9-х класів закладів загальної середньої освіти (наказ МОН від 19.02.2021 № 235), змісту всіх чинних модельних навчальних програм «Алгебра. 7–9 класи», «Геометрія. 7–9 класи»]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Автор">О. О. Старова</param>
 <param name="Мова">українська</param>
 <param name="Вік">8 клас</param>
@@ -63308,7 +62775,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Українська мова. Усі діагностувальні роботи. 8 клас  Посібник містить систему різнорівневих завдань для оцінювання навчальних досягнень учнів 8-го класу з усіх тем курсу української мови відповідно до Державного стандарту базової загальної середньої освіти та основних модельних навчальних програм: «Українська мова. 7–9 класи» для закладів загальної середньої освіти (автори Голуб Н. Б., Горошкіна О. М.) та «Українська мова. 7–9 класи» для закладів загальної середньої освіти (автори: Заболотний О. В., Заболотний В. В., Лавринчук В. П., Плівачук К. В., Попова Т. Д.)]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Автор">М. В. Коновалова Г. Є. Фефілова</param>
 <param name="Мова">українська</param>
 <param name="Вік">8 клас</param>
@@ -63332,7 +62799,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Зарубіжна література. Усі діагностувальні роботи. 8 клас  Посібник містить диференційовані, творчі завдання, діагностувальні роботи для учнів 8-го класу до модельної навчальної програми «Зарубіжна література. 5–9 класи» для закладів загальної середньої освіти (у редакції 2023 року) (автори Ніколенко О. М., Ісаєва О. О., Клименко Ж. В., Мацевко-Бекерська Л. В., Юлдашева Л. П., Рудніцька Н. П., Туряниця В. Г., Тіхоненко С. О., Вітко М. І., Джангобекова Т. А.). Завдання дібрано для всіх видів оцінювання, зокрема: бліцопитування (теоретичний матеріал і матеріали на знання тексту); поточні діагностувальні роботи; комбіновані діагностувальні роботи (тестування, різнорівневі практичні завдання).]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Автор">М. В. Коновалова Г. Є. Фефілова</param>
 <param name="Мова">українська</param>
 <param name="Вік">8 клас</param>
@@ -63576,7 +63043,7 @@
 <vendorCode>1210150</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/komplekt-velykyi-trenazher-ula-matematyka-1-4-klasy-zadachi-tablytsia-mnozhennia-i-dilennia-dodavannia-i-vidnimannia-bahatotsyfrovykh-chysel/</url>
 <currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
+<categoryId>11</categoryId>
 <price>240</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31652/komplekt_velikiy_trenazher_ula_matematika_1_4_klasi_zadachi_tablitsya_mnozhennya_i_dilennya_dodavannya_i_vidnimannya_bagatotsifrovih_chisel.jpg</picture>
 <vendor>УЛА</vendor>
@@ -63912,7 +63379,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Географія. Усі діагностувальні роботи. 8 клас.  Усі діагностувальні роботи з усіх тем курсу «Географія. 8 клас» в одному посібнику! Посібник підготовлений відповідно до вимог нового Державного стандарту базової загальної середньої освіти, Типової освітньої програми для 5–9-х класів закладів загальної середньої освіти, змісту всіх чинних модельних навчальних програм курсу «Географія» для 8-го класу для закладів загальної середньої освіти (автори: Кобернік С. Г., Коваленко Р. Р. та ін.; Запотоцький С. П., Карпюк Г. І. та ін.), рекомендованих Міністерством освіти і науки України.  У чому переваги посібника:     завдяки виконаним роботам можна швидко і якісно діагностувати та оцінити досягнення кожної дитини з усіх тем курсу за групами результатів навчання; завдання сформульовано таким чином, щоб додатково ознайомити дитину з новою цікавою інформацією; усі роботи розміщено на окремих аркушах зручного формату (за варіантами), мають місце для самооцінювання здобувачів освіти.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Автор">Л. І. Подрушняк, А. В. Даушкіна</param>
 <param name="Мова">українська</param>
 <param name="Вік">8 клас</param>
@@ -63936,7 +63403,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Хімія. Усі діагностувальні роботи. 8 клас.   Усі діагностувальні роботи з усіх тем курсу «Хімія. 8 клас» в одному посібнику!  Посібник підготовлений відповідно до вимог нового Державного стандарту базової загальної середньої освіти, Типової освітньої програми для 5–9-х класів закладів загальної середньої освіти, змісту всіх чинних модельних навчальних програм курсу «Хімія» для 8-го класу для закладів загальної середньої освіти (автори: 1) Григорович О. В., 2) Лашевська Г. А.), рекомендованих Міністерством освіти і науки України.  У чому переваги посібника:     завдяки роботам можна швидко та якісно діагностувати й оцінити досягнення кожної дитини з усіх тем курсу за групами результатів навчання; усі роботи розміщено на окремих аркушах зручного формату (за варіантами), мають місце для самооцінювання здобувачів освіти та коментаря вчителя.    Купуйте посібник, що допоможе зекономити час на підготовку до уроків!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Автор">О. К. Русанова</param>
 <param name="Мова">українська</param>
 <param name="Вік">8 клас</param>
@@ -63960,7 +63427,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Українська література. Усі діагностувальні роботи. 8 клас  Посібник містить диференційовані, творчі завдання, діагностувальні роботи для учнів 8-го класу до модельної навчальної програми «Українська література. 7–9 класи» для закладів загальної середньої освіти (у редакції 2023 року) (автори: Т. О. Яценко, В. І. Пахаренко, О. А. Слижук, І. А. Тригуб). Завдання дібрано для всіх видів оцінювання, зокрема: бліцопитування (теоретичний матеріал і матеріали на знання тексту); поточні діагностувальні роботи; комбіновані діагностувальні роботи (тестування, різнорівневі практичні завдання). Роботи розміщено на окремих аркушах (за варіантами), наприкінці яких відведено місце для самооцінювання здобувачів освіти й коментаря вчителя. До всіх завдань визначено групи результатів, відповідно до концепції НУШ.    Для вчителів української літератури, учнів 8-х класів Нової української школи.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Автор">О. Г. Куцінко</param>
 <param name="Мова">українська</param>
 <param name="Вік">8 клас</param>
@@ -68756,7 +68223,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Мімі Цукроперлинка і чарівна пекарня: летючі різдвяні пряники. 7+  Різдво у Чарівній лісовій школі – час тепла, магії й ароматного печива! Мімі Цукроперлинка та її учні готуються до святкової вечірки, але несподівано зникає чаклунчин улюбленець білченя Нюсслі, а разом із ним – і різдвяне печиво. Чи встигнуть маленькі чародії врятувати свято? Сум, хвилювання та трохи магії – ось рецепт цієї чарівної історії про дружбу, турботу й дивовижні пригоди. Казка, яка подарує затишок і віру в дива, ідеальна для спільного читання з дітьми від 7 років. Долучайтеся і допоможіть Мімі творити дива та врятувати Різдво!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Автор">Сандра Грімм</param>
 <param name="Мова">українська</param>
 <param name="Вік">7+</param>
@@ -69372,7 +68839,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Математика. Збірник задач. 5–6 класи Посібник містить оригінальні авторські задачі, упорядковані за розділами у послідовності вивчення тем згідно з більшістю чинних модельних навчальних програм з математики для 5-х та 6-х класів.  Понад 200 задач мають на меті:  - навчати дітей математики та важливих навичок; - продемонструвати, як використовувати математику в реальному житті; - формувати вміння порівнювати та систематизувати дані; - удосконалювати навички вимірювання та обчислень. Купуйте книжку, що допоможе вчителеві створити оригінальний онлайн чи офлайн урок, учневі – потренуватися у розв’язанні цікавих задач і надолужити освітні втрати, репетиторові – заохотити учнів до вивчення математики.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Автор">С. Ю. Панченко, О. П. Грозик, Н. В. Черпак</param>
 <param name="Мова">українська</param>
 <param name="Вік">5-6 класи</param>
@@ -69875,54 +69342,8 @@
 <param name="Видавництво">Підручники і посібники</param></offer>
 
 
-<offer id="32065" available="true" in_stock="true" selling_type="r" >
-<name>Зимові дива. Українські різдвяно-новорічні традиції 5+ Основа Дитяча художня література (Юлія Дворецька)</name>
-<vendorCode>9786170044099</vendorCode>
-<url>https://knigovan.com/novorichni-sviata/zymovi-dyva-ukrainski-rizdviano-novorichni-tradytsii-5-osnova-dytiacha-khudozhnia-literatura-iuliia-dvoretska/</url>
-<currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
-<price>370</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/32065/zimovi_diva_ukra_nski_rizdvyano_novorichni_traditsi_5_osnova_dityacha_hudozhnya_literatura_yuliya_dvoretska.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[Зимові дива. Українські різдвяно-новорічні традиції  Запрошуємо разом зануритися у світ українських різдвяно-новорічних традицій і влаштувати незабутні свята!  Книжка допоможе вам дізнатися:     для чого кутя і коли яку готувати; лайфгак, як відрізнити щедрівку від колядки і коли їх співати; чому оселю прикрашають павуками, дідами, панянками і як їх створити; навіщо ватагою водити козу і про що розповідає вертеп; чому хлопець перевтілюється у Маланку, а дівчина – у Василя і кого вони заплутують; як дівчата ворожать, а хлопці посівають; хто купається взимку на річці та багато-багато іншого.    Ця книжка стане чудовим подарунком для сімейного читання в колі найдорожчих людей! Розгортайте її та дізнавайтеся більше про українські традиції, доповнюйте їх місцевими особливостями і створюйте нові. Бажаємо вам щасливих свят!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Юлія Дворецька</param>
-<param name="Мова">українська</param>
-<param name="Вік">5+</param>
-<param name="Тип">книга</param>
-<param name="Серія">Дитяча художня література</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">тверда</param>
-<param name="ISBN">9786170044099</param>
-<param name="Формат, розмір">А4</param>
-<param name="Видавництво">Основа</param></offer>
-<offer id="32066" available="true" in_stock="true" selling_type="r" >
-<name>Зимові оповідки 3+ Основа Дитяча художня література (Анна Пашкевич)</name>
-<vendorCode>9786170043986</vendorCode>
-<url>https://knigovan.com/novorichni-sviata/zymovi-opovidky-3-osnova-dytiacha-khudozhnia-literatura-anna-pashkevych/</url>
-<currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
-<price>390</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/32066/zimovi_opovidki_3_osnova_dityacha_hudozhnya_literatura_anna_pashkevich.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[Зимові оповідки. Анна Пашкевич. Серія: Дитяча художня література  У зимовому лісі діється магія! Дружня компанія лісових тварин разом вирушає на пошуки їжі, улаштовує ігри на снігу, робить добрі справи. Цікаві пригоди допомагають тваринам дізнатися, наскільки важливі співпраця та взаємна турбота. А ще вони готуються до майбутніх різдвяних й новорічних свят. Спільними зусиллями лісові мешканці знаходять найкрасивішу ялинку, прикрашають ліс, щоб оточити себе чарівною святковою атмосферою. Книжка сповнена гумору, доброти та важливих уроків для маленьких читачів про взаємодопомогу, взаємопідтримку та справжню дружбу.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Анна Пашкевич</param>
-<param name="Мова">українська</param>
-<param name="Вік">3+</param>
-<param name="Тип">книга</param>
-<param name="Серія">Дитяча художня література</param>
-<param name="Кількість сторінок">80</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">тверда</param>
-<param name="ISBN">9786170043986</param>
-<param name="Формат, розмір">А-5</param>
-<param name="Видавництво">Основа</param></offer>
+
+
 <offer id="32067" available="true" in_stock="true" selling_type="r" >
 <name>Мімі Цукроперлинка і чарівна пекарня: чарівний вибух тістечок. 7+ Основа Дитяча художня література (Сандра Грімм)</name>
 <vendorCode>9786170044037</vendorCode>
@@ -70615,7 +70036,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Математика. 3 клас. Робочий зошит. До підручника М. Богдановича та ін. (у 2-х частинах). Частина 1 Посібник створено відповідно до Типової освітньої програми, розробленої під керівництвом О. Я. Савченко, поурочно узгоджений з підручником «Математика» для 3 класу (авт. М. В. Богдановича, С. В. Голосної, А. А. Назаренко). У зошиті представлена система завдань для удосконалення обчислювальних навичок й умінь третьокласників і третьокласниць розв’язувати основні види програмових задач. До посібника пропонується інтерактивний електронний додаток, що містить інтерактивні завдання, навчальні відеоролики, завдання з використанням 3D-моделей, ігри, лабіринти, розмальовки тощо.    Призначено для учнів і учениць 3 класу закладів загальної середньої освіти.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Автор">Голосна С.В.</param>
 <param name="Предмет">Математика</param>
 <param name="Мова">українська</param>
@@ -72338,7 +71759,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Ігри і казки, які лікують. Книга 1. (Видання 2-ге, виправлене, 3-тє, перероблене). Серія: Для турботливих батьків Кожна дитина хоча б раз у житті вередувала, влаштовувала істерику, билася, боялася чи почувалася невпевненою у собі. Книжка «Ігри і казки, які лікують» допоможе лагідно скорегувати дитячу поведінку.  У книзі ви знайдете детальний опис 11 розповсюджених моделей поведінки дитини від 2 до 5 років: сильна прихильність до мами; примхи та істерики; сором’язливість; наявність страхів; скупість та інші. До кожної розглянутої моделі поведінки додано:    Висновок психолога з поясненнями, чим зумовлена така поведінка у дитини. Питання для самоаналізу для батьків, що допоможуть поглянути на ситуацію під іншим кутом. Казки, ігри, психотерапевтичні прийоми та технології, які допоможуть скорегувати поведінку малюків.    «Ігри і казки, які лікують» – багаторічний бестселер серед тисяч турботливих батьків! ПРО АВТОРКУ  Авторка – Аліна Руденко, мама і дитяча й сімейна психологиня із багаторічним досвідом роботи, письменниця. Понад 20 років працює з дітьми, підлітками та батьками. «Здорова дитина. НЕмедичний довідник батьків», написаний у співавторстві з Оленою Одінцовою, увійшов до короткого списку Всеукраїнського рейтингу «Книжка року 2024» у номінації «Обрії».]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Автор">Аліна Руденко</param>
 <param name="Мова">українська</param>
 <param name="Вік">2-5 років</param>
@@ -72361,7 +71782,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Ігри і казки, які лікують. Книга 2. (Видання 2-ге, виправлене, 3-тє, перероблене). Серія: Для турботливих батьків Діти дорослішають і разом із віком змінюється їхні поведінка, звички та особисті якості. Книжка «Ігри і казки, які лікують. Книга 2» допоможе лагідно скорегувати дитячу поведінку.  У книзі ви знайдете детальний опис розповсюджених моделей поведінки, які зустрічаються у дітей від 4 років до підліткового віку: звичка брехати, песимізм, невміння доводити справу до кінця, нелюбов до книжок та інші. До кожної розглянутої моделі поведінки додано:     Висновок психолога з поясненнями, чим зумовлена така поведінка у дитини. Питання для самоаналізу для батьків, що допоможуть поглянути на ситуацію під іншим кутом. Казки, ігри, психотерапевтичні прийоми та технології, які допоможуть скорегувати поведінку дітей.    «Ігри і казки, які лікують. Книга 2» – багаторічний бестселер серед тисяч турботливих батьків! ПРО АВТОРКУ  Авторка – Аліна Руденко, мама і дитяча й сімейна психологиня із багаторічним досвідом роботи, письменниця. Понад 20 років працює з дітьми, підлітками та батьками. «Здорова дитина. НЕмедичний довідник батьків», написаний у співавторстві з Оленою Одінцовою, увійшов до короткого списку Всеукраїнського рейтингу «Книжка року 2024» у номінації «Обрії».]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Автор">Аліна Руденко</param>
 <param name="Мова">українська</param>
 <param name="Вік">4+</param>
@@ -72642,31 +72063,7 @@
 <param name="Формат, розмір">200х260 мм</param>
 <param name="Видавництво">Талант</param></offer>
 
-<offer id="32289" available="true" in_stock="true" selling_type="r" >
-<name>НУШ-2 Розробки уроків Основа Математика 1 клас до підручника Богдановича, Назаренко (2025 рік)</name>
-<vendorCode>9786170044181</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/konspekty-urokiv/1-klas/nush-2-rozrobky-urokiv-ranok-matematyka-1-klas-do-pidruchnyka-bohdanovycha-nazarenko-2025-rik/</url>
-<currencyId>UAH</currencyId>
-<categoryId>3</categoryId>
-<price>250</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/32289/nush_2_rozrobki_urokiv_ranok_matematika_1_klas_do_pidruchnika_bogdanovicha_nazarenko_2025_rik.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[Математика. 1 клас. Розробки уроків (до підручника М. Богдановича, А. Назаренко) Посібник містить плани-конспекти уроків математики в 1 класі закладів загальної середньої освіти. Пропонований матеріал відповідає Типовій освітній програмі, розробленій під керівництвом О. Я. Савченко, та підручнику «Математика» для 1 класу (автори М. Богданович, А. Назаренко).]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Шевченко К.М. Щербак Г.В.</param>
-<param name="Предмет">Математика</param>
-<param name="Мова">українська</param>
-<param name="Вік">1 клас</param>
-<param name="Тип">Розробки уроків</param>
-<param name="Серія">Нова українська школа (НУШ-2)</param>
-<param name="Кількість сторінок">224</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">офсет, чорно-біла</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786170044181</param>
-<param name="Формат, розмір">200х260 мм</param>
-<param name="Видавництво">Основа</param></offer>
+
 <offer id="32290" available="true" in_stock="true" selling_type="r" >
 <name>НУШ-2 Планета Міркувань. Методичний посібник для вчителя. 1 клас Розробки уроків Ранок (2025 рік)</name>
 <vendorCode>9786178771621</vendorCode>
@@ -72791,7 +72188,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Математика. 3 клас. Робочий зошит. До підручника М. Богдановича та ін. (у 2-х частинах). Частина 2 Посібник створено відповідно до Типової освітньої програми, розробленої під керівництвом О. Я. Савченко, поурочно узгоджений з підручником «Математика» для 3 класу (автори: М. В. Богдановича, С. В. Голосної, А. А. Назаренко).У зошиті представлена система завдань для удосконалення обчислювальних навичок й умінь третьокласників і третьокласниць розв’язувати основні види програмових задач. До посібника пропонується інтерактивний електронний додаток, що містить інтерактивні завдання, навчальні відеоролики, завдання з використанням 3D-моделей, ігри, лабіринти, розмальовки тощо.    Призначено для учнів і учениць 3 класу закладів загальної середньої освіти.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Автор">Голосна С.В.</param>
 <param name="Предмет">Математика</param>
 <param name="Мова">українська</param>
@@ -72930,7 +72327,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[КОМПЛЕКТ у 2-х частинах: Математика. 3 клас. Робочий зошит. До підручника М. Богдановича та ін.  Посібник створено відповідно до Типової освітньої програми, розробленої під керівництвом О. Я. Савченко, поурочно узгоджений з підручником «Математика» для 3 класу (автори: М. В. Богдановича, С. В. Голосної, А. А. Назаренко).У зошиті представлена система завдань для удосконалення обчислювальних навичок й умінь третьокласників і третьокласниць розв’язувати основні види програмових задач. До посібника пропонується інтерактивний електронний додаток, що містить інтерактивні завдання, навчальні відеоролики, завдання з використанням 3D-моделей, ігри, лабіринти, розмальовки тощо.    Призначено для учнів і учениць 3 класу закладів загальної середньої освіти.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Автор">Голосна С.В.</param>
 <param name="Предмет">Математика</param>
 <param name="Мова">українська</param>
@@ -74511,30 +73908,7 @@
 <param name="ISBN">9786170044334</param>
 <param name="Формат, розмір">200х260 мм</param>
 <param name="Видавництво">Основа</param></offer>
-<offer id="32456" available="true" in_stock="true" selling_type="r" >
-<name>Сексуальність. Інтимне здоров’я і здорові стосунки. 16+ Основа (Ізабель Фільоза, Марґо Фрід-Фільоза)</name>
-<vendorCode>9786170044174</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/literatura-dlia-pidlitkiv/seksualnist-intymne-zdorov-ia-i-zdorovi-stosunky-16-osnova-izabel-filoza-margo-frid-filoza/</url>
-<currencyId>UAH</currencyId>
-<categoryId>142</categoryId>
-<price>550</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/32456/seksualnist_intimne_zdorov_ya_i_zdorovi_stosunki_16_osnova_izabel_filoza_mar_o_frid_filoza.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[Сексуальність. Інтимне здоров’я і здорові стосунки. 16+ Це кохання чи лише потяг? Як відмовити і не образити? Чому першого разу боляче? А якщо він/вона шукає лише секс «на одну ніч»? Що насправді подобається дівчатам? А хлопцям? Чи в житті так, як показують у порно?  Шукаєш надійну інформацію про всі ці питання?  Вона тут! Це книжка про справжню сексуальність — таку, де є ніжність, взаємоповага та радість від близькості. Тіло, кохання, спілкування, бажання, сексуальна орієнтація, перший раз, згода, задоволення, порно, зґвалтування … — це видання без табу й у доступній формі пояснює все, що варто знати про сексуальність та стосунки. «Сексуальність» розкриває всі теми сексуальності молодих людей та стосунків з іншими. Її обов‘язково має прочитати кожен дорослий і підліток від 16 років.  Рекомендований вік — 16–25 років   Увага! Деякі натуралістичні зображення можуть викликати емоційний дискомфорт у дітей і підлітків молодшого віку.  Ізабель Фільоза — відома французька психотерапевтка, провідна фахівчиня із позитивного виховання, авторка книжок, які завоювали прихильність українських читачів: «Я спробувала все!», «Дитина зводить мене з розуму!» і «Ми більше не розуміємо одне одного!». Марґо Фрід-Фільоза — тренерка із питань інтимних і сексуальних стосунків. Проводить заняття у школах та ліцеях із сексуальної та емоційної освіти, а також із питань гармонійного співжиття.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Ізабель Фільоза, Марґо Фрід-Фільоза</param>
-<param name="Мова">українська</param>
-<param name="Вік">16+</param>
-<param name="Тип">Книга</param>
-<param name="Серія">Корисні навички</param>
-<param name="Кількість сторінок">208</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">тверда</param>
-<param name="ISBN">9786170044174</param>
-<param name="Формат, розмір">170x240 мм</param>
-<param name="Видавництво">Основа / MAMAS</param></offer>
+
 
 
 <offer id="32459" available="true" in_stock="true" selling_type="r" >
@@ -76053,7 +75427,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Віршенята-чистомовки Пеліхова Ю. Усі звуки та літери української абетки. Сюжетні ритмічні ігри «Віршенята-чистомовки» – це ілюстрована добірка авторських віршиків — ритмічних ігор здебільшого із жартівливим сюжетом, спрямованих на тренування та розвиток артикуляційного апарату малюків віком від 3 років. Декламування чистомовок дорослими, а потому спільне промовляння та розучування з дитиною сприятимуть розрізненню певних звуків, збагаченню словникового запасу, удосконаленню пам’яті, уваги. Художник: Юлія Максимчук]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Автор">Юлія Пеліхова</param>
 <param name="Мова">українська</param>
 <param name="Вік">2-4 роки</param>
@@ -76076,7 +75450,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Віршенята-скоромовки. Усі звуки та літери української абетки. Сюжетні ритмічні ігри. Пеліхова Ю. «Віршенята-скоромовки» – це ілюстрована добірка авторських віршиків – ритмічних ігор здебільшого із жартівливим сюжетом, спрямованих на тренування та розвиток артикуляційного апарату малюків віком від 3 років. Декламування скоромовок дорослими, а потому спільне промовляння та розучування з дитиною сприятимуть розрізненню певних звуків, збагаченню словникового запасу, удосконаленню пам’яті, уваги. Художнє оформлення: О. Олєйнікова]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Автор">Юлія Пеліхова</param>
 <param name="Мова">українська</param>
 <param name="Вік">2-4 роки</param>
@@ -76271,7 +75645,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Математика. Помічник школяра. 1-4 класи  Математика, так само як і Всесвіт, приховує безліч таємниць, відкривати які — круто! Посібник містить матеріали з усіх тем курсу математики (їх аж 51!) для учнів 1–4-х класів. Сторінками видання разом із читачами мандруватимуть шестеро друзів — досвідчених знавців та допитливих дослідників математики.  Розгортки книжки містять:     ненудний теоретичний матеріал і зрозумілі пояснення; хитромудрі запитання та математичні секретики; задачі з реального життя та завдання для відпрацювання навичок; дослідження та хитринки, які допоможуть потоваришувати з математикою.    Матеріали структуровано за рубриками й візуалізовано, що сприятиме легкому й цілісному засвоєнню інформації та зацікавленню школярства математикою. Посібник стане в пригоді під час самостійного, змішаного або дистанційного навчання. Мандрувати світом математики справді круто! Захопливого й цікавого навчання!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Автор">Без автора</param>
 <param name="Предмет">Математика</param>
 <param name="Мова">українська</param>
@@ -77372,7 +76746,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Літній зошит. Незвичайні математичні пригоди. 3 клас Цей посібник від автора Юрченко Н. Ф. допоможе дитині легко та цікаво повторити матеріал за третій клас. Видання розроблене відповідно до стандартів Нової української школи та має захопливий ігровий сюжет. Разом із героями зошита школяр вирушить у справжню морську подорож світом цифр та логічних задач. Завдання побудовані так щоб дитина могла працювати з ними самостійно під час канікул. Такий формат навчання не перевантажує учня але надійно закріплює знання перед початком четвертого класу. У зошиті зібрані цікаві вправи на логіку математичні ребуси та приклади у формі піратських пригод.  Посібник ідеально підходить для домашніх занять з батьками або для індивідуальної роботи з репетитором. Яскраві ілюстрації та нестандартний підхід роблять математику улюбленим літнім дозвіллям. Зручний формат дозволяє брати посібник із собою у подорож або на відпочинок.Це надійний помічник для якісної підготовки до нового навчального року без нудьги та зазубрювання.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Автор">Юрченко Н.Ф.</param>
 <param name="Мова">українська</param>
 <param name="Вік">3 клас</param>
@@ -77796,7 +77170,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Жінки крізь віки. Розповіді для дітей про те, чому українки неймовірні. Ця книжка — подорож у часі. Через ілюстровані оповідання ми зазирнемо у печери первісних людей, відвідаємо давні міста, заглянемо у домівки жінок різних епох, які мешкали на території України від первісних часів до сьогодення. Багато-багато цікавого про побут, звичаї, моду, романтичні стосунки, хобі жінок різних століть. Книжка буде цікавою дівчаткам і хлопчикам, дітям та дорослим. Адже знання історії допоможе зробити світ кращим, справедливішим — таким, де кожен може бути собою, реалізовуватися і здійснювати мрії на благо всім. Ви дізнаєтесь:    чого жінки вчили дітей у в печерах; за що цінували жінок у трипільських протомістах; навіщо кожній дівчинці-кіммерійці дарували коня та зброю; хто так обожнював золото, що оздоблював ним навіть сукні; який вигляд мав планер жінки Русі; чому козачок вороги боялись не менше, ніж козаків; чим відрізнялось життя панночки від життя дівчини-селянки у двох імперіях; коли жінки поклали край своїй другорядності; а ще багато-багато іншого цікавого про побут, звичаї, моду, романтичні стосунки, хобі жінок різних століть.    Розгортайте книжку і дізнавайтеся, як українські жінки стали такими неймовірними! Оксана Поліщук — історикиня, яка багато років викладає історію у школі, активна блогерка, авторка книжок історичної тематики для дітей і вчителів. Шукайте інші книжки авторки з серії: "Українські творці візуального мистецтва. Розповіді для дітей", "Українські науковці та винахідники. Розповіді для дітей", "Творці української нації. Розповіді для дітей". Ілюстраторка: Альона Максименко.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Автор">Оксана Поліщук</param>
 <param name="Мова">українська</param>
 <param name="Вік">8+</param>
@@ -78365,7 +77739,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Мія вимовляє перші слова. 1+. Серія: Матусина бібліотечка. «Мія вимовляє перші слова» — книжка для малюків другого року життя. Цю збірку створено, щоб допомогти батькам на початковому етапі розвитку мовлення дитини. Чудово ілюстровані тексти навчать малюка наслідувати перші слова й навіть спілкуватися та взаємодіяти із найближчим оточенням, перетворюючи розвиток на веселу гру. Що ви знайдете в книжці? Коротенькі, легкі для сприймання тексти, які допоможуть вашій дитині зробити перші кроки до опанування мовлення, сприятимуть розвитку мовленнєвої уваги й пам’яті, формуванню первинних комунікативних навичок та уявлення про навколишній світ, отже — розвитку дитячої особистості. Яскраві ілюстрації для зацікавлення малюка спільним читанням. Книжку можна брати із собою всюди! Це видання подарує чудові миті спільного читання, гри та спілкування. Нехай їх буде якнайбільше!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Автор">Наталія Бірченко</param>
 <param name="Мова">українська</param>
 <param name="Вік">1+</param>
@@ -78389,7 +77763,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Мія вимовляє перші звуки. 0+. Серія: Матусина бібліотечка. «Мія вимовляє перші звуки» — книжка для малюків з перших місяців життя! Цю збірку римованих звуконаслідувань створено, щоб допомогти батькам на першому етапі розвитку мовлення дитини. Легкі, короткі примовки навчать малюка наслідувати звуки живої природи і предметів, перетворюючи розвиток на веселу гру. Що ви знайдете в книжці?    Легкі для запам’ятовування римовані тексти, які допоможуть вашій дитині зробити перші кроки до опанування мовлення. Звуки живої природи та предметів з оточення дитини: «Няв-няв», «Біп-біп», «Гав-гав» — для формування навичок звуконаслідування. Яскраві ілюстрації для зацікавлення дитини спільним читанням змалку.    Головна мета книжки — стимулювати розвиток мовлення, артикуляції, слухового сприйняття та уваги малюка. Ця книжка подарує чудові миті спільного читання, гри та спілкування. Нехай їх буде якнайбільше!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Автор">Наталія Бірченко</param>
 <param name="Мова">українська</param>
 <param name="Вік">1+</param>
@@ -78414,7 +77788,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Казки на 5 хвилин для добрих сновидінь. Чаросвіт Книга призначена для читання дорослими дітям від 3 років. Час перед сном – чарівний момент, коли реальність поєднується з фантазією. Для дітей це особливий час, коли можна поринути в теплі й захопливі подорожі разом з улюбленими героями. Ця збірка казок увібрала в себе добрі історії про сміливих героїв, кмітливих героїнь та кумедних тварин. Ми зібрали оповідки, створені за мотивами відомих казок європейських авторів, українських письменників та народні українські казки: «Попелюшка»; «Аладдін»; «Пан Коцький»; «Лисичка і Журавель» тощо. Історії книги скорочені та адаптовані для читання разом із дітьми від 3 років. А головне: вам вистачить усього 5 хвилин, щоб прочитати малюкові казку й допомогти йому поринути у світ сновидінь.]]></description>
-<quantity_in_stock>98</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Автор">О. О. Чабанова</param>
 <param name="Мова">українська</param>
 <param name="Вік">від 3 років</param>
@@ -78509,7 +77883,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Бібліотечка школяра. Довідник учня. 1-4 класи. (Українська мова та читання, Математика, Я досліджую світ) Довідник містить основні відомості з курсу початкової школи (Українська мова та читання, Математика, Я досліджую світ), дібрані відповідно до положень Концепції Нова українська школа. Текст видання відповідає нормам нової редакції Українського правопису. Довідкові матеріали, подані у формі запитань та відповідей, спрямовані на узагальнення знань.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Автор">Володарська М.</param>
 <param name="Мова">українська</param>
 <param name="Вік">1-4 класи</param>
@@ -78785,7 +78159,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Зрозумій мене! Секрети розшифровування дитячої поведінки. Серія: Для турботливих батьків.  «Як мені зрозуміти дитину?»   «Чому вона так поводиться?»   «Як навчитися звертати увагу на важливі сигнали, які вона транслює своєю поведінкою?»   «Хочу, аби дитина почула те, що я їй кажу»  Ці та багато інших запитань ви ставите нам. І справді, нерозуміння — одне з головних перешкод у спілкуванні «батьки — дитина». На допомогу кожному із вас ми випустили друком нову книгу «Зрозумій мене! Секрети розшифровування дитячої поведінки», що допоможе поглянути на поведінку вашої дитини під іншим кутом! Авторка — Анна Гресь, одна з найулюбленіших психологинь нашого Видавництва! У книзі наведено прості й дуже ефективні способи спостереження за дитячою поведінкою та прийоми її первинного аналізування. А також запропоновано конкретний алгоритм дій: робити щось чи ні; утрутитися самим або залучити фахівців. І ще, що вкрай важливо, — чого РОБИТИ НЕ потрібно! Щоби не нашкодити дитині.  Прочитавши книгу, ви навчитеся:     СПРИЙМАТИ поведінку дитини абсолютно інакше; РОЗУМІТИ, чому дитина чинить саме так; ЯК ПРАВИЛЬНО ПОВОДИТИСЯ з дитиною, аби не нашкодити, а допомогти у її розвитку.    Ця книга буде найкращим доповненням до вашої унікальної батьківської інтуїції! Також усі, хто придбає книгу, зможуть БЕЗКОШТОВНО завантажити додатковий корисний матеріал від психологині. Зробити це можна буде за допомогою QR-коду на обкладинці книги. Замовляйте та вчіться розуміти поведінку своєї дитини, щоби НЕ НАШКОДИТИ її розвитку!]]></description>
-<quantity_in_stock>99</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Автор">Анна Гресь</param>
 <param name="Мова">українська</param>
 <param name="Вік">3-9 років</param>
@@ -79446,7 +78820,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Зарубіжна література. Усі діагностувальні роботи. 9 клас (за програмою Ніколенко О. М. та ін.)  У виданні подано систему різнорівневих завдань, призначених для оцінювання навчальних досягнень учнів 9-го класу із зарубіжної літератури відповідно до Державного стандарту базової середньої освіти та модельної навчальної програми «Зарубіжна література. 5–9 класи» для закладів загальної середньої освіти (у редакції 2023 року) (автори: Ніколенко О. М. та ін.).  Посібник містить диференційовані та творчі завдання, бліцопитування для актуалізації знань і швид кої перевірки розуміння навчального матеріалу, діагностувальні й комбіновані діагностувальні роботи (тестування, різнорівневі практичні завдання), а також комплексні підсумкові роботи з усіх тем курсу зарубіжної літератури 9-го класу Усі роботи подано на окремих аркушах (за варіантами); наприкінці діа гностувальних робіт передбачено місце для самооцінювання здобувачів освіти та коментаря вчителя. Відповіді до завдань подано в додатку (за QR-кодом).]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Автор">М. В. Коновалова Г. Є. Фефілова</param>
 <param name="Предмет">Зарубіжна література</param>
 <param name="Мова">українська</param>
@@ -79471,7 +78845,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Українська література. Усі діагностувальні роботи. 9 клас (за програмою Заболотного О. В. та ін.)  Пропонований зошит-посібник має на меті допомогти вчителям-філологам, які з 2026—2027 навчаль ного року впроваджуватимуть модель НУШ у 9-му класі. У виданні наведено систему різнорівневих завдань, призначених для оцінювання навчальних досяг нень учнів 9-го класу з української літератури відповідно до Державного стандарту базової загальної середньої освіти та модельної навчальної програми «Українська література. 7–9 класи» для закладів за гальної середньої освіти (автори: Заболотний О. В., Слоньовська О. В., Ярмульська І. В.).  Посібник містить диференційовані, творчі завдання, діагностувальні, комбіновані діагностувальні роботи (тестування, різнорівневі практичні завдання) та комплексні підсумкові роботи для учнів 9-го класу з усіх тем курсу української літератури. Усі роботи розміщено на окремих аркушах (за варіантами), наприкінці діагностувальних робіт відведено місце для самооцінювання здобувачів освіти та коментаря вчителя.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Автор">Куцінко Ольга Германівна</param>
 <param name="Предмет">Українська література</param>
 <param name="Мова">українська</param>
@@ -79495,7 +78869,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Українська мова. Усі діагностувальні роботи. 9 клас Посібник містить систему різнорівневих завдань для оцінювання навчальних досягнень учнів 9-го класу з усіх тем курсу української мови відповідно до Державного стандарту базової загальної середньої освіти та основних модельних навчальних програм: «Українська мова. 7–9 класи» для закладів загальної середньої освіти (автори Голуб Н. Б., Горошкіна О. М.) та «Українська мова. 7–9 класи» для закладів загальної середньої освіти (автори: Заболотний О. В., Заболотний В. В., Лавринчук В. П., Плівачук К. В., Попова Т. Д.), рекомендованих Міністерством освіти і науки України (наказ Міністерства освіти і науки України від 12.07.2021 № 795), та рекомендацій щодо оцінювання результатів навчання (наказ Міністерства освіти і науки України від 2.08.2024 № 1093).  Завдання дібрано для бліцоцінювання, поточних, комбінованих, підсумкових діагностувальних робіт та оцінювання різних видів мовленнєвої діяльності. Роботи розміщено на окремих аркушах зручного формату (за варіантами), наприкінці яких відведено місце для самооцінювання та коментаря вчителя щодо оцінювання за рівнями навчальних досягнень і групами результатів навчання. Відповіді до завдань подано в додатку (за QR-кодом). Для вчителів української мови, учнів 9-х класів Нової української школи.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Автор">Коновалова М. В., Фефілова Г. Є.</param>
 <param name="Предмет">Українська мова</param>
 <param name="Мова">українська</param>
@@ -79520,7 +78894,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Українська література. Усі діагностувальні роботи. 9 клас (за програмою Яценко та ін.) Посібник містить диференційовані, творчі завдання, діагностувальні роботи для учнів 9-го класу до модельної навчальної програми «Українська література. 7–9 класи» для закладів загальної середньої освіти (у редакції 2023 року) (автори: Т. О. Яценко, В. І. Пахаренко, О. А. Слижук, І. А. Тригуб).  Завдання дібрано для всіх видів оцінювання, зокрема: бліцопитування (теоретичний матеріал і матеріали на знання тексту); поточні діагностувальні роботи; комбіновані діагностувальні роботи (тестування, різнорівневі практичні завдання). Роботи розміщено на окремих аркушах (за варіантами), наприкінці яких відведено місце для самооцінювання здобувачів освіти й коментаря вчителя. До всіх завдань визначено групи результатів, відповідно до концепції НУШ. Для вчителів української літератури, учнів 9-х класів Нової української школи]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Автор">Куцінко Ольга Германівна</param>
 <param name="Предмет">Українська література</param>
 <param name="Мова">українська</param>
@@ -79545,7 +78919,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Алгебра. Геометрія. Усі діагностувальні роботи. 9 клас. Посібник містить систему завдань, призначених для оцінювання навчальних досягнень учнів 9-го класу з усіх тем курсу відповідно до вимог нового Державного стандарту базової загальної середньої освіти, Типової освітньої програми для 5–9-х класів закладів загальної середньої освіти (наказ МОН від 19.02.2021 № 235), змісту всіх чинних модельних навчальних програм «Алгебра. 7–9 класи», «Геометрія. 7–9 класи», «Математика. 7–9 класи» (автори: Біляніна О. Я та ін.; Бурда М. І. та ін.; Генденштейн Л. Е. та ін.; Істер О. С.; Мерзляк А. Г. та ін.; Панченко С. Ю.) для закладів загальної середньої освіти, рекомендованих Міністерством освіти і науки України (наказ МОН від 12.07.2021 № 795), та рекомендацій щодо оцінювання результатів навчання (наказ Міністерства освіти і науки України від 2.08.2024 № 1093). Пропоновані завдання дібрано для всіх видів оцінювання з математики (алгебри й геометрії), зокрема: бліцоцінювання, поточних комбінованих, тестових, підсумкових діагностувальних робіт. Усі роботи розміщені на окремих аркушах зручного формату (за варіантами), наприкінці яких відведено місце для самооцінювання здобувачів освіти та коментаря вчителя щодо оцінювання за рівнями навчальних досягнень і групами результатів навчання. Відповіді до завдань подано в Додатку за QR-кодом.    Для вчителів математики (алгебри й геометрії), учнів 9-х класів Нової української школи.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Автор">Старова О.О.</param>
 <param name="Предмет">Геометрія</param>
 <param name="Мова">українська</param>
@@ -79572,7 +78946,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Здоров'я мами і малюка. Перший рік життя: рік ніжності, любові й турботи Серія: Для турботливих батьків. Перший рік вашого спільного із малюком життя — це рік ніжності. А ще це рік 1000 і 1 запитання. Ця книжка покликана підтримати вас у питаннях здоров’я і пройти з вами від першого спільного дня із малюком до першого року разом. Книжку зручно структуровано за 7 великими розділами: підготовка до пологів; перший день разом; перший тиждень після пологів; перший місяць; три місяці; шість місяців та дев’ять місяців разом.  У кожному розділі ви знайдете:     відповіді на найпоширеніші запитання про фізичне й психологічне здоров’я мами, розвиток малюка та особливості кожного періоду зростання; сучасні рекомендації щодо догляду за дитиною; рекомендації про те, як мамі піклуватися про себе й на що звернути особливу увагу (піклуватися про себе — це складова піклування про дитину, не забувайте про це ); чекліст наприкінці кожного розділу: «Найважливіше для здоров’я матері й дитини».    Ця книжка стане порадником з усіх питань щодо задоволення потреб дитини в перший рік життя, а також дасть відповіді на запитання щодо здоров’я мами до й після пологів, відкриє таємниці догляду за тілом і відновлення нервової системи, м’яко спрямує та убезпечить від багатьох можливих проблем на шляху до щасливого батьківства, щасливої родини. Ілюстрації: О.О. Кришталь]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Автор">Руденко А.В. Браславець А.О. Зайцева Ю.О. Стоянова О.Є.</param>
 <param name="Мова">українська</param>
 <param name="Вік">0-1</param>
@@ -82290,7 +81664,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Географія. Усі діагностувальні роботи. 9 клас (Подрушняк, Даушкіна)  Усі діагностувальні роботи з усіх тем курсу «Географія. 9 клас» в одному посібнику! Посібник підготовлено відповідно до вимог нового Державного стандарту базової загальної середньої освіти, Типової освітньої програми для 5–9-х класів закладів загальної середньої освіти, змісту всіх чинних модельних навчальних програм курсу «Географія» для 9-го класу для закладів загальної середньої освіти України (автори: Кобернік С. Г., Коваленко Р. Р. та ін.; Запотоцький С. П., Карпюк Г. І. та ін.).  У чому переваги посібника:   завдяки виконаним роботам можна швидко й якісно діагностувати та оцінити досягнення кожної дитини з усіх тем курсу за групами результатів навчання; завдання сформульовано таким чином, щоб додатково ознайомити дитину з новою цікавою інформацією; усі роботи розміщено на окремих аркушах зручного формату (за варіантами).  Купуйте посібник, що допоможе зекономити час на підготовку до уроків!]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Автор">Подрушняк Л.І. Даушкіна А.В.</param>
 <param name="Предмет">Географія</param>
 <param name="Мова">українська</param>
@@ -82984,7 +82358,7 @@
 <vendor>Ранок</vendor>
 <description>
 <![CDATA[НУШ Хімія. 9 клас. Поточне та підсумкове оцінювання за групами результатів + діагностувальна робота (Недоруб, Григорович)  Посібник містить добірку завдань за групами результатів згідно з модельною навчальною програмою.  Видання призначене для учнів і учениць 9-го класу ЗЗСО та вчителів/учительок хімії.]]></description>
-<quantity_in_stock>30</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Недоруб О.Ю., Григорович О.В</param>
 <param name="Предмет">Хімія</param>
 <param name="Мова">українська</param>
@@ -83009,7 +82383,7 @@
 <vendor>Ранок</vendor>
 <description>
 <![CDATA[НУШ Біологія. 9 клас. Поточне та підсумкове оцінювання за групами результатів + діагностувальна робота  Посібник містить добірку завдань за групами результатів згідно з модельною навчальною програмою. Видання призначене для учнів і учениць 9-го класу ЗЗСО та вчителів/учительок курсу «Біологія».]]></description>
-<quantity_in_stock>30</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Довгаль Л.В.</param>
 <param name="Предмет">Біологія</param>
 <param name="Мова">українська</param>
@@ -83023,7 +82397,31 @@
 <param name="ISBN">9786178941345</param>
 <param name="Формат, розмір">165х260 мм</param>
 <param name="Видавництво">Ранок</param></offer>
-
+<offer id="33261" available="true" in_stock="true" selling_type="r" >
+<name>НУШ Інформатика. 8 клас. Поточне та підсумкове оцінювання за групами результатів + діагностувальна робота Ранок Бондаренко, 2025 рік</name>
+<vendorCode>9786170998316</vendorCode>
+<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/8-klas-1/nush-informatyka-8-klas-potochne-ta-pidsumkove-otsiniuvannia-za-hrupamy-rezultativ-diahnostuvalna-robota-ranok-bondarenko-2025-rik/</url>
+<currencyId>UAH</currencyId>
+<categoryId>50</categoryId>
+<price>85</price>
+<picture>https://knigovan.com/image/catalog/products/33261/nush-nformatika-7-klas-potochne-ta-p-dsumkove-ots-nyuvannya-za-grupami-rezultat-v-d-agnostuvalna-robota-ranok-bondarenko-2025-r-k-1.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[НУШ Інформатика. 8 клас. Поточне та підсумкове оцінювання + діагностувальні роботи  Посібник містить роботи для поточного та підсумкового оцінювання з інформатики для 8 класу, розроблені з урахуванням структури підручника «Інформатика» (авт. Бондаренко О. О., Ластовецького В. В., Пилип­чука О. П., Шестопалова Є. А.).У посібнику наведено діагностувальні роботи, тематичні підсумкові роботи, комплексні підсумкові роботи. Кожна робота складається з чотирьох блоків завдань, які охоплюють чотири групи результатів, і картки для самооцінювання. Додаток до посібника, доступний за QR-кодом або посиланням, містить діагностувальну роботу, а також підсумкові тематичні роботи для онлайн-підготовки та ін.  Призначено для учнів 8 класу закладів загальної середньої освіти та вчителів і вчительок інформатики.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Олена Бондаренко, Олександр Пилипчук</param>
+<param name="Предмет">Інформатика</param>
+<param name="Мова">українська</param>
+<param name="Вік">8 клас</param>
+<param name="Тип">контроль знань</param>
+<param name="Серія">Нова українська школа (НУШ)</param>
+<param name="Кількість сторінок">64</param>
+<param name="Рік видання">2025</param>
+<param name="Тип паперу">офсет, чорно-біла</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786170998316</param>
+<param name="Формат, розмір">165x260 мм</param>
+<param name="Видавництво">Ранок</param></offer>
 <offer id="33262" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Інформатика. 9 клас. Поточне та підсумкове оцінювання за групами результатів + діагностувальна робота Ранок Бондаренко, 2026 рік</name>
 <vendorCode>9786178933012</vendorCode>
@@ -83035,7 +82433,7 @@
 <vendor>Ранок</vendor>
 <description>
 <![CDATA[НУШ Інформатика. 9 клас. Поточне та підсумкове оцінювання за групами результатів + діагностувальна робота  Посібник містить роботи для критеріально-орієнтованого оцінювання за групами результатів з інформатики у 9 класі НУШ: діагностувальну роботу на початку року, підсумкові роботи за темами, комплексні підсумкові роботи (за І та ІІ семестри), а також картки для самооцінювання. Кожна робота складається з чотирьох блоків завдань, які охоплюють чотири групи результатів навчання.]]></description>
-<quantity_in_stock>30</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Олена Бондаренко, Олександр Пилипчук</param>
 <param name="Предмет">Інформатика</param>
 <param name="Мова">українська</param>
@@ -83060,7 +82458,7 @@
 <vendor>Ранок</vendor>
 <description>
 <![CDATA[Інформатика. 8 клас. Робочий зошит. НУШ (до підручника О. Бондаренко та ін.)  Посібник створено відповідно до вимог модельної навчальної програми «Інформатика. 7–9 класи» для закладів загальної середньої освіти (авт. О. О. Бондаренко, В. В. Ластовецький, О. П. Пилипчук, Є. А. Шестопалов) і з урахуванням особливостей побудови підручника з інформатики для 9 класу авторського колективу у складі: О. О. Бондаренко, В. В. Ластовецький, О. П. Пилипчук, Є. А. Шестопалов.]]></description>
-<quantity_in_stock>30</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Бондаренко О.О. Ластовецький В.В. Пилипчук О.П. Шестопалов Є.А.</param>
 <param name="Предмет">Інформатика</param>
 <param name="Мова">українська</param>
@@ -83085,7 +82483,7 @@
 <vendor>Ранок</vendor>
 <description>
 <![CDATA[НУШ Фізика. 9 клас. Збірник задач (Ілля Гельфгат, Ігор Ненашев)  Збірник задач містить різні типи фізичних задач (якісні, розрахункові, графічні), що передбачені в курсі фізики для 9 класу (НУШ). Посібник побудований максимально зручно. Наведено приклади розв’язування задач; подано відповіді до більшості задач, а також вибірково — вказівки та розв’язання; уміщено тести для самоперевірки та відповіді до них. Крім того, біля багатьох задач стоять позначки, що відповідають можливому розподілу цих задач для роботи за групами результатів відповідно до вимог НУШ, а також позначено задачі, що реалізують ідеї PISA. Наявність однотипних задач дозволяє здійснити оптимальний добір задач для домашніх завдань і самостійних робіт, а також може бути корисною для організації групової роботи в класі. Задачі для допитливих допоможуть перевірити глибину отриманих знань і підготуватися до олімпіад із фізики.]]></description>
-<quantity_in_stock>30</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Ілля Гельфгат, Ігор Ненашев</param>
 <param name="Предмет">Фізика</param>
 <param name="Мова">українська</param>
@@ -83114,7 +82512,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Мія складає Перші речення. 2+. Серія: Матусина бібліотечка. «Мія складає перші речення» — книжка для малюків третього року життя. Цю збірку створено, щоб допомогти батькам на початковому етапі розвитку мовлення дитини. Чудово ілюстровані тексти навчать малюка наслідувати й складати перші речення, спілкуватися та взаємодіяти із найближчим оточенням. Що ви знайдете в книжці? Коротенькі, легкі для сприймання тексти, які допоможуть вашій дитині зробити перші кроки до опанування мовлення, сприятимуть розвитку мовленнєвої уваги й пам’яті, формуванню первинних комунікативних навичок та уявлення про навколишній світ, отже — розвитку дитячої особистості. Яскраві ілюстрації для зацікавлення малюка спільним читанням. Книжку можна брати із собою всюди! Це видання подарує чудові миті спільного читання, гри та спілкування. Нехай їх буде якнайбільше!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Автор">Наталія Бірченко</param>
 <param name="Мова">українська</param>
 <param name="Вік">від 2 років</param>
@@ -87753,7 +87151,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Комплект: Мія вимовляє перші звуки та слова, Мія складає перші речення, Наталія Бірченко. Серія: Матусина бібліотечка. До комплекту входить:  1. Мія вимовляє перші звуки. 0+  «Мія вимовляє перші звуки» — книжка для малюків з перших місяців життя! Цю збірку римованих звуконаслідувань створено, щоб допомогти батькам на першому етапі розвитку мовлення дитини. Легкі, короткі примовки навчать малюка наслідувати звуки живої природи і предметів, перетворюючи розвиток на веселу гру. Що ви знайдете в книжці?    Легкі для запам’ятовування римовані тексти, які допоможуть вашій дитині зробити перші кроки до опанування мовлення. Звуки живої природи та предметів з оточення дитини: «Няв-няв», «Біп-біп», «Гав-гав» — для формування навичок звуконаслідування. Яскраві ілюстрації для зацікавлення дитини спільним читанням змалку.    Головна мета книжки — стимулювати розвиток мовлення, артикуляції, слухового сприйняття та уваги малюка. Ця книжка подарує чудові миті спільного читання, гри та спілкування. Нехай їх буде якнайбільше!  2. Мія вимовляє перші слова. 1+  «Мія вимовляє перші слова» — книжка для малюків другого року життя. Цю збірку створено, щоб допомогти батькам на початковому етапі розвитку мовлення дитини. Чудово ілюстровані тексти навчать малюка наслідувати перші слова й навіть спілкуватися та взаємодіяти із найближчим оточенням, перетворюючи розвиток на веселу гру. Що ви знайдете в книжці? Коротенькі, легкі для сприймання тексти, які допоможуть вашій дитині зробити перші кроки до опанування мовлення, сприятимуть розвитку мовленнєвої уваги й пам’яті, формуванню первинних комунікативних навичок та уявлення про навколишній світ, отже — розвитку дитячої особистості. Яскраві ілюстрації для зацікавлення малюка спільним читанням. Книжку можна брати із собою всюди! Це видання подарує чудові миті спільного читання, гри та спілкування. Нехай їх буде якнайбільше!  3. Мія складає Перші речення. 2+  «Мія складає перші речення» — книжка для малюків третього року життя. Цю збірку створено, щоб допомогти батькам на початковому етапі розвитку мовлення дитини. Чудово ілюстровані тексти навчать малюка наслідувати й складати перші речення, спілкуватися та взаємодіяти із найближчим оточенням. Що ви знайдете в книжці? Коротенькі, легкі для сприймання тексти, які допоможуть вашій дитині зробити перші кроки до опанування мовлення, сприятимуть розвитку мовленнєвої уваги й пам’яті, формуванню первинних комунікативних навичок та уявлення про навколишній світ, отже — розвитку дитячої особистості. Яскраві ілюстрації для зацікавлення малюка спільним читанням. Книжку можна брати із собою всюди! Це видання подарує чудові миті спільного читання, гри та спілкування. Нехай їх буде якнайбільше!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Автор">Наталія Бірченко</param>
 <param name="Мова">українська</param>
 <param name="Вік">0+</param>
@@ -88399,7 +87797,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Дитяча художня література. 24 різдвяні гноми: казки та вірші на кожний день адвенту  До Різдва залишилося 24 дні… А це означає, що в чарівній майстерні Санти починається найгарячіша пора року! Маленький гном Піно та його друзі поспішають виконати всі різдвяні справи: випікають духмяні смаколики, майструють подарунки, шиють, вирізблюють і навіть в'яжуть теплі речі для святкового дива. Але чи все вони встигнуть до омріяної ночі? Ця книжка — художній адвент для дітей, який допоможе щодня поринати у різдвяну атмосферу. Усередині на вас чекають 24 теплі історії — по одній на кожен день очікування Різдва, та вірші. Читайте їх разом із дитиною, створюйте сімейні традиції, рахуйте дні до свята й наповнюйте грудень затишком, усмішками і доброю магією.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Автор">Інгрід Уебе, Катя Уебе</param>
 <param name="Мова">українська</param>
 <param name="Вік">5-7 рокiв</param>
@@ -88414,30 +87812,7 @@
 <param name="Видавництво">Основа</param></offer>
 
 
-<offer id="33608" available="true" in_stock="true" selling_type="r" >
-<name>Для турботливих батьків Основа Енциклопедія безпеки дитини 4-6 років Анна Васильцова, Вікторія Єфіменко</name>
-<vendorCode>9786170045065</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/dlia-turbotlyvykh-batkiv/dlia-turbotlyvykh-batkiv-osnova-entsyklopediia-bezpeky-dytyny-4-6-rokiv-anna-vasyltsova-viktoriia-iefimenko/</url>
-<currencyId>UAH</currencyId>
-<categoryId>137</categoryId>
-<price>350</price>
-<picture>https://knigovan.com/image/catalog/products/33608/dlya-turbotlivih-batk-v-osnova-gri-na-shchoden-chim-rozvazhiti-ditinu-2-6-rok-v-l-v-tur-shcheva-2.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[Для турботливих батьків. Енциклопедія безпеки дитини. 4-6 років. Анна Васильцова, Вікторія Єфіменко Світ такий великий, цікавий і сповнений відкриттів! Але як навчити дитину бути обережною без страху й зайвих заборон? Ця яскрава ілюстрована книжка допоможе батькам легко й спокійно поговорити з малюком про найважливіші правила безпеки. Через зрозумілі життєві ситуації, добрі ілюстрації та запитання для обговорення дитина навчиться діяти впевнено вдома, на вулиці, в інтернеті та в непередбачуваних ситуаціях.  Разом ви дізнаєтеся:   як поводитися вдома поруч із небезпечними предметами; чому важливо берегти власні кордони й уміти казати «ні»; як безпечно поводитися на дорозі, у транспорті та з незнайомцями; навіщо дбати про гігієну та формувати здорові звички; як зробити гаджети й інтернет безпечним простором; що робити під час повітряної тривоги та як розпізнати мінну небезпеку.  Книжка створена для дітей 4–6 років і дбайливих дорослих, які прагнуть не просто застерегти дитину, а навчити її впевнено пізнавати світ. Читайте, розглядайте, обговорюйте і крок за кроком будуйте безпечне дитинство разом!]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Автор">Анна Васильцова, Вікторія Єфіменко</param>
-<param name="Мова">українська</param>
-<param name="Вік">4-6 рокiв</param>
-<param name="Тип">Книга для батьків</param>
-<param name="Серія">Для турботливих батьків</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2026</param>
-<param name="Тип паперу">офсет, кольоровий</param>
-<param name="Тип обкладинки">тверда</param>
-<param name="ISBN">9786170045065</param>
-<param name="Формат, розмір">205х260 мм</param>
-<param name="Видавництво">Основа / MAMAS</param></offer>
+
 <offer id="33609" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Олімпіади Основа Олімпіадні завдання з української мови та літератури 5-9 класи Ольга Куцінко</name>
 <vendorCode>9786170044723</vendorCode>
@@ -89217,4 +88592,29 @@
 <param name="Тип обкладинки">м&apos;яка</param>
 <param name="ISBN">9786170045478</param>
 <param name="Видавництво">Основа</param></offer>
+
+<offer id="33698" available="true" in_stock="true" selling_type="r" >
+<name>Візуалізований довідник Основа Захопливі досліди й експерименти для дітей 6-10 років Н. Павлюк, О. Довгий</name>
+<vendorCode>9786170045249</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/vizualizovanyi-dovidnyk-osnova-zakhoplyvi-doslidy-i-eksperymenty-dlia-ditei-6-10-rokiv-n-pavliuk-o-dovhyi/</url>
+<currencyId>UAH</currencyId>
+<categoryId>32</categoryId>
+<price>350</price>
+<picture>https://knigovan.com/image/catalog/products/33698/v-zual-zovaniy-dov-dnik-osnova-ts-kav-domashn-dosl-di-dlya-d-tey-4-10-rok-v-l-puzhaychereda-v-karnaushenko-1.jpg</picture>
+<vendor>Основа</vendor>
+<description>
+<![CDATA[Візуалізований довідник. Захопливі досліди й експерименти. ВИД014 Запрошуємо в захопливий світ НАУКИ! Чому бутерброд падає маслом донизу? Як змусити лимон виробляти електричний струм? Як зробити з курячого яйця яйце-стрибунець? Нумо досліджувати! Книга містить 37 різноманітних, цікавих та безпечних дослідів, за допомогою яких можна розвивати дитячу допитливість та прагнення до нових відкриттів. Для дослідів не потрібні дорогі чи рідкісні складники, спеціальне обладнання чи особливі навички. Кожен дослід описано за певною структурою: про що йдеться; перелік складників, потрібних для проведення досліду; покрокове виконання досліду в малюнках із коментарями і коротке пояснення процесів, які відбуваються під час досліду. Безпечні досліди стануть для дітей 6-10 років та їхніх батьків. Запрошуємо пліч-о-пліч зі своїми дітьми відкривати таємниці науки! Спілкуйтеся, досліджуйте, відкривайте нове!]]></description>
+<quantity_in_stock>5</quantity_in_stock>
+<param name="Автор">Наталія Павлюк, Олег Довгий</param>
+<param name="Мова">українська</param>
+<param name="Вік">6-10 років</param>
+<param name="Тип">Посібник для учня</param>
+<param name="Серія">Візуалізований довідник</param>
+<param name="Кількість сторінок">80</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">офсет, кольоровий</param>
+<param name="Тип обкладинки">тверда</param>
+<param name="ISBN">9786170045249</param>
+<param name="Видавництво">Основа</param></offer>
+
 </offers></shop></yml_catalog>
