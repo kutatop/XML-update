@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-11-14 12:00">
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-11-15 12:00">
 <shop>
 <url>https://knigovan.com/</url>
 <name>Книгован</name>
@@ -1997,7 +1997,7 @@
 <vendorCode>9789669464859</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/5-klas-2/nush-atlas-z-konturnymy-kartamy-piznaiemo-pryrodu-5-6-klas-kartohrafiia/</url>
 <currencyId>UAH</currencyId>
-<categoryId>56</categoryId>
+<categoryId>47</categoryId>
 <price>150</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24075/nush_atlas_z_konturnimi_kartami_pizna_mo_prirodu_5_6_klas_kartografiya.jpg</picture>
 <vendor>Картографія</vendor>
@@ -11353,7 +11353,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[Зошит " Мандруємо зі словом. Зошит з розвитку зв’язного мовлення 2 клас   " призначений для використання на уроках розвитку зв’язного мовлення в 2 класі. Його зміст повністю відповідає чинній програмі Міністерства освіти і науки України з предмета «Українська мова» для початкової школи, укладеної під керівництвом О. Я. Савченко.      Для учнів 2 класу, вчителів, батьків.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Лабащук А.</param>
 <param name="Мова">українська</param>
 <param name="Вік">2 клас</param>
@@ -12907,7 +12907,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[В альбомі-посібнику "НУШ. Альбом-посібник Умійко. Дизайн і технології 2 клас" запропоновано творчі завдання з дизайну і технологій, розроблені відповідно до Типової освітньої програми МОН України (О.  Савченко) і підручника Н.Бібік, Г.Бондарчук «Я досліджую світ. 2 клас», спрямовані на розвиток універсальних творчих якостей  і  сенсорних здібностей учнів.         Для учнів другого класу, учителів початкових класів,  батьків.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Головата О., Кононюк А.</param>
 <param name="Мова">українська</param>
 <param name="Вік">2 клас</param>
@@ -20504,75 +20504,9 @@
 
 
 
-<offer id="26433" available="true" in_stock="true" selling_type="r" >
-<name>Віршики-загадки УЛА Вирушай у подорож</name>
-<vendorCode>9789662848915</vendorCode>
-<url>https://knigovan.com/doshkilne-navchannia-nush/virshyky-zahadky-ula-vyrushai-u-podorozh/</url>
-<currencyId>UAH</currencyId>
-<categoryId>139</categoryId>
-<price>45</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/26433/virshiki_zagadki_ula_virushay_u_podorozh.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Віршики-загадки – Вирушай у подорож.   Бажаєте познайомити малюка з машинами та транспортом так, щоб це було цікаво та весело? Тоді книжка «Вирушай у подорож» – неймовірна знахідка! У ній ви знайдете і зрозумілі віршики-загадки, і великі наліпки-відгадки, і яскраві панорамні картинки, які буде цікаво розглядати та досліджувати.  Видання розширить дитячий кругозір, допоможе розвинути дрібну моторику пальців рук, а також образне мислення й уяву.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Мова">українська</param>
-<param name="Вік">3+</param>
-<param name="Тип">Ігри з наліпками</param>
-<param name="Серія">Віршики-загадки</param>
-<param name="Кількість сторінок">8</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789662848915</param>
-<param name="Формат, розмір">23,5×22 см</param>
-<param name="Видавництво">Ула</param></offer>
-<offer id="26434" available="true" in_stock="true" selling_type="r" >
-<name>Віршики-загадки УЛА Нагодуй тваринок</name>
-<vendorCode>9789662848922</vendorCode>
-<url>https://knigovan.com/doshkilne-navchannia-nush/virshyky-zahadky-ula-nahodui-tvarynok/</url>
-<currencyId>UAH</currencyId>
-<categoryId>139</categoryId>
-<price>45</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/26434/virshiki_zagadki_ula_nagoduy_tvarinok.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Віршики-загадки – Нагодуй тваринок.   Бажаєте познайомити малюка з тваринами та їхніми улюбленими ласощами так, щоб це було цікаво та весело? Тоді книжка «Нагодуй тваринок» – неймовірна знахідка! У ній ви знайдете і зрозумілі віршики-загадки, і великі наліпки-відгадки, і яскраві панорамні картинки, які буде цікаво розглядати та досліджувати.  Видання розширить дитячий кругозір, допоможе розвинути дрібну моторику пальців рук, а також образне мислення й уяву.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Мова">українська</param>
-<param name="Вік">3+</param>
-<param name="Тип">Ігри з наліпками</param>
-<param name="Серія">Віршики-загадки</param>
-<param name="Кількість сторінок">8</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789662848922</param>
-<param name="Формат, розмір">23,5×22 см</param>
-<param name="Видавництво">Ула</param></offer>
-<offer id="26435" available="true" in_stock="true" selling_type="r" >
-<name>Віршики-загадки УЛА Упізнай малюка</name>
-<vendorCode>9789662848939</vendorCode>
-<url>https://knigovan.com/doshkilne-navchannia-nush/virshyky-zahadky-ula-upiznai-maliuka/</url>
-<currencyId>UAH</currencyId>
-<categoryId>139</categoryId>
-<price>45</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/26435/virshiki_zagadki_ula_upiznay_malyuka.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Віршики-загадки – Упізнай малюка.   Бажаєте познайомити малюка з тваринами та їхніми дитинчатами так, щоб це було цікаво та весело? Тоді книжка «Упізнай малюка» – неймовірна знахідка! У ній ви знайдете і зрозумілі віршики-загадки, і великі наліпки-відгадки, і яскраві панорамні картинки, які буде цікаво розглядати та досліджувати. Видання розширить дитячий кругозір, допоможе розвинути дрібну моторику пальців рук, а також образне мислення й уяву.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Мова">українська</param>
-<param name="Вік">3+</param>
-<param name="Тип">Ігри з наліпками</param>
-<param name="Серія">Віршики-загадки</param>
-<param name="Кількість сторінок">8</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9789662848939</param>
-<param name="Формат, розмір">23,5×22 см</param>
-<param name="Видавництво">Ула</param></offer>
+
+
+
 
 
 
@@ -22266,7 +22200,7 @@
 <vendor>ПЕТ</vendor>
 <description>
 <![CDATA[НУШ. Позакласне читання 2 клас.  Посібник «Позакласне читання. 2 клас» створено відповідно до нової навчальної програми Міністерства освіти і науки України. У виданні зібрано найцікавіші художні твори, запитання та завдання, зміст яких відповідає психологічним особливостям учнів даного віку, сприяє інтелектуальному та духовному розвитку дитини. До кожної теми, для перевірки та закріплення прочитаного матеріалу, подано різноманітні цікаві завдання, орієнтовані на доскональну роботу з текстом. Видання розраховане на учнів і вчителів початкових класів.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Настенко А.І., Ковальчук Н.О.</param>
 <param name="Мова">українська</param>
 <param name="Вік">2 клас</param>
@@ -23106,7 +23040,7 @@
 <vendor>Ранок</vendor>
 <description>
 <![CDATA[НУШ Робочий зошит. Я досліджую світ 3 клас Частина 1 до підручника Н. Бібік, Г. Бондарчук - 2025 рік. Зошит складено відповідно до Типової освітньої програми, розробленої під керівництвом О. Я. Савченко, та частини 1 підручника «Я досліджую світ» для 3 класу закладів загальної середньої освіти (автори Н. М. Бібік, Г. П. Бондарчук). Посібник містить вправи дослідницького характеру, творчі завдання на міжпредметній основі, логічні вправи, завдання компетентнісного характеру, елементарні тестові завдання.    Призначено для учнів 3 класу закладів загальної середньої освіти, учителів початкових класів.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Бібік Н. М., Бондарчук Г. П.</param>
 <param name="Предмет">Я досліджую світ</param>
 <param name="Мова">українська</param>
@@ -34125,10 +34059,98 @@
 <param name="ISBN">9786175441367</param>
 <param name="Формат, розмір">21×30,5 см</param>
 <param name="Видавництво">Ула</param></offer>
-
-
-
-
+<offer id="27919" available="true" in_stock="true" selling_type="r" >
+<name>Каліграфія для відмінника УЛА Чистописання</name>
+<vendorCode>9786175441268</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafiia-dlia-vidminnyka-ula-chystopysannia/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>44</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27919/kaligrafiya_dlya_vidminnika_ula_chistopisannya.jpg</picture>
+<vendor>УЛА</vendor>
+<description>
+<![CDATA[Каліграфія для відмінника — Чистописання   Цей зошит допоможе дитині закріпити навички письма букв та їхніх поєднань у словах. На кожній сторінці — обов’язковий зразок і пунктирні шаблони для відшліфування навички. Цікаві завдання доведуть каліграфію дитини до позначки «відмінно», а наліпки для самооцінювання урізноманітнять роботу із зошитом.      Видання призначене для дітей старшого дошкільного та молодшого шкільного віку.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Сіліч С. О.</param>
+<param name="Мова">українська</param>
+<param name="Тип">посібник для дітей</param>
+<param name="Серія">Каліграфія для відмінника</param>
+<param name="Кількість сторінок">32</param>
+<param name="Рік видання">2023</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786175441367</param>
+<param name="Формат, розмір">17×23 см</param>
+<param name="Видавництво">Ула</param></offer>
+<offer id="27920" available="true" in_stock="true" selling_type="r" >
+<name>Каліграфія для відмінника УЛА Прописи для лівші</name>
+<vendorCode>9786175441251</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafiia-dlia-vidminnyka-ula-propysy-dlia-livshi/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>44</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27920/kaligrafiya_dlya_vidminnika_ula_propisi_dlya_livshi.jpg</picture>
+<vendor>УЛА</vendor>
+<description>
+<![CDATA[Каліграфія для відмінника — Прописи для лівші    Цей зошит розроблено для творчого малюка, що пише лівою. Усі зразки розміщено праворуч, щоб їх було видно під час роботи. Пунктирні шаблони цифр, математичних знаків, фігур, букв і слів подано на кожній сторінці для відшліфування навички письма. Цікаві завдання і приклади допоможуть довести каліграфію дитини до позначки «відмінно», а наліпки для самооцінювання урізноманітнять роботу із зошитом.      Видання призначене для дітей старшого дошкільного та молодшого шкільного віку.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Сіліч С. О.</param>
+<param name="Мова">українська</param>
+<param name="Тип">посібник для дітей</param>
+<param name="Серія">Каліграфія для відмінника</param>
+<param name="Кількість сторінок">32</param>
+<param name="Рік видання">2023</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786175441251</param>
+<param name="Формат, розмір">17×23 см</param>
+<param name="Видавництво">Ула</param></offer>
+<offer id="27921" available="true" in_stock="true" selling_type="r" >
+<name>Каліграфія для відмінника УЛА Математичні прописи</name>
+<vendorCode>9786175441244</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafiia-dlia-vidminnyka-ula-matematychni-propysy/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>44</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27921/kaligrafiya_dlya_vidminnika_ula_matematichni_propisi.jpg</picture>
+<vendor>УЛА</vendor>
+<description>
+<![CDATA[Каліграфія для відмінника — Математичні прописи    Цей зошит допоможе дитині закріпити навички письма цифр, математичних знаків, чисел, малювання фігур і візерунків. На кожній сторінці — обов’язковий зразок і пунктирні шаблони для відшліфування навички. Цікаві завдання і приклади допоможуть довести каліграфію дитини до позначки «відмінно», а наліпки для самооцінювання урізноманітнять роботу із зошитом.      Видання призначене для дітей старшого дошкільного та молодшого шкільного віку.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Сіліч С. О.</param>
+<param name="Мова">українська</param>
+<param name="Тип">посібник для дітей</param>
+<param name="Серія">Каліграфія для відмінника</param>
+<param name="Кількість сторінок">32</param>
+<param name="Рік видання">2023</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786175441244</param>
+<param name="Формат, розмір">17×23 см</param>
+<param name="Видавництво">Ула</param></offer>
+<offer id="27922" available="true" in_stock="true" selling_type="r" >
+<name>Каліграфія для відмінника УЛА Виправлення почерку</name>
+<vendorCode>9786175441237</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafiia-dlia-vidminnyka-ula-vypravlennia-pocherku/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>44</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/27922/kaligrafiya_dlya_vidminnika_ula_vipravlennya_pocherku.jpg</picture>
+<vendor>УЛА</vendor>
+<description>
+<![CDATA[Каліграфія для відмінника — Виправлення почерку    Цей зошит допоможе дитині потренувати дрібну моторику пальців рук, закріпити навички письма літер та їхніх поєднань у словах, потренувати пам’ять й увагу в процесі списування речень і тексту, поданих прописними та друкованими літерами. Цікаві завдання доведуть каліграфію дитини до позначки «відмінно», а наліпки для самооцінювання урізноманітнять роботу із зошитом.      Видання призначене для дітей старшого дошкільного та молодшого шкільного віку.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Сіліч С. О.</param>
+<param name="Мова">українська</param>
+<param name="Тип">посібник для дітей</param>
+<param name="Серія">Каліграфія для відмінника</param>
+<param name="Кількість сторінок">32</param>
+<param name="Рік видання">2023</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786175441237</param>
+<param name="Формат, розмір">17×23 см</param>
+<param name="Видавництво">Ула</param></offer>
 
 
 
@@ -40849,7 +40871,30 @@
 <param name="ISBN">9789660742123</param>
 <param name="Формат, розмір">В5 (180*250 мм)</param>
 <param name="Видавництво">Підручники і посібники</param></offer>
-
+<offer id="28768" available="true" in_stock="true" selling_type="r" >
+<name>Тренажер для мозку. Малюємо двома руками 5-7 років АССА Нова школа для малят</name>
+<vendorCode>9786177877508</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-5-rokiv/trenazher-dlia-mozku-maliuiemo-dvoma-rukamy-5-7-rokiv-assa-nova-shkola-dlia-maliat/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>80</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/28768/trenazher_dlya_mozku_malyu_mo_dvoma_rukami_5_7_rokiv_assa_nova_shkola_dlya_malyat.jpg</picture>
+<vendor>АССА</vendor>
+<description>
+<![CDATA[Тренажер для мозку. Малюємо двома руками Серія: Нова школа для малят. (Н.Ф. Риндіна.)  Основна мета посібника «Тренажер для мозку. Малюємо двома руками» — допомогти дитині однаково розвинути ліву і праву півкулі мозку, адже такий розвиток є запорукою гармонійного розвитку і успішного навчання. Найпростіший і веселий спосіб такого розвитку — малювання обома руками одночасно. Одночасна дія обома руками не тільки гармонізує роботу лівої та правої півкуль головного мозку, а й покращує зорово-моторну координацію, тренує пам’ять, увагу, дрібну і крупну моторику, знижує втомлюваність, полегшує навчання читати і писати, розвиває фантазію та уяву.  Чому варто придбати: Завдання в зошиті розміщено в певному порядку, який, по-перше, є реалізацією успішного педагогічного досвіду автора, по-друге, обґрунтований новітніми дослідженнями в галузі нейропсихології.]]></description>
+<quantity_in_stock>2</quantity_in_stock>
+<param name="Автор">Риндіна Н.Ф.</param>
+<param name="Мова">українська</param>
+<param name="Вік">5-7 рокiв</param>
+<param name="Тип">тренажер</param>
+<param name="Серія">Нова школа для малят</param>
+<param name="Кількість сторінок">32</param>
+<param name="Рік видання">2023</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-617-7877-50-8</param>
+<param name="Формат, розмір">205 х 275 мм.</param>
+<param name="Видавництво">АССА</param></offer>
 
 
 <offer id="28771" available="true" in_stock="true" selling_type="r" >
@@ -44704,7 +44749,7 @@
 <vendorCode>9789669463487</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/atlasy/3-klas-2/nush-atlas-z-konturnymy-kartamy-kartohrafiia-ya-doslidzhuiu-svit-pryroda-3-4-klas/</url>
 <currencyId>UAH</currencyId>
-<categoryId>16</categoryId>
+<categoryId>10</categoryId>
 <price>115</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29639/nush_atlas_z_konturnimi_kartami_kartografiya_ya_doslidzhuyu_svit_priroda_3_4_klas.jpg</picture>
 <vendor>Картографія</vendor>
@@ -45364,7 +45409,7 @@
 <vendorCode>9786177403448</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-virshykiv-opovidan/opovidky-pro-tvaryn-belkar-knyha-opovidannia-veselka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>138</categoryId>
 <price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29683/opovidki_pro_tvarin_belkar_kniga_opovidannya_veselka.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -45433,7 +45478,7 @@
 <vendorCode>9786177403325</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-virshykiv-opovidan/nezvychaini-darunky-belkar-knyha-veselka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>138</categoryId>
 <price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29686/nezvichayni_darunki_belkar_kniga_veselka.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -46080,53 +46125,9 @@
 
 
 
-<offer id="29722" available="true" in_stock="true" selling_type="r" >
-<name>Пан Коцький Белкар-книга Казки. Читання по складах. Промінець</name>
-<vendorCode>9789661694575</vendorCode>
-<url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/pan-kotskyi-belkar-knyha-kazky-chytannia-po-skladakh-prominets/</url>
-<currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
-<price>180</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/29722/pan_kotskiy_belkar_kniga_kazki_chitannya_po_skladah_prominets.jpg</picture>
-<vendor>Белкар-книга</vendor>
-<description>
-<![CDATA[Пан Коцький. Казки. Читання по складах. Промінець  Ця збірка казок - для наймолодших читачів, які роблять перші кроки в читанні. Книга призначена для вироблення в дітей навичок техніки читання текстів по складах. До збірки ввійшли відомі українські народні казки. Читаючи їх, малята навчаться відрізняти добро від зла, здійснювати гарні вчинки, бути добрими, справедливими, захищати менших, поважати старших.  Для дітей дошкільного та молодшого шкільного віку.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">народні казки</param>
-<param name="Мова">українська</param>
-<param name="Вік">4-7 років</param>
-<param name="Тип">книга</param>
-<param name="Серія">Промінець</param>
-<param name="Кількість сторінок">48</param>
-<param name="Тип паперу">кольоровий, крейдований</param>
-<param name="Тип обкладинки">тверда</param>
-<param name="ISBN">978-966-1694-57-5</param>
-<param name="Формат, розмір">220х168 мм</param>
-<param name="Видавництво">Белкар-книга</param></offer>
 
-<offer id="29724" available="true" in_stock="true" selling_type="r" >
-<name>Подорож у казку Белкар-книга Казки. Читання по складах. Промінець</name>
-<vendorCode>9789668816864</vendorCode>
-<url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/podorozh-u-kazku-belkar-knyha-kazky-chytannia-po-skladakh-prominets/</url>
-<currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
-<price>180</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/29724/podorozh_u_kazku_belkar_kniga_kazki_chitannya_po_skladah_prominets.jpg</picture>
-<vendor>Белкар-книга</vendor>
-<description>
-<![CDATA[Подорож у казку. Казки. Читання по складах. Промінець  Ця збірка казок - для наймолодших читачів, які роблять перші кроки в читанні. Книга призначена для вироблення в дітей навичок техніки читання текстів по складах. До збірки ввійшли відомі народні та авторські казки. Читаючи їх, малята навчаться відрізняти добро від зла, здійснювати гарні вчинки - захищати менших, поважати старших.  Для дітей дошкільного та молодшого шкільного віку.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">народні казки</param>
-<param name="Мова">українська</param>
-<param name="Вік">4-7 років</param>
-<param name="Тип">книга</param>
-<param name="Серія">Промінець</param>
-<param name="Кількість сторінок">48</param>
-<param name="Тип паперу">кольоровий, крейдований</param>
-<param name="Тип обкладинки">тверда</param>
-<param name="ISBN">978-966-8816-86-4</param>
-<param name="Формат, розмір">220х168 мм</param>
-<param name="Видавництво">Белкар-книга</param></offer>
+
+
 <offer id="29725" available="true" in_stock="true" selling_type="r" >
 <name>Дванадцять місяців Белкар-книга Вірші, казки, оповідання. Промінець</name>
 <vendorCode>9786177403110</vendorCode>
@@ -46202,7 +46203,7 @@
 <vendorCode>9789661694506</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-virshykiv-opovidan/naiharnisha-mama-belkar-knyha-kazky-prominets-sukhomlynskyi/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>138</categoryId>
 <price>180</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29729/naygarnisha_mama_belkar_kniga_kazki_prominets_suhomlinskiy.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -46220,29 +46221,7 @@
 <param name="ISBN">978-966-1694-50-6</param>
 <param name="Формат, розмір">220х168 мм</param>
 <param name="Видавництво">Белкар-книга</param></offer>
-<offer id="29730" available="true" in_stock="true" selling_type="r" >
-<name>Мишача рада Белкар-книга Українські народні казки. Читання по складах. Промінець</name>
-<vendorCode>9789661694384</vendorCode>
-<url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/myshacha-rada-belkar-knyha-ukrainski-narodni-kazky-chytannia-po-skladakh-prominets/</url>
-<currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
-<price>180</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/29730/mishacha_rada_belkar_kniga_ukra_nski_narodni_kazki_chitannya_po_skladah_prominets.jpg</picture>
-<vendor>Белкар-книга</vendor>
-<description>
-<![CDATA[Мишача рада. Українські народні казки. Читання по складах. Промінець  Ця збірка казок - для наймолодших читачів, які роблять перші кроки в читанні. Книга призначена для вироблення в дітей навичок техніки читання текстів по складах. До збірки ввійшли відомі українські народні казки. Читаючи їх, малята навчаться відрізняти добро від зла, здійснювати гарні вчинки, бути добрими, справедливими, захищати менших, поважати старших.  Для дітей дошкільного та молодшого шкільного віку.]]></description>
-<quantity_in_stock>99</quantity_in_stock>
-<param name="Автор">народні казки</param>
-<param name="Мова">українська</param>
-<param name="Вік">4-8 років</param>
-<param name="Тип">книга</param>
-<param name="Серія">Промінець</param>
-<param name="Кількість сторінок">48</param>
-<param name="Тип паперу">кольоровий, крейдований</param>
-<param name="Тип обкладинки">тверда</param>
-<param name="ISBN">978-966-1694-38-4</param>
-<param name="Формат, розмір">220х168 мм</param>
-<param name="Видавництво">Белкар-книга</param></offer>
+
 <offer id="29731" available="true" in_stock="true" selling_type="r" >
 <name>Малечі про цікаві речі Белкар-книга Промінець</name>
 <vendorCode>9789668816895</vendorCode>
@@ -46411,7 +46390,7 @@
 <vendorCode>9789668816499</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-virshykiv-opovidan/nezvychaini-pryhody-i-taiemnytsi-belkar-knyha-skarbnychka-shkoliara-kostetskyi/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>138</categoryId>
 <price>240</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29740/nezvichayni_prigodi_i_ta_mnitsi_belkar_kniga_skarbnichka_shkolyara_kostetskiy.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -46434,7 +46413,7 @@
 <vendorCode>9789661694445</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-virshykiv-opovidan/odynytsia-z-obmanom-belkar-knyha-piatirka-z-khvostykom-super-b-z-frykadelkamy-skarbnychka-shkoliara-nestaiko/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>138</categoryId>
 <price>336</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29741/odinitsya_z_obmanom_belkar_kniga_p_yatirka_z_hvostikom_super_b_z_frikadelkami_skarbnichka_shkolyara_nestayko.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -47086,7 +47065,7 @@
 <vendorCode>9789669462695</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/atlasy/1-klas-2/nush-atlas-z-konturnymy-kartamy-kartohrafiia-ya-doslidzhuiu-svit-pryrodoznavstvo-1-2-klas/</url>
 <currencyId>UAH</currencyId>
-<categoryId>14</categoryId>
+<categoryId>8</categoryId>
 <price>115</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29859/nush_atlas_z_konturnimi_kartami_kartografiya_ya_doslidzhuyu_svit_prirodoznavstvo_1_2_klas.jpg</picture>
 <vendor>Картографія</vendor>
@@ -47108,7 +47087,7 @@
 <vendorCode>1210088</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/atlasy/3-klas-2/nush-atlas-z-konturnymy-kartamy-kartohrafiia-ya-doslidzhuiu-svit-suspilstvo-istoriia-kultura-3-4-klas/</url>
 <currencyId>UAH</currencyId>
-<categoryId>16</categoryId>
+<categoryId>10</categoryId>
 <price>201</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29860/nush_atlas_z_konturnimi_kartami_kartografiya_ya_doslidzhuyu_svit_suspilstvo_istoriya_kultura_3_4_klas.jpg</picture>
 <vendor>Картографія</vendor>
@@ -47132,7 +47111,7 @@
 <vendorCode>9789669462879</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/6-klas-1/atlas-ukrainoznavstvo-5-6-klas-kartohrafiia/</url>
 <currencyId>UAH</currencyId>
-<categoryId>56</categoryId>
+<categoryId>47</categoryId>
 <price>148</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29862/atlas_ukra_noznavstvo_5_6_klas_kartografiya.jpg</picture>
 <vendor>Картографія</vendor>
@@ -47154,7 +47133,7 @@
 <vendorCode>9789669463449</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/7-klas-2/atlas-ukrainoznavstvo-7-8-klas-kartohrafiia/</url>
 <currencyId>UAH</currencyId>
-<categoryId>58</categoryId>
+<categoryId>49</categoryId>
 <price>148</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29863/atlas_ukra_noznavstvo_7_8_klas_kartografiya.jpg</picture>
 <vendor>Картографія</vendor>
@@ -50404,7 +50383,7 @@
 <vendor>Торсінг</vendor>
 <description>
 <![CDATA[Репетитор. Українська мова. 3 клас. НУШ  Серія книг "Репетитор. Українська мова" призначена допомогти дитині оволодіти навичками письма, читання, розрізнення мовних явищ. Завдання спрямовані на вивчення літер, звукового складу мови, складоподілу, також на розрізнення частин мови, речень різних видів.  Переваги:     До всіх типових освітніх програм Нової української школи. Розвине ключові мовні компетенції.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Щербак Г.В.</param>
 <param name="Мова">українська</param>
 <param name="Вік">3 клас</param>
@@ -51800,7 +51779,7 @@
 <vendor>Лінгвіст</vendor>
 <description>
 <![CDATA[Робочий зошит Лінгвіст Smart Junior for Ukraine  Workbook 2 клас Мітчелл (2025)  Робочий зошит для учня (Workbook) – містить різноманітні завдання до кожного уроку, які повноцінно інтегруються в урок та спрямовані на розвиток самостійної роботи, тренують уміння та навички отримані за допомогою книги для учня. В робочому зошиті представлені настільні ігри, які створюють англомовне середовище, об’єднують учнів за одним столом та допомагають дітям знайти спільну мову з учасниками гри.]]></description>
-<quantity_in_stock>18</quantity_in_stock>
+<quantity_in_stock>17</quantity_in_stock>
 <param name="Автор">Mitchell, H.Q., Malkogianni M.</param>
 <param name="Мова">англійська</param>
 <param name="Вік">2 клас</param>
@@ -56519,10 +56498,98 @@
 
 
 
-
-
-
-
+<offer id="30990" available="true" in_stock="true" selling_type="r" >
+<name>Каліграфічний тренажер УЛА Розвиваємо навички письма. Прописи. Завдання. Наліпки</name>
+<vendorCode>9786175443750</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafichnyi-trenazher-ula-rozvyvaiemo-navychky-pysma-propysy-zavdannia-nalipky/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>46</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/30990/kaligrafichniy_trenazher_ula_rozviva_mo_navichki_pisma_propisi_zavdannya_nalipki.jpg</picture>
+<vendor>УЛА</vendor>
+<description>
+<![CDATA[Каліграфічний тренажер — Розвиваємо навички письма  Це видання створене, щоб допомогти дитині розвинути навички письма. У книзі подано пунктиром різні лінії, малюнки, фігури й візерунки, а також підібрано цікаві ігрові завдання з наліпками, що сприятимуть закріпленню вивченого матеріалу. Зошит допоможе покращити якість почерку, потренувати пам’ять та увагу, розвинути уяву та мислення, адже на його сторінках дитина буде одночасно писати обома руками, штрихувати, проходити лабіринти, доповнювати логічні послідовності, шукати відмінності й розфарбовувати.    Видання призначене для дітей старшого дошкільного й молодшого шкільного віку.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Мова">українська</param>
+<param name="Вік">старший дошкільний, молодший шкільний</param>
+<param name="Тип">Посiбник для дітей</param>
+<param name="Серія">Каліграфічний тренажер</param>
+<param name="Кількість сторінок">32</param>
+<param name="Рік видання">2024</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-617-544-375-0</param>
+<param name="Формат, розмір">165×230 мм</param>
+<param name="Видавництво">Ула</param></offer>
+<offer id="30991" available="true" in_stock="true" selling_type="r" >
+<name>Каліграфічний тренажер УЛА  Вправи для гарного почерку. Прописи. Завдання. Наліпки</name>
+<vendorCode>9786175443743</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafichnyi-trenazher-ula-vpravy-dlia-harnoho-pocherku-propysy-zavdannia-nalipky/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>46</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/30991/kaligrafichniy_trenazher_ula_vpravi_dlya_garnogo_pocherku_propisi_zavdannya_nalipki.jpg</picture>
+<vendor>УЛА</vendor>
+<description>
+<![CDATA[Каліграфічний тренажер — Вправи для гарного почерку  Це видання створене, щоб допомогти дитині відпрацювати навички гарного письма. У книзі є сторінки в косу лінію, клітинку й лінію, на яких подано пунктиром різні лінії, фігури й візерунки, а також підібрано цікаві ігрові завдання з наліпками, що сприятимуть закріпленню вивченого матеріалу. Зошит допоможе покращити якість почерку, потренувати пам’ять та увагу, розвинути уяву та мислення, адже на його сторінках дитина буде одночасно писати обома руками, домальовувати малюнки, проходити лабіринти, шукати відмінності й розфарбовувати.    Видання призначене для дітей старшого дошкільного й молодшого шкільного віку.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Мова">українська</param>
+<param name="Вік">старший дошкільний, молодший шкільний</param>
+<param name="Тип">Посiбник для дітей</param>
+<param name="Серія">Каліграфічний тренажер</param>
+<param name="Кількість сторінок">32</param>
+<param name="Рік видання">2024</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-617-544-374-3</param>
+<param name="Формат, розмір">165×230 мм</param>
+<param name="Видавництво">Ула</param></offer>
+<offer id="30992" available="true" in_stock="true" selling_type="r" >
+<name>Каліграфічний тренажер УЛА Пишемо цифри й обчислюємо. Прописи. Завдання. Наліпки</name>
+<vendorCode>9786175443736</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafichnyi-trenazher-ula-pyshemo-tsyfry-y-obchysliuiemo-propysy-zavdannia-nalipky/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>46</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/30992/kaligrafichniy_trenazher_ula_pishemo_tsifri_y_obchislyu_mo_propisi_zavdannya_nalipki.jpg</picture>
+<vendor>УЛА</vendor>
+<description>
+<![CDATA[Каліграфічний тренажер — Пишемо цифри й обчислюємо  Це видання створене, щоб допомогти дитині навчитися писати цифри, співвідносити їх із певною кількістю та потренуватися обчислювати вирази. У книзі подано пунктиром елементи цифр, цифри й математичні знаки, а також підібрано тематичні ігрові завдання з наліпками, що сприятимуть закріпленню матеріалу. Зошит допоможе розвинути дрібну моторику, уяву та мислення, потренувати пам’ять та увагу, адже на його сторінках дитина буде обчислювати вирази, працювати з нерівностями та складати їх самостійно за малюнками, малювати фігури та розфарбовувати.    Видання призначене для дітей старшого дошкільного й молодшого шкільного віку.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Мова">українська</param>
+<param name="Вік">старший дошкільний, молодший шкільний</param>
+<param name="Тип">Посiбник для дітей</param>
+<param name="Серія">Каліграфічний тренажер</param>
+<param name="Кількість сторінок">32</param>
+<param name="Рік видання">2024</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-617-544-373-6</param>
+<param name="Формат, розмір">165×230 мм</param>
+<param name="Видавництво">Ула</param></offer>
+<offer id="30993" available="true" in_stock="true" selling_type="r" >
+<name>Каліграфічний тренажер УЛА Пишемо букви й слова. Прописи. Завдання. Наліпки</name>
+<vendorCode>9786175443729</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/kalihrafichnyi-trenazher-ula-pyshemo-bukvy-y-slova-propysy-zavdannia-nalipky/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>46</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/30993/kaligrafichniy_trenazher_ula_pishemo_bukvi_y_slova_propisi_zavdannya_nalipki.jpg</picture>
+<vendor>УЛА</vendor>
+<description>
+<![CDATA[Каліграфічний тренажер — Пишемо букви й слова  Це видання створене, щоб допомогти дитині навчитися чи відпрацювати вміння писати друковані літери. У книзі подано пунктиром елементи букв, букви й прості слова по клітинках і лініях, а також підібрано тематичні ігрові завдання з наліпками, що сприятимуть закріпленню вивченого матеріалу. Зошит допоможе розвинути дрібну моторику, уяву й мислення, потренувати пам’ять та увагу, адже на його сторінках дитина буде шукати букви, поєднувати їх у слова, розфарбовувати елементи й наводити малюнки по пунктиру.    Видання призначене для дітей старшого дошкільного й молодшого шкільного віку.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Мова">українська</param>
+<param name="Вік">старший дошкільний, молодший шкільний</param>
+<param name="Тип">Посiбник для дітей</param>
+<param name="Серія">Каліграфічний тренажер</param>
+<param name="Кількість сторінок">32</param>
+<param name="Рік видання">2024</param>
+<param name="Тип паперу">офсет, кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-617-544-372-9</param>
+<param name="Формат, розмір">165×230 мм</param>
+<param name="Видавництво">Ула</param></offer>
 <offer id="30994" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Літній тренажер УЛА Українська мова. Я йду в 5 клас Царенко, Будянська</name>
 <vendorCode>9786175444146</vendorCode>
@@ -57366,7 +57433,7 @@
 <vendorCode>9786177403493</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-virshykiv-opovidan/opovidky-z-babusynykh-klubochkiv-belkar-knyha-svit-kazky-n-trishch/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>138</categoryId>
 <price>380</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31109/opovidki_z_babusinih_klubochkiv_belkar_kniga_svit_kazki_n_trishch.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -61386,30 +61453,7 @@
 <param name="Тип обкладинки">м&apos;яка</param>
 <param name="ISBN">978-617-8370-67-1</param>
 <param name="Видавництво">Генеза</param></offer>
-<offer id="31542" available="true" in_stock="true" selling_type="r" >
-<name>Хрестоматія для читання. Твори для дітей Основа для дітей 3-6 років</name>
-<vendorCode>9786170043726</vendorCode>
-<url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytannia/khrestomatiia-dlia-chytannia-tvory-dlia-ditei-osnova-dlia-ditei-3-6-rokiv/</url>
-<currencyId>UAH</currencyId>
-<categoryId>139</categoryId>
-<price>290</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/31542/hrestomatiya_dlya_chitannya_tvori_dlya_ditey_osnova_dlya_ditey_3_6_rokiv.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[Хрестоматія для читання. Твори для дітей. Хрестоматію для читання дітям створено відповідно до чинних програм. У книжці зібрано найкращі зразки дитячої художньої літератури, які подано з урахуванням можливостей і перспективного розвитку дошкільників. Видання містить цікаві та доступні твори, спрямовані на забезпечення загального мовленнєвого розвитку дошкільників і формування в них інтересу до художньої літератури. Вихователі знайдуть у хрестоматії якісний матеріал для змістовних занять, батьки — для плідного спілкування з дитиною, малюки — корисну й цікаву розвагу.    Для дітей від 3 до 6 років та вихователів закладів дошкільної освіти.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Автор">А. С. Васильцова В. А. Єфіменко</param>
-<param name="Мова">українська</param>
-<param name="Вік">3-6 років</param>
-<param name="Тип">Хрестоматія</param>
-<param name="Серія">ЗДО. Вихователю</param>
-<param name="Кількість сторінок">208</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">офсет, чорно-біла</param>
-<param name="Тип обкладинки">тверда</param>
-<param name="ISBN">9786170043726</param>
-<param name="Формат, розмір">А-5</param>
-<param name="Видавництво">Основа</param></offer>
+
 <offer id="31543" available="true" in_stock="true" selling_type="r" >
 <name>Моя перша читанка. Крок 2. Основа Кулаченко</name>
 <vendorCode>9786170043481</vendorCode>
@@ -63148,7 +63192,7 @@
 <vendor>Основа</vendor>
 <description>
 <![CDATA[Математика. Завдання для відпрацювання навичок обчислень та розв’язання задач. 3 клас 5000 завдань  Посібник містить різноманітні види усних і письмових обчислень та вправи, які допоможуть учням третього класу вдосконалити навички швидкого й точного обчислення. Завдання відповідають програмовим вимогам НУШ та структуровані за рівнями складності, що дає змогу учням поступово поліпшувати свої математичні вміння. У посібнику наведено умовні позначки, за допомогою яких учні можуть оцінити свої уміння після виконання завдань: було важко або було легко. Універсальний посібник стане в пригоді як для самостійної роботи, так і для використання на уроках математики, сприяючи розвитку логічного мислення, уваги та швидкості обчислень.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Аннено Д. А.</param>
 <param name="Предмет">Математика</param>
 <param name="Мова">українська</param>
@@ -65532,7 +65576,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[КОМПЛЕКТ: Я досліджую світ: робочий зошит для 2 класу. У 2-х частинах, до підручника І. Жаркової  Робочий зошит із друкованою основою укладено відповідно до Типової освітньої програми колективу авторів під керівництвом Савченко О. Я. та підручника І. Жаркової, та ін. «Я досліджую світ. 2 клас». Зошит містить завдання для формування предметних компетентностей, на відтворення та закріплення знань, творчі завдання і практичні роботи.    Для учнів 2 класу закладів загальної середньої освіти, учителів початкової школи, батьків.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Жаркова І., Мечник Л.</param>
 <param name="Предмет">Я досліджую світ</param>
 <param name="Мова">українська</param>
@@ -68762,9 +68806,78 @@
 <param name="ISBN">9786170999498</param>
 <param name="Формат, розмір">165х210 мм</param>
 <param name="Видавництво">Ранок</param></offer>
-
-
-
+<offer id="31975" available="true" in_stock="true" selling_type="r" >
+<name>Стартуємо разом. Логічні вправи: зошит для дітей 5-7 років Крок до НУШ Ранок (Ващенко О.Л.)</name>
+<vendorCode>9786170959249</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-5-rokiv/startuiemo-razom-lohichni-vpravy-zoshyt-dlia-ditei-5-7-rokiv-krok-do-nush-ranok-vashchenko-o-l/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>75</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31975/startu_mo_razom_logichni_vpravi_zoshit_dlya_ditey_5_7_rokiv_krok_do_nush_ranok_vashchenko_o_l.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[Стартуємо разом. Логічні вправи: зошит для дітей 5-7 років Крок до НУШ  Посібник призначений для роботи з дітьми 5–7 років, які збираються йти до школи, та може використовуватися як додатковий зошит у 1 класі. У ньому пропонуються логічні завдання на ознайомлення з поняттями «ліворуч», «праворуч», «над», «у», «біля», «спільне», «відмінне», «однакове», «пара», «порядок дій» тощо, вправи на порівняння, добір, лічбу. Також зошит містить загадки, графічні вправи, завдання на малювання, домальовування, розмальовування та штрихування. На сторінках посібника розміщено QR­коди, за допомогою яких можна швидко перейти до додаткового матеріалу у вигляді презентацій та аудіозаписів.]]></description>
+<quantity_in_stock>20</quantity_in_stock>
+<param name="Автор">Ващенко О.Л.</param>
+<param name="Мова">українська</param>
+<param name="Вік">5-7 рокiв</param>
+<param name="Тип">Зошит-посібник</param>
+<param name="Серія">Стартуємо разом</param>
+<param name="Кількість сторінок">64</param>
+<param name="Рік видання">2025</param>
+<param name="Тип паперу">офсет, двоколірна</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786170959249</param>
+<param name="Формат, розмір">165х235 мм</param>
+<param name="Видавництво">Ранок</param></offer>
+<offer id="31976" available="true" in_stock="true" selling_type="r" >
+<name>Стартуємо разом. Усна лічба: зошит для дітей 5-7 років Крок до НУШ Ранок (Ващенко О.Л.)</name>
+<vendorCode>9786170959256</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-5-rokiv/startuiemo-razom-usna-lichba-zoshyt-dlia-ditei-5-7-rokiv-krok-do-nush-ranok-vashchenko-o-l/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>75</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31976/startu_mo_razom_usna_lichba_zoshit_dlya_ditey_5_7_rokiv_krok_do_nush_ranok_vashchenko_o_l.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[Стартуємо разом. Усна лічба: зошит для дітей 5-7 років Крок до НУШ  Посібник призначений для роботи з дітьми 5-7 років, які збираються йти до школи, та може використовуватися як додатковий зошит у 1 класі. У ньому пропонуються завдання на ознайомлення з цифрами від 0 до 9, обчислення виразів, складання та розв’язування задач, порівняння чисел, кількості зображених предметів, логічні вправи. Також посібник містить вірші про цифри, віршовані задачі. Крім того, дітям пропонується малювати по клітинках, учитися писати цифри та математичні знаки, малювати, домальовувати й розфарбовувати предмети. На сторінках посібника розміщено QR-коди, за допомогою яких можна швидко перейти до додаткового матеріалу у вигляді презентацій та аудіозаписів.]]></description>
+<quantity_in_stock>20</quantity_in_stock>
+<param name="Автор">Ващенко О.Л.</param>
+<param name="Мова">українська</param>
+<param name="Вік">5-7 рокiв</param>
+<param name="Тип">Зошит-посібник</param>
+<param name="Серія">Стартуємо разом</param>
+<param name="Кількість сторінок">64</param>
+<param name="Рік видання">2025</param>
+<param name="Тип паперу">офсет, двоколірна</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786170959256</param>
+<param name="Формат, розмір">165х235 мм</param>
+<param name="Видавництво">Ранок</param></offer>
+<offer id="31977" available="true" in_stock="true" selling_type="r" >
+<name>Стартуємо разом. Букви, звуки та склади: зошит для дітей 5-7 років Крок до НУШ Ранок (Ващенко О.Л.)</name>
+<vendorCode>9786170959195</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/zoshyty-trenazhery/vid-5-rokiv/startuiemo-razom-bukvy-zvuky-ta-sklady-zoshyt-dlia-ditei-5-7-rokiv-krok-do-nush-ranok-vashchenko-o-l/</url>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<price>75</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31977/startu_mo_razom_bukvi_zvuki_ta_skladi_zoshit_dlya_ditey_5_7_rokiv_krok_do_nush_ranok_vashchenko_o_l.jpg</picture>
+<vendor>Ранок</vendor>
+<description>
+<![CDATA[Стартуємо разом. Букви, звуки та склади: зошит для дітей 5–7 років Крок до НУШ  Посібник призначений для роботи з дітьми 5–7 років, які збираються йти до школи, та може використовуватися як додатковий зошит у 1 класі. У ньому пропонуються завдання на ознайомлення зі звуками та буквами української абетки, опрацювання звукових схем, поділу слів на склади, визначення наголосу тощо. На сторінках зошита діти навчаться складати речення за схемами та малюнками, поєднувати звуки в склади, а склади – у слова, робити звуковий аналіз слів, розрізняти звуки. Посібник також містить скоромовки, чистомовки, загадки, вірші про букви. Крім того, дошкільнятам пропонується штрихувати, наводити, домальовувати елементи букв, «заховані» в зображеннях предметів і тварин, тобто готувати руку до написання букв. На сторінках посібника розміщено QR-коди, за допомогою яких можна швидко перейти до додаткового матеріалу у вигляді презентацій та аудіозаписів.]]></description>
+<quantity_in_stock>20</quantity_in_stock>
+<param name="Автор">Ващенко О.Л.</param>
+<param name="Мова">українська</param>
+<param name="Вік">5-7 рокiв</param>
+<param name="Тип">Зошит-посібник</param>
+<param name="Серія">Стартуємо разом</param>
+<param name="Кількість сторінок">64</param>
+<param name="Рік видання">2025</param>
+<param name="Тип паперу">офсет, двоколірна</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9786170959195</param>
+<param name="Формат, розмір">165х235 мм</param>
+<param name="Видавництво">Ранок</param></offer>
 
 
 
@@ -70828,7 +70941,7 @@
 <vendor>Сиция</vendor>
 <description>
 <![CDATA[КОМПЛЕКТ у 2-х частинах НУШ. Робочий зошит Математика 2 клас до підручника Листопад Зошит розроблено відповідно до підручника для 2 класу закладів загальної середньої освіти «Математика» (автор Н. Листопад). Посібник містить достатньо різноманітних завдань на формування й розвиток в учнів здатності практично діяти; завдань творчого характеру, завдань на узагальнення і закріплення математичних умінь і навичок.    Видання розраховане на вчителів початкових класів, учнів 2 класу та дбайливих батьків. ]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Автор">Должек Г.М.</param>
 <param name="Предмет">Математика</param>
 <param name="Мова">українська</param>
@@ -86688,7 +86801,7 @@
 <vendorCode>9786170044488</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/chytanka-osnova-stezhkamy-chytannia-1-klas-iuliia-bardakova/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>8</categoryId>
 <price>290</price>
 <picture>https://knigovan.com/image/catalog/products/33514/chitanka-osnova-stezhkami-chitannya-1-klas-yul-ya-bardakova-1.jpg</picture>
 <vendor>Основа</vendor>
@@ -86923,7 +87036,7 @@
 <vendor>Генеза</vendor>
 <description>
 <![CDATA[9 клас НУШ. Біологія. Робочий зошит (Кулініч О.) Посібник відповідає модельній навчальній програмі «Біологія 7–9» для закладів загальної середньої освіти (автори: Балан П.Г. Кулініч О.М., Юрченко Л.П) та є складником навчально-методичного комплекту до підручника «Біологія, 9 клас» (автори: П. Балан, О. Козленко, О. Кулініч, Л. Юрченко, Л. Остапченко). Містить різні форми роботи з учнями (індивідуальну, парну, групову) та завдання різного рівня складності. Робота з посібником забезпечує реалізацію компетентнісного та діяльнісного підходів в НУШ та інтеграцію навчальних предметів. Особливе місце приділено завданням на розвиток логічного та критичного мислення.    Кожному параграфу підручника відповідає тема в зошиті, що містить різноманітні завдання, спрямовані на формування основних груп загальних результатів навчання в природничій освітній галузі. У кожній темі є рефлексивні завдання, які забезпечують емоційну підтримку учнівства. Для забезпечення дослідницької діяльності учнів у посібнику розміщено інструктивні картки для виконання лабораторних досліджень та практикумів. Інформація, з якою мають працювати здобувачі освіти, представлена у вигляді таблиць, схем, діаграм, світлин тощо. Для усвідомлення закономірностей будови та функціонування людського організму зошит містить завдання практичного спрямування.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Ольга Кулініч, Людмила Юрченко</param>
 <param name="Предмет">Біологія</param>
 <param name="Мова">українська</param>
