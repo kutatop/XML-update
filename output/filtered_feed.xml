@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-11-25 12:00">
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd"> <yml_catalog date="2026-11-26 12:00">
 <shop>
 <url>https://knigovan.com/</url>
 <name>Книгован</name>
@@ -1997,7 +1997,7 @@
 <vendorCode>9789669464859</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/5-klas-2/nush-atlas-z-konturnymy-kartamy-piznaiemo-pryrodu-5-6-klas-kartohrafiia/</url>
 <currencyId>UAH</currencyId>
-<categoryId>56</categoryId>
+<categoryId>55</categoryId>
 <price>150</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/24075/nush_atlas_z_konturnimi_kartami_pizna_mo_prirodu_5_6_klas_kartografiya.jpg</picture>
 <vendor>Картографія</vendor>
@@ -3929,54 +3929,8 @@
 
 
 
-<offer id="24331" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Англійські прописи Школа Напівдрукований шрифт Федієнко</name>
-<vendorCode>978-966-429-085-9</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nush-anhliiski-propysy-shkola-napivdrukovanyi-shryft-fediienko/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>50</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/24331/nush_angliyski_propisi_shkola_napivdrukovaniy_shrift_fedi_nko.jpg</picture>
-<vendor>Школа</vendor>
-<description>
-<![CDATA[НУШ Англійські прописи. Напівдрукований шрифт.  Прописи допоможуть маленькому учневі опанувати навички правильного написання друкованих і великих літер англійського алфавіту. Спеціально розроблені шрифти відповідають світовим стандартам, а блакитний колір та оптимальна товщина ліній зменшують навантаження на зір.   Додаткові завдання допоможуть дитині краще запам'ятати графічні образи вивчених літер і зроблять цікавішими заняття. Розташування літер в алфавітному порядку дозволяє використовувати зошит із будь-яким підручником з англійської мови, де літери вивчаються в такій послідовності.]]></description>
-<quantity_in_stock>83</quantity_in_stock>
-<param name="Автор">В. Федієнко</param>
-<param name="Мова">українська, англійська</param>
-<param name="Вік">6+</param>
-<param name="Тип">Прописи</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-966-429-085-9</param>
-<param name="Формат, розмір">А-5</param>
-<param name="Видавництво">Школа</param></offer>
-<offer id="24332" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Англійські прописи Школа Каліграфічний шрифт Федієнко</name>
-<vendorCode>978-966-429-095-8</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nush-anhliiski-propysy-shkola-kalihrafichnyi-shryft-fediienko/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>50</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/24332/nush_angliyski_propisi_shkola_kaligrafichniy_shrift_fedi_nko.jpg</picture>
-<vendor>Школа</vendor>
-<description>
-<![CDATA[НУШ Англійські прописи. Каліграфічний шрифт.  Прописи допоможуть маленькому учневі опанувати навички правильного написання друкованих і великих літер англійського алфавіту. Спеціально розроблені шрифти відповідають світовим стандартам, а блакитний колір та оптимальна товщина ліній зменшують навантаження на зір.  Додаткові завдання допоможуть дитині краще запам'ятати графічні образи вивчених літер і зроблять цікавішими заняття. Розташування літер в алфавітному порядку дозволяє використовувати зошит із будь-яким підручником з англійської мови, де літери вивчаються в такій послідовності.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">В. Федієнко</param>
-<param name="Мова">українська, англійська</param>
-<param name="Вік">6+</param>
-<param name="Тип">Прописи</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-966-429-095-8</param>
-<param name="Формат, розмір">А-5</param>
-<param name="Видавництво">Школа</param></offer>
+
+
 <offer id="24333" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Каліграфічний зошит-шаблон Школа Збільшений розмір графічної сітки Синій</name>
 <vendorCode>9786178106324</vendorCode>
@@ -13639,7 +13593,7 @@
 <vendorCode>978-617-7485-82-6</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/nush-atlas-konturni-karty-orion-ya-doslidzhuiu-svit-1-2-klas-hilberh/</url>
 <currencyId>UAH</currencyId>
-<categoryId>14</categoryId>
+<categoryId>13</categoryId>
 <price>80</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/25626/nush_atlas_konturni_karti_orion_ya_doslidzhuyu_svit_1_2_klas_gilberg.jpg</picture>
 <vendor>Оріон</vendor>
@@ -18990,7 +18944,7 @@
 <vendor>Пiдручники i посiбники</vendor>
 <description>
 <![CDATA[НУШ. Українська мова та читання. Діагностичні роботи. 3 клас. (до підручника І. Большакової) Зміст завдань посібника відповідає Типовій освітній програмі за редакцією Р. Шияна та підручнику Українська мова та читання : підручник для 3 класів закладів загальної середньої освіти (у 2-х ч.)/ І. Большакова, М. Пристінська. – Харків : Ранок, 2020 . Посібник містить завдання з усіх тем навчальної програми для здійснення формувального та тематичного оцінювання досягнень учнів.Для учнів 3 класу,  учителів початкових класів.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Придаток О., Кравцова Н.</param>
 <param name="Предмет">Читання</param>
 <param name="Мова">українська</param>
@@ -20437,7 +20391,30 @@
 
 
 
-
+<offer id="26409" available="true" in_stock="true" selling_type="r" >
+<name>Адвент-календар УЛА Ялинка</name>
+<vendorCode>9789662848311</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/advent-kalendar-ula-yalynka/</url>
+<currencyId>UAH</currencyId>
+<categoryId>30</categoryId>
+<price>150</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/26409/advent_kalendar_ula_yalinka.jpg</picture>
+<vendor>УЛА</vendor>
+<description>
+<![CDATA[Адвент-календар – Ялинка.   Разом із цією книжкою малюк підготується до зимових свят та проведе час в очікуванні Нового року цікаво та з користю. Видання містить великий плакат-календар на грудень, творчі й розвивальні завдання на кожен день місяця, 230 яскравих наліпок для виконання завдань і заповнення календаря, а також лист святому Миколаю та лист для планів на наступний рік.   Видання призначене для спільної роботи дорослих з дітьми дошкільного та молодшого шкільного віку.   Для чого потрібний адвент-календар  Ось і розпочалася зимова пора з низкою чарівних свят! Попереду день святого Миколая, католицьке Різдво й найочікуваніше свято – Новий рік! Щоб перетворити довге очікування на приємні спогади та встигнути підготуватися до свят, і потрібний цей чудовий адвент-календар! Адже тут ви знайдете:    яскравий великий плакат-календар у вигляді святкової ялинки для відліку кількості днів, що залишилися до Нового року;  захопливі завдання на кожен день, які допоможуть малюку підготуватися до свята й створити новорічний настрій; 230 барвистих наліпок для заповнення календаря й вико­нання завдань; лист святому Миколаю; лист з планами на наступний рік.    Працюючи з книгою, малюк власноруч виготовить новорічні прикраси й солодощі, розгадає ребуси, кросворди й загадки за допомогою наліпок, вивчить святкові вірші, напише листа святому Миколаю й проведе час незабутньо та з користю!  Як працювати з книгою     Вийміть плакат-календар і повісьте його на стіну. Новорічний відлік розпочато! Бажано почати роботу з книгою 1 грудня, адже саме на 31 день розрахований календар! Кожного дня, наприклад уранці, дайте дитині прочитати завдання. Для виконання деяких завдань малюку знадобиться ваша допомога, тому обов’язково прочитайте їх заздалегідь, щоб встигнути підготувати необхідні матеріали або продукти.    Упоравшись, малюк може відзначити потрібний день на плакаті за допомогою спеціальних наліпок. Одне виконане завдання – одна наліпка та на день ближче Новий рік! Нехай кожен день в очікуванні Нового року буде маленьким святом!]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Смирнова К. В.</param>
+<param name="Мова">українська</param>
+<param name="Вік">5+</param>
+<param name="Тип">Розвиваючi книги</param>
+<param name="Серія">Адвент-календар</param>
+<param name="Кількість сторінок">32</param>
+<param name="Рік видання">2020</param>
+<param name="Тип паперу">кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">9789662848311</param>
+<param name="Формат, розмір">20×28 см</param>
+<param name="Видавництво">Ула</param></offer>
 
 
 
@@ -20466,7 +20443,7 @@
 <vendorCode>9789662848915</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/virshyky-zahadky-ula-vyrushai-u-podorozh/</url>
 <currencyId>UAH</currencyId>
-<categoryId>139</categoryId>
+<categoryId>138</categoryId>
 <price>45</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26433/virshiki_zagadki_ula_virushay_u_podorozh.jpg</picture>
 <vendor>УЛА</vendor>
@@ -20489,7 +20466,7 @@
 <vendorCode>9789662848922</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/virshyky-zahadky-ula-nahodui-tvarynok/</url>
 <currencyId>UAH</currencyId>
-<categoryId>139</categoryId>
+<categoryId>138</categoryId>
 <price>45</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26434/virshiki_zagadki_ula_nagoduy_tvarinok.jpg</picture>
 <vendor>УЛА</vendor>
@@ -20512,7 +20489,7 @@
 <vendorCode>9789662848939</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/virshyky-zahadky-ula-upiznai-maliuka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>139</categoryId>
+<categoryId>138</categoryId>
 <price>45</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/26435/virshiki_zagadki_ula_upiznay_malyuka.jpg</picture>
 <vendor>УЛА</vendor>
@@ -23138,7 +23115,7 @@
 <vendor>Ранок</vendor>
 <description>
 <![CDATA[НУШ Робочий зошит. Українська мова та читання 3 клас Частина 2 до підручника до підручника І. Большакової, М. Пристінської.   Зміст посібника враховує особливості підручника «Українська мова та читання» авторів Інни Большакової, Марини Пристінської. Видання є складовою навчально-методичного комплекту «Українська мова та читання. 3 клас», який створено на базі підручника. Посібник складається з двох частин. Друга частина містить матеріали до другого семестру навчання: завдання для розвитку усного і писемного мовлення, вправи для формування орфографічних й орфоепічних умінь, систему завдань для розвитку критичного та креативного мислення, а також вправи на формування емоційного інтелекту. Матеріал подано з урахуванням психологічних особливостей третьокласників.    Призначено для учнів 3 класу закладів загальної середньої освіти і вчителів початкових класів.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Большакова І.О.</param>
 <param name="Мова">українська</param>
 <param name="Вік">3 клас</param>
@@ -23162,7 +23139,7 @@
 <vendor>Ранок</vendor>
 <description>
 <![CDATA[НУШ Робочий зошит. Українська мова та читання 3 клас Частина 1 до підручника до підручника І. Большакової, М. Пристінської.   Зміст посібника враховує особливості підручника «Українська мова та читання» авторів Інни Большакової, Марини Пристінської. Видання є складовою навчально-методичного комплекту «Українська мова та читання. 3 клас», який створено на базі підручника. Посібник складається з двох частин. Друга частина містить матеріали до другого семестру навчання: завдання для розвитку усного і писемного мовлення, вправи для формування орфографічних й орфоепічних умінь, систему завдань для розвитку критичного та креативного мислення, а також вправи на формування емоційного інтелекту. Матеріал подано з урахуванням психологічних особливостей третьокласників.    Призначено для учнів 3 класу закладів загальної середньої освіти і вчителів початкових класів.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Большакова І.О.</param>
 <param name="Мова">українська</param>
 <param name="Вік">3 клас</param>
@@ -25128,102 +25105,10 @@
 <param name="ISBN">9789669399533</param>
 <param name="Формат, розмір">60*84 1/8</param>
 <param name="Видавництво">Торсiнг</param></offer>
-<offer id="26930" available="true" in_stock="true" selling_type="r" >
-<name>Я читаю самостійно Торсінг Великий шрифт Той хто боявся темряви</name>
-<vendorCode>9789669399861</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/1-klas-1/ya-chytaiu-samostiino-torsinh-velykyi-shryft-toi-khto-boiavsia-temriavy/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>54</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/26930/ya_chitayu_samostiyno_torsing_velikiy_shrift_toy_hto_boyavsya_temryavi.jpg</picture>
-<vendor>Торсінг</vendor>
-<description>
-<![CDATA[Я читаю самостійно Великий шрифт Той хто боявся темряви.  У період опанування дітьми самостійного читання немає нічого кращого за якісну дитячу літературу! Саме такі історії ми пропонуємо у цій книжці. Вона складається з сучасних казок із захопливим сюжетом, який обов'язково сподобається дітям. А щоб маленькі читачі не перенапружували зір, підібрано казкові історії оптимальні за обсягом і надруковано їх великим шрифтом. Ці книжечки допоможуть набути навичок свідомого читання, розширити словниковий запас, розвинути почуттся гумору, і найголовніше - отримати задоволення від читання. Читайте з насолодою!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Майборода О.В.</param>
-<param name="Мова">українська</param>
-<param name="Вік">6+</param>
-<param name="Тип">Книжка для читання</param>
-<param name="Серія">Я читаю самостійно</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">тверда</param>
-<param name="ISBN">9789669399861</param>
-<param name="Формат, розмір">17х23 см</param>
-<param name="Видавництво">Торсiнг</param></offer>
-<offer id="26931" available="true" in_stock="true" selling_type="r" >
-<name>Я читаю самостійно Торсінг Великий шрифт Таємниця розбитого дзеркала</name>
-<vendorCode>9789669399892</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/1-klas-1/ya-chytaiu-samostiino-torsinh-velykyi-shryft-taiemnytsia-rozbytoho-dzerkala/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>54</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/26931/ya_chitayu_samostiyno_torsing_velikiy_shrift_ta_mnitsya_rozbitogo_dzerkala.jpg</picture>
-<vendor>Торсінг</vendor>
-<description>
-<![CDATA[Я читаю самостійно Великий шрифт Таємниця розбитого дзеркала.  У період опанування дітьми самостійного читання немає нічого кращого за якісну дитячу літературу! Саме такі історії ми пропонуємо у цій книжці. Вона складається з сучасних казок із захопливим сюжетом, який обов'язково сподобається дітям. А щоб маленькі читачі не перенапружували зір, підібрано казкові історії оптимальні за обсягом і надруковано їх великим шрифтом. Ці книжечки допоможуть набути навичок свідомого читання, розширити словниковий запас, розвинути почуттся гумору, і найголовніше - отримати задоволення від читання. Читайте з насолодою!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Майборода О.В.</param>
-<param name="Мова">українська</param>
-<param name="Вік">6+</param>
-<param name="Тип">Книжка для читання</param>
-<param name="Серія">Я читаю самостійно</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">тверда</param>
-<param name="ISBN">9789669399892</param>
-<param name="Формат, розмір">17х23 см</param>
-<param name="Видавництво">Торсiнг</param></offer>
-<offer id="26932" available="true" in_stock="true" selling_type="r" >
-<name>Я читаю самостійно Торсінг Великий шрифт Хто вкрав сніг</name>
-<vendorCode>9789669399885</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/1-klas-1/ya-chytaiu-samostiino-torsinh-velykyi-shryft-khto-vkrav-snih/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>54</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/26932/ya_chitayu_samostiyno_torsing_velikiy_shrift_hto_vkrav_snig.jpg</picture>
-<vendor>Торсінг</vendor>
-<description>
-<![CDATA[Я читаю самостійно Великий шрифт Хто вкрав сніг?  У період опанування дітьми самостійного читання немає нічого кращого за якісну дитячу літературу! Саме такі історії ми пропонуємо у цій книжці. Вона складається з сучасних казок із захопливим сюжетом, який обов'язково сподобається дітям. А щоб маленькі читачі не перенапружували зір, підібрано казкові історії оптимальні за обсягом і надруковано їх великим шрифтом. Ці книжечки допоможуть набути навичок свідомого читання, розширити словниковий запас, розвинути почуттся гумору, і найголовніше - отримати задоволення від читання. Читайте з насолодою!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Майборода О.В.</param>
-<param name="Мова">українська</param>
-<param name="Вік">6+</param>
-<param name="Тип">Книжка для читання</param>
-<param name="Серія">Я читаю самостійно</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">тверда</param>
-<param name="ISBN">9789669399885</param>
-<param name="Формат, розмір">17х23 см</param>
-<param name="Видавництво">Торсiнг</param></offer>
-<offer id="26933" available="true" in_stock="true" selling_type="r" >
-<name>Я читаю самостійно Торсінг Великий шрифт Школа крилатих піратів</name>
-<vendorCode>9789669399878</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/1-klas-1/ya-chytaiu-samostiino-torsinh-velykyi-shryft-shkola-krylatykh-pirativ/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>54</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/26933/ya_chitayu_samostiyno_torsing_velikiy_shrift_shkola_krilatih_pirativ.jpg</picture>
-<vendor>Торсінг</vendor>
-<description>
-<![CDATA[Я читаю самостійно Великий шрифт Школа крилатих піратів.  У період опанування дітьми самостійного читання немає нічого кращого за якісну дитячу літературу! Саме такі історії ми пропонуємо у цій книжці. Вона складається з сучасних казок із захопливим сюжетом, який обов'язково сподобається дітям. А щоб маленькі читачі не перенапружували зір, підібрано казкові історії оптимальні за обсягом і надруковано їх великим шрифтом. Ці книжечки допоможуть набути навичок свідомого читання, розширити словниковий запас, розвинути почуттся гумору, і найголовніше - отримати задоволення від читання. Читайте з насолодою!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Майборода О.В.</param>
-<param name="Мова">українська</param>
-<param name="Вік">6+</param>
-<param name="Тип">Книжка для читання</param>
-<param name="Серія">Я читаю самостійно</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, кольорова</param>
-<param name="Тип обкладинки">тверда</param>
-<param name="ISBN">9789669399878</param>
-<param name="Формат, розмір">17х23 см</param>
-<param name="Видавництво">Торсiнг</param></offer>
+
+
+
+
 
 
 
@@ -26786,78 +26671,9 @@
 <param name="ISBN">978-966-429-616-5</param>
 <param name="Формат, розмір">210 х 165 х 5 мм</param>
 <param name="Видавництво">Школа</param></offer>
-<offer id="27160" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Англійські прописи Школа Експрес-шаблон Федієнко</name>
-<vendorCode>978-966-429-617-2</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nush-anhliiski-propysy-shkola-ekspres-shablon-fediienko/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>50</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27160/nush_angliyski_propisi_shkola_ekspres_shablon_fedi_nko.jpg</picture>
-<vendor>Школа</vendor>
-<description>
-<![CDATA[НУШ. Англійські прописи. Експрес-шаблон. Завдяки використаному в зошиту унікальному запатентованому графічному шаблону - частої косої лінії - дитина зможе стандартизувати не тільки висоту, а й ширину букв і елементів, привчиться дотримуватися однакового нахилу букв і відстані між словами. А ретельно підібрані завдання на обведення та копіювання допоможуть відпрацювати різні види з'єднань.    Бажаємо успіхів і пам'ятайте, що гарний почерк дитини - це результат кропіткої спільної роботи дитини, педагогів та батьків!]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Федієнко В.</param>
-<param name="Мова">українська, англійська</param>
-<param name="Вік">6+</param>
-<param name="Тип">Прописи</param>
-<param name="Серія">Експрес-шаблон</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-966-429-617-2</param>
-<param name="Формат, розмір">210 х 165 х 5 мм</param>
-<param name="Видавництво">Школа</param></offer>
-<offer id="27161" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Англійські прописи Школа Каліграфічний шрифт Експрес-шаблон Федієнко</name>
-<vendorCode>978-966-429-697-4</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nush-anhliiski-propysy-shkola-kalihrafichnyi-shryft-ekspres-shablon-fediienko/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>50</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27161/nush_angliyski_propisi_shkola_kaligrafichniy_shrift_ekspres_shablon_fedi_nko.jpg</picture>
-<vendor>Школа</vendor>
-<description>
-<![CDATA[НУШ. Англійські прописи. Каліграфічний шрифт. Експрес-шаблон. Ідея посібників серії «Експрес-шаблон» – максимум користі при невеликому обсязі.   Наші зошити відрізняються високою якістю методичного наповнення та поліграфічного виконання.  Колір та товщина ліній підібрані таким чином, щоб зменшити навантаження на зір дитини та зробити навчальний процес якомога комфортнішим.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Федієнко В.</param>
-<param name="Мова">українська, англійська</param>
-<param name="Вік">6+</param>
-<param name="Тип">Прописи</param>
-<param name="Серія">Експрес-шаблон</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-966-429-697-4</param>
-<param name="Формат, розмір">210 х 165 х 5 мм</param>
-<param name="Видавництво">Школа</param></offer>
-<offer id="27162" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Англійські прописи Школа Напівдруковані та каліграфічні шрифти Федієнко</name>
-<vendorCode>978-966-429-564-9</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/nush-anhliiski-propysy-shkola-napivdrukovani-ta-kalihrafichni-shryfty-fediienko/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>65</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/27162/nush_angliyski_propisi_shkola_napivdrukovani_ta_kaligrafichni_shrifti_fedi_nko.jpg</picture>
-<vendor>Школа</vendor>
-<description>
-<![CDATA[НУШ Англійські прописи. Напівдруковані та каліграфічні шрифти.  Прописи, що пропонуються, допоможуть усім охочим оволодіти навичками правильного написання великих і друкованих літер англійського алфавіту. Спеціально розроблені завдання допоможуть краще засвоїти графічні образи літер і зроблять цікавішими заняття.  Посібник адресований всім, хто бажає навчитися писати англійською правильно та із задоволенням.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Федієнко В.</param>
-<param name="Мова">українська, англійська</param>
-<param name="Вік">6+</param>
-<param name="Тип">Прописи</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">56</param>
-<param name="Рік видання">2021</param>
-<param name="Тип паперу">офсет, двоколірна</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-966-429-564-9</param>
-<param name="Формат, розмір">210 х 165 х 4 мм</param>
-<param name="Видавництво">Школа</param></offer>
+
+
+
 <offer id="27163" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Комплект Першокласні каліграфічні прописи До всіх букварів Частина 1 та 2 Школа Федієнко</name>
 <vendorCode>9789664296424, 9789664296431</vendorCode>
@@ -44781,7 +44597,7 @@
 <vendorCode>9789669463487</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/atlasy/3-klas-2/nush-atlas-z-konturnymy-kartamy-kartohrafiia-ya-doslidzhuiu-svit-pryroda-3-4-klas/</url>
 <currencyId>UAH</currencyId>
-<categoryId>16</categoryId>
+<categoryId>15</categoryId>
 <price>115</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29639/nush_atlas_z_konturnimi_kartami_kartografiya_ya_doslidzhuyu_svit_priroda_3_4_klas.jpg</picture>
 <vendor>Картографія</vendor>
@@ -44865,7 +44681,7 @@
 <vendorCode>9786177403394</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/skarbnytsia-kazok-belkar-knyha-svit-kazky/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>141</categoryId>
 <price>380</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29657/skarbnitsya_kazok_belkar_kniga_svit_kazki.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -44888,7 +44704,7 @@
 <vendorCode>9786177403356</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/lili-ta-chaklunska-nauka-belkar-knyha-svit-kazky-lindli/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>141</categoryId>
 <price>380</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29658/lili_ta_chaklunska_nauka_belkar_kniga_svit_kazki_lindli.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -44911,7 +44727,7 @@
 <vendorCode>9786177403370</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/do-kazky-na-hostynu-belkar-knyha-svit-kazky/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>141</categoryId>
 <price>380</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29659/do_kazki_na_gostinu_belkar_kniga_svit_kazki.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -44934,7 +44750,7 @@
 <vendorCode>9786177403349</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/kazkovi-pryhody-belkar-knyha-svit-kazky-nestaiko/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>141</categoryId>
 <price>380</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29660/kazkovi_prigodi_belkar_kniga_svit_kazki_nestayko.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -44957,7 +44773,7 @@
 <vendorCode>9786177403301</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/dyvna-druzhba-belkar-knyha-svit-kazky/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>141</categoryId>
 <price>380</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29661/divna_druzhba_belkar_kniga_svit_kazki.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -45095,7 +44911,7 @@
 <vendorCode>9786177403080</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/krashchi-charivni-kazky-belkar-knyha-svit-kazky/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>141</categoryId>
 <price>380</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29667/krashchi_charivni_kazki_belkar_kniga_svit_kazki.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -45141,7 +44957,7 @@
 <vendorCode>9786177403073</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/krashchi-kazky-ta-opovidannia-belkar-knyha-svit-kazky-sukhomlynskyi/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>141</categoryId>
 <price>380</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29669/krashchi_kazki_ta_opovidannya_belkar_kniga_svit_kazki_suhomlinskiy.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -45164,7 +44980,7 @@
 <vendorCode>9786177403042</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/krashchi-kazky-pro-tvaryn-belkar-knyha-svit-kazky/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>141</categoryId>
 <price>380</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29670/krashchi_kazki_pro_tvarin_belkar_kniga_svit_kazki.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -45210,7 +45026,7 @@
 <vendorCode>9789661694797</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/krashchi-kazky-pro-pryntses-belkar-knyha-svit-kazky/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>141</categoryId>
 <price>380</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29672/krashchi_kazki_pro_printses_belkar_kniga_svit_kazki.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -45233,7 +45049,7 @@
 <vendorCode>9789661694827</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/krashchi-ukrainski-kazky-belkar-knyha-svit-kazky/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>141</categoryId>
 <price>380</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29673/krashchi_ukra_nski_kazki_belkar_kniga_svit_kazki.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -45256,7 +45072,7 @@
 <vendorCode>9789661694711</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/krashchi-kazky-pro-fei-ta-pryntses-belkar-knyha-svit-kazky/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>141</categoryId>
 <price>380</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29674/krashchi_kazki_pro_fey_ta_printses_belkar_kniga_svit_kazki.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -45279,7 +45095,7 @@
 <vendorCode>9786177403431</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-virshykiv-opovidan/pryhody-sherloka-belkar-knyha-opovidannia-chytaiu-sam-horodetska/</url>
 <currencyId>UAH</currencyId>
-<categoryId>139</categoryId>
+<categoryId>141</categoryId>
 <price>200</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29675/prigodi_sherloka_belkar_kniga_opovidannya_chitayu_sam_gorodetska.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -45325,7 +45141,7 @@
 <vendorCode>9786177403318</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/urok-dobroty-belkar-knyha-opovidannia-chytaiu-sam-hurina/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>141</categoryId>
 <price>200</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29677/urok_dobroti_belkar_kniga_opovidannya_chitayu_sam_gurina.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -45348,7 +45164,7 @@
 <vendorCode>9786177403288</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/yak-staty-charivnykom-belkar-knyha-opovidannia-kazky-chytaiu-sam-babaieva/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>141</categoryId>
 <price>200</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29678/yak_stati_charivnikom_belkar_kniga_opovidannya_kazki_chitayu_sam_baba_va.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -45371,7 +45187,7 @@
 <vendorCode>9786177403141</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-virshykiv-opovidan/nespodivanyi-podarunok-belkar-knyha-opovidannia-chytaiu-sam-hryhoruk/</url>
 <currencyId>UAH</currencyId>
-<categoryId>139</categoryId>
+<categoryId>141</categoryId>
 <price>200</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29679/nespodivaniy_podarunok_belkar_kniga_opovidannya_chitayu_sam_grigoruk.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -45394,7 +45210,7 @@
 <vendorCode>9786177403035</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-virshykiv-opovidan/pukhnaste-shchastia-belkar-knyha-opovidannia-kazky-chytaiu-sam/</url>
 <currencyId>UAH</currencyId>
-<categoryId>139</categoryId>
+<categoryId>141</categoryId>
 <price>200</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29680/puhnaste_shchastya_belkar_kniga_opovidannya_kazki_chitayu_sam.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -45441,7 +45257,7 @@
 <vendorCode>9786177403448</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-virshykiv-opovidan/opovidky-pro-tvaryn-belkar-knyha-opovidannia-veselka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>140</categoryId>
 <price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29683/opovidki_pro_tvarin_belkar_kniga_opovidannya_veselka.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -45464,7 +45280,7 @@
 <vendorCode>9786177403424</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/z-choho-pochynaietsia-liudyna-belkar-knyha-opovidannia-kazky-virshi-veselka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>141</categoryId>
 <price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29684/z_chogo_pochina_tsya_lyudina_belkar_kniga_opovidannya_kazki_virshi_veselka.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -45510,7 +45326,7 @@
 <vendorCode>9786177403325</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-virshykiv-opovidan/nezvychaini-darunky-belkar-knyha-veselka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>140</categoryId>
 <price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29686/nezvichayni_darunki_belkar_kniga_veselka.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -45602,7 +45418,7 @@
 <vendorCode>9786177403004</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/daruvaty-dobro-belkar-knyha-kazky-opovidannia-veselka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>141</categoryId>
 <price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29690/daruvati_dobro_belkar_kniga_kazki_opovidannya_veselka.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -45648,7 +45464,7 @@
 <vendorCode>9789661694919</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/zacharovana-pryntsesa-belkar-knyha-kazky-veselka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>141</categoryId>
 <price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29692/zacharovana_printsesa_belkar_kniga_kazki_veselka.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -45743,7 +45559,7 @@
 <vendorCode>9789661694742</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/krykhitka-feia-belkar-knyha-kazky-pro-fei-ta-elfiv-veselka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>141</categoryId>
 <price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29699/krihitka_feya_belkar_kniga_kazki_pro_fey_ta_elfiv_veselka.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -45766,7 +45582,7 @@
 <vendorCode>9789661694735</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/kazkova-kraina-belkar-knyha-veselka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>141</categoryId>
 <price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29700/kazkova_kra_na_belkar_kniga_veselka.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -45835,7 +45651,7 @@
 <vendorCode>9789661694452</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/mandrivka-u-kazku-belkar-knyha-veselka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>141</categoryId>
 <price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29703/mandrivka_u_kazku_belkar_kniga_veselka.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -45858,7 +45674,7 @@
 <vendorCode>9789661694438</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/dobra-nauka-belkar-knyha-veselka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>141</categoryId>
 <price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29704/dobra_nauka_belkar_kniga_veselka.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -45881,7 +45697,7 @@
 <vendorCode>9789661694001</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/kazka-zbyraie-druziv-belkar-knyha-veselka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>141</categoryId>
 <price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29705/kazka_zbira_druziv_belkar_kniga_veselka.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -45904,7 +45720,7 @@
 <vendorCode>9789668816604</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/kazkovi-perlynky-belkar-knyha-veselka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>141</categoryId>
 <price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29706/kazkovi_perlinki_belkar_kniga_veselka.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -46020,7 +45836,7 @@
 <vendorCode>9789668816727</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/kazkova-skrynka-belkar-knyha-veselka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>141</categoryId>
 <price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29712/kazkova_skrinka_belkar_kniga_veselka.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -46066,7 +45882,7 @@
 <vendorCode>9789668816673</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/kazochky-na-dobranich-belkar-knyha-veselka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>141</categoryId>
 <price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29714/kazochki_na_dobranich_belkar_kniga_veselka.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -46089,7 +45905,7 @@
 <vendorCode>9789668816819</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/kazkovymy-stezhynkamy-belkar-knyha-veselka/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>141</categoryId>
 <price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29715/kazkovimi_stezhinkami_belkar_kniga_veselka.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -46112,7 +45928,7 @@
 <vendorCode>9786177403400</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/kazky-dlia-malechi-belkar-knyha-prominets/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>141</categoryId>
 <price>180</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29716/kazki_dlya_malechi_belkar_kniga_prominets.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -46130,7 +45946,29 @@
 <param name="ISBN">978-966-1694-58-2</param>
 <param name="Формат, розмір">220х168 мм</param>
 <param name="Видавництво">Белкар-книга</param></offer>
-
+<offer id="29717" available="true" in_stock="true" selling_type="r" >
+<name>Лапка-помічник Белкар-книга Оповідання. Читання по складах. Промінець</name>
+<vendorCode>9786177403332</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/lapka-pomichnyk-belkar-knyha-opovidannia-chytannia-po-skladakh-prominets/</url>
+<currencyId>UAH</currencyId>
+<categoryId>139</categoryId>
+<price>180</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/29717/lapka_pomichnik_belkar_kniga_opovidannya_chitannya_po_skladah_prominets.jpg</picture>
+<vendor>Белкар-книга</vendor>
+<description>
+<![CDATA[Лапка-помічник. Оповідання. Читання по складах. Промінець  Ця збірка для наймолодших читачів, які роблять перші кроки в читанні. Книга призначена для вироблення в дітей навичок техніки читання текстів по складах. До збірки ввійшли гумористичні оповідання і казки відомих авторів. Читаючи їх, малята навчаться бути ввічливими, добрими, працелюбними, поважати друзів, захищати менших, допомагати старшим, не ображати тварин.  Для дітей дошкільного віку.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">збірка авторів</param>
+<param name="Мова">українська</param>
+<param name="Вік">4-7 років</param>
+<param name="Тип">книга</param>
+<param name="Серія">Промінець</param>
+<param name="Кількість сторінок">48</param>
+<param name="Тип паперу">кольоровий, крейдований</param>
+<param name="Тип обкладинки">тверда</param>
+<param name="ISBN">978-617-7403-33-2</param>
+<param name="Формат, розмір">220х168 мм</param>
+<param name="Видавництво">Белкар-книга</param></offer>
 <offer id="29718" available="true" in_stock="true" selling_type="r" >
 <name>Цікавинки про тваринок Белкар-книга Міні-енциклопедія для малят у віршах. Промінець Фролова</name>
 <vendorCode>9786177403233</vendorCode>
@@ -46154,15 +45992,81 @@
 <param name="ISBN">978-617-7403-23-3</param>
 <param name="Формат, розмір">220х168 мм</param>
 <param name="Видавництво">Белкар-книга</param></offer>
-
-
-
+<offer id="29719" available="true" in_stock="true" selling_type="r" >
+<name>Зустріч з казкою Белкар-книга Казки. Читання по складах. Промінець</name>
+<vendorCode>9786177403264</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/zustrich-z-kazkoiu-belkar-knyha-kazky-chytannia-po-skladakh-prominets/</url>
+<currencyId>UAH</currencyId>
+<categoryId>140</categoryId>
+<price>180</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/29719/zustrich_z_kazkoyu_belkar_kniga_kazki_chitannya_po_skladah_prominets.png</picture>
+<vendor>Белкар-книга</vendor>
+<description>
+<![CDATA[Зустріч з казкою. Казки. Читання по складах. Промінець  Ця збірка казок - для наймолодших читачів, які роблять перші кроки в читанні. Книга призначена для набування дітьми навичок техніки читання текстів по складах. До збірки ввійшли відомі народні та авторські казки. Читаючи їх, малята навчаться відрізняти добро від зла, здійснювати гарні вчинки, бути розумними та ввічливими.  Для дошкільнят і дітей молодшого шкільного віку.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">народні та авторські казки</param>
+<param name="Мова">українська</param>
+<param name="Вік">4-7 років</param>
+<param name="Тип">книга</param>
+<param name="Серія">Промінець</param>
+<param name="Кількість сторінок">48</param>
+<param name="Тип паперу">кольоровий, крейдований</param>
+<param name="Тип обкладинки">тверда</param>
+<param name="ISBN">978-617-7403-26-4</param>
+<param name="Формат, розмір">220х168 мм</param>
+<param name="Видавництво">Белкар-книга</param></offer>
+<offer id="29720" available="true" in_stock="true" selling_type="r" >
+<name>Хитрий півень Белкар-книга Казки, оповідання. Читання по складах. Промінець</name>
+<vendorCode>9786177403219</vendorCode>
+<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/khytryi-piven-belkar-knyha-kazky-opovidannia-chytannia-po-skladakh-prominets/</url>
+<currencyId>UAH</currencyId>
+<categoryId>139</categoryId>
+<price>180</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/29720/hitriy_piven_belkar_kniga_kazki_opovidannya_chitannya_po_skladah_prominets.png</picture>
+<vendor>Белкар-книга</vendor>
+<description>
+<![CDATA[Хитрий півень. Казки, оповідання. Читання по складах. Промінець  Ця збірка казок - для наймолодших читачів, які роблять перші кроки в читанні. Книга призначена для вироблення в дітей навичок техніки читання текстів по складах. До збірки ввійшли відомі народні та авторські казки. Читаючи їх, малята навчаться відрізняти добро від зла, здійснювати гарні вчинки - захищати менших, поважати старших.  Для дошкільнят і дітей молодшого шкільного віку.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">народні казки</param>
+<param name="Мова">українська</param>
+<param name="Вік">4-7 років</param>
+<param name="Тип">книга</param>
+<param name="Серія">Промінець</param>
+<param name="Кількість сторінок">48</param>
+<param name="Тип паперу">кольоровий, крейдований</param>
+<param name="Тип обкладинки">тверда</param>
+<param name="ISBN">978-617-7403-21-9</param>
+<param name="Формат, розмір">220х168 мм</param>
+<param name="Видавництво">Белкар-книга</param></offer>
+<offer id="29721" available="true" in_stock="true" selling_type="r" >
+<name>Друзі Белкар-книга Оповідання. Читання по складах. Промінець</name>
+<vendorCode>9789661694780</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/druzi-belkar-knyha-opovidannia-chytannia-po-skladakh-prominets/</url>
+<currencyId>UAH</currencyId>
+<categoryId>140</categoryId>
+<price>180</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/29721/druzi_belkar_kniga_opovidannya_chitannya_po_skladah_prominets.png</picture>
+<vendor>Белкар-книга</vendor>
+<description>
+<![CDATA[Друзі. Оповідання. Читання по складах. Промінець  Ця збірка оповідань - для наймолодших читачів, які роблять перші кроки в читанні. Книга призначена для оволодіння дітьми технікою читання текстів по складах. До збірки ввійшли оповідання відомих українських авторів. Читаючи їх, малята навчаться бути ввічливими, добрими, працелюбними, поважати друзів, захищати менших, допомагати старшим, не ображати тварин.  Для дітей дошкільного та молодшого шкільного віку.]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">збірка авторів</param>
+<param name="Мова">українська</param>
+<param name="Вік">4-7 років</param>
+<param name="Тип">книга</param>
+<param name="Серія">Промінець</param>
+<param name="Кількість сторінок">48</param>
+<param name="Тип паперу">кольоровий, крейдований</param>
+<param name="Тип обкладинки">тверда</param>
+<param name="ISBN">978-966-1694-78-0</param>
+<param name="Формат, розмір">220х168 мм</param>
+<param name="Видавництво">Белкар-книга</param></offer>
 <offer id="29722" available="true" in_stock="true" selling_type="r" >
 <name>Пан Коцький Белкар-книга Казки. Читання по складах. Промінець</name>
 <vendorCode>9789661694575</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/pan-kotskyi-belkar-knyha-kazky-chytannia-po-skladakh-prominets/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>140</categoryId>
 <price>180</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29722/pan_kotskiy_belkar_kniga_kazki_chitannya_po_skladah_prominets.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -46180,13 +46084,35 @@
 <param name="ISBN">978-966-1694-57-5</param>
 <param name="Формат, розмір">220х168 мм</param>
 <param name="Видавництво">Белкар-книга</param></offer>
-
+<offer id="29723" available="true" in_stock="true" selling_type="r" >
+<name>Мій друг - казка Белкар-книга Читання по складах. Промінець</name>
+<vendorCode>9789668816635</vendorCode>
+<url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/mii-druh-kazka-belkar-knyha-chytannia-po-skladakh-prominets/</url>
+<currencyId>UAH</currencyId>
+<categoryId>139</categoryId>
+<price>180</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/29723/miy_drug_kazka_belkar_kniga_chitannya_po_skladah_prominets.jpg</picture>
+<vendor>Белкар-книга</vendor>
+<description>
+<![CDATA[Мій друг - казка. Читання по складах. Промінець  Ця збірка казок - для наймолодших читачів, які роблять перші кроки в читанні. Книга призначена для вироблення в дітей навичок техніки читання текстів по складах. До збірки ввійшли відомі народні казки. Читаючи їх, малята навчаться відрізняти добро від зла, здійснювати гарні вчинки - захищати маленьких, поважати старших.  Для дітей дошкільного та молодшого шкільного віку.]]></description>
+<quantity_in_stock>99</quantity_in_stock>
+<param name="Автор">народні казки</param>
+<param name="Мова">українська</param>
+<param name="Вік">4-7 років</param>
+<param name="Тип">книга</param>
+<param name="Серія">Промінець</param>
+<param name="Кількість сторінок">48</param>
+<param name="Тип паперу">кольоровий, крейдований</param>
+<param name="Тип обкладинки">тверда</param>
+<param name="ISBN">978-966-8816-63-5</param>
+<param name="Формат, розмір">220х168 мм</param>
+<param name="Видавництво">Белкар-книга</param></offer>
 <offer id="29724" available="true" in_stock="true" selling_type="r" >
 <name>Подорож у казку Белкар-книга Казки. Читання по складах. Промінець</name>
 <vendorCode>9789668816864</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/podorozh-u-kazku-belkar-knyha-kazky-chytannia-po-skladakh-prominets/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>140</categoryId>
 <price>180</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29724/podorozh_u_kazku_belkar_kniga_kazki_chitannya_po_skladah_prominets.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -46279,7 +46205,7 @@
 <vendorCode>9789661694506</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-virshykiv-opovidan/naiharnisha-mama-belkar-knyha-kazky-prominets-sukhomlynskyi/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>140</categoryId>
 <price>180</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29729/naygarnisha_mama_belkar_kniga_kazki_prominets_suhomlinskiy.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -46302,7 +46228,7 @@
 <vendorCode>9789661694384</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytaiemo-po-skladam/myshacha-rada-belkar-knyha-ukrainski-narodni-kazky-chytannia-po-skladakh-prominets/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>140</categoryId>
 <price>180</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29730/mishacha_rada_belkar_kniga_ukra_nski_narodni_kazki_chitannya_po_skladah_prominets.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -46488,7 +46414,7 @@
 <vendorCode>9789668816499</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-virshykiv-opovidan/nezvychaini-pryhody-i-taiemnytsi-belkar-knyha-skarbnychka-shkoliara-kostetskyi/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>140</categoryId>
 <price>240</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29740/nezvichayni_prigodi_i_ta_mnitsi_belkar_kniga_skarbnichka_shkolyara_kostetskiy.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -46511,7 +46437,7 @@
 <vendorCode>9789661694445</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-virshykiv-opovidan/odynytsia-z-obmanom-belkar-knyha-piatirka-z-khvostykom-super-b-z-frykadelkamy-skarbnychka-shkoliara-nestaiko/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>140</categoryId>
 <price>336</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29741/odinitsya_z_obmanom_belkar_kniga_p_yatirka_z_hvostikom_super_b_z_frikadelkami_skarbnichka_shkolyara_nestayko.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -47034,7 +46960,7 @@
 <vendorCode>9786175241134</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/sam-udoma-torsinh-shkola-mriinykiv-lindli/</url>
 <currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
+<categoryId>141</categoryId>
 <price>48</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29822/sam_udoma_torsing_shkola_mriynikiv_lindli.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -47058,7 +46984,7 @@
 <vendorCode>9786175241110</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/sam-udoma-torsinh-khto-na-kukhni-holovnyi-lindli/</url>
 <currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
+<categoryId>141</categoryId>
 <price>48</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29823/sam_udoma_torsing_hto_na_kuhni_golovniy_lindli.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -47082,7 +47008,7 @@
 <vendorCode>9786175241141</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/sam-udoma-torsinh-potiah-nevydymka-lindli/</url>
 <currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
+<categoryId>141</categoryId>
 <price>48</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29824/sam_udoma_torsing_potyag_nevidimka_lindli.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -47106,7 +47032,7 @@
 <vendorCode>9786175241127</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/sam-udoma-torsinh-babusia-charivnytsia-lindli/</url>
 <currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
+<categoryId>141</categoryId>
 <price>48</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29825/sam_udoma_torsing_babusya_charivnitsya_lindli.jpg</picture>
 <vendor>Торсінг</vendor>
@@ -47163,7 +47089,7 @@
 <vendorCode>9789669462695</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/atlasy/1-klas-2/nush-atlas-z-konturnymy-kartamy-kartohrafiia-ya-doslidzhuiu-svit-pryrodoznavstvo-1-2-klas/</url>
 <currencyId>UAH</currencyId>
-<categoryId>14</categoryId>
+<categoryId>13</categoryId>
 <price>115</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29859/nush_atlas_z_konturnimi_kartami_kartografiya_ya_doslidzhuyu_svit_prirodoznavstvo_1_2_klas.jpg</picture>
 <vendor>Картографія</vendor>
@@ -47185,7 +47111,7 @@
 <vendorCode>1210088</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/atlasy/3-klas-2/nush-atlas-z-konturnymy-kartamy-kartohrafiia-ya-doslidzhuiu-svit-suspilstvo-istoriia-kultura-3-4-klas/</url>
 <currencyId>UAH</currencyId>
-<categoryId>16</categoryId>
+<categoryId>15</categoryId>
 <price>201</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29860/nush_atlas_z_konturnimi_kartami_kartografiya_ya_doslidzhuyu_svit_suspilstvo_istoriya_kultura_3_4_klas.jpg</picture>
 <vendor>Картографія</vendor>
@@ -47209,7 +47135,7 @@
 <vendorCode>9789669462879</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/6-klas-1/atlas-ukrainoznavstvo-5-6-klas-kartohrafiia/</url>
 <currencyId>UAH</currencyId>
-<categoryId>56</categoryId>
+<categoryId>55</categoryId>
 <price>148</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29862/atlas_ukra_noznavstvo_5_6_klas_kartografiya.jpg</picture>
 <vendor>Картографія</vendor>
@@ -47231,7 +47157,7 @@
 <vendorCode>9789669463449</vendorCode>
 <url>https://knigovan.com/serednia-ta-starsha-shkola-nush/atlasy-ta-konturni-karty/7-klas-2/atlas-ukrainoznavstvo-7-8-klas-kartohrafiia/</url>
 <currencyId>UAH</currencyId>
-<categoryId>58</categoryId>
+<categoryId>57</categoryId>
 <price>148</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/29863/atlas_ukra_noznavstvo_7_8_klas_kartografiya.jpg</picture>
 <vendor>Картографія</vendor>
@@ -57442,7 +57368,7 @@
 <vendorCode>9786177403493</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-virshykiv-opovidan/opovidky-z-babusynykh-klubochkiv-belkar-knyha-svit-kazky-n-trishch/</url>
 <currencyId>UAH</currencyId>
-<categoryId>141</categoryId>
+<categoryId>140</categoryId>
 <price>380</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31109/opovidki_z_babusinih_klubochkiv_belkar_kniga_svit_kazki_n_trishch.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -57861,7 +57787,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[Читання НУШ 3 клас. Робочий зошит Автор: Олександра Савченко Тип: Посібник Тип: Робочий зошит ISBN: 978-966-991-366-1 Рік: 2025 Палітурка: м'яка Мова: Українська Ступені освіти: Початкова школа МОН: схвалено.]]></description>
-<quantity_in_stock>97</quantity_in_stock>
+<quantity_in_stock>98</quantity_in_stock>
 <param name="Автор">Олександра Савченко</param>
 <param name="Мова">українська</param>
 <param name="Вік">3 клас</param>
@@ -58106,7 +58032,7 @@
 <vendorCode>9786177403486</vendorCode>
 <url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/zbirka-kazok/horikhy-dlia-bilochky-opovidannia-kazky-veselka-belkar-knyha-vasyl-sukhomlynskyi/</url>
 <currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
+<categoryId>140</categoryId>
 <price>170</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31188/gorihi_dlya_bilochki_opovidannya_kazki_veselka_belkar_kniga_vasil_suhomlinskiy.jpg</picture>
 <vendor>Белкар-книга</vendor>
@@ -58648,7 +58574,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[Математичний тренажер. 3 клас Посібник містить різноманітні вправи і завдання, що сприяють засвоєнню основних математичних понять, формуванню загальноосвітніх і математичних умінь та навичок.]]></description>
-<quantity_in_stock>99</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Автор">Листопад Н.П.</param>
 <param name="Предмет">Математика</param>
 <param name="Мова">українська</param>
@@ -59942,8 +59868,52 @@
 
 
 
-
-
+<offer id="31378" available="true" in_stock="true" selling_type="r" >
+<name>Казкові пригоди з англійською. Wimmelbuch 5-9 років Англійська проссто граючи Нью Тайм Юлія Іванова</name>
+<vendorCode>9786177728305</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/kazkovi-pryhody-z-anhliiskoiu-wimmelbuch-5-9-rokiv-anhliiska-prossto-hraiuchy-niu-taim-yuliia-ivanova/</url>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<price>159</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31378/kazkovi_prigodi_z_angliyskoyu_wimmelbuch_5_9_rokiv_angliyska_prossto_grayuchi_nyu_taym_yuliya_ivanova.jpg</picture>
+<vendor>Нью Тайм</vendor>
+<description>
+<![CDATA[Казкові пригоди з англійською. Wimmelbuch Юлія Іванова New Time Books  Ігрове навчання англійської дошкільнят і молодших школярів.  Що може бути приємнішим для дитини, ніж навчатися у грі? Це ж справжнє щастя для батьків спостерігати, з яким задоволенням дітлахи вивчають англійську, розглядаючи барвисті ілюстрації, знаходячи потрібні слова і малюнки, бавлячись з картками. Саме так! Навчатися через гру стає не тільки модною, а й цілком природною справою для сучасних маленьких учнів. Дивовижно красиві ілюстрації утягують дитину в чарівний світ казок і роблять перше знайомство з англійською мовою незабутньо захоплюючим. Разом з маленькими героями дитина пройде сторінками книги, розплутає результат невмілого чаклунства маленької відьмочки, виконає пошукові завдання і запам'ятає більше ніж 300 дуже корисних англійських слів. Книга може бути використана як для першого знайомства дитини з англійською, так і для більш глибоко навчання, оскільки сюжетні ілюстрації дають чудовий ґрунт для спілкування і тренування простих граматичних конструкцій. Подаруйте дитині радість ігрового вивчення англійської мови, і ви побачите, як просто вона почне її засвоювати! Для кращого результату для дошкільнят рекомендуємо купувати цю книгу разом із розробленим до неї комплектом карток.    Для учнів початкової школи рекомендуємо купувати книгу в комплекті з: картками, Робочим зошитом, а також з книгою "У королівстві англійської граматики".     Зміст книги "Казкові пригоди з англійською. Wimmelbuch":  1. Halloween Night 2. The Snow Queen 3. Ali Baba and Forty Thieves 4. The Adventures of Baron Munchausen 5. Sindbad the Sailor 6. Cinderella 7. Goldilocks and Three Bears 8. Beauty and the Beast 9. The Mitten 10. The Ugly Duckling 11. The Jungle Book 12. Puss in Boots 13. Snow White and the Seven Dwarfs 14. Aladdin and the Magic Lamp 15. Little Muck 16. Little Red Riding Hood 17. The Sleeping Beauty 18. Mary Poppins 19. The Magic Porrige Pot 20. The Onion Boy   21. Pinocchio]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Юлія Іванова, Віталій Геращенко</param>
+<param name="Мова">українська, італійський</param>
+<param name="Вік">5-9 років</param>
+<param name="Тип">Книга-вімельбух</param>
+<param name="Серія">Англійська просто граючи</param>
+<param name="Кількість сторінок">48</param>
+<param name="Рік видання">2020</param>
+<param name="Тип паперу">кольоровий, крейдований</param>
+<param name="Тип обкладинки">м&apos;яка, ламінована</param>
+<param name="ISBN">9786177728305</param>
+<param name="Формат, розмір">215х285 мм</param></offer>
+<offer id="31379" available="true" in_stock="true" selling_type="r" >
+<name>Казкові пригоди з англійською. Робочий зошит 5-9 років Англійська проссто граючи Нью Тайм Юлія Іванова</name>
+<vendorCode>9786177728329</vendorCode>
+<url>https://knigovan.com/pochatkova-shkola-nush/inozemni-movy-1-4-klasy/kazkovi-pryhody-z-anhliiskoiu-robochyi-zoshyt-5-9-rokiv-anhliiska-prossto-hraiuchy-niu-taim-yuliia-ivanova/</url>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<price>125</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/31379/kazkovi_prigodi_z_angliyskoyu_robochiy_zoshit_5_9_rokiv_angliyska_prossto_grayuchi_nyu_taym_yuliya_ivanova.jpg</picture>
+<vendor>Нью Тайм</vendor>
+<description>
+<![CDATA[Казкові пригоди з англійською. Робочий зошит Юлія Іванова New Time Books  Немає нічого кращого, ніж навчатися із задоволенням!  Цей робочий зошит призначений для кращого запам’ятовування слів з книги "Казкові пригоди з англійською. Wimmelbuch". Завдяки веселим завданням дитина з цікавістю буде засвоювати нові слова, навчиться простих граматичних конструкцій, навчиться будувати прості фрази англійською і розвине найпростіші навички усного мовлення. Перетворіть навчання дитини на веселу гру!  Склад книги "Казкові пригоди з англійською. Робочий зошит":  1. Halloween Night 2. The Snow Queen 3. Ali Baba and Forty Thieves 4. The Adventures of Baron Munchausen 5. Sindbad the Sailor 6. Cinderella 7. Goldilocks and Three Bears 8. Beauty and the Beast 9. The Mitten 10. The Ugly Duckling 11. The Jungle Book 12. Puss in Boots 13. Snow White and the Seven Dwarfs 14. Aladdin and the Magic Lamp 15. Little Muck 16. Little Red Riding Hood 17. The Sleeping Beauty 18. Mary Poppins 19. The Magic Porrige Pot 20. The Onion Boy 21. Pinocchio Відповіді]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Юлія Іванова</param>
+<param name="Мова">українська, італійський</param>
+<param name="Вік">5-9 років</param>
+<param name="Тип">Робочий зошит</param>
+<param name="Серія">Англійська просто граючи</param>
+<param name="Кількість сторінок">88</param>
+<param name="Рік видання">2020</param>
+<param name="Тип паперу">чорно-біла</param>
+<param name="Тип обкладинки">м&apos;яка, ламінована</param>
+<param name="ISBN">9786177728329</param>
+<param name="Формат, розмір">215х285 мм</param></offer>
 
 
 
@@ -61467,7 +61437,7 @@
 <vendorCode>9786170043726</vendorCode>
 <url>https://knigovan.com/doshkilne-navchannia-nush/navchannia-hramoty-matematyka/chytannia/khrestomatiia-dlia-chytannia-tvory-dlia-ditei-osnova-dlia-ditei-3-6-rokiv/</url>
 <currencyId>UAH</currencyId>
-<categoryId>139</categoryId>
+<categoryId>138</categoryId>
 <price>290</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31542/hrestomatiya_dlya_chitannya_tvori_dlya_ditey_osnova_dlya_ditey_3_6_rokiv.jpg</picture>
 <vendor>Основа</vendor>
@@ -63394,7 +63364,7 @@
 <vendorCode>1210150</vendorCode>
 <url>https://knigovan.com/pochatkova-shkola-nush/dodatkova-literatura-1-4-klas/komplekt-velykyi-trenazher-ula-matematyka-1-4-klasy-zadachi-tablytsia-mnozhennia-i-dilennia-dodavannia-i-vidnimannia-bahatotsyfrovykh-chysel/</url>
 <currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
+<categoryId>11</categoryId>
 <price>240</price>
 <picture>https://knigovan.com/image/catalog/unixml/54/31652/komplekt_velikiy_trenazher_ula_matematika_1_4_klasi_zadachi_tablitsya_mnozhennya_i_dilennya_dodavannya_i_vidnimannya_bagatotsifrovih_chisel.jpg</picture>
 <vendor>УЛА</vendor>
@@ -68492,30 +68462,7 @@
 <param name="ISBN">978-617-544-493-1</param>
 <param name="Формат, розмір">210×300 см</param>
 <param name="Видавництво">Ула</param></offer>
-<offer id="31949" available="true" in_stock="true" selling_type="r" >
-<name>Адвент-календар УЛА Янголятко із завданнями на кожен день грудня. Лист святому Миколаю, плакат-календар, 230 наліпок</name>
-<vendorCode>9786175444535</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/advent-kalendar-ula-yanholiatko-iz-zavdanniamy-na-kozhen-den-hrudnia-lyst-sviatomu-mykolaiu-plakat-kalendar-230-nalipok/</url>
-<currencyId>UAH</currencyId>
-<categoryId>28</categoryId>
-<price>150</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/31949/advent_kalendar_ula_yangolyatko_iz_zavdannyami_na_kozhen_den_grudnya_list_svyatomu_mikolayu_plakat_kalendar_230_nalipok.jpg</picture>
-<vendor>УЛА</vendor>
-<description>
-<![CDATA[Адвент-календар – Янголятко із завданнями на кожен день грудня. Лист святому Миколаю, плакат-календар, 230 наліпок. Разом із цією книжкою малюк підготується до зимових свят та проведе час в очікуванні Нового року цікаво та з користю. Видання містить великий плакат-календар на грудень, творчі й розвивальні завдання на кожен день місяця, 230 яскравих наліпок для виконання завдань і заповнення календаря, а також лист святому Миколаю та лист для планів на наступний рік.    Видання призначене для спільної роботи дорослих з дітьми дошкільного та молодшого шкільного віку.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Смирнова К. В.</param>
-<param name="Мова">українська</param>
-<param name="Вік">дошкiльний, молодший шкільний</param>
-<param name="Тип">Розвиваючi книги</param>
-<param name="Серія">Адвент-календар</param>
-<param name="Кількість сторінок">32</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-617-544-453-5</param>
-<param name="Формат, розмір">200×280 см</param>
-<param name="Видавництво">Ула</param></offer>
+
 
 <offer id="31951" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Робочий зошит Ранок Біологія 8 клас до підручника Тагліної та ін. (2025 рік)</name>
@@ -69203,78 +69150,9 @@
 <param name="ISBN">9786170041036</param>
 <param name="Формат, розмір">209х145 мм</param>
 <param name="Видавництво">Основа</param></offer>
-<offer id="32004" available="true" in_stock="true" selling_type="r" >
-<name>Маленькі історії по складах Торсінг Найкращий подарунок (Тетяна Клапчук)</name>
-<vendorCode>9786175244340</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/malenki-istorii-po-skladakh-torsinh-naikrashchyi-podarunok-tetiana-klapchuk/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>41</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/32004/malenki_istori_po_skladah_torsing_naykrashchiy_podarunok_tetyana_klapchuk.jpg</picture>
-<vendor>Торсінг</vendor>
-<description>
-<![CDATA[Маленькі історії по складах. Найкращий подарунок  Книга призначена для формування й вдосконалення навичок читання по складах як важливого компонента мовленнєвого розвитку дітей. Невеликі за обсягом тексти, герої яких потрапляють у цікаві пригоди, спонукатимуть до розвитку пізнавального та читацького інтересу малюків. А виховний зміст історій сприятиме виявленню моральних якостей маленьких читачів.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Клапчук Тетяна</param>
-<param name="Мова">українська</param>
-<param name="Вік">5-7 років</param>
-<param name="Тип">книга для читання</param>
-<param name="Серія">Маленькі історії по складах</param>
-<param name="Кількість сторінок">12</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-617-524-434-0</param>
-<param name="Формат, розмір">225x225 мм</param>
-<param name="Видавництво">Торсiнг</param></offer>
-<offer id="32005" available="true" in_stock="true" selling_type="r" >
-<name>Маленькі історії по складах Торсінг Горішки для друзів (Тетяна Клапчук)</name>
-<vendorCode>9786175244333</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/malenki-istorii-po-skladakh-torsinh-horishky-dlia-druziv-tetiana-klapchuk/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>41</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/32005/malenki_istori_po_skladah_torsing_gorishki_dlya_druziv_tetyana_klapchuk.jpg</picture>
-<vendor>Торсінг</vendor>
-<description>
-<![CDATA[Маленькі історії по складах. Горішки для друзів  Книга призначена для формування й вдосконалення навичок читання по складах як важливого компонента мовленнєвого розвитку дітей. Невеликі за обсягом тексти, герої яких потрапляють у цікаві пригоди, спонукатимуть до розвитку пізнавального та читацького інтересу малюків. А виховний зміст історій сприятиме виявленню моральних якостей маленьких читачів.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Клапчук Тетяна</param>
-<param name="Мова">українська</param>
-<param name="Вік">5-7 років</param>
-<param name="Тип">книга для читання</param>
-<param name="Серія">Маленькі історії по складах</param>
-<param name="Кількість сторінок">12</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-617-524-433-3</param>
-<param name="Формат, розмір">225x225 мм</param>
-<param name="Видавництво">Торсiнг</param></offer>
-<offer id="32006" available="true" in_stock="true" selling_type="r" >
-<name>Маленькі історії по складах Торсінг Гойдалка для друга (Тетяна Клапчук)</name>
-<vendorCode>9786175244357</vendorCode>
-<url>https://knigovan.com/pochatkova-shkola-nush/posibnyky-ta-robochi-zoshyty/malenki-istorii-po-skladakh-torsinh-hoidalka-dlia-druha-tetiana-klapchuk/</url>
-<currencyId>UAH</currencyId>
-<categoryId>8</categoryId>
-<price>41</price>
-<picture>https://knigovan.com/image/catalog/unixml/54/32006/malenki_istori_po_skladah_torsing_goydalka_dlya_druga_tetyana_klapchuk.jpg</picture>
-<vendor>Торсінг</vendor>
-<description>
-<![CDATA[Маленькі історії по складах. Гойдалка для друга  Книга призначена для формування й вдосконалення навичок читання по складах як важливого компонента мовленнєвого розвитку дітей. Невеликі за обсягом тексти, герої яких потрапляють у цікаві пригоди, спонукатимуть до розвитку пізнавального та читацького інтересу малюків. А виховний зміст історій сприятиме виявленню моральних якостей маленьких читачів.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Клапчук Тетяна</param>
-<param name="Мова">українська</param>
-<param name="Вік">5-7 років</param>
-<param name="Тип">книга для читання</param>
-<param name="Серія">Маленькі історії по складах</param>
-<param name="Кількість сторінок">12</param>
-<param name="Рік видання">2025</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">978-617-524-435-7</param>
-<param name="Формат, розмір">225x225 мм</param>
-<param name="Видавництво">Торсiнг</param></offer>
+
+
+
 
 
 
@@ -77688,7 +77566,7 @@
 <vendor>Оріон</vendor>
 <description>
 <![CDATA[Комплект: НУШ 3 клас. Математика. Навчальний посібник. У 4 частинах. Листопад Н. П.   Схвалено для використання як частина навчально-методичного комплекту до підручника «Математика. З клас» (авторка Н. П. Листопад), рекомендованого Міністерством освіти і науки України (наказ Міністерства освіти і науки України від 07.01.2025 № 22)]]></description>
-<quantity_in_stock>97</quantity_in_stock>
+<quantity_in_stock>98</quantity_in_stock>
 <param name="Автор">Листопад Н.П.</param>
 <param name="Мова">українська</param>
 <param name="Вік">3 клас</param>
@@ -77975,9 +77853,78 @@
 <param name="Тип обкладинки">м&apos;яка</param>
 <param name="ISBN">978-966-991-262-6</param>
 <param name="Видавництво">Оріон</param></offer>
-
-
-
+<offer id="32885" available="true" in_stock="true" selling_type="r" >
+<name>Виховні віршики з наліпками УЛА &quot;Безпека вдома&quot; для дітей від 3 років</name>
+<vendorCode>9786175445587</vendorCode>
+<url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/vykhovni-virshyky-z-nalipkamy-ula-bezpeka-vdoma-dlia-ditei-vid-3-rokiv/</url>
+<currencyId>UAH</currencyId>
+<categoryId>139</categoryId>
+<price>70</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/32885/vihovni_virshiki_z_nalipkami_ula_bezpeka_vdoma_dlya_ditey_vid_3_rokiv.jpg</picture>
+<vendor>УЛА</vendor>
+<description>
+<![CDATA[Виховні віршики з наліпками — Безпека вдома  Ця книжка містить віршики, завдяки яким малюк швидко вивчить правила безпеки вдома. Він дізнається, як бути обережним у ванній кімнаті та на кухні; чому не можна відчиняти двері незнайомцям, здиратися на шафи та підвіконня; як поводитися з ліками, піротехнічними забавками та побутовими засобами. До кожного віршика подані запитання для обговорення з дитиною та завдання з наліпками, що сприятимуть розвитку мовлення та дрібної моторики, а також кращому засвоєнню порушених тем.    «Виховні віршики з наліпками» — це розвиток, гра та виховання в одній книжці!]]></description>
+<quantity_in_stock>99</quantity_in_stock>
+<param name="Автор">Собчук О. С.</param>
+<param name="Мова">українська</param>
+<param name="Вік">від 3 років</param>
+<param name="Тип">Книга з наліпками</param>
+<param name="Серія">Виховні віршики з наліпками</param>
+<param name="Кількість сторінок">16</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-617-544-558-7</param>
+<param name="Формат, розмір">235х220 мм</param>
+<param name="Видавництво">Ула</param></offer>
+<offer id="32886" available="true" in_stock="true" selling_type="r" >
+<name>Виховні віршики з наліпками УЛА &quot;Ідемо в гості&quot; для дітей від 3 років</name>
+<vendorCode>9786175445594</vendorCode>
+<url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/vykhovni-virshyky-z-nalipkamy-ula-idemo-v-hosti-dlia-ditei-vid-3-rokiv/</url>
+<currencyId>UAH</currencyId>
+<categoryId>139</categoryId>
+<price>70</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/32886/vihovni_virshiki_z_nalipkami_ula_idemo_v_gosti_dlya_ditey_vid_3_rokiv.jpg</picture>
+<vendor>УЛА</vendor>
+<description>
+<![CDATA[Виховні віршики з наліпками — Ідемо в гості  Ця книжка містить віршики, завдяки яким малюк швидко вивчить правила поведінки в гостях. Він дізнається, коли доречно ходити в гості; чому слід мати охайний вигляд і бути ввічливим, як поводитися за столом і чи можна брати чужі речі без дозволу. До кожного віршика подані запитання для обговорення з дитиною та завдання з наліпками, що сприятимуть розвитку мовлення та дрібної моторики, а також кращому засвоєнню порушених тем.    «Виховні віршики з наліпками» — це розвиток, гра та виховання в одній книжці!]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Собчук О. С.</param>
+<param name="Мова">українська</param>
+<param name="Вік">від 3 років</param>
+<param name="Тип">Книга з наліпками</param>
+<param name="Серія">Виховні віршики з наліпками</param>
+<param name="Кількість сторінок">16</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-617-544-559-4</param>
+<param name="Формат, розмір">235х220 мм</param>
+<param name="Видавництво">Ула</param></offer>
+<offer id="32887" available="true" in_stock="true" selling_type="r" >
+<name>Виховні віршики з наліпками УЛА &quot;Ідемо на прогулянку&quot; для дітей від 3 років</name>
+<vendorCode>9786175445600</vendorCode>
+<url>https://knigovan.com/dozvillia-ihry/knyzhky-z-nalipkamy/vid-3-rokiv-2/vykhovni-virshyky-z-nalipkamy-ula-idemo-na-prohulianku-dlia-ditei-vid-3-rokiv/</url>
+<currencyId>UAH</currencyId>
+<categoryId>139</categoryId>
+<price>70</price>
+<picture>https://knigovan.com/image/catalog/unixml/54/32887/vihovni_virshiki_z_nalipkami_ula_idemo_na_progulyanku_dlya_ditey_vid_3_rokiv.jpg</picture>
+<vendor>УЛА</vendor>
+<description>
+<![CDATA[Виховні віршики з наліпками — Ідемо на прогулянку  Ця книжка містить віршики, завдяки яким малюк швидко вивчить правила безпеки на прогулянці. Він дізнається, як слід поводитися в парку й у лісі, як не загубитися в людних місцях, чому не можна розмовляти з незнайомцями та ходити кудись без дозволу; як уникнути небезпеки, знайшовши дивні предмети; чому не можна гратися на дорозі, на кризі та з чужими домашніми улюбленцями. До кожного віршика подані запитання для обговорення з дитиною та завдання з наліпками, що сприятимуть розвитку мовлення та дрібної моторики, а також кращому засвоєнню порушених тем.    «Виховні віршики з наліпками» — це розвиток, гра та виховання в одній книжці!]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Автор">Собчук О. С.</param>
+<param name="Мова">українська</param>
+<param name="Вік">від 3 років</param>
+<param name="Тип">Книга з наліпками</param>
+<param name="Серія">Виховні віршики з наліпками</param>
+<param name="Кількість сторінок">16</param>
+<param name="Рік видання">2026</param>
+<param name="Тип паперу">кольорова</param>
+<param name="Тип обкладинки">м&apos;яка</param>
+<param name="ISBN">978-617-544-560-0</param>
+<param name="Формат, розмір">235х220 мм</param>
+<param name="Видавництво">Ула</param></offer>
 
 
 
@@ -79538,7 +79485,7 @@
 <vendor>Ранок</vendor>
 <description>
 <![CDATA[Навчальний посібник Математика 3 клас ЗЗСО Частина 2 Скворцова, Онопрієнко 2026 рік Посібник є складником навчально-методичного комплекту з математики для 3 класу авторок Світлани Скворцової та Оксани Онопрієнко. Посібник складається з трьох частин. Кожна частина містить: тексти правил; зразки міркувань; завдання на актуалізацію опорних знань, створення проблемної ситуації та її розв’язання, первинне закріплення, формування вмінь і навичок, неперервне повторення. Навчальний матеріал поданий у цікавій та доступній формі з урахуванням психологічних особливостей сучасних третьокласників і третьокласниць. Комплект супроводжено інтерактивним електронним додатком, що дає можливість    учнівству виконати завдання до кожного уроку в режимах онлайн і офлайн, пройти тестування з автоматичною перевіркою результату до кожного розділу, унаочнити навчальний матеріал за допомогою 3D-моделей і відео; учительству — ознайомитись із методичними матеріалами.    Перейти до електронного додатка можна за QR-кодами, що розміщено безпосередньо біля тем уроків.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>99</quantity_in_stock>
 <param name="Автор">Скворцова С. О., Онопрієнко О. В.</param>
 <param name="Предмет">Математика</param>
 <param name="Мова">українська</param>
@@ -79563,7 +79510,7 @@
 <vendor>Ранок</vendor>
 <description>
 <![CDATA[Навчальний посібник Математика 3 клас ЗЗСО Частина 3 Скворцова, Онопрієнко 2026 рік Посібник є складником навчально-методичного комплекту з математики для 3 класу авторок Світлани Скворцової та Оксани Онопрієнко. Посібник складається з трьох частин. Кожна частина містить: тексти правил; зразки міркувань; завдання на актуалізацію опорних знань, створення проблемної ситуації та її розв’язання, первинне закріплення, формування вмінь і навичок, неперервне повторення. Навчальний матеріал поданий у цікавій та доступній формі з урахуванням психологічних особливостей сучасних третьокласників і третьокласниць. Комплект супроводжено інтерактивним електронним додатком, що дає можливість    учнівству виконати завдання до кожного уроку в режимах онлайн і офлайн, пройти тестування з автоматичною перевіркою результату до кожного розділу, унаочнити навчальний матеріал за допомогою 3D-моделей і відео; учительству — ознайомитись із методичними матеріалами.    Перейти до електронного додатка можна за QR-кодами, що розміщено безпосередньо біля тем уроків.]]></description>
-<quantity_in_stock>99</quantity_in_stock>
+<quantity_in_stock>98</quantity_in_stock>
 <param name="Автор">Скворцова С. О., Онопрієнко О. В.</param>
 <param name="Предмет">Математика</param>
 <param name="Мова">українська</param>
@@ -82374,30 +82321,7 @@
 <param name="ISBN">9786177922246</param>
 <param name="Формат, розмір">84х108/16</param>
 <param name="Видавництво">Абетка</param></offer>
-<offer id="33241" available="true" in_stock="true" selling_type="r" >
-<name>НУШ Діагностичні роботи Абетка Фізика 7 клас Василь Гайда, Назар Кравчук</name>
-<vendorCode>9786177922185</vendorCode>
-<url>https://knigovan.com/serednia-ta-starsha-shkola-nush/robochi-zoshyty-ta-posibnyky/7-klas-1/nush-diahnostychni-roboty-abetka-fizyka-7-klas-vasyl-haida-nazar-kravchuk/</url>
-<currencyId>UAH</currencyId>
-<categoryId>49</categoryId>
-<price>120</price>
-<picture>https://knigovan.com/image/catalog/products/33241/nush-d-agnostichn-roboti-abetka-f-zika-7-klas-vasil-gayda-nazar-kravchuk-1.jpeg</picture>
-<vendor>Абетка</vendor>
-<description>
-<![CDATA[Фізика. Діагностичні роботи. 7 клас. Василь Гайда, Назар Кравчук Посібник містить 5 діагностичних тематичних робіт для перевірки рівня навчальних досягнень учнів, матеріали для підготовки до цих робіт, 2 контрольні роботи відповідно за перший і другий семестри та контрольну роботу за навчальний рік. Посібник відповідає модельній навчальній програмі «Фізика. 7–9 класи» для закладів загальної середньої освіти (автори: Головко М. В., Засєкін Д. О., Засєкіна Т. М. та ін.) та модельній навчальній програмі «Фізика. 7–9 класи» для закладів загальної середньої освіти (автори: Кремінський Б. Г., Гельфгат І. М., Божинова Ф. Я. та ін.). Формат робіт дозволяє учням поступово готуватися до державної підсумкової атестації та зовнішнього незалежного оцінювання.  Для учнів 7-х класів НУШ закладів загальної середньої освіти, вчителів, методистів з фізики.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Автор">Василь Гайда, Назар Кравчук</param>
-<param name="Предмет">Фізика</param>
-<param name="Мова">українська</param>
-<param name="Вік">7 клас</param>
-<param name="Тип">Діагностичні роботи</param>
-<param name="Серія">Нова українська школа (НУШ)</param>
-<param name="Кількість сторінок">48</param>
-<param name="Тип паперу">офсет, чорно-біла</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786177922185</param>
-<param name="Формат, розмір">84х108/16</param>
-<param name="Видавництво">Абетка</param></offer>
+
 <offer id="33242" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Діагностичні роботи Абетка Геометрія 8 клас Олександр Істер</name>
 <vendorCode>9786175394052</vendorCode>
@@ -87535,30 +87459,7 @@
 <param name="ISBN">9789660745261</param>
 <param name="Формат, розмір">А4(200*260мм)</param>
 <param name="Видавництво">Підручники і посібники</param></offer>
-<offer id="33562" available="true" in_stock="true" selling_type="r" >
-<name>Комплект Матусина бібліотечка Основа: Мія вимовляє перші звуки та слова, Мія складає перші речення, Наталія Бірченко</name>
-<vendorCode>1210242</vendorCode>
-<url>https://knigovan.com/khudozhnia-literatura-ta-entsyklopedii/khudozhnia-literatura/knyzhky-dlia-maliukiv/komplekt-matusyna-bibliotechka-osnova-miia-vymovliaie-pershi-zvuky-ta-slova-miia-skladaie-pershi-rechennia-nataliia-birchenko/</url>
-<currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
-<price>270</price>
-<picture>https://knigovan.com/image/catalog/products/33562/m-ya-vimovlya-persh-zvuki-0-osnova-matusina-b-bl-otechka-natal-ya-b-rchenko-1.jpg</picture>
-<vendor>Основа</vendor>
-<description>
-<![CDATA[Комплект: Мія вимовляє перші звуки та слова, Мія складає перші речення, Наталія Бірченко. Серія: Матусина бібліотечка. До комплекту входить:  1. Мія вимовляє перші звуки. 0+  «Мія вимовляє перші звуки» — книжка для малюків з перших місяців життя! Цю збірку римованих звуконаслідувань створено, щоб допомогти батькам на першому етапі розвитку мовлення дитини. Легкі, короткі примовки навчать малюка наслідувати звуки живої природи і предметів, перетворюючи розвиток на веселу гру. Що ви знайдете в книжці?    Легкі для запам’ятовування римовані тексти, які допоможуть вашій дитині зробити перші кроки до опанування мовлення. Звуки живої природи та предметів з оточення дитини: «Няв-няв», «Біп-біп», «Гав-гав» — для формування навичок звуконаслідування. Яскраві ілюстрації для зацікавлення дитини спільним читанням змалку.    Головна мета книжки — стимулювати розвиток мовлення, артикуляції, слухового сприйняття та уваги малюка. Ця книжка подарує чудові миті спільного читання, гри та спілкування. Нехай їх буде якнайбільше!  2. Мія вимовляє перші слова. 1+  «Мія вимовляє перші слова» — книжка для малюків другого року життя. Цю збірку створено, щоб допомогти батькам на початковому етапі розвитку мовлення дитини. Чудово ілюстровані тексти навчать малюка наслідувати перші слова й навіть спілкуватися та взаємодіяти із найближчим оточенням, перетворюючи розвиток на веселу гру. Що ви знайдете в книжці? Коротенькі, легкі для сприймання тексти, які допоможуть вашій дитині зробити перші кроки до опанування мовлення, сприятимуть розвитку мовленнєвої уваги й пам’яті, формуванню первинних комунікативних навичок та уявлення про навколишній світ, отже — розвитку дитячої особистості. Яскраві ілюстрації для зацікавлення малюка спільним читанням. Книжку можна брати із собою всюди! Це видання подарує чудові миті спільного читання, гри та спілкування. Нехай їх буде якнайбільше!  3. Мія складає Перші речення. 2+  «Мія складає перші речення» — книжка для малюків третього року життя. Цю збірку створено, щоб допомогти батькам на початковому етапі розвитку мовлення дитини. Чудово ілюстровані тексти навчать малюка наслідувати й складати перші речення, спілкуватися та взаємодіяти із найближчим оточенням. Що ви знайдете в книжці? Коротенькі, легкі для сприймання тексти, які допоможуть вашій дитині зробити перші кроки до опанування мовлення, сприятимуть розвитку мовленнєвої уваги й пам’яті, формуванню первинних комунікативних навичок та уявлення про навколишній світ, отже — розвитку дитячої особистості. Яскраві ілюстрації для зацікавлення малюка спільним читанням. Книжку можна брати із собою всюди! Це видання подарує чудові миті спільного читання, гри та спілкування. Нехай їх буде якнайбільше!]]></description>
-<quantity_in_stock>5</quantity_in_stock>
-<param name="Автор">Наталія Бірченко</param>
-<param name="Мова">українська</param>
-<param name="Вік">0+</param>
-<param name="Тип">комплект книг</param>
-<param name="Серія">Матусина бібліотечка</param>
-<param name="Кількість сторінок">48+48+48</param>
-<param name="Рік видання">2026</param>
-<param name="Тип паперу">кольорова</param>
-<param name="Тип обкладинки">м&apos;яка</param>
-<param name="ISBN">9786170045164, 9786170045171, 9786170045188</param>
-<param name="Формат, розмір">168х166 мм</param>
-<param name="Видавництво">Основа</param></offer>
+
 
 <offer id="33564" available="true" in_stock="true" selling_type="r" >
 <name>НУШ Комплект Оріон: Самостійні та контрольні роботи Алгебра + Геометрія 7 клас, Ніна Тарасенкова</name>
